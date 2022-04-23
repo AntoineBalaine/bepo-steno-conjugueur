@@ -1,4 +1,5 @@
-import verbesPremierGroupe from "./premierGroupeInfinitif.json";
+import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupeInfinitif.json";
+const STENOORDER = "S B K P M T F * R N L Y O E A U É I l n $ D C #".split(" ");
 type modesNames =
   | "infinitif"
   | "indicatif"
@@ -211,8 +212,8 @@ const buildJSONkvFromRadicalAndTermination = (
   terminaisonEtFrappe: TerminaisonEtFrappes
 ) => {
   const value = radicalVerbe + terminaisonEtFrappe.terminaison;
-  const keys = terminaisonEtFrappe.frappes.map(
-    (frappe) => radicalFrappe + frappe
+  const keys = terminaisonEtFrappe.frappes.map((frappe) =>
+    fixSténoOrder(radicalFrappe + frappe)
   );
   return keys.map((key) => `\"${key}\":\"${value}\"`);
 };
@@ -304,4 +305,53 @@ export const trouveCasParticulier = (
   return radical;
 };
 
-//console.log(modifRadicalEnY("appuy", "subjonctif", "imparfait", 1));
+export const fixSténoOrder = (stroke: string): string => {
+  const syllables = stroke.split("/");
+  let fixedSyllables = syllables
+    .map((syllable) => {
+      if (!respectsSténoOrder(syllable)) {
+        return breakSyllableToRespectStenoOrder(syllable);
+      } else {
+        return syllable;
+      }
+    })
+    .join("/");
+  if (fixedSyllables.slice(-1) === "/") {
+    fixedSyllables = fixedSyllables.substring(0, fixedSyllables.length - 1);
+  }
+  /*
+    tous les EU suivis d'un / peuvent être remplacés
+  */
+  return fixedSyllables;
+};
+
+export const respectsSténoOrder = (syllable: string) => {
+  //repeated chars
+  //iterate all chars, if indexof(char)!==index, return false
+
+  if (new Set(syllable.split("")).size !== syllable.length) return false;
+
+  for (let i = 1; i < syllable.length; i++) {
+    const letterIndex = STENOORDER.findIndex((l) => l === syllable[i]);
+    const previousLettersInOrder = STENOORDER.slice(0, letterIndex + 1);
+    if (!previousLettersInOrder.includes(syllable.charAt(i - 1))) return false;
+  }
+
+  return true;
+};
+
+export const breakSyllableToRespectStenoOrder = (syllable: string): string => {
+  const syllableArray = syllable.split("");
+  let newSyllables: string[] = [];
+
+  for (let i = 1; i < syllableArray.length; i++) {
+    const letterIndex = STENOORDER.findIndex((l) => l === syllableArray[i]);
+    const previousLettersInOrder = STENOORDER.slice(0, letterIndex);
+    if (!previousLettersInOrder.includes(syllableArray[i - 1])) {
+      newSyllables.push(syllableArray.splice(0, i).join(""));
+      i = 0;
+    }
+  }
+  newSyllables.push(syllableArray.join(""));
+  return newSyllables.join("/");
+};

@@ -4,9 +4,12 @@ import {
   premierGroupeBuilder,
   trouveCasParticulier,
   premierGroupeConstruitFrappes,
+  respectsSténoOrder,
+  breakSyllableToRespectStenoOrder,
+  fixSténoOrder,
 } from "../src/createurConjugaison";
 
-describe("verbes du premier groupe", () => {
+/* describe("verbes du premier groupe", () => {
   const conjAimer = premierGroupeBuilder("aimer", groupes.premierGroupe);
   it("monte la conjugaison à l'indicatif", () => {
     expect(
@@ -20,9 +23,30 @@ describe("verbes du premier groupe", () => {
     groupes.premierGroupe
   );
   expect(frappesAimer).toEqual("");
+}); */
+
+describe("répare l'ordre sténo", () => {
+  it("trouve si l'ordre sténo n'est pas respecté", () => {
+    expect(respectsSténoOrder("SBKPMT")).toBeTruthy;
+    expect(respectsSténoOrder("BKMPST")).toBeFalsy;
+    expect(respectsSténoOrder("BB")).toBeFalsy;
+    expect(respectsSténoOrder("A/P*O/RRE")).toBeFalsy;
+  });
+  it("divise une syllable irrespectueuse en plusieurs syllabes respectueuses", () => {
+    expect(breakSyllableToRespectStenoOrder("SBKPMT")).toEqual("SBKPMT");
+    expect(breakSyllableToRespectStenoOrder("BKMPST")).toEqual("BKM/P/ST");
+    expect(breakSyllableToRespectStenoOrder("BKMPST")).not.toEqual("BKMP/ST");
+    expect(breakSyllableToRespectStenoOrder("RRE")).toEqual("R/RE");
+  });
+  it("répare l'ordre sténo pour chaque frappe", () => {
+    expect(fixSténoOrder("A/F*A/LI/S*E")).toEqual("A/F*A/LI/S*E");
+    expect(fixSténoOrder("A/FS*A/LI/S*E")).not.toEqual("A/FS*A/LI/S*E");
+    expect(fixSténoOrder("A/NE$/TE/S*YYOn")).toEqual("A/NE$/TE/S*Y/YOn");
+    expect(fixSténoOrder("A/P*O/RRE")).toEqual("A/P*O/R/RE");
+  });
 });
 
-describe("prise en compte des cas particuliers", () => {
+/* describe("prise en compte des cas particuliers", () => {
   it("devrait créer les cédilles pour les verbes à radicaux terminant en c", () => {
     expect(trouveCasParticulier("plac", "indicatif", "présent", 3)).toEqual(
       "plaç"
@@ -86,3 +110,4 @@ describe("prise en compte des cas particuliers", () => {
     //expect(trouveCasParticulier("appuy", "indicatif",  "présent", 1)).toEqual("appuy");
   });
 });
+ */

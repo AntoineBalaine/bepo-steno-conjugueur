@@ -7,7 +7,7 @@
         "singulierDeuxieme": { "frappes": ["É$"], "terminaison": "es" },
         "singulierTroisieme": { "frappes": [""], "terminaison": "e" },
         "plurielPremiere": { "frappes": ["On"], "terminaison": "ons" },
-        "plurielDeuxieme": { "frappes": ["E/*SÉ"], "terminaison": "ez" },
+        "plurielDeuxieme": { "frappes": ["E/*É$"], "terminaison": "ez" },
         "plurielTroisieme": { "frappes": ["ÉD", "ÉnD"], "terminaison": "ent" }
       },
       "imparfait": {
@@ -94,7 +94,7 @@
       "présent": {
         "singulierDeuxieme": { "frappes": [""], "terminaison": "e" },
         "plurielPremiere": { "frappes": ["On"], "terminaison": "ons" },
-        "plurielDeuxieme": { "frappes": ["E/*SÉ"], "terminaison": "ez" }
+        "plurielDeuxieme": { "frappes": ["E/*É$"], "terminaison": "ez" }
       }
     },
     "participe": {

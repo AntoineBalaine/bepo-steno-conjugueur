@@ -5,15 +5,18 @@
   "main": "./dist/createurConjugaison.js",
   "scripts": {
     "test": "jest",
-    "start": "tsc -watch --resolveJsonModule --sourcemap && node dist/createurConjugaison.js"
+    "start": "tsc -watch --resolveJsonModule --sourcemap && node dist/createurConjugaison.js",
+    "buildDict": "npx ts-node src/génèreConjugaisons.ts",
+    "buildPartialDict": "npx ts-node src/génèreConjugaisonsPartielles.ts",
+    "buildAbhorrer": "npx ts-node src/génèreAbhorrer.ts"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/jest": "^27.0.3",
+    "@types/jest": "^27.4.1",
     "@types/node": "^16.11.12",
-    "jest": "^27.4.4",
-    "ts-jest": "^27.1.1",
+    "jest": "^27.5.1",
+    "ts-jest": "^27.1.4",
     "tslint": "^5.12.1",
     "typescript": "^4.6.3"
   },

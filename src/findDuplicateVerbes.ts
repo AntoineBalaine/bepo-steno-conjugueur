@@ -1,5 +1,5 @@
-import frappesPremierGroupe from "./premierGroupeInfinitif.json";
-import listVerbesPremierGroupe from "./premierGroupeInfinitif2.json";
+import frappesPremierGroupe from "./jsonAssets/frappesPremierGroupeInfinitif.json";
+import listVerbesPremierGroupe from "./jsonAssets/premierGroupeInfinitif2.json";
 import fs from "fs";
 const sansFrappe = listVerbesPremierGroupe;
 
