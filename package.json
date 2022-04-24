@@ -6,8 +6,8 @@
   "scripts": {
     "test": "jest",
     "start": "tsc -watch --resolveJsonModule --sourcemap && node dist/createurConjugaison.js",
-    "buildDict": "npx ts-node src/génèreConjugaisons.ts",
-    "buildPartialDict": "npx ts-node src/génèreConjugaisonsPartielles.ts",
+    "buildDict": "npx ts-node src/buildDictGénèreConjugaisons.ts",
+    "buildPartialDict": "npx ts-node src/buildDictGénèreConjugaisonsPartielles.ts",
     "buildAbhorrer": "npx ts-node src/génèreAbhorrer.ts"
   },
   "author": "",

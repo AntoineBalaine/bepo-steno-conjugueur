@@ -2,13 +2,13 @@ import groupes from "../src/modèleTerminaisons.json";
 import modèleConjugaisonAimer from "./modèleAimer.json";
 import {
   premierGroupeBuilder,
-  trouveCasParticulier,
   premierGroupeConstruitFrappes,
   respectsSténoOrder,
   breakSyllableToRespectStenoOrder,
   fixSténoOrder,
-  collapseStrokesWhenPossible,
+  collapseStrokesWhenPossible, modesNames, timesNames,
 } from "../src/createurConjugaison";
+import {trouveCasParticulier} from "../src/casParticuliers";
 
 /* describe("verbes du premier groupe", () => {
   const conjAimer = premierGroupeBuilder("aimer", groupes.premierGroupe);
@@ -52,68 +52,69 @@ describe("répare l'ordre sténo", () => {
   });
 });
 
-/* describe("prise en compte des cas particuliers", () => {
+describe("prise en compte des cas particuliers", () => {
   it("devrait créer les cédilles pour les verbes à radicaux terminant en c", () => {
-    expect(trouveCasParticulier("plac", "indicatif", "présent", 3)).toEqual(
+    expect(trouveCasParticulier("plac", "indicatif" as modesNames, "présent" as timesNames, 3)).toEqual(
       "plaç"
     );
-    expect(trouveCasParticulier("plac", "indicatif", "imparfait", 1)).toEqual(
+    expect(trouveCasParticulier("plac", "indicatif" as modesNames, "imparfait" as timesNames, 1)).toEqual(
       "plaç"
     );
-    expect(trouveCasParticulier("plac", "indicatif", "passéSimple", 1)).toEqual(
+    expect(trouveCasParticulier("plac", "indicatif" as modesNames, "passéSimple" as timesNames, 1)).toEqual(
       "plaç"
     );
     //cas faux=>
-    expect(trouveCasParticulier("plac", "indicatif", "passéSimple", 5)).toEqual(
+    expect(trouveCasParticulier("plac", "indicatif" as modesNames, "passéSimple" as timesNames, 5)).toEqual(
       "plac"
     );
-    expect(trouveCasParticulier("plac", "subjonctif", "imparfait", 1)).toEqual(
+    expect(trouveCasParticulier("plac", "subjonctif" as modesNames, "imparfait" as timesNames, 1)).toEqual(
       "plaç"
     );
-    expect(trouveCasParticulier("plac", "impératif", "présent", 3)).toEqual(
+    expect(trouveCasParticulier("plac", "impératif" as modesNames, "présent" as timesNames, 3)).toEqual(
       "plaç"
     );
-    expect(trouveCasParticulier("plac", "participe", "présent", 0)).toEqual(
+    expect(trouveCasParticulier("plac", "participe" as modesNames, "présent" as timesNames, 0)).toEqual(
       "plaç"
     );
-    expect(trouveCasParticulier("plac", "gérondif", "présent", 0)).toEqual(
+    expect(trouveCasParticulier("plac", "gérondif" as modesNames, "présent" as timesNames, 0)).toEqual(
       "plaç"
     );
   });
 
   it("devrait créer les cédilles pour les verbes à radicaux terminant en g", () => {
-    expect(trouveCasParticulier("mang", "indicatif", "présent", 3)).toEqual(
+    expect(trouveCasParticulier("mang", "indicatif" as modesNames, "présent" as timesNames, 3)).toEqual(
       "mange"
     );
-    expect(trouveCasParticulier("mang", "indicatif", "imparfait", 1)).toEqual(
+    expect(trouveCasParticulier("mang", "indicatif" as modesNames, "imparfait" as timesNames, 1)).toEqual(
       "mange"
     );
-    expect(trouveCasParticulier("mang", "indicatif", "imparfait", 5)).toEqual(
+    expect(trouveCasParticulier("mang", "indicatif" as modesNames, "imparfait" as timesNames, 5)).toEqual(
       "mange"
     );
-    expect(trouveCasParticulier("mang", "indicatif", "passéSimple", 1)).toEqual(
+    expect(trouveCasParticulier("mang", "indicatif" as modesNames, "passéSimple" as timesNames, 1)).toEqual(
       "mange"
     );
     //Cas faux=>
-    expect(trouveCasParticulier("mang", "indicatif", "passéSimple", 5)).toEqual(
+    expect(trouveCasParticulier("mang", "indicatif" as modesNames, "passéSimple" as timesNames, 5)).toEqual(
       "mang"
     );
-    expect(trouveCasParticulier("mang", "subjonctif", "imparfait", 1)).toEqual(
+    expect(trouveCasParticulier("mang", "subjonctif" as modesNames, "imparfait" as timesNames, 1)).toEqual(
       "mange"
     );
-    expect(trouveCasParticulier("mang", "impératif", "présent", 3)).toEqual(
+    expect(trouveCasParticulier("mang", "impératif" as modesNames, "présent" as timesNames, 3)).toEqual(
       "mange"
     );
-    expect(trouveCasParticulier("mang", "participe", "présent", 0)).toEqual(
+    expect(trouveCasParticulier("mang", "participe" as modesNames, "présent" as timesNames, 0)).toEqual(
       "mange"
     );
-    expect(trouveCasParticulier("mang", "gérondif", "présent", 0)).toEqual(
+    expect(trouveCasParticulier("mang", "gérondif" as modesNames, "présent" as timesNames, 0)).toEqual(
       "mange"
     );
   });
 
-  it("devrait créer les i pour les verbes à radicaux terminant en y", () => {
-    //expect(trouveCasParticulier("appuy", "indicatif",  "présent", 1)).toEqual("appuy");
-  });
+  /*
+    it("devrait créer les i pour les verbes à radicaux terminant en y", () => {
+      //expect(trouveCasParticulier("appuy", "indicatif" as modesNames,  "présent" as timesNames, 1)).toEqual("appuy");
+    });
+  */
 });
- */

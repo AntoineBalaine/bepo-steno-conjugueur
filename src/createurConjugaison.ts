@@ -1,21 +1,26 @@
 import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupeInfinitif.json";
-const STENOORDER = "S B K P M T F * R N L Y O E A U É I l n $ D C #".split(" ");
-type modesNames =
-  | "infinitif"
-  | "indicatif"
-  | "subjonctif"
-  | "conditionnel"
-  | "impératif"
-  | "participe"
-  | "gérondif";
+import {trouveCasParticulier} from "./casParticuliers";
 
-type timesNames =
-  | "infinitif"
-  | "présent"
-  | "imparfait"
-  | "futurSimple"
-  | "passéSimple"
-  | "passé";
+const STENOORDER = "S B K P M T F * R N L Y O E A U É I l n $ D C #".split(" ");
+
+export enum modesNames {
+  infinitif = "infinitif",
+  indicatif = "indicatif",
+  subjonctif = "subjonctif",
+  conditionnel = "conditionnel",
+  impératif = "impératif",
+  participe = "participe",
+  gérondif = "gérondif"
+}
+
+export enum timesNames {
+  infinitif = "infinitif",
+  présent = "présent",
+  imparfait = "imparfait",
+  futurSimple = "futurSimple",
+  passéSimple = "passéSimple",
+  passé = "passé"
+}
 
 type personnes = {
   singulierPremiere: TerminaisonEtFrappes;
@@ -80,7 +85,7 @@ export const premierGroupeBuilder = (
   const terminaisons = Object.entries(groupe).map(([mode, tempsObj]) => {
     switch (mode) {
       case "infinitif":
-        return { infinitif: radical + groupe.infinitif.terminaison };
+        return {infinitif: radical + groupe.infinitif.terminaison};
       case "gérondif":
         return {
           [mode]: Object.entries(tempsObj).flatMap(
@@ -150,7 +155,7 @@ export const premierGroupeConstruitFrappes = (
               return buildJSONkvFromRadicalAndTermination(
                 radicalVerbe,
                 radicalFrappe,
-                terminaisonEtFrappe
+                terminaisonEtFrappe as TerminaisonEtFrappes
               );
             }
           ),
@@ -163,18 +168,27 @@ export const premierGroupeConstruitFrappes = (
                 return buildJSONkvFromRadicalAndTermination(
                   radicalVerbe,
                   radicalFrappe,
-                  personneOuTerminaisonEtFrappe
+                  personneOuTerminaisonEtFrappe as TerminaisonEtFrappes
                 );
               else
                 return {
-                  [tempsKey]: Object.values(
+                  [tempsKey]: Object.entries(
                     personneOuTerminaisonEtFrappe
-                  ).flatMap((terminaisonEtFrappe: TerminaisonEtFrappes) =>
-                    buildJSONkvFromRadicalAndTermination(
-                      radicalVerbe,
-                      radicalFrappe,
-                      terminaisonEtFrappe
-                    )
+                  ).flatMap(
+                    ([personne, terminaisonEtFrappe], personneIndex) => {
+                      let radical = trouveCasParticulier(
+                        radicalVerbe,
+                        mode as modesNames,
+                        tempsKey as timesNames,
+                        personneIndex,
+                      );
+
+                      return buildJSONkvFromRadicalAndTermination(
+                        radical,
+                        radicalFrappe,
+                        terminaisonEtFrappe as TerminaisonEtFrappes
+                      );
+                    }
                   ),
                 };
             }
@@ -183,14 +197,31 @@ export const premierGroupeConstruitFrappes = (
       default:
         return {
           [mode]: Object.entries(tempsObj).map(([tempsKey, personne]) => ({
-            [tempsKey]: Object.values(personne).flatMap(
-              (terminaisonEtFrappe: TerminaisonEtFrappes) =>
-                buildJSONkvFromRadicalAndTermination(
+            [tempsKey]: Object.entries(personne).flatMap(
+              ([personne, terminaisonEtFrappe], personneIndex) => {
+                let radical = trouveCasParticulier(
                   radicalVerbe,
+                  mode as modesNames,
+                  tempsKey as timesNames,
+                  personneIndex
+                );
+                return buildJSONkvFromRadicalAndTermination(
+                  radical,
                   radicalFrappe,
-                  terminaisonEtFrappe
-                )
+                  terminaisonEtFrappe as TerminaisonEtFrappes
+                );
+              }
             ),
+            /*
+                                    [tempsKey]: Object.values(personne).flatMap(
+                                        (terminaisonEtFrappe: TerminaisonEtFrappes) =>
+                                            buildJSONkvFromRadicalAndTermination(
+                                                radicalVerbe,
+                                                radicalFrappe,
+                                                terminaisonEtFrappe
+                                            )
+                                    ),
+            */
           })),
         };
     }
@@ -229,80 +260,6 @@ const flattenNestedObjects = (element: {} | [] | string) => {
     return flattenNestedObjects(newArray);
   }
   if (typeof element === "string") return element;
-};
-
-type radicalInfo = {
-  radical: string;
-  mode: modesNames;
-  time: timesNames;
-  personneIndex: number;
-};
-
-const modifRadicalEnCouG = (radical, mode, time, personneIndex): boolean => {
-  if (mode === "indicatif" && time === "présent" && personneIndex === 3)
-    return true;
-  if (
-    mode === "indicatif" &&
-    time === "imparfait" &&
-    (personneIndex < 3 || personneIndex === 5)
-  )
-    return true;
-  if (mode === "indicatif" && time === "passéSimple" && personneIndex !== 5)
-    return true;
-  if (mode === "impératif" && time === "présent" && personneIndex === 3)
-    return true;
-  if (mode === "subjonctif" && time === "imparfait") return true;
-  if (mode === "participe" && time === "présent") return true;
-  if (mode === "gérondif" && time === "présent") return true;
-  return false;
-};
-
-const modifRadicalEnY = (radical, mode, time, personneIndex): boolean => {
-  if (radical.slice(-1) !== "e") {
-    if (
-      mode === "indicatif" &&
-      time === "présent" &&
-      (personneIndex < 3 || personneIndex === 5)
-    )
-      return true;
-    if (mode === "indicatif" && time === "futurSimple") return true;
-    if (
-      mode === "subjonctif" &&
-      time === "présent" &&
-      (personneIndex < 3 || personneIndex === 5)
-    )
-      return true;
-    if (mode === "conditionnel" && time === "présent") return true;
-    if (mode === "impératif" && time === "présent" && personneIndex < 1)
-      return true;
-    return false;
-  }
-};
-
-export const trouveCasParticulier = (
-  radical: string,
-  mode: modesNames,
-  time: timesNames,
-  personneIndex: number
-): string => {
-  if (
-    radical.slice(-1) === "c" &&
-    modifRadicalEnCouG(radical, mode, time, personneIndex)
-  ) {
-    return radical.substring(0, radical.length - 1) + "ç";
-  }
-  if (
-    radical.slice(-1) === "g" &&
-    modifRadicalEnCouG(radical, mode, time, personneIndex)
-  ) {
-    return radical + "e";
-  }
-  /*
-    if (radical.slice(-1)==="y" && modifRadicalEnY(radical, mode, time, personneIndex)){
-        
-    }
-    */
-  return radical;
 };
 
 export const fixSténoOrder = (stroke: string): string => {
@@ -354,8 +311,7 @@ export const breakSyllableToRespectStenoOrder = (syllable: string): string => {
     }
   }
   newSyllables.push(syllableArray.join(""));
-  let concatenatedSyllables = newSyllables.join("/");
-  return concatenatedSyllables;
+  return newSyllables.join("/");
 };
 
 export const collapseStrokesWhenPossible = function (stroke: string) {
@@ -387,6 +343,5 @@ export const collapseStrokesWhenPossible = function (stroke: string) {
     }
     i = -1;
   }
-  let concatenatedSyllables = newSyllables.concat(syllables).join("/");
-  return concatenatedSyllables;
+  return newSyllables.concat(syllables).join("/");
 };
