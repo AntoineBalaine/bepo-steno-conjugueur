@@ -307,7 +307,7 @@ export const trouveCasParticulier = (
 
 export const fixSténoOrder = (stroke: string): string => {
   const syllables = stroke.split("/");
-  let fixedStroke = syllables
+  let newStroke = syllables
     .map((syllable) => {
       if (!respectsSténoOrder(syllable)) {
         return breakSyllableToRespectStenoOrder(syllable);
@@ -315,7 +315,8 @@ export const fixSténoOrder = (stroke: string): string => {
         return syllable;
       }
     })
-    .join("/");
+    .filter((n) => n);
+  let fixedStroke = newStroke.join("/");
 
   if (fixedStroke.slice(-1) === "/") {
     fixedStroke = fixedStroke.substring(0, fixedStroke.length - 1);
@@ -353,7 +354,8 @@ export const breakSyllableToRespectStenoOrder = (syllable: string): string => {
     }
   }
   newSyllables.push(syllableArray.join(""));
-  return newSyllables.join("/");
+  let concatenatedSyllables = newSyllables.join("/");
+  return concatenatedSyllables;
 };
 
 export const collapseStrokesWhenPossible = function (stroke: string) {
@@ -385,5 +387,6 @@ export const collapseStrokesWhenPossible = function (stroke: string) {
     }
     i = -1;
   }
-  return newSyllables.concat(syllables).join("/");
+  let concatenatedSyllables = newSyllables.concat(syllables).join("/");
+  return concatenatedSyllables;
 };
