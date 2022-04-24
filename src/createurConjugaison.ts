@@ -307,7 +307,7 @@ export const trouveCasParticulier = (
 
 export const fixSténoOrder = (stroke: string): string => {
   const syllables = stroke.split("/");
-  let fixedSyllables = syllables
+  let fixedStroke = syllables
     .map((syllable) => {
       if (!respectsSténoOrder(syllable)) {
         return breakSyllableToRespectStenoOrder(syllable);
@@ -316,13 +316,13 @@ export const fixSténoOrder = (stroke: string): string => {
       }
     })
     .join("/");
-  if (fixedSyllables.slice(-1) === "/") {
-    fixedSyllables = fixedSyllables.substring(0, fixedSyllables.length - 1);
+
+  if (fixedStroke.slice(-1) === "/") {
+    fixedStroke = fixedStroke.substring(0, fixedStroke.length - 1);
   }
-  /*
-    tous les EU suivis d'un / peuvent être remplacés
-  */
-  return fixedSyllables;
+  fixedStroke = collapseStrokesWhenPossible(fixedStroke);
+
+  return fixedStroke;
 };
 
 export const respectsSténoOrder = (syllable: string) => {
@@ -354,4 +354,36 @@ export const breakSyllableToRespectStenoOrder = (syllable: string): string => {
   }
   newSyllables.push(syllableArray.join(""));
   return newSyllables.join("/");
+};
+
+export const collapseStrokesWhenPossible = function (stroke: string) {
+  const syllables = stroke.split("/");
+  let newSyllables = [];
+  //if last letter of a syllable appears in the steno order priorly to the first letter of the next syllable,
+  //and they're both consonants, collapse them
+
+  for (let i = 0; i < syllables.length - 1; i++) {
+    const lastLetter = syllables[i].slice(-1);
+    const firstLetterOfNext = syllables[i + 1][0];
+    const firstLetterOfNextIndex = STENOORDER.findIndex(
+      (l) => l === firstLetterOfNext
+    );
+    const previousLettersInOrder = STENOORDER.slice(0, firstLetterOfNextIndex);
+    const consonants = "S B K P M T F * R N L l n $ D C ".split(" ");
+    if (
+      previousLettersInOrder.includes(lastLetter) &&
+      consonants.includes(lastLetter) &&
+      consonants.includes(firstLetterOfNext)
+    ) {
+      //newSyllables.push(syllables.splice())
+      //col
+      //newSyllables.push(syllables.splice(i, 2));
+      let collapsedsyllables = syllables.splice(i, 2).join("");
+      syllables.unshift(collapsedsyllables);
+    } else {
+      newSyllables.push(syllables.splice(i, 1));
+    }
+    i = -1;
+  }
+  return newSyllables.concat(syllables).join("/");
 };

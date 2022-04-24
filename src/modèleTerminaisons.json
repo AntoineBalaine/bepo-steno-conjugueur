@@ -27,14 +27,14 @@
           "terminaison": "erai"
         },
         "singulierDeuxieme": {
-          "frappes": ["EU/RAÉ$"],
+          "frappes": ["/RAÉ$"],
           "terminaison": "eras"
         },
         "singulierTroisieme": { "frappes": ["RA"], "terminaison": "era" },
-        "plurielPremiere": { "frappes": ["EU/ROn"], "terminaison": "erons" },
-        "plurielDeuxieme": { "frappes": ["EU/RE"], "terminaison": "erez" },
+        "plurielPremiere": { "frappes": ["/ROn"], "terminaison": "erons" },
+        "plurielDeuxieme": { "frappes": ["/RE"], "terminaison": "erez" },
         "plurielTroisieme": {
-          "frappes": ["EU/ROÉnD"],
+          "frappes": ["/ROÉnD"],
           "terminaison": "eront"
         }
       },
@@ -71,21 +71,21 @@
     "conditionnel": {
       "présent": {
         "singulierPremiere": {
-          "frappes": ["EU/REÉ$"],
+          "frappes": ["/REÉ$"],
           "terminaison": "erais"
         },
         "singulierDeuxieme": {
-          "frappes": ["EU/REÉ$"],
+          "frappes": ["/REÉ$"],
           "terminaison": "erais"
         },
         "singulierTroisieme": {
-          "frappes": ["EU/REÉD"],
+          "frappes": ["/REÉD"],
           "terminaison": "erait"
         },
-        "plurielPremiere": { "frappes": ["EURYOn"], "terminaison": "erions" },
+        "plurielPremiere": { "frappes": ["RYOn"], "terminaison": "erions" },
         "plurielDeuxieme": { "frappes": ["RYE"], "terminaison": "eriez" },
         "plurielTroisieme": {
-          "frappes": ["EU/REÉnD", "EU/REÉn", "EU/REÉD"],
+          "frappes": ["/REÉnD", "/REÉn", "/REÉD"],
           "terminaison": "eraient"
         }
       }

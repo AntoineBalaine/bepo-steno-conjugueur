@@ -7,6 +7,7 @@ import {
   respectsSténoOrder,
   breakSyllableToRespectStenoOrder,
   fixSténoOrder,
+  collapseStrokesWhenPossible,
 } from "../src/createurConjugaison";
 
 /* describe("verbes du premier groupe", () => {
@@ -43,6 +44,11 @@ describe("répare l'ordre sténo", () => {
     expect(fixSténoOrder("A/FS*A/LI/S*E")).not.toEqual("A/FS*A/LI/S*E");
     expect(fixSténoOrder("A/NE$/TE/S*YYOn")).toEqual("A/NE$/TE/S*Y/YOn");
     expect(fixSténoOrder("A/P*O/RRE")).toEqual("A/P*O/R/RE");
+  });
+  it("fusionne les frappes quand c'est possible", () => {
+    expect(collapseStrokesWhenPossible("S/B/K/P/M/T")).toEqual("SBKPMT");
+    expect(collapseStrokesWhenPossible("B/K/M/P/S/T")).toEqual("BKM/P/ST");
+    expect(breakSyllableToRespectStenoOrder("B/K/P/S/T")).not.toEqual("BKP/ST");
   });
 });
 

@@ -11,9 +11,9 @@ let frappesMontées = listeVerbesÀConjuguer
     const frappes = premierGroupeConstruitFrappes(cur, groupes.premierGroupe);
     return prev.concat(frappes);
   }, []);
-const json = `{ ${frappesMontées.join(",")} }`;
+const json = `{ ${frappesMontées.join(",\n")} }`;
 fs.writeFile(
-  "JsonGenerated/frappesMontéesPremierGroupePartielles.json",
+  "jsonOutput/frappesMontéesPremierGroupePartielles.json",
   json,
   () => {}
 );
