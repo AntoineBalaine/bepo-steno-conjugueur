@@ -1,7 +1,8 @@
 import fs from "fs";
 import groupes from "./modèleTerminaisons.json";
-import { premierGroupeConstruitFrappes } from "./createurConjugaison";
 import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupeInfinitif.json";
+import {premierGroupeConstruitFrappes} from "./createurPremierGroupe";
+
 const listeVerbesÀConjuguer = Object.values(verbesPremierGroupe);
 
 let frappesMontées = listeVerbesÀConjuguer
@@ -15,5 +16,6 @@ const json = `{ ${frappesMontées.join(",\n")} }`;
 fs.writeFile(
   "jsonOutput/frappesMontéesPremierGroupePartielles.json",
   json,
-  () => {}
+  () => {
+  }
 );
