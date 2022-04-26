@@ -1,78 +1,7 @@
-const STENOORDER = "S B K P M T F * R N L Y O E A U É I l n $ D C #".split(" ");
+import {Groupe, modesNames, STENOORDER, StructureGroupe, TerminaisonEtFrappes, timesNames} from "./types";
+import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupeInfinitif.json";
+import {radicalCasParticulier} from "./casParticuliers";
 
-export enum modesNames {
-  infinitif = "infinitif",
-  indicatif = "indicatif",
-  subjonctif = "subjonctif",
-  conditionnel = "conditionnel",
-  impératif = "impératif",
-  participe = "participe",
-  gérondif = "gérondif"
-}
-
-export enum timesNames {
-  infinitif = "infinitif",
-  présent = "présent",
-  imparfait = "imparfait",
-  futurSimple = "futurSimple",
-  passéSimple = "passéSimple",
-  passé = "passé"
-}
-
-export type personnes = {
-  singulierPremiere: TerminaisonEtFrappes;
-  singulierDeuxieme: TerminaisonEtFrappes;
-  singulierTroisieme: TerminaisonEtFrappes;
-  plurielPremiere: TerminaisonEtFrappes;
-  plurielDeuxieme: TerminaisonEtFrappes;
-  plurielTroisieme: TerminaisonEtFrappes;
-};
-
-export type TerminaisonEtFrappes = {
-  frappes: string[];
-  terminaison: string;
-};
-
-export type Indicatif = {
-  présent: personnes;
-  imparfait: personnes;
-  futurSimple: personnes;
-  passéSimple: personnes;
-};
-
-export type Groupes = {
-  premierGroupe: {
-    infinitif: TerminaisonEtFrappes;
-    indicatif: Indicatif;
-    subjonctif: {
-      présent: personnes;
-      imparfait: personnes;
-    };
-    conditionnel: {
-      présent: personnes;
-    };
-    impératif: {
-      présent: {
-        singulierDeuxieme: TerminaisonEtFrappes;
-        plurielPremiere: TerminaisonEtFrappes;
-        plurielDeuxieme: TerminaisonEtFrappes;
-      };
-    };
-    participe: {
-      présent: TerminaisonEtFrappes;
-      passé: {
-        singulierMasculin: TerminaisonEtFrappes;
-        plurielMasculin: TerminaisonEtFrappes;
-        singulierFéminin: TerminaisonEtFrappes;
-        plurielFéminin: TerminaisonEtFrappes;
-      };
-    };
-    gérondif: {
-      présent: TerminaisonEtFrappes;
-      passé: TerminaisonEtFrappes;
-    };
-  };
-};
 
 export const buildJSONkvFromRadicalAndTermination = (
   radicalVerbe: string,
@@ -181,4 +110,97 @@ export const collapseStrokesWhenPossible = function (stroke: string) {
     i = -1;
   }
   return newSyllables.concat(syllables).join("/");
+};
+
+export const construitFrappes = (
+  verbe: string,
+  groupeStructure: StructureGroupe,
+  groupe: Groupe
+) => {
+  let radicalVerbe = verbe.substring(0, verbe.length - 2);
+  const foundVrb = Object.entries(verbesPremierGroupe).find(
+    (verbeActuel) => verbeActuel[1] === verbe
+  );
+  if (!foundVrb) return;
+  const radicalFrappe = foundVrb[0].slice(0, -1);
+
+  const terminaisons = Object.entries(groupeStructure).map(([mode, tempsObj]) => {
+    switch (mode) {
+      case "infinitif":
+        return buildJSONkvFromRadicalAndTermination(
+          radicalCasParticulier(radicalVerbe, modesNames.infinitif, timesNames.infinitif, 0, groupe),
+          radicalFrappe,
+          groupeStructure.infinitif
+        );
+      case "gérondif":
+        return {
+          [mode]: Object.entries(tempsObj).flatMap(
+            ([tempsKey, terminaisonEtFrappe]) => {
+              return buildJSONkvFromRadicalAndTermination(
+                radicalCasParticulier(radicalVerbe, mode as modesNames, tempsKey as timesNames, 0, groupe),
+                radicalFrappe,
+                terminaisonEtFrappe as TerminaisonEtFrappes
+              );
+            }
+          ),
+        };
+      case "participe":
+        return {
+          [mode]: Object.entries(tempsObj).map(
+            ([tempsKey, personneOuTerminaisonEtFrappe]) => {
+              if (tempsKey === "présent")
+                return buildJSONkvFromRadicalAndTermination(
+                  radicalCasParticulier(radicalVerbe, mode as modesNames, tempsKey as timesNames, 0, groupe),
+                  radicalFrappe,
+                  personneOuTerminaisonEtFrappe as TerminaisonEtFrappes
+                );
+              else
+                return {
+                  [tempsKey]: Object.entries(
+                    personneOuTerminaisonEtFrappe
+                  ).flatMap(
+                    ([personne, terminaisonEtFrappe], personneIndex) => {
+                      let radical = radicalCasParticulier(
+                        radicalVerbe,
+                        mode as modesNames,
+                        tempsKey as timesNames,
+                        personneIndex,
+                        groupe
+                      );
+
+                      return buildJSONkvFromRadicalAndTermination(
+                        radical,
+                        radicalFrappe,
+                        terminaisonEtFrappe as TerminaisonEtFrappes
+                      );
+                    }
+                  ),
+                };
+            }
+          ),
+        };
+      default:
+        return {
+          [mode]: Object.entries(tempsObj).map(([tempsKey, personne]) => ({
+            [tempsKey]: Object.entries(personne).flatMap(
+              ([personne, terminaisonEtFrappe], personneIndex) => {
+                return buildJSONkvFromRadicalAndTermination(
+                  radicalCasParticulier(radicalVerbe, mode as modesNames, tempsKey as timesNames, 0, groupe),
+                  radicalFrappe,
+                  terminaisonEtFrappe as TerminaisonEtFrappes
+                );
+              }
+            ),
+          })),
+        };
+    }
+  });
+
+  return [
+    ...new Set(
+      flattenNestedObjects(terminaisons).sort((a: string, b: string) =>
+        a.localeCompare(b)
+      ) as string[]
+    ),
+  ];
 };

@@ -1,11 +1,6 @@
-import {
-  modifieRadicalCouG,
-  modifieRadicalEAtone,
-  modifieRadicalY,
-  modifieRadicalÉ,
-  trouveCasParticulier
-} from "../src/casParticuliers";
-import {modesNames, timesNames} from "../src/createurConjugaison";
+import {radicalCasParticulier} from "../src/casParticuliers";
+import {Groupe, modesNames, timesNames} from "../src/types";
+import {modifieRadicalCouG, modifieRadicalEAtone, modifieRadicalY, modifieRadicalÉ} from "../src/createurPremierGroupe";
 
 const AYERs = ["Balayer",
   "Payer",
@@ -15,6 +10,7 @@ const OYERs = ["Appuyer",
   "Aboyer",
   "Louvoyer",
 ].map(n => n.slice(0, -2));
+//quid des cas où le radical fini avec deux consonnes au lieu d'une?
 const EAtones = [
   "Soulever",
   "Peler",
@@ -31,6 +27,7 @@ const És = ["Espérer",
   "Sécher",
   "célébrer",
 ].map(n => n.slice(0, -2));
+
 
 describe("Cas Particuliers", () => {
   describe("Trouve les cas à modifier", () => {
@@ -323,29 +320,29 @@ describe("prise en compte des cas particuliers", () => {
   it("devrait créer les cédilles pour les verbes à radicaux terminant en c", () => {
     let radical = "plac"
     let radicalSubstitué = "plaç"
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.présent, 3)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.présent, 3, Groupe.premier)).toEqual(
       radicalSubstitué
     );
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.imparfait, 1)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.imparfait, 1, Groupe.premier)).toEqual(
       radicalSubstitué
     );
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.passéSimple, 1)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.passéSimple, 1, Groupe.premier)).toEqual(
       radicalSubstitué
     );
     //cas faux=>
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.passéSimple, 5)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.passéSimple, 5, Groupe.premier)).toEqual(
       radical
     );
-    expect(trouveCasParticulier(radical, modesNames.subjonctif, timesNames.imparfait, 1)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.subjonctif, timesNames.imparfait, 1, Groupe.premier)).toEqual(
       radicalSubstitué
     );
-    expect(trouveCasParticulier(radical, modesNames.impératif, timesNames.présent, 3)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.impératif, timesNames.présent, 3, Groupe.premier)).toEqual(
       radicalSubstitué
     );
-    expect(trouveCasParticulier(radical, modesNames.participe, timesNames.présent, 0)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.participe, timesNames.présent, 0, Groupe.premier)).toEqual(
       radicalSubstitué
     );
-    expect(trouveCasParticulier(radical, modesNames.gérondif, timesNames.présent, 0)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.gérondif, timesNames.présent, 0, Groupe.premier)).toEqual(
       radicalSubstitué
     );
   });
@@ -353,39 +350,81 @@ describe("prise en compte des cas particuliers", () => {
   it("devrait créer les cédilles pour les verbes à radicaux terminant en g", () => {
     const radical = "mang"
     const radicalModifié = "mange"
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.présent, 3)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.présent, 3, Groupe.premier)).toEqual(
       radicalModifié
     );
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.imparfait, 1)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.imparfait, 1, Groupe.premier)).toEqual(
       radicalModifié
     );
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.imparfait, 5)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.imparfait, 5, Groupe.premier)).toEqual(
       radicalModifié
     );
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.passéSimple, 1)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.passéSimple, 1, Groupe.premier)).toEqual(
       radicalModifié
     );
     //Cas faux=>
-    expect(trouveCasParticulier(radical, modesNames.indicatif, timesNames.passéSimple, 5)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.indicatif, timesNames.passéSimple, 5, Groupe.premier)).toEqual(
       radical
     );
-    expect(trouveCasParticulier(radical, modesNames.subjonctif, timesNames.imparfait, 1)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.subjonctif, timesNames.imparfait, 1, Groupe.premier)).toEqual(
       radicalModifié
     );
-    expect(trouveCasParticulier(radical, modesNames.impératif, timesNames.présent, 3)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.impératif, timesNames.présent, 3, Groupe.premier)).toEqual(
       radicalModifié
     );
-    expect(trouveCasParticulier(radical, modesNames.participe, timesNames.présent, 0)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.participe, timesNames.présent, 0, Groupe.premier)).toEqual(
       radicalModifié
     );
-    expect(trouveCasParticulier(radical, modesNames.gérondif, timesNames.présent, 0)).toEqual(
+    expect(radicalCasParticulier(radical, modesNames.gérondif, timesNames.présent, 0, Groupe.premier)).toEqual(
       radicalModifié
     );
   });
 
-  /*
-    it("devrait créer les i pour les verbes à radicaux terminant en y", () => {
-      //expect(trouveCasParticulier("appuy", "indicatif" as modesNames,  "présent" as timesNames, 1)).toEqual("appuy");
-    });
-  */
+  test.each(AYERs)("verbes en -ayer", (radical: string) => {
+    let radicalModifié = radical.substring(0, radical.length - 2)
+    expect(radicalCasParticulier(radicalModifié, modesNames.indicatif, timesNames.présent, 0, Groupe.deuxième)).toEqual(
+      radicalModifié
+    );
+    expect(radicalCasParticulier(radicalModifié, modesNames.gérondif, timesNames.présent, 0, Groupe.deuxième)).toEqual(
+      radicalModifié
+    );
+  })
+  test.each(OYERs)("verbes en -oyer/-uyer", (radical: string) => {
+    let radicalCoupé = radical.substring(0, radical.length - 2);
+    let radicalModifié = radicalCoupé
+
+    expect(radicalCasParticulier(radicalCoupé, modesNames.indicatif, timesNames.présent, 0, Groupe.deuxième)).toEqual(
+      radicalModifié
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.indicatif, timesNames.présent, 4, Groupe.deuxième)).toEqual(
+      radicalCoupé
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.indicatif, timesNames.imparfait, 0, Groupe.deuxième)).toEqual(
+      radicalCoupé
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.indicatif, timesNames.futurSimple, 0, Groupe.deuxième)).toEqual(
+      radicalModifié
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.indicatif, timesNames.futurSimple, 4, Groupe.deuxième)).toEqual(
+      radicalCoupé
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.subjonctif, timesNames.présent, 0, Groupe.deuxième)).toEqual(
+      radicalModifié
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.subjonctif, timesNames.présent, 3, Groupe.deuxième)).toEqual(
+      radicalCoupé
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.conditionnel, timesNames.présent, 0, Groupe.deuxième)).toEqual(
+      radicalModifié
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.conditionnel, timesNames.présent, 3, Groupe.deuxième)).toEqual(
+      radicalCoupé
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.impératif, timesNames.présent, 0, Groupe.deuxième)).toEqual(
+      radicalModifié
+    );
+    expect(radicalCasParticulier(radicalCoupé, modesNames.impératif, timesNames.présent, 2, Groupe.deuxième)).toEqual(
+      radicalCoupé
+    );
+  })
 })
