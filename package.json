@@ -6,9 +6,12 @@
   "scripts": {
     "test": "jest",
     "start": "tsc -watch --resolveJsonModule --sourcemap && node dist/createurConjugaison.js",
-    "buildDict": "npx ts-node src/buildDictGénèreConjugaisons.ts",
-    "buildPartialDict": "npx ts-node src/buildDictGénèreConjugaisonsPartielles.ts",
-    "buildAbhorrer": "npx ts-node src/génèreAbhorrer.ts"
+    "buildDict": "npx ts-node src/GénèreConjugaisons.ts",
+    "buildPartialDict": "npx ts-node src/GénèreConjugaisonsPartielles.ts",
+    "filtrePremierGroupe": "npx ts-node src/FiltreDico/filtrePremierGroupe.ts",
+    "filtreDeuxièmeGroupe": "npx ts-node src/FiltreDico/filtrePremierGroupe.ts",
+    "filtreTroisièmeGroupe": "npx ts-node src/FiltreDico/filtrePremierGroupe.ts",
+    "filtreTousLesGroupes": "npm run filtrePremierGroupe && npm run filtreDeuxièmeGroupe && npm run filtreTroisièmeGroupe"
   },
   "author": "",
   "license": "ISC",

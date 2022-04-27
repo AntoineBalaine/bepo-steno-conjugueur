@@ -1,5 +1,5 @@
 import {Groupe, modesNames, STENOORDER, StructureGroupe, TerminaisonEtFrappes, timesNames} from "./types";
-import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupeInfinitif.json";
+import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupe.json";
 import {radicalCasParticulier} from "./casParticuliers";
 
 

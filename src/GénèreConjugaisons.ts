@@ -1,6 +1,6 @@
 import fs from "fs";
 import groupes from "../src/modèleTerminaisons.json";
-import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupeInfinitif.json";
+import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupe.json";
 import {Groupe} from "./types";
 import {construitFrappes} from "./createurConjugaison";
 
