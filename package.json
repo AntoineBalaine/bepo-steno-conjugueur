@@ -9,8 +9,8 @@
     "buildDict": "npx ts-node src/GénèreConjugaisons.ts",
     "buildPartialDict": "npx ts-node src/GénèreConjugaisonsPartielles.ts",
     "filtrePremierGroupe": "npx ts-node src/FiltreDico/filtrePremierGroupe.ts",
-    "filtreDeuxièmeGroupe": "npx ts-node src/FiltreDico/filtrePremierGroupe.ts",
-    "filtreTroisièmeGroupe": "npx ts-node src/FiltreDico/filtrePremierGroupe.ts",
+    "filtreDeuxièmeGroupe": "npx ts-node src/FiltreDico/filtreDeuxièmeGroupe.ts",
+    "filtreTroisièmeGroupe": "npx ts-node src/FiltreDico/filtreTroisièmeGroupe.ts",
     "filtreTousLesGroupes": "npm run filtrePremierGroupe && npm run filtreDeuxièmeGroupe && npm run filtreTroisièmeGroupe"
   },
   "author": "",

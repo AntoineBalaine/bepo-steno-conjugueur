@@ -15,19 +15,15 @@ import verbesTroisièmeGroupeSansFrappes from "../jsonAssets/verbesTroisièmeGro
 let terminaisonsInfinitifs = ["ir", "re", "er"]
 
 let frappesTroisièmeGroupe = Object.entries(frappesTousVerbes)
-  .filter(([key, value]) => {
-    return terminaisonsInfinitifs.includes(value.substring(value.length - 2))
-  })
-  .filter(([key, value]) => {
-    return value.substring(value.length - 2) !== "er" && !verbesDeuxièmeGroupe.includes(value)
-  }).reduce((acc, cur) => {
+  .filter(([key, value]) => terminaisonsInfinitifs.includes(value.substring(value.length - 2)))
+  .filter(([key, value]) => (value.substring(value.length - 2) !== "er" && !verbesDeuxièmeGroupe.includes(value))).reduce((acc, cur) => {
     acc[cur[0]] = cur[1];
     return acc;
   }, {});
 
 let frappesÀMonterTroisièmeGroupe = verbesTroisièmeGroupeSansFrappes.filter(verbe => !Object.values(frappesTroisièmeGroupe).includes(verbe))
 
-await fs.writeFile(
+fs.writeFile(
   "./src/jsonAssets/frappesTroisièmeGroupe.json",
   JSON.stringify(frappesTroisièmeGroupe, null, 1),
   (err) => {
@@ -36,7 +32,7 @@ await fs.writeFile(
   }
 );
 
-await fs.writeFile(
+fs.writeFile(
   "./src/jsonAssets/frappesÀMonterTroisièmeGroupe.json",
   JSON.stringify(frappesÀMonterTroisièmeGroupe, null, 1),
   (err) => {
