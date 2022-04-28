@@ -3,20 +3,12 @@ import frappesTousVerbes from "../jsonAssets/tousVerbesConfondusEtFrappes.json";
 import verbesDeuxièmeGroupe from "../jsonAssets/verbesDeuxièmeGroupeSansFrappe.json";
 import verbesTroisièmeGroupeSansFrappes from "../jsonAssets/verbesTroisièmeGroupeSansFrappe.json";
 
-/*
-* comment détecter les verbes du troisième groupe?
-* trouve tous les verbes dont les vals sont inclues dans verbesTroisièmeGroupeSansFrappe
-* */
-
-//vire tous les verbes en er
-//vire tous les verbes qui sont contenus dans la list verbesDeuxièmeGroupeSansFrappe
-//vire tous les verbes qui ne sont pas à l'infinitif
-
 let terminaisonsInfinitifs = ["ir", "re", "er"]
 
 let frappesTroisièmeGroupe = Object.entries(frappesTousVerbes)
   .filter(([key, value]) => terminaisonsInfinitifs.includes(value.substring(value.length - 2)))
-  .filter(([key, value]) => (value.substring(value.length - 2) !== "er" && !verbesDeuxièmeGroupe.includes(value))).reduce((acc, cur) => {
+  .filter(([key, value]) => (value.substring(value.length - 2) !== "er" && !verbesDeuxièmeGroupe.includes(value)))
+  .reduce((acc, cur) => {
     acc[cur[0]] = cur[1];
     return acc;
   }, {});

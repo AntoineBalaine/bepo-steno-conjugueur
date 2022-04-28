@@ -1,5 +1,6 @@
 import {Groupe, modesNames, STENOORDER, StructureGroupe, TerminaisonEtFrappes, timesNames} from "./types";
-import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupe.json";
+import verbesPremierGroupe from "../jsonAssets/frappesPremierGroupe.json";
+import verbesDeuxièmeGroupe from "../jsonAssets/frappesDeuxièmeGroupe.json";
 import {radicalCasParticulier} from "./casParticuliers";
 
 
@@ -115,14 +116,22 @@ export const collapseStrokesWhenPossible = function (stroke: string) {
 export const construitFrappes = (
   verbe: string,
   groupeStructure: StructureGroupe,
-  groupe: Groupe
+  groupe: Groupe,
 ) => {
+  let listOfVerbs;
+  if (groupe === Groupe.premier) {
+    listOfVerbs = verbesPremierGroupe;
+  } else {
+    listOfVerbs = verbesDeuxièmeGroupe;
+  }
   let radicalVerbe = verbe.substring(0, verbe.length - 2);
-  const foundVrb = Object.entries(verbesPremierGroupe).find(
+  const foundVrb = Object.entries(listOfVerbs).find(
     (verbeActuel) => verbeActuel[1] === verbe
   );
   if (!foundVrb) return;
-  const radicalFrappe = foundVrb[0].slice(0, -1);
+  const radicalFrappe = groupe === Groupe.premier ?
+    foundVrb[0].substring(0, foundVrb[0].length - 1)
+    : foundVrb[0].substring(0, foundVrb[0].length - 2);
 
   const terminaisons = Object.entries(groupeStructure).map(([mode, tempsObj]) => {
     switch (mode) {

@@ -102,8 +102,8 @@
       "passé": {
         "singulierMasculin": { "frappes": ["E"], "terminaison": "é" },
         "plurielMasculin": { "frappes": ["EÉ$"], "terminaison": "és" },
-        "singulierFéminin": { "frappes": ["EÉC"], "terminaison": "ée" },
-        "plurielFéminin": { "frappes": ["EÉC$"], "terminaison": "ées" }
+        "singulierFéminin": { "frappes": ["EC"], "terminaison": "ée" },
+        "plurielFéminin": { "frappes": ["EÉC"], "terminaison": "ées" }
       }
     },
     "gérondif": {
@@ -120,7 +120,7 @@
         "singulierTroisieme": { "frappes": ["ÉID"], "terminaison": "it" },
         "plurielPremiere": { "frappes": ["I/SOn"], "terminaison": "issons" },
         "plurielDeuxieme": { "frappes": ["I/SE/*É$"], "terminaison": "issez" },
-        "plurielTroisieme": { "frappes": ["I/SÉD", "I/SÉnD"], "terminaison": "issent" }
+        "plurielTroisieme": { "frappes": ["I/SÉD", "I/SÉnD", "ÉI$D"], "terminaison": "issent" }
       },
       "imparfait": {
         "singulierPremiere": { "frappes": ["I/SEÉI$"], "terminaison": "issais" },
@@ -144,7 +144,7 @@
         },
         "singulierTroisieme": { "frappes": ["I/RA"], "terminaison": "ira" },
         "plurielPremiere": { "frappes": ["I/ROn"], "terminaison": "irons" },
-        "plurielDeuxieme": { "frappes": ["I/RE"], "terminaison": "irez" },
+        "plurielDeuxieme": { "frappes": ["I/RE/*É$"], "terminaison": "irez" },
         "plurielTroisieme": {
           "frappes": ["I/ROÉnD"],
           "terminaison": "iront"
@@ -162,22 +162,22 @@
     "subjonctif": {
       "présent": {
         "singulierPremiere": { "frappes": ["I$"], "terminaison": "isse" },
-        "singulierDeuxieme": { "frappes": ["ÉI$"], "terminaison": "isses" },
+        "singulierDeuxieme": { "frappes": ["I$/É"], "terminaison": "isses" },
         "singulierTroisieme": { "frappes": ["I$"], "terminaison": "isse" },
         "plurielPremiere": { "frappes": ["I/SYOn"], "terminaison": "issions" },
         "plurielDeuxieme": { "frappes": ["I/SYE"], "terminaison": "issiez" },
-        "plurielTroisieme": { "frappes": ["I/SÉD", "I/SÉnD"], "terminaison": "issent" }
+        "plurielTroisieme": { "frappes": ["I/SÉD", "I/SÉnD", "ÉI$D"], "terminaison": "issent" }
       },
       "imparfait": {
         "singulierPremiere": { "frappes": ["I$"], "terminaison": "isse" },
-        "singulierDeuxieme": { "frappes": ["ÉI$"], "terminaison": "isses" },
-        "singulierTroisieme": { "frappes": ["ÉID"], "terminaison": "ît" },
+        "singulierDeuxieme": { "frappes": ["I$/É"], "terminaison": "isses" },
+        "singulierTroisieme": { "frappes": ["ÉID/É"], "terminaison": "ît" },
         "plurielPremiere": {
           "frappes": ["I/SYOn"],
           "terminaison": "issions"
         },
         "plurielDeuxieme": { "frappes": ["I/SYE"], "terminaison": "issiez" },
-        "plurielTroisieme": { "frappes": ["I/SÉn$D"], "terminaison": "issent" }
+        "plurielTroisieme": { "frappes": ["I/SÉn$D", "ÉI$D"], "terminaison": "issent" }
       }
     },
     "conditionnel": {
@@ -197,7 +197,7 @@
         "plurielPremiere": { "frappes": ["I/RYOn"], "terminaison": "irions" },
         "plurielDeuxieme": { "frappes": ["I/RYE"], "terminaison": "iriez" },
         "plurielTroisieme": {
-          "frappes": ["I/REÉnD", "I/REÉn", "I/REÉD"],
+          "frappes": ["I/REÉnD", "I/REÉn" ],
           "terminaison": "iraient"
         }
       }
@@ -215,7 +215,7 @@
         "singulierMasculin": { "frappes": ["I"], "terminaison": "i" },
         "plurielMasculin": { "frappes": ["ÉI$"], "terminaison": "is" },
         "singulierFéminin": { "frappes": ["IC"], "terminaison": "ie" },
-        "plurielFéminin": { "frappes": ["IÉC$"], "terminaison": "ies" }
+        "plurielFéminin": { "frappes": ["ÉIC"], "terminaison": "ies" }
       }
     },
     "gérondif": {

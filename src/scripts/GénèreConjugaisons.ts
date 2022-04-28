@@ -1,8 +1,8 @@
 import fs from "fs";
-import groupes from "../src/modèleTerminaisons.json";
-import verbesPremierGroupe from "./jsonAssets/frappesPremierGroupe.json";
-import {Groupe} from "./types";
-import {construitFrappes} from "./createurConjugaison";
+import groupes from "../Conjugueur/modèleTerminaisons.json";
+import verbesPremierGroupe from "../jsonAssets/frappesPremierGroupe.json";
+import {Groupe} from "../Conjugueur/types";
+import {construitFrappes} from "../Conjugueur/createurConjugaison";
 
 const listeVerbesÀConjuguer = Object.values(verbesPremierGroupe);
 

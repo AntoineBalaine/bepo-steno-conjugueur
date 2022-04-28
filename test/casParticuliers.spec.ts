@@ -1,6 +1,11 @@
-import {radicalCasParticulier} from "../src/casParticuliers";
-import {Groupe, modesNames, timesNames} from "../src/types";
-import {modifieRadicalCouG, modifieRadicalEAtone, modifieRadicalY, modifieRadicalÉ} from "../src/createurPremierGroupe";
+import {radicalCasParticulier} from "../src/Conjugueur/casParticuliers";
+import {Groupe, modesNames, timesNames} from "../src/Conjugueur/types";
+import {
+  modifieRadicalCouG,
+  modifieRadicalEAtone,
+  modifieRadicalY,
+  modifieRadicalÉ
+} from "../src/Conjugueur/createurPremierGroupe";
 
 const AYERs = ["Balayer",
   "Payer",

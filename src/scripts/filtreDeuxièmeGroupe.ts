@@ -1,21 +1,21 @@
-import deuxièmGroupeSansFrappes from "../jsonAssets/verbesDeuxièmeGroupeSansFrappe.json";
+import deuxièmeGroupeSansFrappes from "../jsonAssets/verbesDeuxièmeGroupeSansFrappe.json";
 import troisièmeGroupeSansFrappes from "../jsonAssets/verbesTroisièmeGroupeSansFrappe.json"
 import tousVerbes from "../jsonAssets/tousVerbesConfondusEtFrappes.json";
 
 import fs from "fs";
 
 
-const troisièmeGroupeFiltré = troisièmeGroupeSansFrappes.filter(verbe => (verbe.substring(-2) === "ir")).filter(verbe => verbe.substring(-3) !== "oir");
-
 const frappesDeuxièmeGroupe = Object.entries(tousVerbes)
   .filter(([key, value]) => value.substring(value.length - 2) === "ir")
-  .filter(([key, value]) => (!troisièmeGroupeFiltré.includes(value)))
+  .filter(([key, value]) => value.substring(-3) !== "oir")
+  .filter(([key, value]) => (!troisièmeGroupeSansFrappes.includes(value)))
   .reduce((acc, cur) => {
     acc[cur[0]] = cur[1];
     return acc;
   }, {});
 
-const frappesÀMonter = deuxièmGroupeSansFrappes
+
+const frappesÀMonter = deuxièmeGroupeSansFrappes
   .filter(
     (currentVerb: string) => !Object.values(frappesDeuxièmeGroupe).includes(currentVerb)
   );

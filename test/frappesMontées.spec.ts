@@ -3,7 +3,7 @@ import frappesMontéesPremierGroupe from "../jsonOutput/frappesMontéesPremierGr
 import {
   breakSyllableToRespectStenoOrder,
   respectsSténoOrder,
-} from "../src/createurConjugaison";
+} from "../src/Conjugueur/createurConjugaison";
 
 let dictRespectsSténoOrder = (keysArray: string[]) => {
   let respects = true;

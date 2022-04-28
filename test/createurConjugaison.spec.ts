@@ -3,7 +3,7 @@ import {
   collapseStrokesWhenPossible,
   fixSténoOrder,
   respectsSténoOrder,
-} from "../src/createurConjugaison";
+} from "../src/Conjugueur/createurConjugaison";
 
 /* describe("verbes du premier groupe", () => {
   const conjAimer = premierGroupeBuilder("aimer", groupes.premierGroupe);
