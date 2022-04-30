@@ -11,7 +11,8 @@
     "filtrePremierGroupe": "npx ts-node src/scripts/filtrePremierGroupe.ts",
     "filtreDeuxièmeGroupe": "npx ts-node src/scripts/filtreDeuxièmeGroupe.ts",
     "filtreTroisièmeGroupe": "npx ts-node src/scripts/filtreTroisièmeGroupe.ts",
-    "filtreTousLesGroupes": "npm run filtrePremierGroupe && npm run filtreDeuxièmeGroupe && npm run filtreTroisièmeGroupe"
+    "filtreTousLesGroupes": "npm run filtrePremierGroupe && npm run filtreDeuxièmeGroupe && npm run filtreTroisièmeGroupe",
+    "filtreNoms": "npx ts-node src/scripts/filtreNoms.ts"
   },
   "author": "",
   "license": "ISC",
