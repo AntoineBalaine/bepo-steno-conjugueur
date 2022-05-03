@@ -32,7 +32,7 @@
         },
         "singulierTroisieme": { "frappes": ["RA"], "terminaison": "era" },
         "plurielPremiere": { "frappes": ["/ROn"], "terminaison": "erons" },
-        "plurielDeuxieme": { "frappes": ["/RE"], "terminaison": "erez" },
+        "plurielDeuxieme": { "frappes": ["/RE/*É$"], "terminaison": "erez" },
         "plurielTroisieme": {
           "frappes": ["/ROÉnD"],
           "terminaison": "eront"
@@ -85,7 +85,7 @@
         "plurielPremiere": { "frappes": ["RYOn"], "terminaison": "erions" },
         "plurielDeuxieme": { "frappes": ["RYE"], "terminaison": "eriez" },
         "plurielTroisieme": {
-          "frappes": ["/REÉnD", "/REÉn", "/REÉD"],
+          "frappes": ["/REÉnD", "/REÉn"],
           "terminaison": "eraient"
         }
       }

@@ -75,3 +75,7 @@ export type StructureGroupe = {
     passé: TerminaisonEtFrappes;
   };
 };
+
+export type SténoObject = {
+  [sténoKey: string]: string;
+}

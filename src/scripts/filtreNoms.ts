@@ -1,6 +1,8 @@
 import dicoNoms from "../jsonAssets/05_French_Noms_sorted.json";
 import path from "path";
 import fs from "fs";
+import {CatégoriseIndéterminésDaprèsLexique, IndéterminésDaprèsLexique} from "./filtreIndéterminésAdjuvantes";
+import {SténoObject} from "../Conjugueur/types";
 
 const indicateursFéminin = {
   "LA": "la ",
@@ -75,9 +77,9 @@ const sépareNomsParGenre = (dico: {}) => {
 }
 
 
-const sépareNomsParNombre = (dico: {}) => {
+const sépareNomsParNombre = (dico: {}, lexiqueRaw: Buffer | string) => {
 
-  const {genreIndéterminé, nomsFéminins, nomsMasculins} = sépareNomsParGenre(dicoNoms);
+  const {genreIndéterminé, nomsFéminins, nomsMasculins} = sépareNomsParGenre(dico);
 
   let genreIndéterminéPluriel: string[][] = [];
   let genreIndéterminéSingulier: string[][] = [];
@@ -99,6 +101,7 @@ const sépareNomsParNombre = (dico: {}) => {
     }
   })
 
+
   return {
     genreIndéterminéPluriel,
     genreIndéterminéSingulier,
@@ -109,26 +112,71 @@ const sépareNomsParNombre = (dico: {}) => {
   }
 }
 
-const ÉcritDictionnaires = (dicoNoms) => {
-  const dictionnaires = sépareNomsParNombre(dicoNoms);
-//transforme toutes les paires de clés et valeurs en strings
+export const jsonifieStringCléValeur = (value: string[][]) => {
+  const rawData = value.reduce((acc, cur) => {
+    return acc + `"${cur[0]}":"${cur[1]}",\n`;
+  }, "")
+  return `{\n${rawData.substring(0, rawData.length - 2)}\n}`;
+};
+
+interface DictionnairesJson {
+  genreIndéterminéPluriel: string[][];
+  genreIndéterminéSingulier: string[][];
+  genreNombreIndéterminé: string[][];
+  nomsFéminins: string[][];
+  nomsMasculins: string[][];
+  nomsPeutEtrePluriels: string[][];
+}
+
+interface Created {
+  nomsMasculinsSinguliers: string[][];
+  nomsMasculinsPluriels: string[][];
+  nomsFémininsSinguliers: string[][];
+  nomsFémininsPluriels: string[][];
+}
+
+const départisDictionnairesGenresNombres = (lexiqueRaw: Buffer | string, dictionnairesJson: DictionnairesJson) => {
+
+  let {
+    nomsMasculinsSinguliers,
+    nomsMasculinsPluriels,
+    nomsFémininsSinguliers,
+    nomsFémininsPluriels,
+  } = IndéterminésDaprèsLexique(lexiqueRaw, dictionnairesJson.genreIndéterminéSingulier, dictionnairesJson.genreIndéterminéPluriel);
+  Object.assign(nomsMasculinsSinguliers, dictionnairesJson.nomsMasculins);
+  Object.assign(nomsFémininsSinguliers, dictionnairesJson.nomsFéminins);
+
+  return {
+    nomsMasculinsSinguliers,
+    nomsMasculinsPluriels,
+    nomsFémininsSinguliers,
+    nomsFémininsPluriels,
+  }
+};
+
+const ÉcritDictionnaires = (dicoNoms, lexiqueRaw: Buffer | string) => {
   /*
   * Je suis obligé de passer par une interpolation des strings,
   * car passer par JSON.stringify risque de filtrer les clés dupliquées du dictionnaire
   * */
-  Object.entries(dictionnaires).forEach(async ([key, value]) => {
-    const filePath = path.join("jsonOutput", key + ".json");
+  let jsondict = sépareNomsParNombre(dicoNoms, lexiqueRaw);
+  const dictionnairesDépartis = départisDictionnairesGenresNombres(lexiqueRaw, jsondict);
 
-    const rawData = value.reduce((acc, cur) => {
-      return acc + `"${cur[0]}":"${cur[1]}",\n`;
-    }, "")
-    const data = `{\n${rawData.substring(0, rawData.length - 2)}\n}`;
 
-    await fs.writeFile(filePath, data, (err) => {
-      if (err) throw err;
-      console.log(`${filePath} has been saved`);
-    })
+  Object.entries(dictionnairesDépartis).forEach(([key, value]) => {
+    const filePath = path.join("jsonOutput/nomsTriés", key + ".json");
+
+    fs.writeFileSync(filePath, jsonifieStringCléValeur(value))
   })
+  return;
 }
 
-ÉcritDictionnaires(dicoNoms);
+fs.readFile("src/jsonAssets/Ulexique500fmt.txt", (err, data) => {
+  if (err) {
+    console.log(err);
+    throw new Error;
+  } else {
+
+    ÉcritDictionnaires(dicoNoms, data);
+  }
+});
