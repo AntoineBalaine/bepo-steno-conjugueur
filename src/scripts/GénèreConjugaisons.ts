@@ -16,7 +16,7 @@ let frappesMontéesPremierGroupe = verbesPremierGroupeÀConjuguer.reduce((prev, 
 
 const jsonPremierGroupe = `{ ${frappesMontéesPremierGroupe.join(",")} }`;
 
-fs.writeFile("jsonOutput/SténoPremierGroupe.json", jsonPremierGroupe, () => {
+fs.writeFile("jsonOutput/PremierGroupe.json", jsonPremierGroupe, () => {
 });
 
 let frappesDeuxièmeGroupe = verbesDeuxièmeGroupeÀConjuguer
@@ -29,7 +29,7 @@ let frappesDeuxièmeGroupe = verbesDeuxièmeGroupeÀConjuguer
 const jsonDeuxièmeGroupe = `{ ${frappesDeuxièmeGroupe.join(",\n")} }`;
 
 fs.writeFile(
-  "jsonOutput/SténoDeuxièmeGroupe.json",
+  "jsonOutput/DeuxièmeGroupe.json",
   jsonDeuxièmeGroupe,
   () => {
   }
