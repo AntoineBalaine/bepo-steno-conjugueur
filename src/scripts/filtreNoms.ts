@@ -1,7 +1,7 @@
 import dicoNoms from "../jsonAssets/05_French_Noms_sorted.json";
 import path from "path";
 import fs from "fs";
-import {CatégoriseIndéterminésDaprèsLexique, IndéterminésDaprèsLexique} from "./filtreIndéterminésAdjuvantes";
+import {CatégoriseIndéterminésDaprèsLexique, IndéterminésDaprèsLexique} from "./filtreNomsIndéterminésAdjuvantes";
 import {SténoObject} from "../Conjugueur/types";
 
 const indicateursFéminin = {

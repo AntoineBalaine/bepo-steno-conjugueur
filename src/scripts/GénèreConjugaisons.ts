@@ -1,16 +1,36 @@
 import fs from "fs";
 import groupes from "../Conjugueur/modèleTerminaisons.json";
 import verbesPremierGroupe from "../jsonAssets/frappesPremierGroupe.json";
+import verbesDeuxièmeGroupe from "../jsonAssets/frappesDeuxièmeGroupe.json";
 import {Groupe} from "../Conjugueur/types";
 import {construitFrappes} from "../Conjugueur/createurConjugaison";
 
-const listeVerbesÀConjuguer = Object.values(verbesPremierGroupe);
+const verbesPremierGroupeÀConjuguer = Object.values(verbesPremierGroupe);
+const verbesDeuxièmeGroupeÀConjuguer = Object.values(verbesDeuxièmeGroupe);
 
-let frappesMontées = listeVerbesÀConjuguer.reduce((prev, cur: string, index) => {
+let frappesMontéesPremierGroupe = verbesPremierGroupeÀConjuguer.reduce((prev, cur: string, index) => {
   if (index % 500 === 0) console.log(index);
   const frappes = construitFrappes(cur, groupes.premierGroupe, Groupe.premier);
   return prev.concat(frappes);
 }, []);
-const json = `{ ${frappesMontées.join(",")} }`;
-fs.writeFile("JsonGenerated/frappesMontéesPremierGroupe.json", json, () => {
+
+const jsonPremierGroupe = `{ ${frappesMontéesPremierGroupe.join(",")} }`;
+
+fs.writeFile("jsonOutput/SténoPremierGroupe.json", jsonPremierGroupe, () => {
 });
+
+let frappesDeuxièmeGroupe = verbesDeuxièmeGroupeÀConjuguer
+  .reduce((prev, cur: string, index) => {
+    if (index % 500 === 0) console.log(index);
+    const frappes = construitFrappes(cur, groupes.deuxièmeGroupe, Groupe.deuxième);
+    return prev.concat(frappes);
+  }, []);
+
+const jsonDeuxièmeGroupe = `{ ${frappesDeuxièmeGroupe.join(",\n")} }`;
+
+fs.writeFile(
+  "jsonOutput/SténoDeuxièmeGroupe.json",
+  jsonDeuxièmeGroupe,
+  () => {
+  }
+);
