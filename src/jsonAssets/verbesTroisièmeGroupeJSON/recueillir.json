@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je recueille",
+      "tu recueilles",
+      "il recueille",
+      "nous recueillons",
+      "vous recueillez",
+      "ils recueillent"
+    ],
+    "passé composé": [
+      "j'ai recueilli",
+      "tu as recueilli",
+      "il a recueilli",
+      "nous avons recueilli",
+      "vous avez recueilli",
+      "ils ont recueilli"
+    ],
+    "imparfait": [
+      "je recueillais",
+      "tu recueillais",
+      "il recueillait",
+      "nous recueillions",
+      "vous recueilliez",
+      "ils recueillaient"
+    ],
+    "plus que parfait": [
+      "j'avais recueilli",
+      "tu avais recueilli",
+      "il avait recueilli",
+      "nous avions recueilli",
+      "vous aviez recueilli",
+      "ils avaient recueilli"
+    ],
+    "passé simple": [
+      "je recueillis",
+      "tu recueillis",
+      "il recueillit",
+      "nous recueillîmes",
+      "vous recueillîtes",
+      "ils recueillirent"
+    ],
+    "passé antérieur": [
+      "j'eus recueilli",
+      "tu eus recueilli",
+      "il eut recueilli",
+      "nous eûmes recueilli",
+      "vous eûtes recueilli",
+      "ils eurent recueilli"
+    ],
+    "futur simple": [
+      "je recueillerai",
+      "tu recueilleras",
+      "il recueillera",
+      "nous recueillerons",
+      "vous recueillerez",
+      "ils recueilleront"
+    ],
+    "futur antérieur": [
+      "j'aurai recueilli",
+      "tu auras recueilli",
+      "il aura recueilli",
+      "nous aurons recueilli",
+      "vous aurez recueilli",
+      "ils auront recueilli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je recueille",
+      "que tu recueilles",
+      "qu'il recueille",
+      "que nous recueillions",
+      "que vous recueilliez",
+      "qu'ils recueillent"
+    ],
+    "passé": [
+      "que j'aie recueilli",
+      "que tu aies recueilli",
+      "qu'il ait recueilli",
+      "que nous ayons recueilli",
+      "que vous ayez recueilli",
+      "qu'ils aient recueilli"
+    ],
+    "imparfait": [
+      "que je recueillisse",
+      "que tu recueillisses",
+      "qu'il recueillît",
+      "que nous recueillissions",
+      "que vous recueillissiez",
+      "qu'ils recueillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse recueilli",
+      "que tu eusses recueilli",
+      "qu'il eût recueilli",
+      "que nous eussions recueilli",
+      "que vous eussiez recueilli",
+      "qu'ils eussent recueilli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je recueillerais",
+      "tu recueillerais",
+      "il recueillerait",
+      "nous recueillerions",
+      "vous recueilleriez",
+      "ils recueilleraient"
+    ],
+    "passé": [
+      "j'aurais recueilli",
+      "tu aurais recueilli",
+      "il aurait recueilli",
+      "nous aurions recueilli",
+      "vous auriez recueilli",
+      "ils auraient recueilli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recueille",
+      "recueillons",
+      "recueillez"
+    ],
+    "passé": [
+      "aie recueilli",
+      "ayons recueilli",
+      "ayez recueilli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "recueillir"
+    ],
+    "passé": [
+      "avoir recueilli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "recueillant"
+    ],
+    "passé": [
+      "recueilli",
+      "ayant recueilli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en recueillant"
+    ],
+    "passé": [
+      "en ayant recueilli"
+    ]
+  }
+}

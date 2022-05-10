@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me déprends",
+      "tu te déprends",
+      "il se déprend",
+      "nous nous déprenons",
+      "vous vous déprenez",
+      "ils se déprennent"
+    ],
+    "passé composé": [
+      "je me suis dépris",
+      "tu t'es dépris",
+      "il s'est dépris",
+      "nous nous sommes dépris",
+      "vous vous êtes dépris",
+      "ils se sont dépris"
+    ],
+    "imparfait": [
+      "je me déprenais",
+      "tu te déprenais",
+      "il se déprenait",
+      "nous nous déprenions",
+      "vous vous dépreniez",
+      "ils se déprenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais dépris",
+      "tu t'étais dépris",
+      "il s'était dépris",
+      "nous nous étions dépris",
+      "vous vous étiez dépris",
+      "ils s'étaient dépris"
+    ],
+    "passé simple": [
+      "je me dépris",
+      "tu te dépris",
+      "il se déprit",
+      "nous nous déprîmes",
+      "vous vous déprîtes",
+      "ils se déprirent"
+    ],
+    "passé antérieur": [
+      "je me fus dépris",
+      "tu te fus dépris",
+      "il se fut dépris",
+      "nous nous fûmes dépris",
+      "vous vous fûtes dépris",
+      "ils se furent dépris"
+    ],
+    "futur simple": [
+      "je me déprendrai",
+      "tu te déprendras",
+      "il se déprendra",
+      "nous nous déprendrons",
+      "vous vous déprendrez",
+      "ils se déprendront"
+    ],
+    "futur antérieur": [
+      "je me serai dépris",
+      "tu te seras dépris",
+      "il se sera dépris",
+      "nous nous serons dépris",
+      "vous vous serez dépris",
+      "ils se seront dépris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me déprenne",
+      "que tu te déprennes",
+      "qu'il se déprenne",
+      "que nous nous déprenions",
+      "que vous vous dépreniez",
+      "qu'ils se déprennent"
+    ],
+    "passé": [
+      "que je me sois dépris",
+      "que tu te sois dépris",
+      "qu'il se soit dépris",
+      "que nous nous soyons dépris",
+      "que vous vous soyez dépris",
+      "qu'ils se soient dépris"
+    ],
+    "imparfait": [
+      "que je me déprisse",
+      "que tu te déprisses",
+      "qu'il se déprît",
+      "que nous nous déprissions",
+      "que vous vous déprissiez",
+      "qu'ils se déprissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse dépris",
+      "que tu te fusses dépris",
+      "qu'il se fût dépris",
+      "que nous nous fussions dépris",
+      "que vous vous fussiez dépris",
+      "qu'ils se fussent dépris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me déprendrais",
+      "tu te déprendrais",
+      "il se déprendrait",
+      "nous nous déprendrions",
+      "vous vous déprendriez",
+      "ils se déprendraient"
+    ],
+    "passé": [
+      "je me serais dépris",
+      "tu te serais dépris",
+      "il se serait dépris",
+      "nous nous serions dépris",
+      "vous vous seriez dépris",
+      "ils se seraient dépris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déprends-toi",
+      "déprenons-nous",
+      "déprenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se déprendre"
+    ],
+    "passé": [
+      "s'être dépris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se déprenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant dépris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se déprenant"
+    ],
+    "passé": [
+      "en s'étant dépris"
+    ]
+  }
+}

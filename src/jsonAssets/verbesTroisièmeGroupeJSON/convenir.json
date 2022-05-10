@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je conviens",
+      "tu conviens",
+      "il convient",
+      "nous convenons",
+      "vous convenez",
+      "ils conviennent"
+    ],
+    "passé composé": [
+      "j'ai convenu",
+      "tu as convenu",
+      "il a convenu",
+      "nous avons convenu",
+      "vous avez convenu",
+      "ils ont convenu"
+    ],
+    "imparfait": [
+      "je convenais",
+      "tu convenais",
+      "il convenait",
+      "nous convenions",
+      "vous conveniez",
+      "ils convenaient"
+    ],
+    "plus que parfait": [
+      "j'avais convenu",
+      "tu avais convenu",
+      "il avait convenu",
+      "nous avions convenu",
+      "vous aviez convenu",
+      "ils avaient convenu"
+    ],
+    "passé simple": [
+      "je convins",
+      "tu convins",
+      "il convint",
+      "nous convînmes",
+      "vous convîntes",
+      "ils convinrent"
+    ],
+    "passé antérieur": [
+      "j'eus convenu",
+      "tu eus convenu",
+      "il eut convenu",
+      "nous eûmes convenu",
+      "vous eûtes convenu",
+      "ils eurent convenu"
+    ],
+    "futur simple": [
+      "je conviendrai",
+      "tu conviendras",
+      "il conviendra",
+      "nous conviendrons",
+      "vous conviendrez",
+      "ils conviendront"
+    ],
+    "futur antérieur": [
+      "j'aurai convenu",
+      "tu auras convenu",
+      "il aura convenu",
+      "nous aurons convenu",
+      "vous aurez convenu",
+      "ils auront convenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je convienne",
+      "que tu conviennes",
+      "qu'il convienne",
+      "que nous convenions",
+      "que vous conveniez",
+      "qu'ils conviennent"
+    ],
+    "passé": [
+      "que j'aie convenu",
+      "que tu aies convenu",
+      "qu'il ait convenu",
+      "que nous ayons convenu",
+      "que vous ayez convenu",
+      "qu'ils aient convenu"
+    ],
+    "imparfait": [
+      "que je convinsse",
+      "que tu convinsses",
+      "qu'il convînt",
+      "que nous convinssions",
+      "que vous convinssiez",
+      "qu'ils convinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse convenu",
+      "que tu eusses convenu",
+      "qu'il eût convenu",
+      "que nous eussions convenu",
+      "que vous eussiez convenu",
+      "qu'ils eussent convenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je conviendrais",
+      "tu conviendrais",
+      "il conviendrait",
+      "nous conviendrions",
+      "vous conviendriez",
+      "ils conviendraient"
+    ],
+    "passé": [
+      "j'aurais convenu",
+      "tu aurais convenu",
+      "il aurait convenu",
+      "nous aurions convenu",
+      "vous auriez convenu",
+      "ils auraient convenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conviens",
+      "convenons",
+      "convenez"
+    ],
+    "passé": [
+      "aie convenu",
+      "ayons convenu",
+      "ayez convenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "convenir"
+    ],
+    "passé": [
+      "avoir convenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "convenant"
+    ],
+    "passé": [
+      "convenu",
+      "ayant convenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en convenant"
+    ],
+    "passé": [
+      "en ayant convenu"
+    ]
+  }
+}

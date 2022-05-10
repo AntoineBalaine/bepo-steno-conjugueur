@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je décuis",
+      "tu décuis",
+      "il décuit",
+      "nous décuisons",
+      "vous décuisez",
+      "ils décuisent"
+    ],
+    "passé composé": [
+      "j'ai décuit",
+      "tu as décuit",
+      "il a décuit",
+      "nous avons décuit",
+      "vous avez décuit",
+      "ils ont décuit"
+    ],
+    "imparfait": [
+      "je décuisais",
+      "tu décuisais",
+      "il décuisait",
+      "nous décuisions",
+      "vous décuisiez",
+      "ils décuisaient"
+    ],
+    "plus que parfait": [
+      "j'avais décuit",
+      "tu avais décuit",
+      "il avait décuit",
+      "nous avions décuit",
+      "vous aviez décuit",
+      "ils avaient décuit"
+    ],
+    "passé simple": [
+      "je décuisis",
+      "tu décuisis",
+      "il décuisit",
+      "nous décuisîmes",
+      "vous décuisîtes",
+      "ils décuisirent"
+    ],
+    "passé antérieur": [
+      "j'eus décuit",
+      "tu eus décuit",
+      "il eut décuit",
+      "nous eûmes décuit",
+      "vous eûtes décuit",
+      "ils eurent décuit"
+    ],
+    "futur simple": [
+      "je décuirai",
+      "tu décuiras",
+      "il décuira",
+      "nous décuirons",
+      "vous décuirez",
+      "ils décuiront"
+    ],
+    "futur antérieur": [
+      "j'aurai décuit",
+      "tu auras décuit",
+      "il aura décuit",
+      "nous aurons décuit",
+      "vous aurez décuit",
+      "ils auront décuit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je décuise",
+      "que tu décuises",
+      "qu'il décuise",
+      "que nous décuisions",
+      "que vous décuisiez",
+      "qu'ils décuisent"
+    ],
+    "passé": [
+      "que j'aie décuit",
+      "que tu aies décuit",
+      "qu'il ait décuit",
+      "que nous ayons décuit",
+      "que vous ayez décuit",
+      "qu'ils aient décuit"
+    ],
+    "imparfait": [
+      "que je décuisisse",
+      "que tu décuisisses",
+      "qu'il décuisît",
+      "que nous décuisissions",
+      "que vous décuisissiez",
+      "qu'ils décuisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse décuit",
+      "que tu eusses décuit",
+      "qu'il eût décuit",
+      "que nous eussions décuit",
+      "que vous eussiez décuit",
+      "qu'ils eussent décuit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je décuirais",
+      "tu décuirais",
+      "il décuirait",
+      "nous décuirions",
+      "vous décuiriez",
+      "ils décuiraient"
+    ],
+    "passé": [
+      "j'aurais décuit",
+      "tu aurais décuit",
+      "il aurait décuit",
+      "nous aurions décuit",
+      "vous auriez décuit",
+      "ils auraient décuit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "décuis",
+      "décuisons",
+      "décuisez"
+    ],
+    "passé": [
+      "aie décuit",
+      "ayons décuit",
+      "ayez décuit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "décuire"
+    ],
+    "passé": [
+      "avoir décuit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "décuisant"
+    ],
+    "passé": [
+      "décuit",
+      "ayant décuit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en décuisant"
+    ],
+    "passé": [
+      "en ayant décuit"
+    ]
+  }
+}

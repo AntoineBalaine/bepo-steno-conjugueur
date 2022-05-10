@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me pends",
+      "tu te pends",
+      "il se pend",
+      "nous nous pendons",
+      "vous vous pendez",
+      "ils se pendent"
+    ],
+    "passé composé": [
+      "je me suis pendu",
+      "tu t'es pendu",
+      "il s'est pendu",
+      "nous nous sommes pendus",
+      "vous vous êtes pendus",
+      "ils se sont pendus"
+    ],
+    "imparfait": [
+      "je me pendais",
+      "tu te pendais",
+      "il se pendait",
+      "nous nous pendions",
+      "vous vous pendiez",
+      "ils se pendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais pendu",
+      "tu t'étais pendu",
+      "il s'était pendu",
+      "nous nous étions pendus",
+      "vous vous étiez pendus",
+      "ils s'étaient pendus"
+    ],
+    "passé simple": [
+      "je me pendis",
+      "tu te pendis",
+      "il se pendit",
+      "nous nous pendîmes",
+      "vous vous pendîtes",
+      "ils se pendirent"
+    ],
+    "passé antérieur": [
+      "je me fus pendu",
+      "tu te fus pendu",
+      "il se fut pendu",
+      "nous nous fûmes pendus",
+      "vous vous fûtes pendus",
+      "ils se furent pendus"
+    ],
+    "futur simple": [
+      "je me pendrai",
+      "tu te pendras",
+      "il se pendra",
+      "nous nous pendrons",
+      "vous vous pendrez",
+      "ils se pendront"
+    ],
+    "futur antérieur": [
+      "je me serai pendu",
+      "tu te seras pendu",
+      "il se sera pendu",
+      "nous nous serons pendus",
+      "vous vous serez pendus",
+      "ils se seront pendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me pende",
+      "que tu te pendes",
+      "qu'il se pende",
+      "que nous nous pendions",
+      "que vous vous pendiez",
+      "qu'ils se pendent"
+    ],
+    "passé": [
+      "que je me sois pendu",
+      "que tu te sois pendu",
+      "qu'il se soit pendu",
+      "que nous nous soyons pendus",
+      "que vous vous soyez pendus",
+      "qu'ils se soient pendus"
+    ],
+    "imparfait": [
+      "que je me pendisse",
+      "que tu te pendisses",
+      "qu'il se pendît",
+      "que nous nous pendissions",
+      "que vous vous pendissiez",
+      "qu'ils se pendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse pendu",
+      "que tu te fusses pendu",
+      "qu'il se fût pendu",
+      "que nous nous fussions pendus",
+      "que vous vous fussiez pendus",
+      "qu'ils se fussent pendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me pendrais",
+      "tu te pendrais",
+      "il se pendrait",
+      "nous nous pendrions",
+      "vous vous pendriez",
+      "ils se pendraient"
+    ],
+    "passé": [
+      "je me serais pendu",
+      "tu te serais pendu",
+      "il se serait pendu",
+      "nous nous serions pendus",
+      "vous vous seriez pendus",
+      "ils se seraient pendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "pends-toi",
+      "pendons-nous",
+      "pendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se pendre"
+    ],
+    "passé": [
+      "s'être pendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se pendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant pendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se pendant"
+    ],
+    "passé": [
+      "en s'étant pendu"
+    ]
+  }
+}

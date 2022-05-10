@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je soustrais",
+      "tu soustrais",
+      "il soustrait",
+      "nous soustrayons",
+      "vous soustrayez",
+      "ils soustraient"
+    ],
+    "passé composé": [
+      "j'ai soustrait",
+      "tu as soustrait",
+      "il a soustrait",
+      "nous avons soustrait",
+      "vous avez soustrait",
+      "ils ont soustrait"
+    ],
+    "imparfait": [
+      "je soustrayais",
+      "tu soustrayais",
+      "il soustrayait",
+      "nous soustrayions",
+      "vous soustrayiez",
+      "ils soustrayaient"
+    ],
+    "plus que parfait": [
+      "j'avais soustrait",
+      "tu avais soustrait",
+      "il avait soustrait",
+      "nous avions soustrait",
+      "vous aviez soustrait",
+      "ils avaient soustrait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus soustrait",
+      "tu eus soustrait",
+      "il eut soustrait",
+      "nous eûmes soustrait",
+      "vous eûtes soustrait",
+      "ils eurent soustrait"
+    ],
+    "futur simple": [
+      "je soustrairai",
+      "tu soustrairas",
+      "il soustraira",
+      "nous soustrairons",
+      "vous soustrairez",
+      "ils soustrairont"
+    ],
+    "futur antérieur": [
+      "j'aurai soustrait",
+      "tu auras soustrait",
+      "il aura soustrait",
+      "nous aurons soustrait",
+      "vous aurez soustrait",
+      "ils auront soustrait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je soustraie",
+      "que tu soustraies",
+      "qu'il soustraie",
+      "que nous soustrayions",
+      "que vous soustrayiez",
+      "qu'ils soustraient"
+    ],
+    "passé": [
+      "que j'aie soustrait",
+      "que tu aies soustrait",
+      "qu'il ait soustrait",
+      "que nous ayons soustrait",
+      "que vous ayez soustrait",
+      "qu'ils aient soustrait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse soustrait",
+      "que tu eusses soustrait",
+      "qu'il eût soustrait",
+      "que nous eussions soustrait",
+      "que vous eussiez soustrait",
+      "qu'ils eussent soustrait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je soustrairais",
+      "tu soustrairais",
+      "il soustrairait",
+      "nous soustrairions",
+      "vous soustrairiez",
+      "ils soustrairaient"
+    ],
+    "passé": [
+      "j'aurais soustrait",
+      "tu aurais soustrait",
+      "il aurait soustrait",
+      "nous aurions soustrait",
+      "vous auriez soustrait",
+      "ils auraient soustrait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "soustrais",
+      "soustrayons",
+      "soustrayez"
+    ],
+    "passé": [
+      "aie soustrait",
+      "ayons soustrait",
+      "ayez soustrait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "soustraire"
+    ],
+    "passé": [
+      "avoir soustrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "soustrayant"
+    ],
+    "passé": [
+      "soustrait",
+      "ayant soustrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en soustrayant"
+    ],
+    "passé": [
+      "en ayant soustrait"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réécris",
+      "tu réécris",
+      "il réécrit",
+      "nous réécrivons",
+      "vous réécrivez",
+      "ils réécrivent"
+    ],
+    "passé composé": [
+      "j'ai réécrit",
+      "tu as réécrit",
+      "il a réécrit",
+      "nous avons réécrit",
+      "vous avez réécrit",
+      "ils ont réécrit"
+    ],
+    "imparfait": [
+      "je réécrivais",
+      "tu réécrivais",
+      "il réécrivait",
+      "nous réécrivions",
+      "vous réécriviez",
+      "ils réécrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais réécrit",
+      "tu avais réécrit",
+      "il avait réécrit",
+      "nous avions réécrit",
+      "vous aviez réécrit",
+      "ils avaient réécrit"
+    ],
+    "passé simple": [
+      "je réécrivis",
+      "tu réécrivis",
+      "il réécrivit",
+      "nous réécrivîmes",
+      "vous réécrivîtes",
+      "ils réécrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus réécrit",
+      "tu eus réécrit",
+      "il eut réécrit",
+      "nous eûmes réécrit",
+      "vous eûtes réécrit",
+      "ils eurent réécrit"
+    ],
+    "futur simple": [
+      "je réécrirai",
+      "tu réécriras",
+      "il réécrira",
+      "nous réécrirons",
+      "vous réécrirez",
+      "ils réécriront"
+    ],
+    "futur antérieur": [
+      "j'aurai réécrit",
+      "tu auras réécrit",
+      "il aura réécrit",
+      "nous aurons réécrit",
+      "vous aurez réécrit",
+      "ils auront réécrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réécrive",
+      "que tu réécrives",
+      "qu'il réécrive",
+      "que nous réécrivions",
+      "que vous réécriviez",
+      "qu'ils réécrivent"
+    ],
+    "passé": [
+      "que j'aie réécrit",
+      "que tu aies réécrit",
+      "qu'il ait réécrit",
+      "que nous ayons réécrit",
+      "que vous ayez réécrit",
+      "qu'ils aient réécrit"
+    ],
+    "imparfait": [
+      "que je réécrivisse",
+      "que tu réécrivisses",
+      "qu'il réécrivît",
+      "que nous réécrivissions",
+      "que vous réécrivissiez",
+      "qu'ils réécrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réécrit",
+      "que tu eusses réécrit",
+      "qu'il eût réécrit",
+      "que nous eussions réécrit",
+      "que vous eussiez réécrit",
+      "qu'ils eussent réécrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je réécrirais",
+      "tu réécrirais",
+      "il réécrirait",
+      "nous réécririons",
+      "vous réécririez",
+      "ils réécriraient"
+    ],
+    "passé": [
+      "j'aurais réécrit",
+      "tu aurais réécrit",
+      "il aurait réécrit",
+      "nous aurions réécrit",
+      "vous auriez réécrit",
+      "ils auraient réécrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réécris",
+      "réécrivons",
+      "réécrivez"
+    ],
+    "passé": [
+      "aie réécrit",
+      "ayons réécrit",
+      "ayez réécrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "réécrire"
+    ],
+    "passé": [
+      "avoir réécrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "réécrivant"
+    ],
+    "passé": [
+      "réécrit",
+      "ayant réécrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en réécrivant"
+    ],
+    "passé": [
+      "en ayant réécrit"
+    ]
+  }
+}

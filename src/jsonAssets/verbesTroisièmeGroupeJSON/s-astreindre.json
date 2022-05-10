@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'astreins",
+      "tu t'astreins",
+      "il s'astreint",
+      "nous nous astreignons",
+      "vous vous astreignez",
+      "ils s'astreignent"
+    ],
+    "passé composé": [
+      "je me suis astreint",
+      "tu t'es astreint",
+      "il s'est astreint",
+      "nous nous sommes astreints",
+      "vous vous êtes astreints",
+      "ils se sont astreints"
+    ],
+    "imparfait": [
+      "je m'astreignais",
+      "tu t'astreignais",
+      "il s'astreignait",
+      "nous nous astreignions",
+      "vous vous astreigniez",
+      "ils s'astreignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais astreint",
+      "tu t'étais astreint",
+      "il s'était astreint",
+      "nous nous étions astreints",
+      "vous vous étiez astreints",
+      "ils s'étaient astreints"
+    ],
+    "passé simple": [
+      "je m'astreignis",
+      "tu t'astreignis",
+      "il s'astreignit",
+      "nous nous astreignîmes",
+      "vous vous astreignîtes",
+      "ils s'astreignirent"
+    ],
+    "passé antérieur": [
+      "je me fus astreint",
+      "tu te fus astreint",
+      "il se fut astreint",
+      "nous nous fûmes astreints",
+      "vous vous fûtes astreints",
+      "ils se furent astreints"
+    ],
+    "futur simple": [
+      "je m'astreindrai",
+      "tu t'astreindras",
+      "il s'astreindra",
+      "nous nous astreindrons",
+      "vous vous astreindrez",
+      "ils s'astreindront"
+    ],
+    "futur antérieur": [
+      "je me serai astreint",
+      "tu te seras astreint",
+      "il se sera astreint",
+      "nous nous serons astreints",
+      "vous vous serez astreints",
+      "ils se seront astreints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'astreigne",
+      "que tu t'astreignes",
+      "qu'il s'astreigne",
+      "que nous nous astreignions",
+      "que vous vous astreigniez",
+      "qu'ils s'astreignent"
+    ],
+    "passé": [
+      "que je me sois astreint",
+      "que tu te sois astreint",
+      "qu'il se soit astreint",
+      "que nous nous soyons astreints",
+      "que vous vous soyez astreints",
+      "qu'ils se soient astreints"
+    ],
+    "imparfait": [
+      "que je m'astreignisse",
+      "que tu t'astreignisses",
+      "qu'il s'astreignît",
+      "que nous nous astreignissions",
+      "que vous vous astreignissiez",
+      "qu'ils s'astreignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse astreint",
+      "que tu te fusses astreint",
+      "qu'il se fût astreint",
+      "que nous nous fussions astreints",
+      "que vous vous fussiez astreints",
+      "qu'ils se fussent astreints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'astreindrais",
+      "tu t'astreindrais",
+      "il s'astreindrait",
+      "nous nous astreindrions",
+      "vous vous astreindriez",
+      "ils s'astreindraient"
+    ],
+    "passé": [
+      "je me serais astreint",
+      "tu te serais astreint",
+      "il se serait astreint",
+      "nous nous serions astreints",
+      "vous vous seriez astreints",
+      "ils se seraient astreints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "astreins-toi",
+      "astreignons-nous",
+      "astreignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'astreindre"
+    ],
+    "passé": [
+      "s'être astreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'astreignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant astreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'astreignant"
+    ],
+    "passé": [
+      "en s'étant astreint"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'accueille",
+      "tu accueilles",
+      "il accueille",
+      "nous accueillons",
+      "vous accueillez",
+      "ils accueillent"
+    ],
+    "passé composé": [
+      "j'ai accueilli",
+      "tu as accueilli",
+      "il a accueilli",
+      "nous avons accueilli",
+      "vous avez accueilli",
+      "ils ont accueilli"
+    ],
+    "imparfait": [
+      "j'accueillais",
+      "tu accueillais",
+      "il accueillait",
+      "nous accueillions",
+      "vous accueilliez",
+      "ils accueillaient"
+    ],
+    "plus que parfait": [
+      "j'avais accueilli",
+      "tu avais accueilli",
+      "il avait accueilli",
+      "nous avions accueilli",
+      "vous aviez accueilli",
+      "ils avaient accueilli"
+    ],
+    "passé simple": [
+      "j'accueillis",
+      "tu accueillis",
+      "il accueillit",
+      "nous accueillîmes",
+      "vous accueillîtes",
+      "ils accueillirent"
+    ],
+    "passé antérieur": [
+      "j'eus accueilli",
+      "tu eus accueilli",
+      "il eut accueilli",
+      "nous eûmes accueilli",
+      "vous eûtes accueilli",
+      "ils eurent accueilli"
+    ],
+    "futur simple": [
+      "j'accueillerai",
+      "tu accueilleras",
+      "il accueillera",
+      "nous accueillerons",
+      "vous accueillerez",
+      "ils accueilleront"
+    ],
+    "futur antérieur": [
+      "j'aurai accueilli",
+      "tu auras accueilli",
+      "il aura accueilli",
+      "nous aurons accueilli",
+      "vous aurez accueilli",
+      "ils auront accueilli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'accueille",
+      "que tu accueilles",
+      "qu'il accueille",
+      "que nous accueillions",
+      "que vous accueilliez",
+      "qu'ils accueillent"
+    ],
+    "passé": [
+      "que j'aie accueilli",
+      "que tu aies accueilli",
+      "qu'il ait accueilli",
+      "que nous ayons accueilli",
+      "que vous ayez accueilli",
+      "qu'ils aient accueilli"
+    ],
+    "imparfait": [
+      "que j'accueillisse",
+      "que tu accueillisses",
+      "qu'il accueillît",
+      "que nous accueillissions",
+      "que vous accueillissiez",
+      "qu'ils accueillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse accueilli",
+      "que tu eusses accueilli",
+      "qu'il eût accueilli",
+      "que nous eussions accueilli",
+      "que vous eussiez accueilli",
+      "qu'ils eussent accueilli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'accueillerais",
+      "tu accueillerais",
+      "il accueillerait",
+      "nous accueillerions",
+      "vous accueilleriez",
+      "ils accueilleraient"
+    ],
+    "passé": [
+      "j'aurais accueilli",
+      "tu aurais accueilli",
+      "il aurait accueilli",
+      "nous aurions accueilli",
+      "vous auriez accueilli",
+      "ils auraient accueilli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "accueille",
+      "accueillons",
+      "accueillez"
+    ],
+    "passé": [
+      "aie accueilli",
+      "ayons accueilli",
+      "ayez accueilli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "accueillir"
+    ],
+    "passé": [
+      "avoir accueilli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "accueillant"
+    ],
+    "passé": [
+      "accueilli",
+      "ayant accueilli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en accueillant"
+    ],
+    "passé": [
+      "en ayant accueilli"
+    ]
+  }
+}

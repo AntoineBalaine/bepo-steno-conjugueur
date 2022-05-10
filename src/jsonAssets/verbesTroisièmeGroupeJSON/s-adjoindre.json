@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'adjoins",
+      "tu t'adjoins",
+      "il s'adjoint",
+      "nous nous adjoignons",
+      "vous vous adjoignez",
+      "ils s'adjoignent"
+    ],
+    "passé composé": [
+      "je me suis adjoint",
+      "tu t'es adjoint",
+      "il s'est adjoint",
+      "nous nous sommes adjoints",
+      "vous vous êtes adjoints",
+      "ils se sont adjoints"
+    ],
+    "imparfait": [
+      "je m'adjoignais",
+      "tu t'adjoignais",
+      "il s'adjoignait",
+      "nous nous adjoignions",
+      "vous vous adjoigniez",
+      "ils s'adjoignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais adjoint",
+      "tu t'étais adjoint",
+      "il s'était adjoint",
+      "nous nous étions adjoints",
+      "vous vous étiez adjoints",
+      "ils s'étaient adjoints"
+    ],
+    "passé simple": [
+      "je m'adjoignis",
+      "tu t'adjoignis",
+      "il s'adjoignit",
+      "nous nous adjoignîmes",
+      "vous vous adjoignîtes",
+      "ils s'adjoignirent"
+    ],
+    "passé antérieur": [
+      "je me fus adjoint",
+      "tu te fus adjoint",
+      "il se fut adjoint",
+      "nous nous fûmes adjoints",
+      "vous vous fûtes adjoints",
+      "ils se furent adjoints"
+    ],
+    "futur simple": [
+      "je m'adjoindrai",
+      "tu t'adjoindras",
+      "il s'adjoindra",
+      "nous nous adjoindrons",
+      "vous vous adjoindrez",
+      "ils s'adjoindront"
+    ],
+    "futur antérieur": [
+      "je me serai adjoint",
+      "tu te seras adjoint",
+      "il se sera adjoint",
+      "nous nous serons adjoints",
+      "vous vous serez adjoints",
+      "ils se seront adjoints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'adjoigne",
+      "que tu t'adjoignes",
+      "qu'il s'adjoigne",
+      "que nous nous adjoignions",
+      "que vous vous adjoigniez",
+      "qu'ils s'adjoignent"
+    ],
+    "passé": [
+      "que je me sois adjoint",
+      "que tu te sois adjoint",
+      "qu'il se soit adjoint",
+      "que nous nous soyons adjoints",
+      "que vous vous soyez adjoints",
+      "qu'ils se soient adjoints"
+    ],
+    "imparfait": [
+      "que je m'adjoignisse",
+      "que tu t'adjoignisses",
+      "qu'il s'adjoignît",
+      "que nous nous adjoignissions",
+      "que vous vous adjoignissiez",
+      "qu'ils s'adjoignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse adjoint",
+      "que tu te fusses adjoint",
+      "qu'il se fût adjoint",
+      "que nous nous fussions adjoints",
+      "que vous vous fussiez adjoints",
+      "qu'ils se fussent adjoints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'adjoindrais",
+      "tu t'adjoindrais",
+      "il s'adjoindrait",
+      "nous nous adjoindrions",
+      "vous vous adjoindriez",
+      "ils s'adjoindraient"
+    ],
+    "passé": [
+      "je me serais adjoint",
+      "tu te serais adjoint",
+      "il se serait adjoint",
+      "nous nous serions adjoints",
+      "vous vous seriez adjoints",
+      "ils se seraient adjoints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "adjoins-toi",
+      "adjoignons-nous",
+      "adjoignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'adjoindre"
+    ],
+    "passé": [
+      "s'être adjoint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'adjoignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant adjoint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'adjoignant"
+    ],
+    "passé": [
+      "en s'étant adjoint"
+    ]
+  }
+}

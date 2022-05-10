@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je recours",
+      "tu recours",
+      "il recourt",
+      "nous recourons",
+      "vous recourez",
+      "ils recourent"
+    ],
+    "passé composé": [
+      "j'ai recouru",
+      "tu as recouru",
+      "il a recouru",
+      "nous avons recouru",
+      "vous avez recouru",
+      "ils ont recouru"
+    ],
+    "imparfait": [
+      "je recourais",
+      "tu recourais",
+      "il recourait",
+      "nous recourions",
+      "vous recouriez",
+      "ils recouraient"
+    ],
+    "plus que parfait": [
+      "j'avais recouru",
+      "tu avais recouru",
+      "il avait recouru",
+      "nous avions recouru",
+      "vous aviez recouru",
+      "ils avaient recouru"
+    ],
+    "passé simple": [
+      "je recourus",
+      "tu recourus",
+      "il recourut",
+      "nous recourûmes",
+      "vous recourûtes",
+      "ils recoururent"
+    ],
+    "passé antérieur": [
+      "j'eus recouru",
+      "tu eus recouru",
+      "il eut recouru",
+      "nous eûmes recouru",
+      "vous eûtes recouru",
+      "ils eurent recouru"
+    ],
+    "futur simple": [
+      "je recourrai",
+      "tu recourras",
+      "il recourra",
+      "nous recourrons",
+      "vous recourrez",
+      "ils recourront"
+    ],
+    "futur antérieur": [
+      "j'aurai recouru",
+      "tu auras recouru",
+      "il aura recouru",
+      "nous aurons recouru",
+      "vous aurez recouru",
+      "ils auront recouru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je recoure",
+      "que tu recoures",
+      "qu'il recoure",
+      "que nous recourions",
+      "que vous recouriez",
+      "qu'ils recourent"
+    ],
+    "passé": [
+      "que j'aie recouru",
+      "que tu aies recouru",
+      "qu'il ait recouru",
+      "que nous ayons recouru",
+      "que vous ayez recouru",
+      "qu'ils aient recouru"
+    ],
+    "imparfait": [
+      "que je recourusse",
+      "que tu recourusses",
+      "qu'il recourût",
+      "que nous recourussions",
+      "que vous recourussiez",
+      "qu'ils recourussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse recouru",
+      "que tu eusses recouru",
+      "qu'il eût recouru",
+      "que nous eussions recouru",
+      "que vous eussiez recouru",
+      "qu'ils eussent recouru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je recourrais",
+      "tu recourrais",
+      "il recourrait",
+      "nous recourrions",
+      "vous recourriez",
+      "ils recourraient"
+    ],
+    "passé": [
+      "j'aurais recouru",
+      "tu aurais recouru",
+      "il aurait recouru",
+      "nous aurions recouru",
+      "vous auriez recouru",
+      "ils auraient recouru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recours",
+      "recourons",
+      "recourez"
+    ],
+    "passé": [
+      "aie recouru",
+      "ayons recouru",
+      "ayez recouru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "recourir"
+    ],
+    "passé": [
+      "avoir recouru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "recourant"
+    ],
+    "passé": [
+      "recouru",
+      "ayant recouru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en recourant"
+    ],
+    "passé": [
+      "en ayant recouru"
+    ]
+  }
+}

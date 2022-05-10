@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me redissous",
+      "tu te redissous",
+      "il se redissout",
+      "nous nous redissolvons",
+      "vous vous redissolvez",
+      "ils se redissolvent"
+    ],
+    "passé composé": [
+      "je me suis redissout",
+      "tu t'es redissout",
+      "il s'est redissout",
+      "nous nous sommes redissouts",
+      "vous vous êtes redissouts",
+      "ils se sont redissouts"
+    ],
+    "imparfait": [
+      "je me redissolvais",
+      "tu te redissolvais",
+      "il se redissolvait",
+      "nous nous redissolvions",
+      "vous vous redissolviez",
+      "ils se redissolvaient"
+    ],
+    "plus que parfait": [
+      "je m'étais redissout",
+      "tu t'étais redissout",
+      "il s'était redissout",
+      "nous nous étions redissouts",
+      "vous vous étiez redissouts",
+      "ils s'étaient redissouts"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "je me fus redissout",
+      "tu te fus redissout",
+      "il se fut redissout",
+      "nous nous fûmes redissouts",
+      "vous vous fûtes redissouts",
+      "ils se furent redissouts"
+    ],
+    "futur simple": [
+      "je me redissoudrai",
+      "tu te redissoudras",
+      "il se redissoudra",
+      "nous nous redissoudrons",
+      "vous vous redissoudrez",
+      "ils se redissoudront"
+    ],
+    "futur antérieur": [
+      "je me serai redissout",
+      "tu te seras redissout",
+      "il se sera redissout",
+      "nous nous serons redissouts",
+      "vous vous serez redissouts",
+      "ils se seront redissouts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me redissolve",
+      "que tu te redissolves",
+      "qu'il se redissolve",
+      "que nous nous redissolvions",
+      "que vous vous redissolviez",
+      "qu'ils se redissolvent"
+    ],
+    "passé": [
+      "que je me sois redissout",
+      "que tu te sois redissout",
+      "qu'il se soit redissout",
+      "que nous nous soyons redissouts",
+      "que vous vous soyez redissouts",
+      "qu'ils se soient redissouts"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que je me fusse redissout",
+      "que tu te fusses redissout",
+      "qu'il se fût redissout",
+      "que nous nous fussions redissouts",
+      "que vous vous fussiez redissouts",
+      "qu'ils se fussent redissouts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me redissoudrais",
+      "tu te redissoudrais",
+      "il se redissoudrait",
+      "nous nous redissoudrions",
+      "vous vous redissoudriez",
+      "ils se redissoudraient"
+    ],
+    "passé": [
+      "je me serais redissout",
+      "tu te serais redissout",
+      "il se serait redissout",
+      "nous nous serions redissouts",
+      "vous vous seriez redissouts",
+      "ils se seraient redissouts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "redissous-toi",
+      "redissolvons-nous",
+      "redissolvez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se redissoudre"
+    ],
+    "passé": [
+      "s'être redissout"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se redissolvant"
+    ],
+    "passé": [
+      "-",
+      "s'étant redissout"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se redissolvant"
+    ],
+    "passé": [
+      "en s'étant redissout"
+    ]
+  }
+}

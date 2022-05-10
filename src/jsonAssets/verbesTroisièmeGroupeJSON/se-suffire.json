@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me suffis",
+      "tu te suffis",
+      "il se suffit",
+      "nous nous suffisons",
+      "vous vous suffisez",
+      "ils se suffisent"
+    ],
+    "passé composé": [
+      "je me suis suffit",
+      "tu t'es suffit",
+      "il s'est suffit",
+      "nous nous sommes suffit",
+      "vous vous êtes suffit",
+      "ils se sont suffit"
+    ],
+    "imparfait": [
+      "je me suffisais",
+      "tu te suffisais",
+      "il se suffisait",
+      "nous nous suffisions",
+      "vous vous suffisiez",
+      "ils se suffisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais suffit",
+      "tu t'étais suffit",
+      "il s'était suffit",
+      "nous nous étions suffit",
+      "vous vous étiez suffit",
+      "ils s'étaient suffit"
+    ],
+    "passé simple": [
+      "je me suffis",
+      "tu te suffis",
+      "il se suffit",
+      "nous nous suffîmes",
+      "vous vous suffîtes",
+      "ils se suffirent"
+    ],
+    "passé antérieur": [
+      "je me fus suffit",
+      "tu te fus suffit",
+      "il se fut suffit",
+      "nous nous fûmes suffit",
+      "vous vous fûtes suffit",
+      "ils se furent suffit"
+    ],
+    "futur simple": [
+      "je me suffirai",
+      "tu te suffiras",
+      "il se suffira",
+      "nous nous suffirons",
+      "vous vous suffirez",
+      "ils se suffiront"
+    ],
+    "futur antérieur": [
+      "je me serai suffit",
+      "tu te seras suffit",
+      "il se sera suffit",
+      "nous nous serons suffit",
+      "vous vous serez suffit",
+      "ils se seront suffit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me suffise",
+      "que tu te suffises",
+      "qu'il se suffise",
+      "que nous nous suffisions",
+      "que vous vous suffisiez",
+      "qu'ils se suffisent"
+    ],
+    "passé": [
+      "que je me sois suffit",
+      "que tu te sois suffit",
+      "qu'il se soit suffit",
+      "que nous nous soyons suffit",
+      "que vous vous soyez suffit",
+      "qu'ils se soient suffit"
+    ],
+    "imparfait": [
+      "que je me suffisse",
+      "que tu te suffisses",
+      "qu'il se suffît",
+      "que nous nous suffissions",
+      "que vous vous suffissiez",
+      "qu'ils se suffissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse suffit",
+      "que tu te fusses suffit",
+      "qu'il se fût suffit",
+      "que nous nous fussions suffit",
+      "que vous vous fussiez suffit",
+      "qu'ils se fussent suffit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me suffirais",
+      "tu te suffirais",
+      "il se suffirait",
+      "nous nous suffirions",
+      "vous vous suffiriez",
+      "ils se suffiraient"
+    ],
+    "passé": [
+      "je me serais suffit",
+      "tu te serais suffit",
+      "il se serait suffit",
+      "nous nous serions suffit",
+      "vous vous seriez suffit",
+      "ils se seraient suffit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "suffis-toi",
+      "suffisons-nous",
+      "suffisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se suffire"
+    ],
+    "passé": [
+      "s'être suffit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se suffisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant suffit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se suffisant"
+    ],
+    "passé": [
+      "en s'étant suffit"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je méconnais",
+      "tu méconnais",
+      "il méconnaît",
+      "nous méconnaissons",
+      "vous méconnaissez",
+      "ils méconnaissent"
+    ],
+    "passé composé": [
+      "j'ai méconnu",
+      "tu as méconnu",
+      "il a méconnu",
+      "nous avons méconnu",
+      "vous avez méconnu",
+      "ils ont méconnu"
+    ],
+    "imparfait": [
+      "je méconnaissais",
+      "tu méconnaissais",
+      "il méconnaissait",
+      "nous méconnaissions",
+      "vous méconnaissiez",
+      "ils méconnaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais méconnu",
+      "tu avais méconnu",
+      "il avait méconnu",
+      "nous avions méconnu",
+      "vous aviez méconnu",
+      "ils avaient méconnu"
+    ],
+    "passé simple": [
+      "je méconnus",
+      "tu méconnus",
+      "il méconnut",
+      "nous méconnûmes",
+      "vous méconnûtes",
+      "ils méconnurent"
+    ],
+    "passé antérieur": [
+      "j'eus méconnu",
+      "tu eus méconnu",
+      "il eut méconnu",
+      "nous eûmes méconnu",
+      "vous eûtes méconnu",
+      "ils eurent méconnu"
+    ],
+    "futur simple": [
+      "je méconnaîtrai",
+      "tu méconnaîtras",
+      "il méconnaîtra",
+      "nous méconnaîtrons",
+      "vous méconnaîtrez",
+      "ils méconnaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai méconnu",
+      "tu auras méconnu",
+      "il aura méconnu",
+      "nous aurons méconnu",
+      "vous aurez méconnu",
+      "ils auront méconnu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je méconnaisse",
+      "que tu méconnaisses",
+      "qu'il méconnaisse",
+      "que nous méconnaissions",
+      "que vous méconnaissiez",
+      "qu'ils méconnaissent"
+    ],
+    "passé": [
+      "que j'aie méconnu",
+      "que tu aies méconnu",
+      "qu'il ait méconnu",
+      "que nous ayons méconnu",
+      "que vous ayez méconnu",
+      "qu'ils aient méconnu"
+    ],
+    "imparfait": [
+      "que je méconnusse",
+      "que tu méconnusses",
+      "qu'il méconnût",
+      "que nous méconnussions",
+      "que vous méconnussiez",
+      "qu'ils méconnussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse méconnu",
+      "que tu eusses méconnu",
+      "qu'il eût méconnu",
+      "que nous eussions méconnu",
+      "que vous eussiez méconnu",
+      "qu'ils eussent méconnu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je méconnaîtrais",
+      "tu méconnaîtrais",
+      "il méconnaîtrait",
+      "nous méconnaîtrions",
+      "vous méconnaîtriez",
+      "ils méconnaîtraient"
+    ],
+    "passé": [
+      "j'aurais méconnu",
+      "tu aurais méconnu",
+      "il aurait méconnu",
+      "nous aurions méconnu",
+      "vous auriez méconnu",
+      "ils auraient méconnu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "méconnais",
+      "méconnaissons",
+      "méconnaissez"
+    ],
+    "passé": [
+      "aie méconnu",
+      "ayons méconnu",
+      "ayez méconnu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "méconnaître"
+    ],
+    "passé": [
+      "avoir méconnu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "méconnaissant"
+    ],
+    "passé": [
+      "méconnu",
+      "ayant méconnu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en méconnaissant"
+    ],
+    "passé": [
+      "en ayant méconnu"
+    ]
+  }
+}

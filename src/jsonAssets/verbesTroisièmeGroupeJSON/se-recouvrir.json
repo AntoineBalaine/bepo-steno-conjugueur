@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me recouvre",
+      "tu te recouvres",
+      "il se recouvre",
+      "nous nous recouvrons",
+      "vous vous recouvrez",
+      "ils se recouvrent"
+    ],
+    "passé composé": [
+      "je me suis recouvert",
+      "tu t'es recouvert",
+      "il s'est recouvert",
+      "nous nous sommes recouverts",
+      "vous vous êtes recouverts",
+      "ils se sont recouverts"
+    ],
+    "imparfait": [
+      "je me recouvrais",
+      "tu te recouvrais",
+      "il se recouvrait",
+      "nous nous recouvrions",
+      "vous vous recouvriez",
+      "ils se recouvraient"
+    ],
+    "plus que parfait": [
+      "je m'étais recouvert",
+      "tu t'étais recouvert",
+      "il s'était recouvert",
+      "nous nous étions recouverts",
+      "vous vous étiez recouverts",
+      "ils s'étaient recouverts"
+    ],
+    "passé simple": [
+      "je me recouvris",
+      "tu te recouvris",
+      "il se recouvrit",
+      "nous nous recouvrîmes",
+      "vous vous recouvrîtes",
+      "ils se recouvrirent"
+    ],
+    "passé antérieur": [
+      "je me fus recouvert",
+      "tu te fus recouvert",
+      "il se fut recouvert",
+      "nous nous fûmes recouverts",
+      "vous vous fûtes recouverts",
+      "ils se furent recouverts"
+    ],
+    "futur simple": [
+      "je me recouvrirai",
+      "tu te recouvriras",
+      "il se recouvrira",
+      "nous nous recouvrirons",
+      "vous vous recouvrirez",
+      "ils se recouvriront"
+    ],
+    "futur antérieur": [
+      "je me serai recouvert",
+      "tu te seras recouvert",
+      "il se sera recouvert",
+      "nous nous serons recouverts",
+      "vous vous serez recouverts",
+      "ils se seront recouverts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me recouvre",
+      "que tu te recouvres",
+      "qu'il se recouvre",
+      "que nous nous recouvrions",
+      "que vous vous recouvriez",
+      "qu'ils se recouvrent"
+    ],
+    "passé": [
+      "que je me sois recouvert",
+      "que tu te sois recouvert",
+      "qu'il se soit recouvert",
+      "que nous nous soyons recouverts",
+      "que vous vous soyez recouverts",
+      "qu'ils se soient recouverts"
+    ],
+    "imparfait": [
+      "que je me recouvrisse",
+      "que tu te recouvrisses",
+      "qu'il se recouvrît",
+      "que nous nous recouvrissions",
+      "que vous vous recouvrissiez",
+      "qu'ils se recouvrissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse recouvert",
+      "que tu te fusses recouvert",
+      "qu'il se fût recouvert",
+      "que nous nous fussions recouverts",
+      "que vous vous fussiez recouverts",
+      "qu'ils se fussent recouverts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me recouvrirais",
+      "tu te recouvrirais",
+      "il se recouvrirait",
+      "nous nous recouvririons",
+      "vous vous recouvririez",
+      "ils se recouvriraient"
+    ],
+    "passé": [
+      "je me serais recouvert",
+      "tu te serais recouvert",
+      "il se serait recouvert",
+      "nous nous serions recouverts",
+      "vous vous seriez recouverts",
+      "ils se seraient recouverts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recouvre-toi",
+      "recouvrons-nous",
+      "recouvrez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se recouvrir"
+    ],
+    "passé": [
+      "s'être recouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se recouvrant"
+    ],
+    "passé": [
+      "-",
+      "s'étant recouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se recouvrant"
+    ],
+    "passé": [
+      "en s'étant recouvert"
+    ]
+  }
+}

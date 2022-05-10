@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il sied",
+      "-",
+      "-",
+      "ils siéent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il seyait",
+      "-",
+      "-",
+      "ils seyaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il siéra",
+      "-",
+      "-",
+      "ils siéront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "qu'il siée",
+      "-",
+      "-",
+      "qu'ils siéent"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "il siérait",
+      "-",
+      "-",
+      "ils siéraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "seoir"
+    ],
+    "passé": [
+      "-"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "séant"
+    ],
+    "passé": [
+      "sis",
+      "-"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en séant"
+    ],
+    "passé": [
+      "-"
+    ]
+  }
+}

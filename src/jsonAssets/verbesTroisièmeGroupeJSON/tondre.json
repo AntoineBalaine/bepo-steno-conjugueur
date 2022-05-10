@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je tonds",
+      "tu tonds",
+      "il tond",
+      "nous tondons",
+      "vous tondez",
+      "ils tondent"
+    ],
+    "passé composé": [
+      "j'ai tondu",
+      "tu as tondu",
+      "il a tondu",
+      "nous avons tondu",
+      "vous avez tondu",
+      "ils ont tondu"
+    ],
+    "imparfait": [
+      "je tondais",
+      "tu tondais",
+      "il tondait",
+      "nous tondions",
+      "vous tondiez",
+      "ils tondaient"
+    ],
+    "plus que parfait": [
+      "j'avais tondu",
+      "tu avais tondu",
+      "il avait tondu",
+      "nous avions tondu",
+      "vous aviez tondu",
+      "ils avaient tondu"
+    ],
+    "passé simple": [
+      "je tondis",
+      "tu tondis",
+      "il tondit",
+      "nous tondîmes",
+      "vous tondîtes",
+      "ils tondirent"
+    ],
+    "passé antérieur": [
+      "j'eus tondu",
+      "tu eus tondu",
+      "il eut tondu",
+      "nous eûmes tondu",
+      "vous eûtes tondu",
+      "ils eurent tondu"
+    ],
+    "futur simple": [
+      "je tondrai",
+      "tu tondras",
+      "il tondra",
+      "nous tondrons",
+      "vous tondrez",
+      "ils tondront"
+    ],
+    "futur antérieur": [
+      "j'aurai tondu",
+      "tu auras tondu",
+      "il aura tondu",
+      "nous aurons tondu",
+      "vous aurez tondu",
+      "ils auront tondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je tonde",
+      "que tu tondes",
+      "qu'il tonde",
+      "que nous tondions",
+      "que vous tondiez",
+      "qu'ils tondent"
+    ],
+    "passé": [
+      "que j'aie tondu",
+      "que tu aies tondu",
+      "qu'il ait tondu",
+      "que nous ayons tondu",
+      "que vous ayez tondu",
+      "qu'ils aient tondu"
+    ],
+    "imparfait": [
+      "que je tondisse",
+      "que tu tondisses",
+      "qu'il tondît",
+      "que nous tondissions",
+      "que vous tondissiez",
+      "qu'ils tondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse tondu",
+      "que tu eusses tondu",
+      "qu'il eût tondu",
+      "que nous eussions tondu",
+      "que vous eussiez tondu",
+      "qu'ils eussent tondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je tondrais",
+      "tu tondrais",
+      "il tondrait",
+      "nous tondrions",
+      "vous tondriez",
+      "ils tondraient"
+    ],
+    "passé": [
+      "j'aurais tondu",
+      "tu aurais tondu",
+      "il aurait tondu",
+      "nous aurions tondu",
+      "vous auriez tondu",
+      "ils auraient tondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tonds",
+      "tondons",
+      "tondez"
+    ],
+    "passé": [
+      "aie tondu",
+      "ayons tondu",
+      "ayez tondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "tondre"
+    ],
+    "passé": [
+      "avoir tondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "tondant"
+    ],
+    "passé": [
+      "tondu",
+      "ayant tondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en tondant"
+    ],
+    "passé": [
+      "en ayant tondu"
+    ]
+  }
+}

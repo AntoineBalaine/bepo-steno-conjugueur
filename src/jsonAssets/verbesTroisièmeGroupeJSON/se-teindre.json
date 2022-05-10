@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me teins",
+      "tu te teins",
+      "il se teint",
+      "nous nous teignons",
+      "vous vous teignez",
+      "ils se teignent"
+    ],
+    "passé composé": [
+      "je me suis teint",
+      "tu t'es teint",
+      "il s'est teint",
+      "nous nous sommes teints",
+      "vous vous êtes teints",
+      "ils se sont teints"
+    ],
+    "imparfait": [
+      "je me teignais",
+      "tu te teignais",
+      "il se teignait",
+      "nous nous teignions",
+      "vous vous teigniez",
+      "ils se teignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais teint",
+      "tu t'étais teint",
+      "il s'était teint",
+      "nous nous étions teints",
+      "vous vous étiez teints",
+      "ils s'étaient teints"
+    ],
+    "passé simple": [
+      "je me teignis",
+      "tu te teignis",
+      "il se teignit",
+      "nous nous teignîmes",
+      "vous vous teignîtes",
+      "ils se teignirent"
+    ],
+    "passé antérieur": [
+      "je me fus teint",
+      "tu te fus teint",
+      "il se fut teint",
+      "nous nous fûmes teints",
+      "vous vous fûtes teints",
+      "ils se furent teints"
+    ],
+    "futur simple": [
+      "je me teindrai",
+      "tu te teindras",
+      "il se teindra",
+      "nous nous teindrons",
+      "vous vous teindrez",
+      "ils se teindront"
+    ],
+    "futur antérieur": [
+      "je me serai teint",
+      "tu te seras teint",
+      "il se sera teint",
+      "nous nous serons teints",
+      "vous vous serez teints",
+      "ils se seront teints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me teigne",
+      "que tu te teignes",
+      "qu'il se teigne",
+      "que nous nous teignions",
+      "que vous vous teigniez",
+      "qu'ils se teignent"
+    ],
+    "passé": [
+      "que je me sois teint",
+      "que tu te sois teint",
+      "qu'il se soit teint",
+      "que nous nous soyons teints",
+      "que vous vous soyez teints",
+      "qu'ils se soient teints"
+    ],
+    "imparfait": [
+      "que je me teignisse",
+      "que tu te teignisses",
+      "qu'il se teignît",
+      "que nous nous teignissions",
+      "que vous vous teignissiez",
+      "qu'ils se teignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse teint",
+      "que tu te fusses teint",
+      "qu'il se fût teint",
+      "que nous nous fussions teints",
+      "que vous vous fussiez teints",
+      "qu'ils se fussent teints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me teindrais",
+      "tu te teindrais",
+      "il se teindrait",
+      "nous nous teindrions",
+      "vous vous teindriez",
+      "ils se teindraient"
+    ],
+    "passé": [
+      "je me serais teint",
+      "tu te serais teint",
+      "il se serait teint",
+      "nous nous serions teints",
+      "vous vous seriez teints",
+      "ils se seraient teints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "teins-toi",
+      "teignons-nous",
+      "teignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se teindre"
+    ],
+    "passé": [
+      "s'être teint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se teignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant teint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se teignant"
+    ],
+    "passé": [
+      "en s'étant teint"
+    ]
+  }
+}

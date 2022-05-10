@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je déteins",
+      "tu déteins",
+      "il déteint",
+      "nous déteignons",
+      "vous déteignez",
+      "ils déteignent"
+    ],
+    "passé composé": [
+      "j'ai déteint",
+      "tu as déteint",
+      "il a déteint",
+      "nous avons déteint",
+      "vous avez déteint",
+      "ils ont déteint"
+    ],
+    "imparfait": [
+      "je déteignais",
+      "tu déteignais",
+      "il déteignait",
+      "nous déteignions",
+      "vous déteigniez",
+      "ils déteignaient"
+    ],
+    "plus que parfait": [
+      "j'avais déteint",
+      "tu avais déteint",
+      "il avait déteint",
+      "nous avions déteint",
+      "vous aviez déteint",
+      "ils avaient déteint"
+    ],
+    "passé simple": [
+      "je déteignis",
+      "tu déteignis",
+      "il déteignit",
+      "nous déteignîmes",
+      "vous déteignîtes",
+      "ils déteignirent"
+    ],
+    "passé antérieur": [
+      "j'eus déteint",
+      "tu eus déteint",
+      "il eut déteint",
+      "nous eûmes déteint",
+      "vous eûtes déteint",
+      "ils eurent déteint"
+    ],
+    "futur simple": [
+      "je déteindrai",
+      "tu déteindras",
+      "il déteindra",
+      "nous déteindrons",
+      "vous déteindrez",
+      "ils déteindront"
+    ],
+    "futur antérieur": [
+      "j'aurai déteint",
+      "tu auras déteint",
+      "il aura déteint",
+      "nous aurons déteint",
+      "vous aurez déteint",
+      "ils auront déteint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je déteigne",
+      "que tu déteignes",
+      "qu'il déteigne",
+      "que nous déteignions",
+      "que vous déteigniez",
+      "qu'ils déteignent"
+    ],
+    "passé": [
+      "que j'aie déteint",
+      "que tu aies déteint",
+      "qu'il ait déteint",
+      "que nous ayons déteint",
+      "que vous ayez déteint",
+      "qu'ils aient déteint"
+    ],
+    "imparfait": [
+      "que je déteignisse",
+      "que tu déteignisses",
+      "qu'il déteignît",
+      "que nous déteignissions",
+      "que vous déteignissiez",
+      "qu'ils déteignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse déteint",
+      "que tu eusses déteint",
+      "qu'il eût déteint",
+      "que nous eussions déteint",
+      "que vous eussiez déteint",
+      "qu'ils eussent déteint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je déteindrais",
+      "tu déteindrais",
+      "il déteindrait",
+      "nous déteindrions",
+      "vous déteindriez",
+      "ils déteindraient"
+    ],
+    "passé": [
+      "j'aurais déteint",
+      "tu aurais déteint",
+      "il aurait déteint",
+      "nous aurions déteint",
+      "vous auriez déteint",
+      "ils auraient déteint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déteins",
+      "déteignons",
+      "déteignez"
+    ],
+    "passé": [
+      "aie déteint",
+      "ayons déteint",
+      "ayez déteint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "déteindre"
+    ],
+    "passé": [
+      "avoir déteint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "déteignant"
+    ],
+    "passé": [
+      "déteint",
+      "ayant déteint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en déteignant"
+    ],
+    "passé": [
+      "en ayant déteint"
+    ]
+  }
+}

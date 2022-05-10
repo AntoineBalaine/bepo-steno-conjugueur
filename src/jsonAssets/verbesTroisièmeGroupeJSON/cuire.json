@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je cuis",
+      "tu cuis",
+      "il cuit",
+      "nous cuisons",
+      "vous cuisez",
+      "ils cuisent"
+    ],
+    "passé composé": [
+      "j'ai cuit",
+      "tu as cuit",
+      "il a cuit",
+      "nous avons cuit",
+      "vous avez cuit",
+      "ils ont cuit"
+    ],
+    "imparfait": [
+      "je cuisais",
+      "tu cuisais",
+      "il cuisait",
+      "nous cuisions",
+      "vous cuisiez",
+      "ils cuisaient"
+    ],
+    "plus que parfait": [
+      "j'avais cuit",
+      "tu avais cuit",
+      "il avait cuit",
+      "nous avions cuit",
+      "vous aviez cuit",
+      "ils avaient cuit"
+    ],
+    "passé simple": [
+      "je cuisis",
+      "tu cuisis",
+      "il cuisit",
+      "nous cuisîmes",
+      "vous cuisîtes",
+      "ils cuisirent"
+    ],
+    "passé antérieur": [
+      "j'eus cuit",
+      "tu eus cuit",
+      "il eut cuit",
+      "nous eûmes cuit",
+      "vous eûtes cuit",
+      "ils eurent cuit"
+    ],
+    "futur simple": [
+      "je cuirai",
+      "tu cuiras",
+      "il cuira",
+      "nous cuirons",
+      "vous cuirez",
+      "ils cuiront"
+    ],
+    "futur antérieur": [
+      "j'aurai cuit",
+      "tu auras cuit",
+      "il aura cuit",
+      "nous aurons cuit",
+      "vous aurez cuit",
+      "ils auront cuit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je cuise",
+      "que tu cuises",
+      "qu'il cuise",
+      "que nous cuisions",
+      "que vous cuisiez",
+      "qu'ils cuisent"
+    ],
+    "passé": [
+      "que j'aie cuit",
+      "que tu aies cuit",
+      "qu'il ait cuit",
+      "que nous ayons cuit",
+      "que vous ayez cuit",
+      "qu'ils aient cuit"
+    ],
+    "imparfait": [
+      "que je cuisisse",
+      "que tu cuisisses",
+      "qu'il cuisît",
+      "que nous cuisissions",
+      "que vous cuisissiez",
+      "qu'ils cuisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse cuit",
+      "que tu eusses cuit",
+      "qu'il eût cuit",
+      "que nous eussions cuit",
+      "que vous eussiez cuit",
+      "qu'ils eussent cuit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je cuirais",
+      "tu cuirais",
+      "il cuirait",
+      "nous cuirions",
+      "vous cuiriez",
+      "ils cuiraient"
+    ],
+    "passé": [
+      "j'aurais cuit",
+      "tu aurais cuit",
+      "il aurait cuit",
+      "nous aurions cuit",
+      "vous auriez cuit",
+      "ils auraient cuit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "cuis",
+      "cuisons",
+      "cuisez"
+    ],
+    "passé": [
+      "aie cuit",
+      "ayons cuit",
+      "ayez cuit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "cuire"
+    ],
+    "passé": [
+      "avoir cuit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "cuisant"
+    ],
+    "passé": [
+      "cuit",
+      "ayant cuit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en cuisant"
+    ],
+    "passé": [
+      "en ayant cuit"
+    ]
+  }
+}

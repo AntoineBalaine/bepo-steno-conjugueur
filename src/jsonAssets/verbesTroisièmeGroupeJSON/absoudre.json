@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'absous",
+      "tu absous",
+      "il absout",
+      "nous absolvons",
+      "vous absolvez",
+      "ils absolvent"
+    ],
+    "passé composé": [
+      "j'ai absout",
+      "tu as absout",
+      "il a absout",
+      "nous avons absout",
+      "vous avez absout",
+      "ils ont absout"
+    ],
+    "imparfait": [
+      "j'absolvais",
+      "tu absolvais",
+      "il absolvait",
+      "nous absolvions",
+      "vous absolviez",
+      "ils absolvaient"
+    ],
+    "plus que parfait": [
+      "j'avais absout",
+      "tu avais absout",
+      "il avait absout",
+      "nous avions absout",
+      "vous aviez absout",
+      "ils avaient absout"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus absout",
+      "tu eus absout",
+      "il eut absout",
+      "nous eûmes absout",
+      "vous eûtes absout",
+      "ils eurent absout"
+    ],
+    "futur simple": [
+      "j'absoudrai",
+      "tu absoudras",
+      "il absoudra",
+      "nous absoudrons",
+      "vous absoudrez",
+      "ils absoudront"
+    ],
+    "futur antérieur": [
+      "j'aurai absout",
+      "tu auras absout",
+      "il aura absout",
+      "nous aurons absout",
+      "vous aurez absout",
+      "ils auront absout"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'absolve",
+      "que tu absolves",
+      "qu'il absolve",
+      "que nous absolvions",
+      "que vous absolviez",
+      "qu'ils absolvent"
+    ],
+    "passé": [
+      "que j'aie absout",
+      "que tu aies absout",
+      "qu'il ait absout",
+      "que nous ayons absout",
+      "que vous ayez absout",
+      "qu'ils aient absout"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse absout",
+      "que tu eusses absout",
+      "qu'il eût absout",
+      "que nous eussions absout",
+      "que vous eussiez absout",
+      "qu'ils eussent absout"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'absoudrais",
+      "tu absoudrais",
+      "il absoudrait",
+      "nous absoudrions",
+      "vous absoudriez",
+      "ils absoudraient"
+    ],
+    "passé": [
+      "j'aurais absout",
+      "tu aurais absout",
+      "il aurait absout",
+      "nous aurions absout",
+      "vous auriez absout",
+      "ils auraient absout"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "absous",
+      "absolvons",
+      "absolvez"
+    ],
+    "passé": [
+      "aie absout",
+      "ayons absout",
+      "ayez absout"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "absoudre"
+    ],
+    "passé": [
+      "avoir absout"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "absolvant"
+    ],
+    "passé": [
+      "absout",
+      "ayant absout"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en absolvant"
+    ],
+    "passé": [
+      "en ayant absout"
+    ]
+  }
+}

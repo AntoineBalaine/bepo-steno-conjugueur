@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me recouds",
+      "tu te recouds",
+      "il se recoud",
+      "nous nous recousons",
+      "vous vous recousez",
+      "ils se recousent"
+    ],
+    "passé composé": [
+      "je me suis recousu",
+      "tu t'es recousu",
+      "il s'est recousu",
+      "nous nous sommes recousus",
+      "vous vous êtes recousus",
+      "ils se sont recousus"
+    ],
+    "imparfait": [
+      "je me recousais",
+      "tu te recousais",
+      "il se recousait",
+      "nous nous recousions",
+      "vous vous recousiez",
+      "ils se recousaient"
+    ],
+    "plus que parfait": [
+      "je m'étais recousu",
+      "tu t'étais recousu",
+      "il s'était recousu",
+      "nous nous étions recousus",
+      "vous vous étiez recousus",
+      "ils s'étaient recousus"
+    ],
+    "passé simple": [
+      "je me recousis",
+      "tu te recousis",
+      "il se recousit",
+      "nous nous recousîmes",
+      "vous vous recousîtes",
+      "ils se recousirent"
+    ],
+    "passé antérieur": [
+      "je me fus recousu",
+      "tu te fus recousu",
+      "il se fut recousu",
+      "nous nous fûmes recousus",
+      "vous vous fûtes recousus",
+      "ils se furent recousus"
+    ],
+    "futur simple": [
+      "je me recoudrai",
+      "tu te recoudras",
+      "il se recoudra",
+      "nous nous recoudrons",
+      "vous vous recoudrez",
+      "ils se recoudront"
+    ],
+    "futur antérieur": [
+      "je me serai recousu",
+      "tu te seras recousu",
+      "il se sera recousu",
+      "nous nous serons recousus",
+      "vous vous serez recousus",
+      "ils se seront recousus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me recouse",
+      "que tu te recouses",
+      "qu'il se recouse",
+      "que nous nous recousions",
+      "que vous vous recousiez",
+      "qu'ils se recousent"
+    ],
+    "passé": [
+      "que je me sois recousu",
+      "que tu te sois recousu",
+      "qu'il se soit recousu",
+      "que nous nous soyons recousus",
+      "que vous vous soyez recousus",
+      "qu'ils se soient recousus"
+    ],
+    "imparfait": [
+      "que je me recousisse",
+      "que tu te recousisses",
+      "qu'il se recousît",
+      "que nous nous recousissions",
+      "que vous vous recousissiez",
+      "qu'ils se recousissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse recousu",
+      "que tu te fusses recousu",
+      "qu'il se fût recousu",
+      "que nous nous fussions recousus",
+      "que vous vous fussiez recousus",
+      "qu'ils se fussent recousus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me recoudrais",
+      "tu te recoudrais",
+      "il se recoudrait",
+      "nous nous recoudrions",
+      "vous vous recoudriez",
+      "ils se recoudraient"
+    ],
+    "passé": [
+      "je me serais recousu",
+      "tu te serais recousu",
+      "il se serait recousu",
+      "nous nous serions recousus",
+      "vous vous seriez recousus",
+      "ils se seraient recousus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recouds-toi",
+      "recousons-nous",
+      "recousez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se recoudre"
+    ],
+    "passé": [
+      "s'être recousu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se recousant"
+    ],
+    "passé": [
+      "-",
+      "s'étant recousu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se recousant"
+    ],
+    "passé": [
+      "en s'étant recousu"
+    ]
+  }
+}

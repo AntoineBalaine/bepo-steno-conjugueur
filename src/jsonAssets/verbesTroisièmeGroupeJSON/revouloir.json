@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reveux",
+      "tu reveux",
+      "il reveut",
+      "nous revoulons",
+      "vous revoulez",
+      "ils reveulent"
+    ],
+    "passé composé": [
+      "j'ai revoulu",
+      "tu as revoulu",
+      "il a revoulu",
+      "nous avons revoulu",
+      "vous avez revoulu",
+      "ils ont revoulu"
+    ],
+    "imparfait": [
+      "je revoulais",
+      "tu revoulais",
+      "il revoulait",
+      "nous revoulions",
+      "vous revouliez",
+      "ils revoulaient"
+    ],
+    "plus que parfait": [
+      "j'avais revoulu",
+      "tu avais revoulu",
+      "il avait revoulu",
+      "nous avions revoulu",
+      "vous aviez revoulu",
+      "ils avaient revoulu"
+    ],
+    "passé simple": [
+      "je revoulus",
+      "tu revoulus",
+      "il revoulut",
+      "nous revoulûmes",
+      "vous revoulûtes",
+      "ils revoulurent"
+    ],
+    "passé antérieur": [
+      "j'eus revoulu",
+      "tu eus revoulu",
+      "il eut revoulu",
+      "nous eûmes revoulu",
+      "vous eûtes revoulu",
+      "ils eurent revoulu"
+    ],
+    "futur simple": [
+      "je revoudrai",
+      "tu revoudras",
+      "il revoudra",
+      "nous revoudrons",
+      "vous revoudrez",
+      "ils revoudront"
+    ],
+    "futur antérieur": [
+      "j'aurai revoulu",
+      "tu auras revoulu",
+      "il aura revoulu",
+      "nous aurons revoulu",
+      "vous aurez revoulu",
+      "ils auront revoulu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reveuille",
+      "que tu reveuilles",
+      "qu'il reveuille",
+      "que nous revoulions",
+      "que vous revouliez",
+      "qu'ils reveuillent"
+    ],
+    "passé": [
+      "que j'aie revoulu",
+      "que tu aies revoulu",
+      "qu'il ait revoulu",
+      "que nous ayons revoulu",
+      "que vous ayez revoulu",
+      "qu'ils aient revoulu"
+    ],
+    "imparfait": [
+      "que je revoulusse",
+      "que tu revoulusses",
+      "qu'il revoulût",
+      "que nous revoulussions",
+      "que vous revoulussiez",
+      "qu'ils revoulussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse revoulu",
+      "que tu eusses revoulu",
+      "qu'il eût revoulu",
+      "que nous eussions revoulu",
+      "que vous eussiez revoulu",
+      "qu'ils eussent revoulu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je revoudrais",
+      "tu revoudrais",
+      "il revoudrait",
+      "nous revoudrions",
+      "vous revoudriez",
+      "ils revoudraient"
+    ],
+    "passé": [
+      "j'aurais revoulu",
+      "tu aurais revoulu",
+      "il aurait revoulu",
+      "nous aurions revoulu",
+      "vous auriez revoulu",
+      "ils auraient revoulu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reveux",
+      "revoulons",
+      "revoulez"
+    ],
+    "passé": [
+      "aie revoulu",
+      "ayons revoulu",
+      "ayez revoulu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "revouloir"
+    ],
+    "passé": [
+      "avoir revoulu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "revoulant"
+    ],
+    "passé": [
+      "revoulu",
+      "ayant revoulu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en revoulant"
+    ],
+    "passé": [
+      "en ayant revoulu"
+    ]
+  }
+}

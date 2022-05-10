@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entends",
+      "tu t'entends",
+      "il s'entend",
+      "nous nous entendons",
+      "vous vous entendez",
+      "ils s'entendent"
+    ],
+    "passé composé": [
+      "je me suis entendu",
+      "tu t'es entendu",
+      "il s'est entendu",
+      "nous nous sommes entendus",
+      "vous vous êtes entendus",
+      "ils se sont entendus"
+    ],
+    "imparfait": [
+      "je m'entendais",
+      "tu t'entendais",
+      "il s'entendait",
+      "nous nous entendions",
+      "vous vous entendiez",
+      "ils s'entendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entendu",
+      "tu t'étais entendu",
+      "il s'était entendu",
+      "nous nous étions entendus",
+      "vous vous étiez entendus",
+      "ils s'étaient entendus"
+    ],
+    "passé simple": [
+      "je m'entendis",
+      "tu t'entendis",
+      "il s'entendit",
+      "nous nous entendîmes",
+      "vous vous entendîtes",
+      "ils s'entendirent"
+    ],
+    "passé antérieur": [
+      "je me fus entendu",
+      "tu te fus entendu",
+      "il se fut entendu",
+      "nous nous fûmes entendus",
+      "vous vous fûtes entendus",
+      "ils se furent entendus"
+    ],
+    "futur simple": [
+      "je m'entendrai",
+      "tu t'entendras",
+      "il s'entendra",
+      "nous nous entendrons",
+      "vous vous entendrez",
+      "ils s'entendront"
+    ],
+    "futur antérieur": [
+      "je me serai entendu",
+      "tu te seras entendu",
+      "il se sera entendu",
+      "nous nous serons entendus",
+      "vous vous serez entendus",
+      "ils se seront entendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entende",
+      "que tu t'entendes",
+      "qu'il s'entende",
+      "que nous nous entendions",
+      "que vous vous entendiez",
+      "qu'ils s'entendent"
+    ],
+    "passé": [
+      "que je me sois entendu",
+      "que tu te sois entendu",
+      "qu'il se soit entendu",
+      "que nous nous soyons entendus",
+      "que vous vous soyez entendus",
+      "qu'ils se soient entendus"
+    ],
+    "imparfait": [
+      "que je m'entendisse",
+      "que tu t'entendisses",
+      "qu'il s'entendît",
+      "que nous nous entendissions",
+      "que vous vous entendissiez",
+      "qu'ils s'entendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entendu",
+      "que tu te fusses entendu",
+      "qu'il se fût entendu",
+      "que nous nous fussions entendus",
+      "que vous vous fussiez entendus",
+      "qu'ils se fussent entendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entendrais",
+      "tu t'entendrais",
+      "il s'entendrait",
+      "nous nous entendrions",
+      "vous vous entendriez",
+      "ils s'entendraient"
+    ],
+    "passé": [
+      "je me serais entendu",
+      "tu te serais entendu",
+      "il se serait entendu",
+      "nous nous serions entendus",
+      "vous vous seriez entendus",
+      "ils se seraient entendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entends-toi",
+      "entendons-nous",
+      "entendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entendre"
+    ],
+    "passé": [
+      "s'être entendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entendant"
+    ],
+    "passé": [
+      "en s'étant entendu"
+    ]
+  }
+}

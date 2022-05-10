@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me veux",
+      "tu te veux",
+      "il se veut",
+      "nous nous voulons",
+      "vous vous voulez",
+      "ils se veulent"
+    ],
+    "passé composé": [
+      "je me suis voulu",
+      "tu t'es voulu",
+      "il s'est voulu",
+      "nous nous sommes voulus",
+      "vous vous êtes voulus",
+      "ils se sont voulus"
+    ],
+    "imparfait": [
+      "je me voulais",
+      "tu te voulais",
+      "il se voulait",
+      "nous nous voulions",
+      "vous vous vouliez",
+      "ils se voulaient"
+    ],
+    "plus que parfait": [
+      "je m'étais voulu",
+      "tu t'étais voulu",
+      "il s'était voulu",
+      "nous nous étions voulus",
+      "vous vous étiez voulus",
+      "ils s'étaient voulus"
+    ],
+    "passé simple": [
+      "je me voulus",
+      "tu te voulus",
+      "il se voulut",
+      "nous nous voulûmes",
+      "vous vous voulûtes",
+      "ils se voulurent"
+    ],
+    "passé antérieur": [
+      "je me fus voulu",
+      "tu te fus voulu",
+      "il se fut voulu",
+      "nous nous fûmes voulus",
+      "vous vous fûtes voulus",
+      "ils se furent voulus"
+    ],
+    "futur simple": [
+      "je me voudrai",
+      "tu te voudras",
+      "il se voudra",
+      "nous nous voudrons",
+      "vous vous voudrez",
+      "ils se voudront"
+    ],
+    "futur antérieur": [
+      "je me serai voulu",
+      "tu te seras voulu",
+      "il se sera voulu",
+      "nous nous serons voulus",
+      "vous vous serez voulus",
+      "ils se seront voulus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me veuille",
+      "que tu te veuilles",
+      "qu'il se veuille",
+      "que nous nous voulions",
+      "que vous vous vouliez",
+      "qu'ils se veuillent"
+    ],
+    "passé": [
+      "que je me sois voulu",
+      "que tu te sois voulu",
+      "qu'il se soit voulu",
+      "que nous nous soyons voulus",
+      "que vous vous soyez voulus",
+      "qu'ils se soient voulus"
+    ],
+    "imparfait": [
+      "que je me voulusse",
+      "que tu te voulusses",
+      "qu'il se voulût",
+      "que nous nous voulussions",
+      "que vous vous voulussiez",
+      "qu'ils se voulussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse voulu",
+      "que tu te fusses voulu",
+      "qu'il se fût voulu",
+      "que nous nous fussions voulus",
+      "que vous vous fussiez voulus",
+      "qu'ils se fussent voulus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me voudrais",
+      "tu te voudrais",
+      "il se voudrait",
+      "nous nous voudrions",
+      "vous vous voudriez",
+      "ils se voudraient"
+    ],
+    "passé": [
+      "je me serais voulu",
+      "tu te serais voulu",
+      "il se serait voulu",
+      "nous nous serions voulus",
+      "vous vous seriez voulus",
+      "ils se seraient voulus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "veux-toi",
+      "voulons-nous",
+      "voulez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se vouloir"
+    ],
+    "passé": [
+      "s'être voulu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se voulant"
+    ],
+    "passé": [
+      "-",
+      "s'étant voulu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se voulant"
+    ],
+    "passé": [
+      "en s'étant voulu"
+    ]
+  }
+}

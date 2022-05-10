@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je morfonds",
+      "tu morfonds",
+      "il morfond",
+      "nous morfondons",
+      "vous morfondez",
+      "ils morfondent"
+    ],
+    "passé composé": [
+      "j'ai morfondu",
+      "tu as morfondu",
+      "il a morfondu",
+      "nous avons morfondu",
+      "vous avez morfondu",
+      "ils ont morfondu"
+    ],
+    "imparfait": [
+      "je morfondais",
+      "tu morfondais",
+      "il morfondait",
+      "nous morfondions",
+      "vous morfondiez",
+      "ils morfondaient"
+    ],
+    "plus que parfait": [
+      "j'avais morfondu",
+      "tu avais morfondu",
+      "il avait morfondu",
+      "nous avions morfondu",
+      "vous aviez morfondu",
+      "ils avaient morfondu"
+    ],
+    "passé simple": [
+      "je morfondis",
+      "tu morfondis",
+      "il morfondit",
+      "nous morfondîmes",
+      "vous morfondîtes",
+      "ils morfondirent"
+    ],
+    "passé antérieur": [
+      "j'eus morfondu",
+      "tu eus morfondu",
+      "il eut morfondu",
+      "nous eûmes morfondu",
+      "vous eûtes morfondu",
+      "ils eurent morfondu"
+    ],
+    "futur simple": [
+      "je morfondrai",
+      "tu morfondras",
+      "il morfondra",
+      "nous morfondrons",
+      "vous morfondrez",
+      "ils morfondront"
+    ],
+    "futur antérieur": [
+      "j'aurai morfondu",
+      "tu auras morfondu",
+      "il aura morfondu",
+      "nous aurons morfondu",
+      "vous aurez morfondu",
+      "ils auront morfondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je morfonde",
+      "que tu morfondes",
+      "qu'il morfonde",
+      "que nous morfondions",
+      "que vous morfondiez",
+      "qu'ils morfondent"
+    ],
+    "passé": [
+      "que j'aie morfondu",
+      "que tu aies morfondu",
+      "qu'il ait morfondu",
+      "que nous ayons morfondu",
+      "que vous ayez morfondu",
+      "qu'ils aient morfondu"
+    ],
+    "imparfait": [
+      "que je morfondisse",
+      "que tu morfondisses",
+      "qu'il morfondît",
+      "que nous morfondissions",
+      "que vous morfondissiez",
+      "qu'ils morfondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse morfondu",
+      "que tu eusses morfondu",
+      "qu'il eût morfondu",
+      "que nous eussions morfondu",
+      "que vous eussiez morfondu",
+      "qu'ils eussent morfondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je morfondrais",
+      "tu morfondrais",
+      "il morfondrait",
+      "nous morfondrions",
+      "vous morfondriez",
+      "ils morfondraient"
+    ],
+    "passé": [
+      "j'aurais morfondu",
+      "tu aurais morfondu",
+      "il aurait morfondu",
+      "nous aurions morfondu",
+      "vous auriez morfondu",
+      "ils auraient morfondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "morfonds",
+      "morfondons",
+      "morfondez"
+    ],
+    "passé": [
+      "aie morfondu",
+      "ayons morfondu",
+      "ayez morfondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "morfondre"
+    ],
+    "passé": [
+      "avoir morfondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "morfondant"
+    ],
+    "passé": [
+      "morfondu",
+      "ayant morfondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en morfondant"
+    ],
+    "passé": [
+      "en ayant morfondu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je sous-entends",
+      "tu sous-entends",
+      "il sous-entend",
+      "nous sous-entendons",
+      "vous sous-entendez",
+      "ils sous-entendent"
+    ],
+    "passé composé": [
+      "j'ai sous-entendu",
+      "tu as sous-entendu",
+      "il a sous-entendu",
+      "nous avons sous-entendu",
+      "vous avez sous-entendu",
+      "ils ont sous-entendu"
+    ],
+    "imparfait": [
+      "je sous-entendais",
+      "tu sous-entendais",
+      "il sous-entendait",
+      "nous sous-entendions",
+      "vous sous-entendiez",
+      "ils sous-entendaient"
+    ],
+    "plus que parfait": [
+      "j'avais sous-entendu",
+      "tu avais sous-entendu",
+      "il avait sous-entendu",
+      "nous avions sous-entendu",
+      "vous aviez sous-entendu",
+      "ils avaient sous-entendu"
+    ],
+    "passé simple": [
+      "je sous-entendis",
+      "tu sous-entendis",
+      "il sous-entendit",
+      "nous sous-entendîmes",
+      "vous sous-entendîtes",
+      "ils sous-entendirent"
+    ],
+    "passé antérieur": [
+      "j'eus sous-entendu",
+      "tu eus sous-entendu",
+      "il eut sous-entendu",
+      "nous eûmes sous-entendu",
+      "vous eûtes sous-entendu",
+      "ils eurent sous-entendu"
+    ],
+    "futur simple": [
+      "je sous-entendrai",
+      "tu sous-entendras",
+      "il sous-entendra",
+      "nous sous-entendrons",
+      "vous sous-entendrez",
+      "ils sous-entendront"
+    ],
+    "futur antérieur": [
+      "j'aurai sous-entendu",
+      "tu auras sous-entendu",
+      "il aura sous-entendu",
+      "nous aurons sous-entendu",
+      "vous aurez sous-entendu",
+      "ils auront sous-entendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je sous-entende",
+      "que tu sous-entendes",
+      "qu'il sous-entende",
+      "que nous sous-entendions",
+      "que vous sous-entendiez",
+      "qu'ils sous-entendent"
+    ],
+    "passé": [
+      "que j'aie sous-entendu",
+      "que tu aies sous-entendu",
+      "qu'il ait sous-entendu",
+      "que nous ayons sous-entendu",
+      "que vous ayez sous-entendu",
+      "qu'ils aient sous-entendu"
+    ],
+    "imparfait": [
+      "que je sous-entendisse",
+      "que tu sous-entendisses",
+      "qu'il sous-entendît",
+      "que nous sous-entendissions",
+      "que vous sous-entendissiez",
+      "qu'ils sous-entendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse sous-entendu",
+      "que tu eusses sous-entendu",
+      "qu'il eût sous-entendu",
+      "que nous eussions sous-entendu",
+      "que vous eussiez sous-entendu",
+      "qu'ils eussent sous-entendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je sous-entendrais",
+      "tu sous-entendrais",
+      "il sous-entendrait",
+      "nous sous-entendrions",
+      "vous sous-entendriez",
+      "ils sous-entendraient"
+    ],
+    "passé": [
+      "j'aurais sous-entendu",
+      "tu aurais sous-entendu",
+      "il aurait sous-entendu",
+      "nous aurions sous-entendu",
+      "vous auriez sous-entendu",
+      "ils auraient sous-entendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sous-entends",
+      "sous-entendons",
+      "sous-entendez"
+    ],
+    "passé": [
+      "aie sous-entendu",
+      "ayons sous-entendu",
+      "ayez sous-entendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "sous-entendre"
+    ],
+    "passé": [
+      "avoir sous-entendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "sous-entendant"
+    ],
+    "passé": [
+      "sous-entendu",
+      "ayant sous-entendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en sous-entendant"
+    ],
+    "passé": [
+      "en ayant sous-entendu"
+    ]
+  }
+}

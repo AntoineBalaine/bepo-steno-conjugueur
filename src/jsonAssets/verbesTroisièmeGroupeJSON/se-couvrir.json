@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me couvre",
+      "tu te couvres",
+      "il se couvre",
+      "nous nous couvrons",
+      "vous vous couvrez",
+      "ils se couvrent"
+    ],
+    "passé composé": [
+      "je me suis couvert",
+      "tu t'es couvert",
+      "il s'est couvert",
+      "nous nous sommes couverts",
+      "vous vous êtes couverts",
+      "ils se sont couverts"
+    ],
+    "imparfait": [
+      "je me couvrais",
+      "tu te couvrais",
+      "il se couvrait",
+      "nous nous couvrions",
+      "vous vous couvriez",
+      "ils se couvraient"
+    ],
+    "plus que parfait": [
+      "je m'étais couvert",
+      "tu t'étais couvert",
+      "il s'était couvert",
+      "nous nous étions couverts",
+      "vous vous étiez couverts",
+      "ils s'étaient couverts"
+    ],
+    "passé simple": [
+      "je me couvris",
+      "tu te couvris",
+      "il se couvrit",
+      "nous nous couvrîmes",
+      "vous vous couvrîtes",
+      "ils se couvrirent"
+    ],
+    "passé antérieur": [
+      "je me fus couvert",
+      "tu te fus couvert",
+      "il se fut couvert",
+      "nous nous fûmes couverts",
+      "vous vous fûtes couverts",
+      "ils se furent couverts"
+    ],
+    "futur simple": [
+      "je me couvrirai",
+      "tu te couvriras",
+      "il se couvrira",
+      "nous nous couvrirons",
+      "vous vous couvrirez",
+      "ils se couvriront"
+    ],
+    "futur antérieur": [
+      "je me serai couvert",
+      "tu te seras couvert",
+      "il se sera couvert",
+      "nous nous serons couverts",
+      "vous vous serez couverts",
+      "ils se seront couverts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me couvre",
+      "que tu te couvres",
+      "qu'il se couvre",
+      "que nous nous couvrions",
+      "que vous vous couvriez",
+      "qu'ils se couvrent"
+    ],
+    "passé": [
+      "que je me sois couvert",
+      "que tu te sois couvert",
+      "qu'il se soit couvert",
+      "que nous nous soyons couverts",
+      "que vous vous soyez couverts",
+      "qu'ils se soient couverts"
+    ],
+    "imparfait": [
+      "que je me couvrisse",
+      "que tu te couvrisses",
+      "qu'il se couvrît",
+      "que nous nous couvrissions",
+      "que vous vous couvrissiez",
+      "qu'ils se couvrissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse couvert",
+      "que tu te fusses couvert",
+      "qu'il se fût couvert",
+      "que nous nous fussions couverts",
+      "que vous vous fussiez couverts",
+      "qu'ils se fussent couverts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me couvrirais",
+      "tu te couvrirais",
+      "il se couvrirait",
+      "nous nous couvririons",
+      "vous vous couvririez",
+      "ils se couvriraient"
+    ],
+    "passé": [
+      "je me serais couvert",
+      "tu te serais couvert",
+      "il se serait couvert",
+      "nous nous serions couverts",
+      "vous vous seriez couverts",
+      "ils se seraient couverts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "couvre-toi",
+      "couvrons-nous",
+      "couvrez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se couvrir"
+    ],
+    "passé": [
+      "s'être couvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se couvrant"
+    ],
+    "passé": [
+      "-",
+      "s'étant couvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se couvrant"
+    ],
+    "passé": [
+      "en s'étant couvert"
+    ]
+  }
+}

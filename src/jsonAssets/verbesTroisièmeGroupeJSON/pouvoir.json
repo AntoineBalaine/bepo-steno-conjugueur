@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je peux",
+      "tu peux",
+      "il peut",
+      "nous pouvons",
+      "vous pouvez",
+      "ils peuvent"
+    ],
+    "passé composé": [
+      "j'ai pu",
+      "tu as pu",
+      "il a pu",
+      "nous avons pu",
+      "vous avez pu",
+      "ils ont pu"
+    ],
+    "imparfait": [
+      "je pouvais",
+      "tu pouvais",
+      "il pouvait",
+      "nous pouvions",
+      "vous pouviez",
+      "ils pouvaient"
+    ],
+    "plus que parfait": [
+      "j'avais pu",
+      "tu avais pu",
+      "il avait pu",
+      "nous avions pu",
+      "vous aviez pu",
+      "ils avaient pu"
+    ],
+    "passé simple": [
+      "je pus",
+      "tu pus",
+      "il put",
+      "nous pûmes",
+      "vous pûtes",
+      "ils purent"
+    ],
+    "passé antérieur": [
+      "j'eus pu",
+      "tu eus pu",
+      "il eut pu",
+      "nous eûmes pu",
+      "vous eûtes pu",
+      "ils eurent pu"
+    ],
+    "futur simple": [
+      "je pourrai",
+      "tu pourras",
+      "il pourra",
+      "nous pourrons",
+      "vous pourrez",
+      "ils pourront"
+    ],
+    "futur antérieur": [
+      "j'aurai pu",
+      "tu auras pu",
+      "il aura pu",
+      "nous aurons pu",
+      "vous aurez pu",
+      "ils auront pu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je puisse",
+      "que tu puisses",
+      "qu'il puisse",
+      "que nous puissions",
+      "que vous puissiez",
+      "qu'ils puissent"
+    ],
+    "passé": [
+      "que j'aie pu",
+      "que tu aies pu",
+      "qu'il ait pu",
+      "que nous ayons pu",
+      "que vous ayez pu",
+      "qu'ils aient pu"
+    ],
+    "imparfait": [
+      "que je pusse",
+      "que tu pusses",
+      "qu'il pût",
+      "que nous pussions",
+      "que vous pussiez",
+      "qu'ils pussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse pu",
+      "que tu eusses pu",
+      "qu'il eût pu",
+      "que nous eussions pu",
+      "que vous eussiez pu",
+      "qu'ils eussent pu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je pourrais",
+      "tu pourrais",
+      "il pourrait",
+      "nous pourrions",
+      "vous pourriez",
+      "ils pourraient"
+    ],
+    "passé": [
+      "j'aurais pu",
+      "tu aurais pu",
+      "il aurait pu",
+      "nous aurions pu",
+      "vous auriez pu",
+      "ils auraient pu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "pouvoir"
+    ],
+    "passé": [
+      "avoir pu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "pouvant"
+    ],
+    "passé": [
+      "pu",
+      "ayant pu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en pouvant"
+    ],
+    "passé": [
+      "en ayant pu"
+    ]
+  }
+}

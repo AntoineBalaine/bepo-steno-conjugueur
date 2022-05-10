@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'appartiens",
+      "tu appartiens",
+      "il appartient",
+      "nous appartenons",
+      "vous appartenez",
+      "ils appartiennent"
+    ],
+    "passé composé": [
+      "j'ai appartenu",
+      "tu as appartenu",
+      "il a appartenu",
+      "nous avons appartenu",
+      "vous avez appartenu",
+      "ils ont appartenu"
+    ],
+    "imparfait": [
+      "j'appartenais",
+      "tu appartenais",
+      "il appartenait",
+      "nous appartenions",
+      "vous apparteniez",
+      "ils appartenaient"
+    ],
+    "plus que parfait": [
+      "j'avais appartenu",
+      "tu avais appartenu",
+      "il avait appartenu",
+      "nous avions appartenu",
+      "vous aviez appartenu",
+      "ils avaient appartenu"
+    ],
+    "passé simple": [
+      "j'appartins",
+      "tu appartins",
+      "il appartint",
+      "nous appartînmes",
+      "vous appartîntes",
+      "ils appartinrent"
+    ],
+    "passé antérieur": [
+      "j'eus appartenu",
+      "tu eus appartenu",
+      "il eut appartenu",
+      "nous eûmes appartenu",
+      "vous eûtes appartenu",
+      "ils eurent appartenu"
+    ],
+    "futur simple": [
+      "j'appartiendrai",
+      "tu appartiendras",
+      "il appartiendra",
+      "nous appartiendrons",
+      "vous appartiendrez",
+      "ils appartiendront"
+    ],
+    "futur antérieur": [
+      "j'aurai appartenu",
+      "tu auras appartenu",
+      "il aura appartenu",
+      "nous aurons appartenu",
+      "vous aurez appartenu",
+      "ils auront appartenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'appartienne",
+      "que tu appartiennes",
+      "qu'il appartienne",
+      "que nous appartenions",
+      "que vous apparteniez",
+      "qu'ils appartiennent"
+    ],
+    "passé": [
+      "que j'aie appartenu",
+      "que tu aies appartenu",
+      "qu'il ait appartenu",
+      "que nous ayons appartenu",
+      "que vous ayez appartenu",
+      "qu'ils aient appartenu"
+    ],
+    "imparfait": [
+      "que j'appartinsse",
+      "que tu appartinsses",
+      "qu'il appartînt",
+      "que nous appartinssions",
+      "que vous appartinssiez",
+      "qu'ils appartinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse appartenu",
+      "que tu eusses appartenu",
+      "qu'il eût appartenu",
+      "que nous eussions appartenu",
+      "que vous eussiez appartenu",
+      "qu'ils eussent appartenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'appartiendrais",
+      "tu appartiendrais",
+      "il appartiendrait",
+      "nous appartiendrions",
+      "vous appartiendriez",
+      "ils appartiendraient"
+    ],
+    "passé": [
+      "j'aurais appartenu",
+      "tu aurais appartenu",
+      "il aurait appartenu",
+      "nous aurions appartenu",
+      "vous auriez appartenu",
+      "ils auraient appartenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "appartiens",
+      "appartenons",
+      "appartenez"
+    ],
+    "passé": [
+      "aie appartenu",
+      "ayons appartenu",
+      "ayez appartenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "appartenir"
+    ],
+    "passé": [
+      "avoir appartenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "appartenant"
+    ],
+    "passé": [
+      "appartenu",
+      "ayant appartenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en appartenant"
+    ],
+    "passé": [
+      "en ayant appartenu"
+    ]
+  }
+}

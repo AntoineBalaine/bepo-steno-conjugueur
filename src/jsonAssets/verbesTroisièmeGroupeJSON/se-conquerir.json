@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me conquiers",
+      "tu te conquiers",
+      "il se conquiert",
+      "nous nous conquérons",
+      "vous vous conquérez",
+      "ils se conquièrent"
+    ],
+    "passé composé": [
+      "je me suis conquis",
+      "tu t'es conquis",
+      "il s'est conquis",
+      "nous nous sommes conquis",
+      "vous vous êtes conquis",
+      "ils se sont conquis"
+    ],
+    "imparfait": [
+      "je me conquérais",
+      "tu te conquérais",
+      "il se conquérait",
+      "nous nous conquérions",
+      "vous vous conquériez",
+      "ils se conquéraient"
+    ],
+    "plus que parfait": [
+      "je m'étais conquis",
+      "tu t'étais conquis",
+      "il s'était conquis",
+      "nous nous étions conquis",
+      "vous vous étiez conquis",
+      "ils s'étaient conquis"
+    ],
+    "passé simple": [
+      "je me conquis",
+      "tu te conquis",
+      "il se conquit",
+      "nous nous conquîmes",
+      "vous vous conquîtes",
+      "ils se conquirent"
+    ],
+    "passé antérieur": [
+      "je me fus conquis",
+      "tu te fus conquis",
+      "il se fut conquis",
+      "nous nous fûmes conquis",
+      "vous vous fûtes conquis",
+      "ils se furent conquis"
+    ],
+    "futur simple": [
+      "je me conquerrai",
+      "tu te conquerras",
+      "il se conquerra",
+      "nous nous conquerrons",
+      "vous vous conquerrez",
+      "ils se conquerront"
+    ],
+    "futur antérieur": [
+      "je me serai conquis",
+      "tu te seras conquis",
+      "il se sera conquis",
+      "nous nous serons conquis",
+      "vous vous serez conquis",
+      "ils se seront conquis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me conquière",
+      "que tu te conquières",
+      "qu'il se conquière",
+      "que nous nous conquérions",
+      "que vous vous conquériez",
+      "qu'ils se conquièrent"
+    ],
+    "passé": [
+      "que je me sois conquis",
+      "que tu te sois conquis",
+      "qu'il se soit conquis",
+      "que nous nous soyons conquis",
+      "que vous vous soyez conquis",
+      "qu'ils se soient conquis"
+    ],
+    "imparfait": [
+      "que je me conquisse",
+      "que tu te conquisses",
+      "qu'il se conquît",
+      "que nous nous conquissions",
+      "que vous vous conquissiez",
+      "qu'ils se conquissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse conquis",
+      "que tu te fusses conquis",
+      "qu'il se fût conquis",
+      "que nous nous fussions conquis",
+      "que vous vous fussiez conquis",
+      "qu'ils se fussent conquis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me conquerrais",
+      "tu te conquerrais",
+      "il se conquerrait",
+      "nous nous conquerrions",
+      "vous vous conquerriez",
+      "ils se conquerraient"
+    ],
+    "passé": [
+      "je me serais conquis",
+      "tu te serais conquis",
+      "il se serait conquis",
+      "nous nous serions conquis",
+      "vous vous seriez conquis",
+      "ils se seraient conquis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conquiers-toi",
+      "conquérons-nous",
+      "conquérez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se conquérir"
+    ],
+    "passé": [
+      "s'être conquis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se conquérant"
+    ],
+    "passé": [
+      "-",
+      "s'étant conquis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se conquérant"
+    ],
+    "passé": [
+      "en s'étant conquis"
+    ]
+  }
+}

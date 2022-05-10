@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me vaux",
+      "tu te vaux",
+      "il se vaut",
+      "nous nous valons",
+      "vous vous valez",
+      "ils se valent"
+    ],
+    "passé composé": [
+      "je me suis valu",
+      "tu t'es valu",
+      "il s'est valu",
+      "nous nous sommes valus",
+      "vous vous êtes valus",
+      "ils se sont valus"
+    ],
+    "imparfait": [
+      "je me valais",
+      "tu te valais",
+      "il se valait",
+      "nous nous valions",
+      "vous vous valiez",
+      "ils se valaient"
+    ],
+    "plus que parfait": [
+      "je m'étais valu",
+      "tu t'étais valu",
+      "il s'était valu",
+      "nous nous étions valus",
+      "vous vous étiez valus",
+      "ils s'étaient valus"
+    ],
+    "passé simple": [
+      "je me valus",
+      "tu te valus",
+      "il se valut",
+      "nous nous valûmes",
+      "vous vous valûtes",
+      "ils se valurent"
+    ],
+    "passé antérieur": [
+      "je me fus valu",
+      "tu te fus valu",
+      "il se fut valu",
+      "nous nous fûmes valus",
+      "vous vous fûtes valus",
+      "ils se furent valus"
+    ],
+    "futur simple": [
+      "je me vaudrai",
+      "tu te vaudras",
+      "il se vaudra",
+      "nous nous vaudrons",
+      "vous vous vaudrez",
+      "ils se vaudront"
+    ],
+    "futur antérieur": [
+      "je me serai valu",
+      "tu te seras valu",
+      "il se sera valu",
+      "nous nous serons valus",
+      "vous vous serez valus",
+      "ils se seront valus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me vaille",
+      "que tu te vailles",
+      "qu'il se vaille",
+      "que nous nous valions",
+      "que vous vous valiez",
+      "qu'ils se vaillent"
+    ],
+    "passé": [
+      "que je me sois valu",
+      "que tu te sois valu",
+      "qu'il se soit valu",
+      "que nous nous soyons valus",
+      "que vous vous soyez valus",
+      "qu'ils se soient valus"
+    ],
+    "imparfait": [
+      "que je me valusse",
+      "que tu te valusses",
+      "qu'il se valût",
+      "que nous nous valussions",
+      "que vous vous valussiez",
+      "qu'ils se valussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse valu",
+      "que tu te fusses valu",
+      "qu'il se fût valu",
+      "que nous nous fussions valus",
+      "que vous vous fussiez valus",
+      "qu'ils se fussent valus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me vaudrais",
+      "tu te vaudrais",
+      "il se vaudrait",
+      "nous nous vaudrions",
+      "vous vous vaudriez",
+      "ils se vaudraient"
+    ],
+    "passé": [
+      "je me serais valu",
+      "tu te serais valu",
+      "il se serait valu",
+      "nous nous serions valus",
+      "vous vous seriez valus",
+      "ils se seraient valus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vaux-toi",
+      "valons-nous",
+      "valez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se valoir"
+    ],
+    "passé": [
+      "s'être valu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se valant"
+    ],
+    "passé": [
+      "-",
+      "s'étant valu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se valant"
+    ],
+    "passé": [
+      "en s'étant valu"
+    ]
+  }
+}

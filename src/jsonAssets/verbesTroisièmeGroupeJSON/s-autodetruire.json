@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'autodétruis",
+      "tu t'autodétruis",
+      "il s'autodétruit",
+      "nous nous autodétruisons",
+      "vous vous autodétruisez",
+      "ils s'autodétruisent"
+    ],
+    "passé composé": [
+      "je me suis autodétruit",
+      "tu t'es autodétruit",
+      "il s'est autodétruit",
+      "nous nous sommes autodétruits",
+      "vous vous êtes autodétruits",
+      "ils se sont autodétruits"
+    ],
+    "imparfait": [
+      "je m'autodétruisais",
+      "tu t'autodétruisais",
+      "il s'autodétruisait",
+      "nous nous autodétruisions",
+      "vous vous autodétruisiez",
+      "ils s'autodétruisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais autodétruit",
+      "tu t'étais autodétruit",
+      "il s'était autodétruit",
+      "nous nous étions autodétruits",
+      "vous vous étiez autodétruits",
+      "ils s'étaient autodétruits"
+    ],
+    "passé simple": [
+      "je m'autodétruisis",
+      "tu t'autodétruisis",
+      "il s'autodétruisit",
+      "nous nous autodétruisîmes",
+      "vous vous autodétruisîtes",
+      "ils s'autodétruisirent"
+    ],
+    "passé antérieur": [
+      "je me fus autodétruit",
+      "tu te fus autodétruit",
+      "il se fut autodétruit",
+      "nous nous fûmes autodétruits",
+      "vous vous fûtes autodétruits",
+      "ils se furent autodétruits"
+    ],
+    "futur simple": [
+      "je m'autodétruirai",
+      "tu t'autodétruiras",
+      "il s'autodétruira",
+      "nous nous autodétruirons",
+      "vous vous autodétruirez",
+      "ils s'autodétruiront"
+    ],
+    "futur antérieur": [
+      "je me serai autodétruit",
+      "tu te seras autodétruit",
+      "il se sera autodétruit",
+      "nous nous serons autodétruits",
+      "vous vous serez autodétruits",
+      "ils se seront autodétruits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'autodétruise",
+      "que tu t'autodétruises",
+      "qu'il s'autodétruise",
+      "que nous nous autodétruisions",
+      "que vous vous autodétruisiez",
+      "qu'ils s'autodétruisent"
+    ],
+    "passé": [
+      "que je me sois autodétruit",
+      "que tu te sois autodétruit",
+      "qu'il se soit autodétruit",
+      "que nous nous soyons autodétruits",
+      "que vous vous soyez autodétruits",
+      "qu'ils se soient autodétruits"
+    ],
+    "imparfait": [
+      "que je m'autodétruisisse",
+      "que tu t'autodétruisisses",
+      "qu'il s'autodétruisît",
+      "que nous nous autodétruisissions",
+      "que vous vous autodétruisissiez",
+      "qu'ils s'autodétruisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse autodétruit",
+      "que tu te fusses autodétruit",
+      "qu'il se fût autodétruit",
+      "que nous nous fussions autodétruits",
+      "que vous vous fussiez autodétruits",
+      "qu'ils se fussent autodétruits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'autodétruirais",
+      "tu t'autodétruirais",
+      "il s'autodétruirait",
+      "nous nous autodétruirions",
+      "vous vous autodétruiriez",
+      "ils s'autodétruiraient"
+    ],
+    "passé": [
+      "je me serais autodétruit",
+      "tu te serais autodétruit",
+      "il se serait autodétruit",
+      "nous nous serions autodétruits",
+      "vous vous seriez autodétruits",
+      "ils se seraient autodétruits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "autodétruis-toi",
+      "autodétruisons-nous",
+      "autodétruisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'autodétruire"
+    ],
+    "passé": [
+      "s'être autodétruit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'autodétruisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant autodétruit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'autodétruisant"
+    ],
+    "passé": [
+      "en s'étant autodétruit"
+    ]
+  }
+}

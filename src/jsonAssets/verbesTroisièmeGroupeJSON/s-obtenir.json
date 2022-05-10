@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'obtiens",
+      "tu t'obtiens",
+      "il s'obtient",
+      "nous nous obtenons",
+      "vous vous obtenez",
+      "ils s'obtiennent"
+    ],
+    "passé composé": [
+      "je me suis obtenu",
+      "tu t'es obtenu",
+      "il s'est obtenu",
+      "nous nous sommes obtenus",
+      "vous vous êtes obtenus",
+      "ils se sont obtenus"
+    ],
+    "imparfait": [
+      "je m'obtenais",
+      "tu t'obtenais",
+      "il s'obtenait",
+      "nous nous obtenions",
+      "vous vous obteniez",
+      "ils s'obtenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais obtenu",
+      "tu t'étais obtenu",
+      "il s'était obtenu",
+      "nous nous étions obtenus",
+      "vous vous étiez obtenus",
+      "ils s'étaient obtenus"
+    ],
+    "passé simple": [
+      "je m'obtins",
+      "tu t'obtins",
+      "il s'obtint",
+      "nous nous obtînmes",
+      "vous vous obtîntes",
+      "ils s'obtinrent"
+    ],
+    "passé antérieur": [
+      "je me fus obtenu",
+      "tu te fus obtenu",
+      "il se fut obtenu",
+      "nous nous fûmes obtenus",
+      "vous vous fûtes obtenus",
+      "ils se furent obtenus"
+    ],
+    "futur simple": [
+      "je m'obtiendrai",
+      "tu t'obtiendras",
+      "il s'obtiendra",
+      "nous nous obtiendrons",
+      "vous vous obtiendrez",
+      "ils s'obtiendront"
+    ],
+    "futur antérieur": [
+      "je me serai obtenu",
+      "tu te seras obtenu",
+      "il se sera obtenu",
+      "nous nous serons obtenus",
+      "vous vous serez obtenus",
+      "ils se seront obtenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'obtienne",
+      "que tu t'obtiennes",
+      "qu'il s'obtienne",
+      "que nous nous obtenions",
+      "que vous vous obteniez",
+      "qu'ils s'obtiennent"
+    ],
+    "passé": [
+      "que je me sois obtenu",
+      "que tu te sois obtenu",
+      "qu'il se soit obtenu",
+      "que nous nous soyons obtenus",
+      "que vous vous soyez obtenus",
+      "qu'ils se soient obtenus"
+    ],
+    "imparfait": [
+      "que je m'obtinsse",
+      "que tu t'obtinsses",
+      "qu'il s'obtînt",
+      "que nous nous obtinssions",
+      "que vous vous obtinssiez",
+      "qu'ils s'obtinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse obtenu",
+      "que tu te fusses obtenu",
+      "qu'il se fût obtenu",
+      "que nous nous fussions obtenus",
+      "que vous vous fussiez obtenus",
+      "qu'ils se fussent obtenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'obtiendrais",
+      "tu t'obtiendrais",
+      "il s'obtiendrait",
+      "nous nous obtiendrions",
+      "vous vous obtiendriez",
+      "ils s'obtiendraient"
+    ],
+    "passé": [
+      "je me serais obtenu",
+      "tu te serais obtenu",
+      "il se serait obtenu",
+      "nous nous serions obtenus",
+      "vous vous seriez obtenus",
+      "ils se seraient obtenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "obtiens-toi",
+      "obtenons-nous",
+      "obtenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'obtenir"
+    ],
+    "passé": [
+      "s'être obtenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'obtenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant obtenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'obtenant"
+    ],
+    "passé": [
+      "en s'étant obtenu"
+    ]
+  }
+}

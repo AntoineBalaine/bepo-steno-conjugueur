@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me reprends",
+      "tu te reprends",
+      "il se reprend",
+      "nous nous reprenons",
+      "vous vous reprenez",
+      "ils se reprennent"
+    ],
+    "passé composé": [
+      "je me suis repris",
+      "tu t'es repris",
+      "il s'est repris",
+      "nous nous sommes repris",
+      "vous vous êtes repris",
+      "ils se sont repris"
+    ],
+    "imparfait": [
+      "je me reprenais",
+      "tu te reprenais",
+      "il se reprenait",
+      "nous nous reprenions",
+      "vous vous repreniez",
+      "ils se reprenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais repris",
+      "tu t'étais repris",
+      "il s'était repris",
+      "nous nous étions repris",
+      "vous vous étiez repris",
+      "ils s'étaient repris"
+    ],
+    "passé simple": [
+      "je me repris",
+      "tu te repris",
+      "il se reprit",
+      "nous nous reprîmes",
+      "vous vous reprîtes",
+      "ils se reprirent"
+    ],
+    "passé antérieur": [
+      "je me fus repris",
+      "tu te fus repris",
+      "il se fut repris",
+      "nous nous fûmes repris",
+      "vous vous fûtes repris",
+      "ils se furent repris"
+    ],
+    "futur simple": [
+      "je me reprendrai",
+      "tu te reprendras",
+      "il se reprendra",
+      "nous nous reprendrons",
+      "vous vous reprendrez",
+      "ils se reprendront"
+    ],
+    "futur antérieur": [
+      "je me serai repris",
+      "tu te seras repris",
+      "il se sera repris",
+      "nous nous serons repris",
+      "vous vous serez repris",
+      "ils se seront repris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me reprenne",
+      "que tu te reprennes",
+      "qu'il se reprenne",
+      "que nous nous reprenions",
+      "que vous vous repreniez",
+      "qu'ils se reprennent"
+    ],
+    "passé": [
+      "que je me sois repris",
+      "que tu te sois repris",
+      "qu'il se soit repris",
+      "que nous nous soyons repris",
+      "que vous vous soyez repris",
+      "qu'ils se soient repris"
+    ],
+    "imparfait": [
+      "que je me reprisse",
+      "que tu te reprisses",
+      "qu'il se reprît",
+      "que nous nous reprissions",
+      "que vous vous reprissiez",
+      "qu'ils se reprissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse repris",
+      "que tu te fusses repris",
+      "qu'il se fût repris",
+      "que nous nous fussions repris",
+      "que vous vous fussiez repris",
+      "qu'ils se fussent repris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me reprendrais",
+      "tu te reprendrais",
+      "il se reprendrait",
+      "nous nous reprendrions",
+      "vous vous reprendriez",
+      "ils se reprendraient"
+    ],
+    "passé": [
+      "je me serais repris",
+      "tu te serais repris",
+      "il se serait repris",
+      "nous nous serions repris",
+      "vous vous seriez repris",
+      "ils se seraient repris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reprends-toi",
+      "reprenons-nous",
+      "reprenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se reprendre"
+    ],
+    "passé": [
+      "s'être repris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se reprenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant repris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se reprenant"
+    ],
+    "passé": [
+      "en s'étant repris"
+    ]
+  }
+}

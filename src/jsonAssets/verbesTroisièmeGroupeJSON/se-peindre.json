@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me peins",
+      "tu te peins",
+      "il se peint",
+      "nous nous peignons",
+      "vous vous peignez",
+      "ils se peignent"
+    ],
+    "passé composé": [
+      "je me suis peint",
+      "tu t'es peint",
+      "il s'est peint",
+      "nous nous sommes peints",
+      "vous vous êtes peints",
+      "ils se sont peints"
+    ],
+    "imparfait": [
+      "je me peignais",
+      "tu te peignais",
+      "il se peignait",
+      "nous nous peignions",
+      "vous vous peigniez",
+      "ils se peignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais peint",
+      "tu t'étais peint",
+      "il s'était peint",
+      "nous nous étions peints",
+      "vous vous étiez peints",
+      "ils s'étaient peints"
+    ],
+    "passé simple": [
+      "je me peignis",
+      "tu te peignis",
+      "il se peignit",
+      "nous nous peignîmes",
+      "vous vous peignîtes",
+      "ils se peignirent"
+    ],
+    "passé antérieur": [
+      "je me fus peint",
+      "tu te fus peint",
+      "il se fut peint",
+      "nous nous fûmes peints",
+      "vous vous fûtes peints",
+      "ils se furent peints"
+    ],
+    "futur simple": [
+      "je me peindrai",
+      "tu te peindras",
+      "il se peindra",
+      "nous nous peindrons",
+      "vous vous peindrez",
+      "ils se peindront"
+    ],
+    "futur antérieur": [
+      "je me serai peint",
+      "tu te seras peint",
+      "il se sera peint",
+      "nous nous serons peints",
+      "vous vous serez peints",
+      "ils se seront peints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me peigne",
+      "que tu te peignes",
+      "qu'il se peigne",
+      "que nous nous peignions",
+      "que vous vous peigniez",
+      "qu'ils se peignent"
+    ],
+    "passé": [
+      "que je me sois peint",
+      "que tu te sois peint",
+      "qu'il se soit peint",
+      "que nous nous soyons peints",
+      "que vous vous soyez peints",
+      "qu'ils se soient peints"
+    ],
+    "imparfait": [
+      "que je me peignisse",
+      "que tu te peignisses",
+      "qu'il se peignît",
+      "que nous nous peignissions",
+      "que vous vous peignissiez",
+      "qu'ils se peignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse peint",
+      "que tu te fusses peint",
+      "qu'il se fût peint",
+      "que nous nous fussions peints",
+      "que vous vous fussiez peints",
+      "qu'ils se fussent peints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me peindrais",
+      "tu te peindrais",
+      "il se peindrait",
+      "nous nous peindrions",
+      "vous vous peindriez",
+      "ils se peindraient"
+    ],
+    "passé": [
+      "je me serais peint",
+      "tu te serais peint",
+      "il se serait peint",
+      "nous nous serions peints",
+      "vous vous seriez peints",
+      "ils se seraient peints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "peins-toi",
+      "peignons-nous",
+      "peignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se peindre"
+    ],
+    "passé": [
+      "s'être peint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se peignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant peint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se peignant"
+    ],
+    "passé": [
+      "en s'étant peint"
+    ]
+  }
+}

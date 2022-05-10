@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je relis",
+      "tu relis",
+      "il relit",
+      "nous relisons",
+      "vous relisez",
+      "ils relisent"
+    ],
+    "passé composé": [
+      "j'ai relu",
+      "tu as relu",
+      "il a relu",
+      "nous avons relu",
+      "vous avez relu",
+      "ils ont relu"
+    ],
+    "imparfait": [
+      "je relisais",
+      "tu relisais",
+      "il relisait",
+      "nous relisions",
+      "vous relisiez",
+      "ils relisaient"
+    ],
+    "plus que parfait": [
+      "j'avais relu",
+      "tu avais relu",
+      "il avait relu",
+      "nous avions relu",
+      "vous aviez relu",
+      "ils avaient relu"
+    ],
+    "passé simple": [
+      "je relus",
+      "tu relus",
+      "il relut",
+      "nous relûmes",
+      "vous relûtes",
+      "ils relurent"
+    ],
+    "passé antérieur": [
+      "j'eus relu",
+      "tu eus relu",
+      "il eut relu",
+      "nous eûmes relu",
+      "vous eûtes relu",
+      "ils eurent relu"
+    ],
+    "futur simple": [
+      "je relirai",
+      "tu reliras",
+      "il relira",
+      "nous relirons",
+      "vous relirez",
+      "ils reliront"
+    ],
+    "futur antérieur": [
+      "j'aurai relu",
+      "tu auras relu",
+      "il aura relu",
+      "nous aurons relu",
+      "vous aurez relu",
+      "ils auront relu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je relise",
+      "que tu relises",
+      "qu'il relise",
+      "que nous relisions",
+      "que vous relisiez",
+      "qu'ils relisent"
+    ],
+    "passé": [
+      "que j'aie relu",
+      "que tu aies relu",
+      "qu'il ait relu",
+      "que nous ayons relu",
+      "que vous ayez relu",
+      "qu'ils aient relu"
+    ],
+    "imparfait": [
+      "que je relusse",
+      "que tu relusses",
+      "qu'il relût",
+      "que nous relussions",
+      "que vous relussiez",
+      "qu'ils relussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse relu",
+      "que tu eusses relu",
+      "qu'il eût relu",
+      "que nous eussions relu",
+      "que vous eussiez relu",
+      "qu'ils eussent relu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je relirais",
+      "tu relirais",
+      "il relirait",
+      "nous relirions",
+      "vous reliriez",
+      "ils reliraient"
+    ],
+    "passé": [
+      "j'aurais relu",
+      "tu aurais relu",
+      "il aurait relu",
+      "nous aurions relu",
+      "vous auriez relu",
+      "ils auraient relu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "relis",
+      "relisons",
+      "relisez"
+    ],
+    "passé": [
+      "aie relu",
+      "ayons relu",
+      "ayez relu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "relire"
+    ],
+    "passé": [
+      "avoir relu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "relisant"
+    ],
+    "passé": [
+      "relu",
+      "ayant relu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en relisant"
+    ],
+    "passé": [
+      "en ayant relu"
+    ]
+  }
+}

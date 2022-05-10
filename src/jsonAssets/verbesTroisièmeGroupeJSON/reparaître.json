@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reparais",
+      "tu reparais",
+      "il reparaît",
+      "nous reparaissons",
+      "vous reparaissez",
+      "ils reparaissent"
+    ],
+    "passé composé": [
+      "j'ai reparu",
+      "tu as reparu",
+      "il a reparu",
+      "nous avons reparu",
+      "vous avez reparu",
+      "ils ont reparu"
+    ],
+    "imparfait": [
+      "je reparaissais",
+      "tu reparaissais",
+      "il reparaissait",
+      "nous reparaissions",
+      "vous reparaissiez",
+      "ils reparaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais reparu",
+      "tu avais reparu",
+      "il avait reparu",
+      "nous avions reparu",
+      "vous aviez reparu",
+      "ils avaient reparu"
+    ],
+    "passé simple": [
+      "je reparus",
+      "tu reparus",
+      "il reparut",
+      "nous reparûmes",
+      "vous reparûtes",
+      "ils reparurent"
+    ],
+    "passé antérieur": [
+      "j'eus reparu",
+      "tu eus reparu",
+      "il eut reparu",
+      "nous eûmes reparu",
+      "vous eûtes reparu",
+      "ils eurent reparu"
+    ],
+    "futur simple": [
+      "je reparaîtrai",
+      "tu reparaîtras",
+      "il reparaîtra",
+      "nous reparaîtrons",
+      "vous reparaîtrez",
+      "ils reparaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai reparu",
+      "tu auras reparu",
+      "il aura reparu",
+      "nous aurons reparu",
+      "vous aurez reparu",
+      "ils auront reparu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reparaisse",
+      "que tu reparaisses",
+      "qu'il reparaisse",
+      "que nous reparaissions",
+      "que vous reparaissiez",
+      "qu'ils reparaissent"
+    ],
+    "passé": [
+      "que j'aie reparu",
+      "que tu aies reparu",
+      "qu'il ait reparu",
+      "que nous ayons reparu",
+      "que vous ayez reparu",
+      "qu'ils aient reparu"
+    ],
+    "imparfait": [
+      "que je reparusse",
+      "que tu reparusses",
+      "qu'il reparût",
+      "que nous reparussions",
+      "que vous reparussiez",
+      "qu'ils reparussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reparu",
+      "que tu eusses reparu",
+      "qu'il eût reparu",
+      "que nous eussions reparu",
+      "que vous eussiez reparu",
+      "qu'ils eussent reparu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reparaîtrais",
+      "tu reparaîtrais",
+      "il reparaîtrait",
+      "nous reparaîtrions",
+      "vous reparaîtriez",
+      "ils reparaîtraient"
+    ],
+    "passé": [
+      "j'aurais reparu",
+      "tu aurais reparu",
+      "il aurait reparu",
+      "nous aurions reparu",
+      "vous auriez reparu",
+      "ils auraient reparu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reparais",
+      "reparaissons",
+      "reparaissez"
+    ],
+    "passé": [
+      "aie reparu",
+      "ayons reparu",
+      "ayez reparu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reparaître"
+    ],
+    "passé": [
+      "avoir reparu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reparaissant"
+    ],
+    "passé": [
+      "reparu",
+      "ayant reparu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reparaissant"
+    ],
+    "passé": [
+      "en ayant reparu"
+    ]
+  }
+}

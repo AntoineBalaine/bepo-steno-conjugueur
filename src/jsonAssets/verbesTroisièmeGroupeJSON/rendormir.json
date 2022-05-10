@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rendors",
+      "tu rendors",
+      "il rendort",
+      "nous rendormons",
+      "vous rendormez",
+      "ils rendorment"
+    ],
+    "passé composé": [
+      "j'ai rendormi",
+      "tu as rendormi",
+      "il a rendormi",
+      "nous avons rendormi",
+      "vous avez rendormi",
+      "ils ont rendormi"
+    ],
+    "imparfait": [
+      "je rendormais",
+      "tu rendormais",
+      "il rendormait",
+      "nous rendormions",
+      "vous rendormiez",
+      "ils rendormaient"
+    ],
+    "plus que parfait": [
+      "j'avais rendormi",
+      "tu avais rendormi",
+      "il avait rendormi",
+      "nous avions rendormi",
+      "vous aviez rendormi",
+      "ils avaient rendormi"
+    ],
+    "passé simple": [
+      "je rendormis",
+      "tu rendormis",
+      "il rendormit",
+      "nous rendormîmes",
+      "vous rendormîtes",
+      "ils rendormirent"
+    ],
+    "passé antérieur": [
+      "j'eus rendormi",
+      "tu eus rendormi",
+      "il eut rendormi",
+      "nous eûmes rendormi",
+      "vous eûtes rendormi",
+      "ils eurent rendormi"
+    ],
+    "futur simple": [
+      "je rendormirai",
+      "tu rendormiras",
+      "il rendormira",
+      "nous rendormirons",
+      "vous rendormirez",
+      "ils rendormiront"
+    ],
+    "futur antérieur": [
+      "j'aurai rendormi",
+      "tu auras rendormi",
+      "il aura rendormi",
+      "nous aurons rendormi",
+      "vous aurez rendormi",
+      "ils auront rendormi"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rendorme",
+      "que tu rendormes",
+      "qu'il rendorme",
+      "que nous rendormions",
+      "que vous rendormiez",
+      "qu'ils rendorment"
+    ],
+    "passé": [
+      "que j'aie rendormi",
+      "que tu aies rendormi",
+      "qu'il ait rendormi",
+      "que nous ayons rendormi",
+      "que vous ayez rendormi",
+      "qu'ils aient rendormi"
+    ],
+    "imparfait": [
+      "que je rendormisse",
+      "que tu rendormisses",
+      "qu'il rendormît",
+      "que nous rendormissions",
+      "que vous rendormissiez",
+      "qu'ils rendormissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rendormi",
+      "que tu eusses rendormi",
+      "qu'il eût rendormi",
+      "que nous eussions rendormi",
+      "que vous eussiez rendormi",
+      "qu'ils eussent rendormi"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rendormirais",
+      "tu rendormirais",
+      "il rendormirait",
+      "nous rendormirions",
+      "vous rendormiriez",
+      "ils rendormiraient"
+    ],
+    "passé": [
+      "j'aurais rendormi",
+      "tu aurais rendormi",
+      "il aurait rendormi",
+      "nous aurions rendormi",
+      "vous auriez rendormi",
+      "ils auraient rendormi"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rendors",
+      "rendormons",
+      "rendormez"
+    ],
+    "passé": [
+      "aie rendormi",
+      "ayons rendormi",
+      "ayez rendormi"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rendormir"
+    ],
+    "passé": [
+      "avoir rendormi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rendormant"
+    ],
+    "passé": [
+      "rendormi",
+      "ayant rendormi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rendormant"
+    ],
+    "passé": [
+      "en ayant rendormi"
+    ]
+  }
+}

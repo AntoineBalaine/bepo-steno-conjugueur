@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reviens",
+      "tu reviens",
+      "il revient",
+      "nous revenons",
+      "vous revenez",
+      "ils reviennent"
+    ],
+    "passé composé": [
+      "je suis revenu",
+      "tu es revenu",
+      "il est revenu",
+      "nous sommes revenus",
+      "vous êtes revenus",
+      "ils sont revenus"
+    ],
+    "imparfait": [
+      "je revenais",
+      "tu revenais",
+      "il revenait",
+      "nous revenions",
+      "vous reveniez",
+      "ils revenaient"
+    ],
+    "plus que parfait": [
+      "j'étais revenu",
+      "tu étais revenu",
+      "il était revenu",
+      "nous étions revenus",
+      "vous étiez revenus",
+      "ils étaient revenus"
+    ],
+    "passé simple": [
+      "je revins",
+      "tu revins",
+      "il revint",
+      "nous revînmes",
+      "vous revîntes",
+      "ils revinrent"
+    ],
+    "passé antérieur": [
+      "je fus revenu",
+      "tu fus revenu",
+      "il fut revenu",
+      "nous fûmes revenus",
+      "vous fûtes revenus",
+      "ils furent revenus"
+    ],
+    "futur simple": [
+      "je reviendrai",
+      "tu reviendras",
+      "il reviendra",
+      "nous reviendrons",
+      "vous reviendrez",
+      "ils reviendront"
+    ],
+    "futur antérieur": [
+      "je serai revenu",
+      "tu seras revenu",
+      "il sera revenu",
+      "nous serons revenus",
+      "vous serez revenus",
+      "ils seront revenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je revienne",
+      "que tu reviennes",
+      "qu'il revienne",
+      "que nous revenions",
+      "que vous reveniez",
+      "qu'ils reviennent"
+    ],
+    "passé": [
+      "que je sois revenu",
+      "que tu sois revenu",
+      "qu'il soit revenu",
+      "que nous soyons revenus",
+      "que vous soyez revenus",
+      "qu'ils soient revenus"
+    ],
+    "imparfait": [
+      "que je revinsse",
+      "que tu revinsses",
+      "qu'il revînt",
+      "que nous revinssions",
+      "que vous revinssiez",
+      "qu'ils revinssent"
+    ],
+    "plus que parfait": [
+      "que je fusse revenu",
+      "que tu fusses revenu",
+      "qu'il fût revenu",
+      "que nous fussions revenus",
+      "que vous fussiez revenus",
+      "qu'ils fussent revenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reviendrais",
+      "tu reviendrais",
+      "il reviendrait",
+      "nous reviendrions",
+      "vous reviendriez",
+      "ils reviendraient"
+    ],
+    "passé": [
+      "je serais revenu",
+      "tu serais revenu",
+      "il serait revenu",
+      "nous serions revenus",
+      "vous seriez revenus",
+      "ils seraient revenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reviens",
+      "revenons",
+      "revenez"
+    ],
+    "passé": [
+      "sois revenu",
+      "soyons revenus",
+      "soyez revenus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "revenir"
+    ],
+    "passé": [
+      "être revenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "revenant"
+    ],
+    "passé": [
+      "revenu",
+      "étant revenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en revenant"
+    ],
+    "passé": [
+      "en étant revenu"
+    ]
+  }
+}

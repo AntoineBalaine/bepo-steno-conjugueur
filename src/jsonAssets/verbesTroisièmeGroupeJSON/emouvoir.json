@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'émeus",
+      "tu émeus",
+      "il émeut",
+      "nous émouvons",
+      "vous émouvez",
+      "ils émeuvent"
+    ],
+    "passé composé": [
+      "j'ai émû",
+      "tu as émû",
+      "il a émû",
+      "nous avons émû",
+      "vous avez émû",
+      "ils ont émû"
+    ],
+    "imparfait": [
+      "j'émouvais",
+      "tu émouvais",
+      "il émouvait",
+      "nous émouvions",
+      "vous émouviez",
+      "ils émouvaient"
+    ],
+    "plus que parfait": [
+      "j'avais émû",
+      "tu avais émû",
+      "il avait émû",
+      "nous avions émû",
+      "vous aviez émû",
+      "ils avaient émû"
+    ],
+    "passé simple": [
+      "j'émus",
+      "tu émus",
+      "il émut",
+      "nous émûmes",
+      "vous émûtes",
+      "ils émurent"
+    ],
+    "passé antérieur": [
+      "j'eus émû",
+      "tu eus émû",
+      "il eut émû",
+      "nous eûmes émû",
+      "vous eûtes émû",
+      "ils eurent émû"
+    ],
+    "futur simple": [
+      "j'émouvrai",
+      "tu émouvras",
+      "il émouvra",
+      "nous émouvrons",
+      "vous émouvrez",
+      "ils émouvront"
+    ],
+    "futur antérieur": [
+      "j'aurai émû",
+      "tu auras émû",
+      "il aura émû",
+      "nous aurons émû",
+      "vous aurez émû",
+      "ils auront émû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'émeuve",
+      "que tu émeuves",
+      "qu'il émeuve",
+      "que nous émouvions",
+      "que vous émouviez",
+      "qu'ils émeuvent"
+    ],
+    "passé": [
+      "que j'aie émû",
+      "que tu aies émû",
+      "qu'il ait émû",
+      "que nous ayons émû",
+      "que vous ayez émû",
+      "qu'ils aient émû"
+    ],
+    "imparfait": [
+      "que j'émusse",
+      "que tu émusses",
+      "qu'il émût",
+      "que nous émussions",
+      "que vous émussiez",
+      "qu'ils émussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse émû",
+      "que tu eusses émû",
+      "qu'il eût émû",
+      "que nous eussions émû",
+      "que vous eussiez émû",
+      "qu'ils eussent émû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'émouvrais",
+      "tu émouvrais",
+      "il émouvrait",
+      "nous émouvrions",
+      "vous émouvriez",
+      "ils émouvraient"
+    ],
+    "passé": [
+      "j'aurais émû",
+      "tu aurais émû",
+      "il aurait émû",
+      "nous aurions émû",
+      "vous auriez émû",
+      "ils auraient émû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "émeus",
+      "émouvons",
+      "émouvez"
+    ],
+    "passé": [
+      "aie émû",
+      "ayons émû",
+      "ayez émû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "émouvoir"
+    ],
+    "passé": [
+      "avoir émû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "émouvant"
+    ],
+    "passé": [
+      "émû",
+      "ayant émû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en émouvant"
+    ],
+    "passé": [
+      "en ayant émû"
+    ]
+  }
+}

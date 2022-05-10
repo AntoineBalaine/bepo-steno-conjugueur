@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je ressers",
+      "tu ressers",
+      "il ressert",
+      "nous resservons",
+      "vous resservez",
+      "ils resservent"
+    ],
+    "passé composé": [
+      "j'ai resservi",
+      "tu as resservi",
+      "il a resservi",
+      "nous avons resservi",
+      "vous avez resservi",
+      "ils ont resservi"
+    ],
+    "imparfait": [
+      "je resservais",
+      "tu resservais",
+      "il resservait",
+      "nous resservions",
+      "vous resserviez",
+      "ils resservaient"
+    ],
+    "plus que parfait": [
+      "j'avais resservi",
+      "tu avais resservi",
+      "il avait resservi",
+      "nous avions resservi",
+      "vous aviez resservi",
+      "ils avaient resservi"
+    ],
+    "passé simple": [
+      "je resservis",
+      "tu resservis",
+      "il resservit",
+      "nous resservîmes",
+      "vous resservîtes",
+      "ils resservirent"
+    ],
+    "passé antérieur": [
+      "j'eus resservi",
+      "tu eus resservi",
+      "il eut resservi",
+      "nous eûmes resservi",
+      "vous eûtes resservi",
+      "ils eurent resservi"
+    ],
+    "futur simple": [
+      "je resservirai",
+      "tu resserviras",
+      "il resservira",
+      "nous resservirons",
+      "vous resservirez",
+      "ils resserviront"
+    ],
+    "futur antérieur": [
+      "j'aurai resservi",
+      "tu auras resservi",
+      "il aura resservi",
+      "nous aurons resservi",
+      "vous aurez resservi",
+      "ils auront resservi"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je resserve",
+      "que tu resserves",
+      "qu'il resserve",
+      "que nous resservions",
+      "que vous resserviez",
+      "qu'ils resservent"
+    ],
+    "passé": [
+      "que j'aie resservi",
+      "que tu aies resservi",
+      "qu'il ait resservi",
+      "que nous ayons resservi",
+      "que vous ayez resservi",
+      "qu'ils aient resservi"
+    ],
+    "imparfait": [
+      "que je resservisse",
+      "que tu resservisses",
+      "qu'il resservît",
+      "que nous resservissions",
+      "que vous resservissiez",
+      "qu'ils resservissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse resservi",
+      "que tu eusses resservi",
+      "qu'il eût resservi",
+      "que nous eussions resservi",
+      "que vous eussiez resservi",
+      "qu'ils eussent resservi"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je resservirais",
+      "tu resservirais",
+      "il resservirait",
+      "nous resservirions",
+      "vous resserviriez",
+      "ils resserviraient"
+    ],
+    "passé": [
+      "j'aurais resservi",
+      "tu aurais resservi",
+      "il aurait resservi",
+      "nous aurions resservi",
+      "vous auriez resservi",
+      "ils auraient resservi"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ressers",
+      "resservons",
+      "resservez"
+    ],
+    "passé": [
+      "aie resservi",
+      "ayons resservi",
+      "ayez resservi"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "resservir"
+    ],
+    "passé": [
+      "avoir resservi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "resservant"
+    ],
+    "passé": [
+      "resservi",
+      "ayant resservi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en resservant"
+    ],
+    "passé": [
+      "en ayant resservi"
+    ]
+  }
+}

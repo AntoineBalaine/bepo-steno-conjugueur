@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je secours",
+      "tu secours",
+      "il secourt",
+      "nous secourons",
+      "vous secourez",
+      "ils secourent"
+    ],
+    "passé composé": [
+      "j'ai secouru",
+      "tu as secouru",
+      "il a secouru",
+      "nous avons secouru",
+      "vous avez secouru",
+      "ils ont secouru"
+    ],
+    "imparfait": [
+      "je secourais",
+      "tu secourais",
+      "il secourait",
+      "nous secourions",
+      "vous secouriez",
+      "ils secouraient"
+    ],
+    "plus que parfait": [
+      "j'avais secouru",
+      "tu avais secouru",
+      "il avait secouru",
+      "nous avions secouru",
+      "vous aviez secouru",
+      "ils avaient secouru"
+    ],
+    "passé simple": [
+      "je secourus",
+      "tu secourus",
+      "il secourut",
+      "nous secourûmes",
+      "vous secourûtes",
+      "ils secoururent"
+    ],
+    "passé antérieur": [
+      "j'eus secouru",
+      "tu eus secouru",
+      "il eut secouru",
+      "nous eûmes secouru",
+      "vous eûtes secouru",
+      "ils eurent secouru"
+    ],
+    "futur simple": [
+      "je secourrai",
+      "tu secourras",
+      "il secourra",
+      "nous secourrons",
+      "vous secourrez",
+      "ils secourront"
+    ],
+    "futur antérieur": [
+      "j'aurai secouru",
+      "tu auras secouru",
+      "il aura secouru",
+      "nous aurons secouru",
+      "vous aurez secouru",
+      "ils auront secouru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je secoure",
+      "que tu secoures",
+      "qu'il secoure",
+      "que nous secourions",
+      "que vous secouriez",
+      "qu'ils secourent"
+    ],
+    "passé": [
+      "que j'aie secouru",
+      "que tu aies secouru",
+      "qu'il ait secouru",
+      "que nous ayons secouru",
+      "que vous ayez secouru",
+      "qu'ils aient secouru"
+    ],
+    "imparfait": [
+      "que je secourusse",
+      "que tu secourusses",
+      "qu'il secourût",
+      "que nous secourussions",
+      "que vous secourussiez",
+      "qu'ils secourussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse secouru",
+      "que tu eusses secouru",
+      "qu'il eût secouru",
+      "que nous eussions secouru",
+      "que vous eussiez secouru",
+      "qu'ils eussent secouru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je secourrais",
+      "tu secourrais",
+      "il secourrait",
+      "nous secourrions",
+      "vous secourriez",
+      "ils secourraient"
+    ],
+    "passé": [
+      "j'aurais secouru",
+      "tu aurais secouru",
+      "il aurait secouru",
+      "nous aurions secouru",
+      "vous auriez secouru",
+      "ils auraient secouru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "secours",
+      "secourons",
+      "secourez"
+    ],
+    "passé": [
+      "aie secouru",
+      "ayons secouru",
+      "ayez secouru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "secourir"
+    ],
+    "passé": [
+      "avoir secouru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "secourant"
+    ],
+    "passé": [
+      "secouru",
+      "ayant secouru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en secourant"
+    ],
+    "passé": [
+      "en ayant secouru"
+    ]
+  }
+}

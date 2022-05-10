@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me contiens",
+      "tu te contiens",
+      "il se contient",
+      "nous nous contenons",
+      "vous vous contenez",
+      "ils se contiennent"
+    ],
+    "passé composé": [
+      "je me suis contenu",
+      "tu t'es contenu",
+      "il s'est contenu",
+      "nous nous sommes contenus",
+      "vous vous êtes contenus",
+      "ils se sont contenus"
+    ],
+    "imparfait": [
+      "je me contenais",
+      "tu te contenais",
+      "il se contenait",
+      "nous nous contenions",
+      "vous vous conteniez",
+      "ils se contenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais contenu",
+      "tu t'étais contenu",
+      "il s'était contenu",
+      "nous nous étions contenus",
+      "vous vous étiez contenus",
+      "ils s'étaient contenus"
+    ],
+    "passé simple": [
+      "je me contins",
+      "tu te contins",
+      "il se contint",
+      "nous nous contînmes",
+      "vous vous contîntes",
+      "ils se continrent"
+    ],
+    "passé antérieur": [
+      "je me fus contenu",
+      "tu te fus contenu",
+      "il se fut contenu",
+      "nous nous fûmes contenus",
+      "vous vous fûtes contenus",
+      "ils se furent contenus"
+    ],
+    "futur simple": [
+      "je me contiendrai",
+      "tu te contiendras",
+      "il se contiendra",
+      "nous nous contiendrons",
+      "vous vous contiendrez",
+      "ils se contiendront"
+    ],
+    "futur antérieur": [
+      "je me serai contenu",
+      "tu te seras contenu",
+      "il se sera contenu",
+      "nous nous serons contenus",
+      "vous vous serez contenus",
+      "ils se seront contenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me contienne",
+      "que tu te contiennes",
+      "qu'il se contienne",
+      "que nous nous contenions",
+      "que vous vous conteniez",
+      "qu'ils se contiennent"
+    ],
+    "passé": [
+      "que je me sois contenu",
+      "que tu te sois contenu",
+      "qu'il se soit contenu",
+      "que nous nous soyons contenus",
+      "que vous vous soyez contenus",
+      "qu'ils se soient contenus"
+    ],
+    "imparfait": [
+      "que je me continsse",
+      "que tu te continsses",
+      "qu'il se contînt",
+      "que nous nous continssions",
+      "que vous vous continssiez",
+      "qu'ils se continssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse contenu",
+      "que tu te fusses contenu",
+      "qu'il se fût contenu",
+      "que nous nous fussions contenus",
+      "que vous vous fussiez contenus",
+      "qu'ils se fussent contenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me contiendrais",
+      "tu te contiendrais",
+      "il se contiendrait",
+      "nous nous contiendrions",
+      "vous vous contiendriez",
+      "ils se contiendraient"
+    ],
+    "passé": [
+      "je me serais contenu",
+      "tu te serais contenu",
+      "il se serait contenu",
+      "nous nous serions contenus",
+      "vous vous seriez contenus",
+      "ils se seraient contenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contiens-toi",
+      "contenons-nous",
+      "contenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se contenir"
+    ],
+    "passé": [
+      "s'être contenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se contenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant contenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se contenant"
+    ],
+    "passé": [
+      "en s'étant contenu"
+    ]
+  }
+}

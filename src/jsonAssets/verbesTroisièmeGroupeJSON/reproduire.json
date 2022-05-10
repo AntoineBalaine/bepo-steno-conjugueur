@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reproduis",
+      "tu reproduis",
+      "il reproduit",
+      "nous reproduisons",
+      "vous reproduisez",
+      "ils reproduisent"
+    ],
+    "passé composé": [
+      "j'ai reproduit",
+      "tu as reproduit",
+      "il a reproduit",
+      "nous avons reproduit",
+      "vous avez reproduit",
+      "ils ont reproduit"
+    ],
+    "imparfait": [
+      "je reproduisais",
+      "tu reproduisais",
+      "il reproduisait",
+      "nous reproduisions",
+      "vous reproduisiez",
+      "ils reproduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais reproduit",
+      "tu avais reproduit",
+      "il avait reproduit",
+      "nous avions reproduit",
+      "vous aviez reproduit",
+      "ils avaient reproduit"
+    ],
+    "passé simple": [
+      "je reproduisis",
+      "tu reproduisis",
+      "il reproduisit",
+      "nous reproduisîmes",
+      "vous reproduisîtes",
+      "ils reproduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus reproduit",
+      "tu eus reproduit",
+      "il eut reproduit",
+      "nous eûmes reproduit",
+      "vous eûtes reproduit",
+      "ils eurent reproduit"
+    ],
+    "futur simple": [
+      "je reproduirai",
+      "tu reproduiras",
+      "il reproduira",
+      "nous reproduirons",
+      "vous reproduirez",
+      "ils reproduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai reproduit",
+      "tu auras reproduit",
+      "il aura reproduit",
+      "nous aurons reproduit",
+      "vous aurez reproduit",
+      "ils auront reproduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reproduise",
+      "que tu reproduises",
+      "qu'il reproduise",
+      "que nous reproduisions",
+      "que vous reproduisiez",
+      "qu'ils reproduisent"
+    ],
+    "passé": [
+      "que j'aie reproduit",
+      "que tu aies reproduit",
+      "qu'il ait reproduit",
+      "que nous ayons reproduit",
+      "que vous ayez reproduit",
+      "qu'ils aient reproduit"
+    ],
+    "imparfait": [
+      "que je reproduisisse",
+      "que tu reproduisisses",
+      "qu'il reproduisît",
+      "que nous reproduisissions",
+      "que vous reproduisissiez",
+      "qu'ils reproduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reproduit",
+      "que tu eusses reproduit",
+      "qu'il eût reproduit",
+      "que nous eussions reproduit",
+      "que vous eussiez reproduit",
+      "qu'ils eussent reproduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reproduirais",
+      "tu reproduirais",
+      "il reproduirait",
+      "nous reproduirions",
+      "vous reproduiriez",
+      "ils reproduiraient"
+    ],
+    "passé": [
+      "j'aurais reproduit",
+      "tu aurais reproduit",
+      "il aurait reproduit",
+      "nous aurions reproduit",
+      "vous auriez reproduit",
+      "ils auraient reproduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reproduis",
+      "reproduisons",
+      "reproduisez"
+    ],
+    "passé": [
+      "aie reproduit",
+      "ayons reproduit",
+      "ayez reproduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reproduire"
+    ],
+    "passé": [
+      "avoir reproduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reproduisant"
+    ],
+    "passé": [
+      "reproduit",
+      "ayant reproduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reproduisant"
+    ],
+    "passé": [
+      "en ayant reproduit"
+    ]
+  }
+}

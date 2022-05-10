@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je vaux",
+      "tu vaux",
+      "il vaut",
+      "nous valons",
+      "vous valez",
+      "ils valent"
+    ],
+    "passé composé": [
+      "j'ai valu",
+      "tu as valu",
+      "il a valu",
+      "nous avons valu",
+      "vous avez valu",
+      "ils ont valu"
+    ],
+    "imparfait": [
+      "je valais",
+      "tu valais",
+      "il valait",
+      "nous valions",
+      "vous valiez",
+      "ils valaient"
+    ],
+    "plus que parfait": [
+      "j'avais valu",
+      "tu avais valu",
+      "il avait valu",
+      "nous avions valu",
+      "vous aviez valu",
+      "ils avaient valu"
+    ],
+    "passé simple": [
+      "je valus",
+      "tu valus",
+      "il valut",
+      "nous valûmes",
+      "vous valûtes",
+      "ils valurent"
+    ],
+    "passé antérieur": [
+      "j'eus valu",
+      "tu eus valu",
+      "il eut valu",
+      "nous eûmes valu",
+      "vous eûtes valu",
+      "ils eurent valu"
+    ],
+    "futur simple": [
+      "je vaudrai",
+      "tu vaudras",
+      "il vaudra",
+      "nous vaudrons",
+      "vous vaudrez",
+      "ils vaudront"
+    ],
+    "futur antérieur": [
+      "j'aurai valu",
+      "tu auras valu",
+      "il aura valu",
+      "nous aurons valu",
+      "vous aurez valu",
+      "ils auront valu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je vaille",
+      "que tu vailles",
+      "qu'il vaille",
+      "que nous valions",
+      "que vous valiez",
+      "qu'ils vaillent"
+    ],
+    "passé": [
+      "que j'aie valu",
+      "que tu aies valu",
+      "qu'il ait valu",
+      "que nous ayons valu",
+      "que vous ayez valu",
+      "qu'ils aient valu"
+    ],
+    "imparfait": [
+      "que je valusse",
+      "que tu valusses",
+      "qu'il valût",
+      "que nous valussions",
+      "que vous valussiez",
+      "qu'ils valussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse valu",
+      "que tu eusses valu",
+      "qu'il eût valu",
+      "que nous eussions valu",
+      "que vous eussiez valu",
+      "qu'ils eussent valu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je vaudrais",
+      "tu vaudrais",
+      "il vaudrait",
+      "nous vaudrions",
+      "vous vaudriez",
+      "ils vaudraient"
+    ],
+    "passé": [
+      "j'aurais valu",
+      "tu aurais valu",
+      "il aurait valu",
+      "nous aurions valu",
+      "vous auriez valu",
+      "ils auraient valu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vaux",
+      "valons",
+      "valez"
+    ],
+    "passé": [
+      "aie valu",
+      "ayons valu",
+      "ayez valu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "valoir"
+    ],
+    "passé": [
+      "avoir valu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "valant"
+    ],
+    "passé": [
+      "valu",
+      "ayant valu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en valant"
+    ],
+    "passé": [
+      "en ayant valu"
+    ]
+  }
+}

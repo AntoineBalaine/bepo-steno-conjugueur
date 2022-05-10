@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je commets",
+      "tu commets",
+      "il commet",
+      "nous commettons",
+      "vous commettez",
+      "ils commettent"
+    ],
+    "passé composé": [
+      "j'ai commis",
+      "tu as commis",
+      "il a commis",
+      "nous avons commis",
+      "vous avez commis",
+      "ils ont commis"
+    ],
+    "imparfait": [
+      "je commettais",
+      "tu commettais",
+      "il commettait",
+      "nous commettions",
+      "vous commettiez",
+      "ils commettaient"
+    ],
+    "plus que parfait": [
+      "j'avais commis",
+      "tu avais commis",
+      "il avait commis",
+      "nous avions commis",
+      "vous aviez commis",
+      "ils avaient commis"
+    ],
+    "passé simple": [
+      "je commis",
+      "tu commis",
+      "il commit",
+      "nous commîmes",
+      "vous commîtes",
+      "ils commirent"
+    ],
+    "passé antérieur": [
+      "j'eus commis",
+      "tu eus commis",
+      "il eut commis",
+      "nous eûmes commis",
+      "vous eûtes commis",
+      "ils eurent commis"
+    ],
+    "futur simple": [
+      "je commettrai",
+      "tu commettras",
+      "il commettra",
+      "nous commettrons",
+      "vous commettrez",
+      "ils commettront"
+    ],
+    "futur antérieur": [
+      "j'aurai commis",
+      "tu auras commis",
+      "il aura commis",
+      "nous aurons commis",
+      "vous aurez commis",
+      "ils auront commis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je commette",
+      "que tu commettes",
+      "qu'il commette",
+      "que nous commettions",
+      "que vous commettiez",
+      "qu'ils commettent"
+    ],
+    "passé": [
+      "que j'aie commis",
+      "que tu aies commis",
+      "qu'il ait commis",
+      "que nous ayons commis",
+      "que vous ayez commis",
+      "qu'ils aient commis"
+    ],
+    "imparfait": [
+      "que je commisse",
+      "que tu commisses",
+      "qu'il commît",
+      "que nous commissions",
+      "que vous commissiez",
+      "qu'ils commissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse commis",
+      "que tu eusses commis",
+      "qu'il eût commis",
+      "que nous eussions commis",
+      "que vous eussiez commis",
+      "qu'ils eussent commis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je commettrais",
+      "tu commettrais",
+      "il commettrait",
+      "nous commettrions",
+      "vous commettriez",
+      "ils commettraient"
+    ],
+    "passé": [
+      "j'aurais commis",
+      "tu aurais commis",
+      "il aurait commis",
+      "nous aurions commis",
+      "vous auriez commis",
+      "ils auraient commis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "commets",
+      "commettons",
+      "commettez"
+    ],
+    "passé": [
+      "aie commis",
+      "ayons commis",
+      "ayez commis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "commettre"
+    ],
+    "passé": [
+      "avoir commis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "commettant"
+    ],
+    "passé": [
+      "commis",
+      "ayant commis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en commettant"
+    ],
+    "passé": [
+      "en ayant commis"
+    ]
+  }
+}

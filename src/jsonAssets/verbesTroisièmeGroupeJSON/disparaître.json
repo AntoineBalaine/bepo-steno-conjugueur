@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je disparais",
+      "tu disparais",
+      "il disparaît",
+      "nous disparaissons",
+      "vous disparaissez",
+      "ils disparaissent"
+    ],
+    "passé composé": [
+      "j'ai disparu",
+      "tu as disparu",
+      "il a disparu",
+      "nous avons disparu",
+      "vous avez disparu",
+      "ils ont disparu"
+    ],
+    "imparfait": [
+      "je disparaissais",
+      "tu disparaissais",
+      "il disparaissait",
+      "nous disparaissions",
+      "vous disparaissiez",
+      "ils disparaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais disparu",
+      "tu avais disparu",
+      "il avait disparu",
+      "nous avions disparu",
+      "vous aviez disparu",
+      "ils avaient disparu"
+    ],
+    "passé simple": [
+      "je disparus",
+      "tu disparus",
+      "il disparut",
+      "nous disparûmes",
+      "vous disparûtes",
+      "ils disparurent"
+    ],
+    "passé antérieur": [
+      "j'eus disparu",
+      "tu eus disparu",
+      "il eut disparu",
+      "nous eûmes disparu",
+      "vous eûtes disparu",
+      "ils eurent disparu"
+    ],
+    "futur simple": [
+      "je disparaîtrai",
+      "tu disparaîtras",
+      "il disparaîtra",
+      "nous disparaîtrons",
+      "vous disparaîtrez",
+      "ils disparaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai disparu",
+      "tu auras disparu",
+      "il aura disparu",
+      "nous aurons disparu",
+      "vous aurez disparu",
+      "ils auront disparu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je disparaisse",
+      "que tu disparaisses",
+      "qu'il disparaisse",
+      "que nous disparaissions",
+      "que vous disparaissiez",
+      "qu'ils disparaissent"
+    ],
+    "passé": [
+      "que j'aie disparu",
+      "que tu aies disparu",
+      "qu'il ait disparu",
+      "que nous ayons disparu",
+      "que vous ayez disparu",
+      "qu'ils aient disparu"
+    ],
+    "imparfait": [
+      "que je disparusse",
+      "que tu disparusses",
+      "qu'il disparût",
+      "que nous disparussions",
+      "que vous disparussiez",
+      "qu'ils disparussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse disparu",
+      "que tu eusses disparu",
+      "qu'il eût disparu",
+      "que nous eussions disparu",
+      "que vous eussiez disparu",
+      "qu'ils eussent disparu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je disparaîtrais",
+      "tu disparaîtrais",
+      "il disparaîtrait",
+      "nous disparaîtrions",
+      "vous disparaîtriez",
+      "ils disparaîtraient"
+    ],
+    "passé": [
+      "j'aurais disparu",
+      "tu aurais disparu",
+      "il aurait disparu",
+      "nous aurions disparu",
+      "vous auriez disparu",
+      "ils auraient disparu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "disparais",
+      "disparaissons",
+      "disparaissez"
+    ],
+    "passé": [
+      "aie disparu",
+      "ayons disparu",
+      "ayez disparu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "disparaître"
+    ],
+    "passé": [
+      "avoir disparu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "disparaissant"
+    ],
+    "passé": [
+      "disparu",
+      "ayant disparu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en disparaissant"
+    ],
+    "passé": [
+      "en ayant disparu"
+    ]
+  }
+}

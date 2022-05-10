@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me ressouviens",
+      "tu te ressouviens",
+      "il se ressouvient",
+      "nous nous ressouvenons",
+      "vous vous ressouvenez",
+      "ils se ressouviennent"
+    ],
+    "passé composé": [
+      "je me suis ressouvenu",
+      "tu t'es ressouvenu",
+      "il s'est ressouvenu",
+      "nous nous sommes ressouvenus",
+      "vous vous êtes ressouvenus",
+      "ils se sont ressouvenus"
+    ],
+    "imparfait": [
+      "je me ressouvenais",
+      "tu te ressouvenais",
+      "il se ressouvenait",
+      "nous nous ressouvenions",
+      "vous vous ressouveniez",
+      "ils se ressouvenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais ressouvenu",
+      "tu t'étais ressouvenu",
+      "il s'était ressouvenu",
+      "nous nous étions ressouvenus",
+      "vous vous étiez ressouvenus",
+      "ils s'étaient ressouvenus"
+    ],
+    "passé simple": [
+      "je me ressouvins",
+      "tu te ressouvins",
+      "il se ressouvint",
+      "nous nous ressouvînmes",
+      "vous vous ressouvîntes",
+      "ils se ressouvinrent"
+    ],
+    "passé antérieur": [
+      "je me fus ressouvenu",
+      "tu te fus ressouvenu",
+      "il se fut ressouvenu",
+      "nous nous fûmes ressouvenus",
+      "vous vous fûtes ressouvenus",
+      "ils se furent ressouvenus"
+    ],
+    "futur simple": [
+      "je me ressouviendrai",
+      "tu te ressouviendras",
+      "il se ressouviendra",
+      "nous nous ressouviendrons",
+      "vous vous ressouviendrez",
+      "ils se ressouviendront"
+    ],
+    "futur antérieur": [
+      "je me serai ressouvenu",
+      "tu te seras ressouvenu",
+      "il se sera ressouvenu",
+      "nous nous serons ressouvenus",
+      "vous vous serez ressouvenus",
+      "ils se seront ressouvenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me ressouvienne",
+      "que tu te ressouviennes",
+      "qu'il se ressouvienne",
+      "que nous nous ressouvenions",
+      "que vous vous ressouveniez",
+      "qu'ils se ressouviennent"
+    ],
+    "passé": [
+      "que je me sois ressouvenu",
+      "que tu te sois ressouvenu",
+      "qu'il se soit ressouvenu",
+      "que nous nous soyons ressouvenus",
+      "que vous vous soyez ressouvenus",
+      "qu'ils se soient ressouvenus"
+    ],
+    "imparfait": [
+      "que je me ressouvinsse",
+      "que tu te ressouvinsses",
+      "qu'il se ressouvînt",
+      "que nous nous ressouvinssions",
+      "que vous vous ressouvinssiez",
+      "qu'ils se ressouvinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse ressouvenu",
+      "que tu te fusses ressouvenu",
+      "qu'il se fût ressouvenu",
+      "que nous nous fussions ressouvenus",
+      "que vous vous fussiez ressouvenus",
+      "qu'ils se fussent ressouvenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me ressouviendrais",
+      "tu te ressouviendrais",
+      "il se ressouviendrait",
+      "nous nous ressouviendrions",
+      "vous vous ressouviendriez",
+      "ils se ressouviendraient"
+    ],
+    "passé": [
+      "je me serais ressouvenu",
+      "tu te serais ressouvenu",
+      "il se serait ressouvenu",
+      "nous nous serions ressouvenus",
+      "vous vous seriez ressouvenus",
+      "ils se seraient ressouvenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ressouviens-toi",
+      "ressouvenons-nous",
+      "ressouvenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se ressouvenir"
+    ],
+    "passé": [
+      "s'être ressouvenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se ressouvenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant ressouvenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se ressouvenant"
+    ],
+    "passé": [
+      "en s'étant ressouvenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je meurs",
+      "tu meurs",
+      "il meurt",
+      "nous mourons",
+      "vous mourez",
+      "ils meurent"
+    ],
+    "passé composé": [
+      "je suis mort",
+      "tu es mort",
+      "il est mort",
+      "nous sommes morts",
+      "vous êtes morts",
+      "ils sont morts"
+    ],
+    "imparfait": [
+      "je mourais",
+      "tu mourais",
+      "il mourait",
+      "nous mourions",
+      "vous mouriez",
+      "ils mouraient"
+    ],
+    "plus que parfait": [
+      "j'étais mort",
+      "tu étais mort",
+      "il était mort",
+      "nous étions morts",
+      "vous étiez morts",
+      "ils étaient morts"
+    ],
+    "passé simple": [
+      "je mourus",
+      "tu mourus",
+      "il mourut",
+      "nous mourûmes",
+      "vous mourûtes",
+      "ils moururent"
+    ],
+    "passé antérieur": [
+      "je fus mort",
+      "tu fus mort",
+      "il fut mort",
+      "nous fûmes morts",
+      "vous fûtes morts",
+      "ils furent morts"
+    ],
+    "futur simple": [
+      "je mourrai",
+      "tu mourras",
+      "il mourra",
+      "nous mourrons",
+      "vous mourrez",
+      "ils mourront"
+    ],
+    "futur antérieur": [
+      "je serai mort",
+      "tu seras mort",
+      "il sera mort",
+      "nous serons morts",
+      "vous serez morts",
+      "ils seront morts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je meure",
+      "que tu meures",
+      "qu'il meure",
+      "que nous mourions",
+      "que vous mouriez",
+      "qu'ils meurent"
+    ],
+    "passé": [
+      "que je sois mort",
+      "que tu sois mort",
+      "qu'il soit mort",
+      "que nous soyons morts",
+      "que vous soyez morts",
+      "qu'ils soient morts"
+    ],
+    "imparfait": [
+      "que je mourusse",
+      "que tu mourusses",
+      "qu'il mourût",
+      "que nous mourussions",
+      "que vous mourussiez",
+      "qu'ils mourussent"
+    ],
+    "plus que parfait": [
+      "que je fusse mort",
+      "que tu fusses mort",
+      "qu'il fût mort",
+      "que nous fussions morts",
+      "que vous fussiez morts",
+      "qu'ils fussent morts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je mourrais",
+      "tu mourrais",
+      "il mourrait",
+      "nous mourrions",
+      "vous mourriez",
+      "ils mourraient"
+    ],
+    "passé": [
+      "je serais mort",
+      "tu serais mort",
+      "il serait mort",
+      "nous serions morts",
+      "vous seriez morts",
+      "ils seraient morts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "meurs",
+      "mourons",
+      "mourez"
+    ],
+    "passé": [
+      "sois mort",
+      "soyons morts",
+      "soyez morts"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "mourir"
+    ],
+    "passé": [
+      "être mort"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "mourant"
+    ],
+    "passé": [
+      "mort",
+      "étant mort"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en mourant"
+    ],
+    "passé": [
+      "en étant mort"
+    ]
+  }
+}

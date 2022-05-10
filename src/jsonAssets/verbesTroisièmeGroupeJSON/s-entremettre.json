@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entremets",
+      "tu t'entremets",
+      "il s'entremet",
+      "nous nous entremettons",
+      "vous vous entremettez",
+      "ils s'entremettent"
+    ],
+    "passé composé": [
+      "je me suis entremis",
+      "tu t'es entremis",
+      "il s'est entremis",
+      "nous nous sommes entremis",
+      "vous vous êtes entremis",
+      "ils se sont entremis"
+    ],
+    "imparfait": [
+      "je m'entremettais",
+      "tu t'entremettais",
+      "il s'entremettait",
+      "nous nous entremettions",
+      "vous vous entremettiez",
+      "ils s'entremettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entremis",
+      "tu t'étais entremis",
+      "il s'était entremis",
+      "nous nous étions entremis",
+      "vous vous étiez entremis",
+      "ils s'étaient entremis"
+    ],
+    "passé simple": [
+      "je m'entremis",
+      "tu t'entremis",
+      "il s'entremit",
+      "nous nous entremîmes",
+      "vous vous entremîtes",
+      "ils s'entremirent"
+    ],
+    "passé antérieur": [
+      "je me fus entremis",
+      "tu te fus entremis",
+      "il se fut entremis",
+      "nous nous fûmes entremis",
+      "vous vous fûtes entremis",
+      "ils se furent entremis"
+    ],
+    "futur simple": [
+      "je m'entremettrai",
+      "tu t'entremettras",
+      "il s'entremettra",
+      "nous nous entremettrons",
+      "vous vous entremettrez",
+      "ils s'entremettront"
+    ],
+    "futur antérieur": [
+      "je me serai entremis",
+      "tu te seras entremis",
+      "il se sera entremis",
+      "nous nous serons entremis",
+      "vous vous serez entremis",
+      "ils se seront entremis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entremette",
+      "que tu t'entremettes",
+      "qu'il s'entremette",
+      "que nous nous entremettions",
+      "que vous vous entremettiez",
+      "qu'ils s'entremettent"
+    ],
+    "passé": [
+      "que je me sois entremis",
+      "que tu te sois entremis",
+      "qu'il se soit entremis",
+      "que nous nous soyons entremis",
+      "que vous vous soyez entremis",
+      "qu'ils se soient entremis"
+    ],
+    "imparfait": [
+      "que je m'entremisse",
+      "que tu t'entremisses",
+      "qu'il s'entremît",
+      "que nous nous entremissions",
+      "que vous vous entremissiez",
+      "qu'ils s'entremissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entremis",
+      "que tu te fusses entremis",
+      "qu'il se fût entremis",
+      "que nous nous fussions entremis",
+      "que vous vous fussiez entremis",
+      "qu'ils se fussent entremis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entremettrais",
+      "tu t'entremettrais",
+      "il s'entremettrait",
+      "nous nous entremettrions",
+      "vous vous entremettriez",
+      "ils s'entremettraient"
+    ],
+    "passé": [
+      "je me serais entremis",
+      "tu te serais entremis",
+      "il se serait entremis",
+      "nous nous serions entremis",
+      "vous vous seriez entremis",
+      "ils se seraient entremis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entremets-toi",
+      "entremettons-nous",
+      "entremettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entremettre"
+    ],
+    "passé": [
+      "s'être entremis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entremettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entremis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entremettant"
+    ],
+    "passé": [
+      "en s'étant entremis"
+    ]
+  }
+}

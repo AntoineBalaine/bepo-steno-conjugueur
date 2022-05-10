@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rejoins",
+      "tu rejoins",
+      "il rejoint",
+      "nous rejoignons",
+      "vous rejoignez",
+      "ils rejoignent"
+    ],
+    "passé composé": [
+      "j'ai rejoint",
+      "tu as rejoint",
+      "il a rejoint",
+      "nous avons rejoint",
+      "vous avez rejoint",
+      "ils ont rejoint"
+    ],
+    "imparfait": [
+      "je rejoignais",
+      "tu rejoignais",
+      "il rejoignait",
+      "nous rejoignions",
+      "vous rejoigniez",
+      "ils rejoignaient"
+    ],
+    "plus que parfait": [
+      "j'avais rejoint",
+      "tu avais rejoint",
+      "il avait rejoint",
+      "nous avions rejoint",
+      "vous aviez rejoint",
+      "ils avaient rejoint"
+    ],
+    "passé simple": [
+      "je rejoignis",
+      "tu rejoignis",
+      "il rejoignit",
+      "nous rejoignîmes",
+      "vous rejoignîtes",
+      "ils rejoignirent"
+    ],
+    "passé antérieur": [
+      "j'eus rejoint",
+      "tu eus rejoint",
+      "il eut rejoint",
+      "nous eûmes rejoint",
+      "vous eûtes rejoint",
+      "ils eurent rejoint"
+    ],
+    "futur simple": [
+      "je rejoindrai",
+      "tu rejoindras",
+      "il rejoindra",
+      "nous rejoindrons",
+      "vous rejoindrez",
+      "ils rejoindront"
+    ],
+    "futur antérieur": [
+      "j'aurai rejoint",
+      "tu auras rejoint",
+      "il aura rejoint",
+      "nous aurons rejoint",
+      "vous aurez rejoint",
+      "ils auront rejoint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rejoigne",
+      "que tu rejoignes",
+      "qu'il rejoigne",
+      "que nous rejoignions",
+      "que vous rejoigniez",
+      "qu'ils rejoignent"
+    ],
+    "passé": [
+      "que j'aie rejoint",
+      "que tu aies rejoint",
+      "qu'il ait rejoint",
+      "que nous ayons rejoint",
+      "que vous ayez rejoint",
+      "qu'ils aient rejoint"
+    ],
+    "imparfait": [
+      "que je rejoignisse",
+      "que tu rejoignisses",
+      "qu'il rejoignît",
+      "que nous rejoignissions",
+      "que vous rejoignissiez",
+      "qu'ils rejoignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rejoint",
+      "que tu eusses rejoint",
+      "qu'il eût rejoint",
+      "que nous eussions rejoint",
+      "que vous eussiez rejoint",
+      "qu'ils eussent rejoint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rejoindrais",
+      "tu rejoindrais",
+      "il rejoindrait",
+      "nous rejoindrions",
+      "vous rejoindriez",
+      "ils rejoindraient"
+    ],
+    "passé": [
+      "j'aurais rejoint",
+      "tu aurais rejoint",
+      "il aurait rejoint",
+      "nous aurions rejoint",
+      "vous auriez rejoint",
+      "ils auraient rejoint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rejoins",
+      "rejoignons",
+      "rejoignez"
+    ],
+    "passé": [
+      "aie rejoint",
+      "ayons rejoint",
+      "ayez rejoint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rejoindre"
+    ],
+    "passé": [
+      "avoir rejoint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rejoignant"
+    ],
+    "passé": [
+      "rejoint",
+      "ayant rejoint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rejoignant"
+    ],
+    "passé": [
+      "en ayant rejoint"
+    ]
+  }
+}

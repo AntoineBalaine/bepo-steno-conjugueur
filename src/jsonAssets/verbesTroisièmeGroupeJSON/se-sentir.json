@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me sens",
+      "tu te sens",
+      "il se sent",
+      "nous nous sentons",
+      "vous vous sentez",
+      "ils se sentent"
+    ],
+    "passé composé": [
+      "je me suis senti",
+      "tu t'es senti",
+      "il s'est senti",
+      "nous nous sommes sentis",
+      "vous vous êtes sentis",
+      "ils se sont sentis"
+    ],
+    "imparfait": [
+      "je me sentais",
+      "tu te sentais",
+      "il se sentait",
+      "nous nous sentions",
+      "vous vous sentiez",
+      "ils se sentaient"
+    ],
+    "plus que parfait": [
+      "je m'étais senti",
+      "tu t'étais senti",
+      "il s'était senti",
+      "nous nous étions sentis",
+      "vous vous étiez sentis",
+      "ils s'étaient sentis"
+    ],
+    "passé simple": [
+      "je me sentis",
+      "tu te sentis",
+      "il se sentit",
+      "nous nous sentîmes",
+      "vous vous sentîtes",
+      "ils se sentirent"
+    ],
+    "passé antérieur": [
+      "je me fus senti",
+      "tu te fus senti",
+      "il se fut senti",
+      "nous nous fûmes sentis",
+      "vous vous fûtes sentis",
+      "ils se furent sentis"
+    ],
+    "futur simple": [
+      "je me sentirai",
+      "tu te sentiras",
+      "il se sentira",
+      "nous nous sentirons",
+      "vous vous sentirez",
+      "ils se sentiront"
+    ],
+    "futur antérieur": [
+      "je me serai senti",
+      "tu te seras senti",
+      "il se sera senti",
+      "nous nous serons sentis",
+      "vous vous serez sentis",
+      "ils se seront sentis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me sente",
+      "que tu te sentes",
+      "qu'il se sente",
+      "que nous nous sentions",
+      "que vous vous sentiez",
+      "qu'ils se sentent"
+    ],
+    "passé": [
+      "que je me sois senti",
+      "que tu te sois senti",
+      "qu'il se soit senti",
+      "que nous nous soyons sentis",
+      "que vous vous soyez sentis",
+      "qu'ils se soient sentis"
+    ],
+    "imparfait": [
+      "que je me sentisse",
+      "que tu te sentisses",
+      "qu'il se sentît",
+      "que nous nous sentissions",
+      "que vous vous sentissiez",
+      "qu'ils se sentissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse senti",
+      "que tu te fusses senti",
+      "qu'il se fût senti",
+      "que nous nous fussions sentis",
+      "que vous vous fussiez sentis",
+      "qu'ils se fussent sentis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me sentirais",
+      "tu te sentirais",
+      "il se sentirait",
+      "nous nous sentirions",
+      "vous vous sentiriez",
+      "ils se sentiraient"
+    ],
+    "passé": [
+      "je me serais senti",
+      "tu te serais senti",
+      "il se serait senti",
+      "nous nous serions sentis",
+      "vous vous seriez sentis",
+      "ils se seraient sentis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sens-toi",
+      "sentons-nous",
+      "sentez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se sentir"
+    ],
+    "passé": [
+      "s'être senti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se sentant"
+    ],
+    "passé": [
+      "-",
+      "s'étant senti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se sentant"
+    ],
+    "passé": [
+      "en s'étant senti"
+    ]
+  }
+}

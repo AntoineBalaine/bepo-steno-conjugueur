@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je feins",
+      "tu feins",
+      "il feint",
+      "nous feignons",
+      "vous feignez",
+      "ils feignent"
+    ],
+    "passé composé": [
+      "j'ai feint",
+      "tu as feint",
+      "il a feint",
+      "nous avons feint",
+      "vous avez feint",
+      "ils ont feint"
+    ],
+    "imparfait": [
+      "je feignais",
+      "tu feignais",
+      "il feignait",
+      "nous feignions",
+      "vous feigniez",
+      "ils feignaient"
+    ],
+    "plus que parfait": [
+      "j'avais feint",
+      "tu avais feint",
+      "il avait feint",
+      "nous avions feint",
+      "vous aviez feint",
+      "ils avaient feint"
+    ],
+    "passé simple": [
+      "je feignis",
+      "tu feignis",
+      "il feignit",
+      "nous feignîmes",
+      "vous feignîtes",
+      "ils feignirent"
+    ],
+    "passé antérieur": [
+      "j'eus feint",
+      "tu eus feint",
+      "il eut feint",
+      "nous eûmes feint",
+      "vous eûtes feint",
+      "ils eurent feint"
+    ],
+    "futur simple": [
+      "je feindrai",
+      "tu feindras",
+      "il feindra",
+      "nous feindrons",
+      "vous feindrez",
+      "ils feindront"
+    ],
+    "futur antérieur": [
+      "j'aurai feint",
+      "tu auras feint",
+      "il aura feint",
+      "nous aurons feint",
+      "vous aurez feint",
+      "ils auront feint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je feigne",
+      "que tu feignes",
+      "qu'il feigne",
+      "que nous feignions",
+      "que vous feigniez",
+      "qu'ils feignent"
+    ],
+    "passé": [
+      "que j'aie feint",
+      "que tu aies feint",
+      "qu'il ait feint",
+      "que nous ayons feint",
+      "que vous ayez feint",
+      "qu'ils aient feint"
+    ],
+    "imparfait": [
+      "que je feignisse",
+      "que tu feignisses",
+      "qu'il feignît",
+      "que nous feignissions",
+      "que vous feignissiez",
+      "qu'ils feignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse feint",
+      "que tu eusses feint",
+      "qu'il eût feint",
+      "que nous eussions feint",
+      "que vous eussiez feint",
+      "qu'ils eussent feint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je feindrais",
+      "tu feindrais",
+      "il feindrait",
+      "nous feindrions",
+      "vous feindriez",
+      "ils feindraient"
+    ],
+    "passé": [
+      "j'aurais feint",
+      "tu aurais feint",
+      "il aurait feint",
+      "nous aurions feint",
+      "vous auriez feint",
+      "ils auraient feint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "feins",
+      "feignons",
+      "feignez"
+    ],
+    "passé": [
+      "aie feint",
+      "ayons feint",
+      "ayez feint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "feindre"
+    ],
+    "passé": [
+      "avoir feint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "feignant"
+    ],
+    "passé": [
+      "feint",
+      "ayant feint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en feignant"
+    ],
+    "passé": [
+      "en ayant feint"
+    ]
+  }
+}

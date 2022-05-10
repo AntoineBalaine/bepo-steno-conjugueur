@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me crois",
+      "tu te crois",
+      "il se croit",
+      "nous nous croyons",
+      "vous vous croyez",
+      "ils se croient"
+    ],
+    "passé composé": [
+      "je me suis cru",
+      "tu t'es cru",
+      "il s'est cru",
+      "nous nous sommes crus",
+      "vous vous êtes crus",
+      "ils se sont crus"
+    ],
+    "imparfait": [
+      "je me croyais",
+      "tu te croyais",
+      "il se croyait",
+      "nous nous croyions",
+      "vous vous croyiez",
+      "ils se croyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais cru",
+      "tu t'étais cru",
+      "il s'était cru",
+      "nous nous étions crus",
+      "vous vous étiez crus",
+      "ils s'étaient crus"
+    ],
+    "passé simple": [
+      "je me crus",
+      "tu te crus",
+      "il se crut",
+      "nous nous crûmes",
+      "vous vous crûtes",
+      "ils se crurent"
+    ],
+    "passé antérieur": [
+      "je me fus cru",
+      "tu te fus cru",
+      "il se fut cru",
+      "nous nous fûmes crus",
+      "vous vous fûtes crus",
+      "ils se furent crus"
+    ],
+    "futur simple": [
+      "je me croirai",
+      "tu te croiras",
+      "il se croira",
+      "nous nous croirons",
+      "vous vous croirez",
+      "ils se croiront"
+    ],
+    "futur antérieur": [
+      "je me serai cru",
+      "tu te seras cru",
+      "il se sera cru",
+      "nous nous serons crus",
+      "vous vous serez crus",
+      "ils se seront crus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me croie",
+      "que tu te croies",
+      "qu'il se croie",
+      "que nous nous croyions",
+      "que vous vous croyiez",
+      "qu'ils se croient"
+    ],
+    "passé": [
+      "que je me sois cru",
+      "que tu te sois cru",
+      "qu'il se soit cru",
+      "que nous nous soyons crus",
+      "que vous vous soyez crus",
+      "qu'ils se soient crus"
+    ],
+    "imparfait": [
+      "que je me crusse",
+      "que tu te crusses",
+      "qu'il se crût",
+      "que nous nous crussions",
+      "que vous vous crussiez",
+      "qu'ils se crussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse cru",
+      "que tu te fusses cru",
+      "qu'il se fût cru",
+      "que nous nous fussions crus",
+      "que vous vous fussiez crus",
+      "qu'ils se fussent crus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me croirais",
+      "tu te croirais",
+      "il se croirait",
+      "nous nous croirions",
+      "vous vous croiriez",
+      "ils se croiraient"
+    ],
+    "passé": [
+      "je me serais cru",
+      "tu te serais cru",
+      "il se serait cru",
+      "nous nous serions crus",
+      "vous vous seriez crus",
+      "ils se seraient crus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "crois-toi",
+      "croyons-nous",
+      "croyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se croire"
+    ],
+    "passé": [
+      "s'être cru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se croyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant cru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se croyant"
+    ],
+    "passé": [
+      "en s'étant cru"
+    ]
+  }
+}

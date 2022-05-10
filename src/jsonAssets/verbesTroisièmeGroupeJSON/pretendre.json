@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je prétends",
+      "tu prétends",
+      "il prétend",
+      "nous prétendons",
+      "vous prétendez",
+      "ils prétendent"
+    ],
+    "passé composé": [
+      "j'ai prétendu",
+      "tu as prétendu",
+      "il a prétendu",
+      "nous avons prétendu",
+      "vous avez prétendu",
+      "ils ont prétendu"
+    ],
+    "imparfait": [
+      "je prétendais",
+      "tu prétendais",
+      "il prétendait",
+      "nous prétendions",
+      "vous prétendiez",
+      "ils prétendaient"
+    ],
+    "plus que parfait": [
+      "j'avais prétendu",
+      "tu avais prétendu",
+      "il avait prétendu",
+      "nous avions prétendu",
+      "vous aviez prétendu",
+      "ils avaient prétendu"
+    ],
+    "passé simple": [
+      "je prétendis",
+      "tu prétendis",
+      "il prétendit",
+      "nous prétendîmes",
+      "vous prétendîtes",
+      "ils prétendirent"
+    ],
+    "passé antérieur": [
+      "j'eus prétendu",
+      "tu eus prétendu",
+      "il eut prétendu",
+      "nous eûmes prétendu",
+      "vous eûtes prétendu",
+      "ils eurent prétendu"
+    ],
+    "futur simple": [
+      "je prétendrai",
+      "tu prétendras",
+      "il prétendra",
+      "nous prétendrons",
+      "vous prétendrez",
+      "ils prétendront"
+    ],
+    "futur antérieur": [
+      "j'aurai prétendu",
+      "tu auras prétendu",
+      "il aura prétendu",
+      "nous aurons prétendu",
+      "vous aurez prétendu",
+      "ils auront prétendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je prétende",
+      "que tu prétendes",
+      "qu'il prétende",
+      "que nous prétendions",
+      "que vous prétendiez",
+      "qu'ils prétendent"
+    ],
+    "passé": [
+      "que j'aie prétendu",
+      "que tu aies prétendu",
+      "qu'il ait prétendu",
+      "que nous ayons prétendu",
+      "que vous ayez prétendu",
+      "qu'ils aient prétendu"
+    ],
+    "imparfait": [
+      "que je prétendisse",
+      "que tu prétendisses",
+      "qu'il prétendît",
+      "que nous prétendissions",
+      "que vous prétendissiez",
+      "qu'ils prétendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse prétendu",
+      "que tu eusses prétendu",
+      "qu'il eût prétendu",
+      "que nous eussions prétendu",
+      "que vous eussiez prétendu",
+      "qu'ils eussent prétendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je prétendrais",
+      "tu prétendrais",
+      "il prétendrait",
+      "nous prétendrions",
+      "vous prétendriez",
+      "ils prétendraient"
+    ],
+    "passé": [
+      "j'aurais prétendu",
+      "tu aurais prétendu",
+      "il aurait prétendu",
+      "nous aurions prétendu",
+      "vous auriez prétendu",
+      "ils auraient prétendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prétends",
+      "prétendons",
+      "prétendez"
+    ],
+    "passé": [
+      "aie prétendu",
+      "ayons prétendu",
+      "ayez prétendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "prétendre"
+    ],
+    "passé": [
+      "avoir prétendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "prétendant"
+    ],
+    "passé": [
+      "prétendu",
+      "ayant prétendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en prétendant"
+    ],
+    "passé": [
+      "en ayant prétendu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je redéfais",
+      "tu redéfais",
+      "il redéfait",
+      "nous redéfaisons",
+      "vous redéfaites",
+      "ils redéfont"
+    ],
+    "passé composé": [
+      "j'ai redéfait",
+      "tu as redéfait",
+      "il a redéfait",
+      "nous avons redéfait",
+      "vous avez redéfait",
+      "ils ont redéfait"
+    ],
+    "imparfait": [
+      "je redéfaisais",
+      "tu redéfaisais",
+      "il redéfaisait",
+      "nous redéfaisions",
+      "vous redéfaisiez",
+      "ils redéfaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais redéfait",
+      "tu avais redéfait",
+      "il avait redéfait",
+      "nous avions redéfait",
+      "vous aviez redéfait",
+      "ils avaient redéfait"
+    ],
+    "passé simple": [
+      "je redéfis",
+      "tu redéfis",
+      "il redéfit",
+      "nous redéfîmes",
+      "vous redéfîtes",
+      "ils redéfirent"
+    ],
+    "passé antérieur": [
+      "j'eus redéfait",
+      "tu eus redéfait",
+      "il eut redéfait",
+      "nous eûmes redéfait",
+      "vous eûtes redéfait",
+      "ils eurent redéfait"
+    ],
+    "futur simple": [
+      "je redéferai",
+      "tu redéferas",
+      "il redéfera",
+      "nous redéferons",
+      "vous redéferez",
+      "ils redéferont"
+    ],
+    "futur antérieur": [
+      "j'aurai redéfait",
+      "tu auras redéfait",
+      "il aura redéfait",
+      "nous aurons redéfait",
+      "vous aurez redéfait",
+      "ils auront redéfait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je redéfasse",
+      "que tu redéfasses",
+      "qu'il redéfasse",
+      "que nous redéfassions",
+      "que vous redéfassiez",
+      "qu'ils redéfassent"
+    ],
+    "passé": [
+      "que j'aie redéfait",
+      "que tu aies redéfait",
+      "qu'il ait redéfait",
+      "que nous ayons redéfait",
+      "que vous ayez redéfait",
+      "qu'ils aient redéfait"
+    ],
+    "imparfait": [
+      "que je redéfisse",
+      "que tu redéfisses",
+      "qu'il redéfît",
+      "que nous redéfissions",
+      "que vous redéfissiez",
+      "qu'ils redéfissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse redéfait",
+      "que tu eusses redéfait",
+      "qu'il eût redéfait",
+      "que nous eussions redéfait",
+      "que vous eussiez redéfait",
+      "qu'ils eussent redéfait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je redéferais",
+      "tu redéferais",
+      "il redéferait",
+      "nous redéferions",
+      "vous redéferiez",
+      "ils redéferaient"
+    ],
+    "passé": [
+      "j'aurais redéfait",
+      "tu aurais redéfait",
+      "il aurait redéfait",
+      "nous aurions redéfait",
+      "vous auriez redéfait",
+      "ils auraient redéfait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "redéfais",
+      "redéfaisons",
+      "redéfaites"
+    ],
+    "passé": [
+      "aie redéfait",
+      "ayons redéfait",
+      "ayez redéfait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "redéfaire"
+    ],
+    "passé": [
+      "avoir redéfait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "redéfaisant"
+    ],
+    "passé": [
+      "redéfait",
+      "ayant redéfait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en redéfaisant"
+    ],
+    "passé": [
+      "en ayant redéfait"
+    ]
+  }
+}

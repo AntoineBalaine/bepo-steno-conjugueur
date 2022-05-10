@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je conjoins",
+      "tu conjoins",
+      "il conjoint",
+      "nous conjoignons",
+      "vous conjoignez",
+      "ils conjoignent"
+    ],
+    "passé composé": [
+      "j'ai conjoint",
+      "tu as conjoint",
+      "il a conjoint",
+      "nous avons conjoint",
+      "vous avez conjoint",
+      "ils ont conjoint"
+    ],
+    "imparfait": [
+      "je conjoignais",
+      "tu conjoignais",
+      "il conjoignait",
+      "nous conjoignions",
+      "vous conjoigniez",
+      "ils conjoignaient"
+    ],
+    "plus que parfait": [
+      "j'avais conjoint",
+      "tu avais conjoint",
+      "il avait conjoint",
+      "nous avions conjoint",
+      "vous aviez conjoint",
+      "ils avaient conjoint"
+    ],
+    "passé simple": [
+      "je conjoignis",
+      "tu conjoignis",
+      "il conjoignit",
+      "nous conjoignîmes",
+      "vous conjoignîtes",
+      "ils conjoignirent"
+    ],
+    "passé antérieur": [
+      "j'eus conjoint",
+      "tu eus conjoint",
+      "il eut conjoint",
+      "nous eûmes conjoint",
+      "vous eûtes conjoint",
+      "ils eurent conjoint"
+    ],
+    "futur simple": [
+      "je conjoindrai",
+      "tu conjoindras",
+      "il conjoindra",
+      "nous conjoindrons",
+      "vous conjoindrez",
+      "ils conjoindront"
+    ],
+    "futur antérieur": [
+      "j'aurai conjoint",
+      "tu auras conjoint",
+      "il aura conjoint",
+      "nous aurons conjoint",
+      "vous aurez conjoint",
+      "ils auront conjoint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je conjoigne",
+      "que tu conjoignes",
+      "qu'il conjoigne",
+      "que nous conjoignions",
+      "que vous conjoigniez",
+      "qu'ils conjoignent"
+    ],
+    "passé": [
+      "que j'aie conjoint",
+      "que tu aies conjoint",
+      "qu'il ait conjoint",
+      "que nous ayons conjoint",
+      "que vous ayez conjoint",
+      "qu'ils aient conjoint"
+    ],
+    "imparfait": [
+      "que je conjoignisse",
+      "que tu conjoignisses",
+      "qu'il conjoignît",
+      "que nous conjoignissions",
+      "que vous conjoignissiez",
+      "qu'ils conjoignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse conjoint",
+      "que tu eusses conjoint",
+      "qu'il eût conjoint",
+      "que nous eussions conjoint",
+      "que vous eussiez conjoint",
+      "qu'ils eussent conjoint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je conjoindrais",
+      "tu conjoindrais",
+      "il conjoindrait",
+      "nous conjoindrions",
+      "vous conjoindriez",
+      "ils conjoindraient"
+    ],
+    "passé": [
+      "j'aurais conjoint",
+      "tu aurais conjoint",
+      "il aurait conjoint",
+      "nous aurions conjoint",
+      "vous auriez conjoint",
+      "ils auraient conjoint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conjoins",
+      "conjoignons",
+      "conjoignez"
+    ],
+    "passé": [
+      "aie conjoint",
+      "ayons conjoint",
+      "ayez conjoint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "conjoindre"
+    ],
+    "passé": [
+      "avoir conjoint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "conjoignant"
+    ],
+    "passé": [
+      "conjoint",
+      "ayant conjoint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en conjoignant"
+    ],
+    "passé": [
+      "en ayant conjoint"
+    ]
+  }
+}

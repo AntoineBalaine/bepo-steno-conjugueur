@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me revois",
+      "tu te revois",
+      "il se revoit",
+      "nous nous revoyons",
+      "vous vous revoyez",
+      "ils se revoient"
+    ],
+    "passé composé": [
+      "je me suis revu",
+      "tu t'es revu",
+      "il s'est revu",
+      "nous nous sommes revus",
+      "vous vous êtes revus",
+      "ils se sont revus"
+    ],
+    "imparfait": [
+      "je me revoyais",
+      "tu te revoyais",
+      "il se revoyait",
+      "nous nous revoyions",
+      "vous vous revoyiez",
+      "ils se revoyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais revu",
+      "tu t'étais revu",
+      "il s'était revu",
+      "nous nous étions revus",
+      "vous vous étiez revus",
+      "ils s'étaient revus"
+    ],
+    "passé simple": [
+      "je me revis",
+      "tu te revis",
+      "il se revit",
+      "nous nous revîmes",
+      "vous vous revîtes",
+      "ils se revirent"
+    ],
+    "passé antérieur": [
+      "je me fus revu",
+      "tu te fus revu",
+      "il se fut revu",
+      "nous nous fûmes revus",
+      "vous vous fûtes revus",
+      "ils se furent revus"
+    ],
+    "futur simple": [
+      "je me reverrai",
+      "tu te reverras",
+      "il se reverra",
+      "nous nous reverrons",
+      "vous vous reverrez",
+      "ils se reverront"
+    ],
+    "futur antérieur": [
+      "je me serai revu",
+      "tu te seras revu",
+      "il se sera revu",
+      "nous nous serons revus",
+      "vous vous serez revus",
+      "ils se seront revus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me revoie",
+      "que tu te revoies",
+      "qu'il se revoie",
+      "que nous nous revoyions",
+      "que vous vous revoyiez",
+      "qu'ils se revoient"
+    ],
+    "passé": [
+      "que je me sois revu",
+      "que tu te sois revu",
+      "qu'il se soit revu",
+      "que nous nous soyons revus",
+      "que vous vous soyez revus",
+      "qu'ils se soient revus"
+    ],
+    "imparfait": [
+      "que je me revisse",
+      "que tu te revisses",
+      "qu'il se revît",
+      "que nous nous revissions",
+      "que vous vous revissiez",
+      "qu'ils se revissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse revu",
+      "que tu te fusses revu",
+      "qu'il se fût revu",
+      "que nous nous fussions revus",
+      "que vous vous fussiez revus",
+      "qu'ils se fussent revus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me reverrais",
+      "tu te reverrais",
+      "il se reverrait",
+      "nous nous reverrions",
+      "vous vous reverriez",
+      "ils se reverraient"
+    ],
+    "passé": [
+      "je me serais revu",
+      "tu te serais revu",
+      "il se serait revu",
+      "nous nous serions revus",
+      "vous vous seriez revus",
+      "ils se seraient revus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "revois-toi",
+      "revoyons-nous",
+      "revoyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se revoir"
+    ],
+    "passé": [
+      "s'être revu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se revoyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant revu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se revoyant"
+    ],
+    "passé": [
+      "en s'étant revu"
+    ]
+  }
+}

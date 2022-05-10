@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'offre",
+      "tu t'offres",
+      "il s'offre",
+      "nous nous offrons",
+      "vous vous offrez",
+      "ils s'offrent"
+    ],
+    "passé composé": [
+      "je me suis offert",
+      "tu t'es offert",
+      "il s'est offert",
+      "nous nous sommes offerts",
+      "vous vous êtes offerts",
+      "ils se sont offerts"
+    ],
+    "imparfait": [
+      "je m'offrais",
+      "tu t'offrais",
+      "il s'offrait",
+      "nous nous offrions",
+      "vous vous offriez",
+      "ils s'offraient"
+    ],
+    "plus que parfait": [
+      "je m'étais offert",
+      "tu t'étais offert",
+      "il s'était offert",
+      "nous nous étions offerts",
+      "vous vous étiez offerts",
+      "ils s'étaient offerts"
+    ],
+    "passé simple": [
+      "je m'offris",
+      "tu t'offris",
+      "il s'offrit",
+      "nous nous offrîmes",
+      "vous vous offrîtes",
+      "ils s'offrirent"
+    ],
+    "passé antérieur": [
+      "je me fus offert",
+      "tu te fus offert",
+      "il se fut offert",
+      "nous nous fûmes offerts",
+      "vous vous fûtes offerts",
+      "ils se furent offerts"
+    ],
+    "futur simple": [
+      "je m'offrirai",
+      "tu t'offriras",
+      "il s'offrira",
+      "nous nous offrirons",
+      "vous vous offrirez",
+      "ils s'offriront"
+    ],
+    "futur antérieur": [
+      "je me serai offert",
+      "tu te seras offert",
+      "il se sera offert",
+      "nous nous serons offerts",
+      "vous vous serez offerts",
+      "ils se seront offerts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'offre",
+      "que tu t'offres",
+      "qu'il s'offre",
+      "que nous nous offrions",
+      "que vous vous offriez",
+      "qu'ils s'offrent"
+    ],
+    "passé": [
+      "que je me sois offert",
+      "que tu te sois offert",
+      "qu'il se soit offert",
+      "que nous nous soyons offerts",
+      "que vous vous soyez offerts",
+      "qu'ils se soient offerts"
+    ],
+    "imparfait": [
+      "que je m'offrisse",
+      "que tu t'offrisses",
+      "qu'il s'offrît",
+      "que nous nous offrissions",
+      "que vous vous offrissiez",
+      "qu'ils s'offrissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse offert",
+      "que tu te fusses offert",
+      "qu'il se fût offert",
+      "que nous nous fussions offerts",
+      "que vous vous fussiez offerts",
+      "qu'ils se fussent offerts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'offrirais",
+      "tu t'offrirais",
+      "il s'offrirait",
+      "nous nous offririons",
+      "vous vous offririez",
+      "ils s'offriraient"
+    ],
+    "passé": [
+      "je me serais offert",
+      "tu te serais offert",
+      "il se serait offert",
+      "nous nous serions offerts",
+      "vous vous seriez offerts",
+      "ils se seraient offerts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "offre-toi",
+      "offrons-nous",
+      "offrez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'offrir"
+    ],
+    "passé": [
+      "s'être offert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'offrant"
+    ],
+    "passé": [
+      "-",
+      "s'étant offert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'offrant"
+    ],
+    "passé": [
+      "en s'étant offert"
+    ]
+  }
+}

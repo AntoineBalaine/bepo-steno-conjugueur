@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me distrais",
+      "tu te distrais",
+      "il se distrait",
+      "nous nous distrayons",
+      "vous vous distrayez",
+      "ils se distraient"
+    ],
+    "passé composé": [
+      "je me suis distrait",
+      "tu t'es distrait",
+      "il s'est distrait",
+      "nous nous sommes distraits",
+      "vous vous êtes distraits",
+      "ils se sont distraits"
+    ],
+    "imparfait": [
+      "je me distrayais",
+      "tu te distrayais",
+      "il se distrayait",
+      "nous nous distrayions",
+      "vous vous distrayiez",
+      "ils se distrayaient"
+    ],
+    "plus que parfait": [
+      "je m'étais distrait",
+      "tu t'étais distrait",
+      "il s'était distrait",
+      "nous nous étions distraits",
+      "vous vous étiez distraits",
+      "ils s'étaient distraits"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "je me fus distrait",
+      "tu te fus distrait",
+      "il se fut distrait",
+      "nous nous fûmes distraits",
+      "vous vous fûtes distraits",
+      "ils se furent distraits"
+    ],
+    "futur simple": [
+      "je me distrairai",
+      "tu te distrairas",
+      "il se distraira",
+      "nous nous distrairons",
+      "vous vous distrairez",
+      "ils se distrairont"
+    ],
+    "futur antérieur": [
+      "je me serai distrait",
+      "tu te seras distrait",
+      "il se sera distrait",
+      "nous nous serons distraits",
+      "vous vous serez distraits",
+      "ils se seront distraits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me distraie",
+      "que tu te distraies",
+      "qu'il se distraie",
+      "que nous nous distrayions",
+      "que vous vous distrayiez",
+      "qu'ils se distraient"
+    ],
+    "passé": [
+      "que je me sois distrait",
+      "que tu te sois distrait",
+      "qu'il se soit distrait",
+      "que nous nous soyons distraits",
+      "que vous vous soyez distraits",
+      "qu'ils se soient distraits"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que je me fusse distrait",
+      "que tu te fusses distrait",
+      "qu'il se fût distrait",
+      "que nous nous fussions distraits",
+      "que vous vous fussiez distraits",
+      "qu'ils se fussent distraits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me distrairais",
+      "tu te distrairais",
+      "il se distrairait",
+      "nous nous distrairions",
+      "vous vous distrairiez",
+      "ils se distrairaient"
+    ],
+    "passé": [
+      "je me serais distrait",
+      "tu te serais distrait",
+      "il se serait distrait",
+      "nous nous serions distraits",
+      "vous vous seriez distraits",
+      "ils se seraient distraits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "distrais-toi",
+      "distrayons-nous",
+      "distrayez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se distraire"
+    ],
+    "passé": [
+      "s'être distrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se distrayant"
+    ],
+    "passé": [
+      "-",
+      "s'étant distrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se distrayant"
+    ],
+    "passé": [
+      "en s'étant distrait"
+    ]
+  }
+}

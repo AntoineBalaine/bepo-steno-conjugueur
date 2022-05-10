@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'interromps",
+      "tu t'interromps",
+      "il s'interrompt",
+      "nous nous interrompons",
+      "vous vous interrompez",
+      "ils s'interrompent"
+    ],
+    "passé composé": [
+      "je me suis interrompu",
+      "tu t'es interrompu",
+      "il s'est interrompu",
+      "nous nous sommes interrompus",
+      "vous vous êtes interrompus",
+      "ils se sont interrompus"
+    ],
+    "imparfait": [
+      "je m'interrompais",
+      "tu t'interrompais",
+      "il s'interrompait",
+      "nous nous interrompions",
+      "vous vous interrompiez",
+      "ils s'interrompaient"
+    ],
+    "plus que parfait": [
+      "je m'étais interrompu",
+      "tu t'étais interrompu",
+      "il s'était interrompu",
+      "nous nous étions interrompus",
+      "vous vous étiez interrompus",
+      "ils s'étaient interrompus"
+    ],
+    "passé simple": [
+      "je m'interrompis",
+      "tu t'interrompis",
+      "il s'interrompit",
+      "nous nous interrompîmes",
+      "vous vous interrompîtes",
+      "ils s'interrompirent"
+    ],
+    "passé antérieur": [
+      "je me fus interrompu",
+      "tu te fus interrompu",
+      "il se fut interrompu",
+      "nous nous fûmes interrompus",
+      "vous vous fûtes interrompus",
+      "ils se furent interrompus"
+    ],
+    "futur simple": [
+      "je m'interromprai",
+      "tu t'interrompras",
+      "il s'interrompra",
+      "nous nous interromprons",
+      "vous vous interromprez",
+      "ils s'interrompront"
+    ],
+    "futur antérieur": [
+      "je me serai interrompu",
+      "tu te seras interrompu",
+      "il se sera interrompu",
+      "nous nous serons interrompus",
+      "vous vous serez interrompus",
+      "ils se seront interrompus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'interrompe",
+      "que tu t'interrompes",
+      "qu'il s'interrompe",
+      "que nous nous interrompions",
+      "que vous vous interrompiez",
+      "qu'ils s'interrompent"
+    ],
+    "passé": [
+      "que je me sois interrompu",
+      "que tu te sois interrompu",
+      "qu'il se soit interrompu",
+      "que nous nous soyons interrompus",
+      "que vous vous soyez interrompus",
+      "qu'ils se soient interrompus"
+    ],
+    "imparfait": [
+      "que je m'interrompisse",
+      "que tu t'interrompisses",
+      "qu'il s'interrompît",
+      "que nous nous interrompissions",
+      "que vous vous interrompissiez",
+      "qu'ils s'interrompissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse interrompu",
+      "que tu te fusses interrompu",
+      "qu'il se fût interrompu",
+      "que nous nous fussions interrompus",
+      "que vous vous fussiez interrompus",
+      "qu'ils se fussent interrompus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'interromprais",
+      "tu t'interromprais",
+      "il s'interromprait",
+      "nous nous interromprions",
+      "vous vous interrompriez",
+      "ils s'interrompraient"
+    ],
+    "passé": [
+      "je me serais interrompu",
+      "tu te serais interrompu",
+      "il se serait interrompu",
+      "nous nous serions interrompus",
+      "vous vous seriez interrompus",
+      "ils se seraient interrompus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "interromps-toi",
+      "interrompons-nous",
+      "interrompez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'interrompre"
+    ],
+    "passé": [
+      "s'être interrompu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'interrompant"
+    ],
+    "passé": [
+      "-",
+      "s'étant interrompu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'interrompant"
+    ],
+    "passé": [
+      "en s'étant interrompu"
+    ]
+  }
+}

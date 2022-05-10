@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'aveins",
+      "tu aveins",
+      "il aveint",
+      "nous aveignons",
+      "vous aveignez",
+      "ils aveignent"
+    ],
+    "passé composé": [
+      "j'ai aveint",
+      "tu as aveint",
+      "il a aveint",
+      "nous avons aveint",
+      "vous avez aveint",
+      "ils ont aveint"
+    ],
+    "imparfait": [
+      "j'aveignais",
+      "tu aveignais",
+      "il aveignait",
+      "nous aveignions",
+      "vous aveigniez",
+      "ils aveignaient"
+    ],
+    "plus que parfait": [
+      "j'avais aveint",
+      "tu avais aveint",
+      "il avait aveint",
+      "nous avions aveint",
+      "vous aviez aveint",
+      "ils avaient aveint"
+    ],
+    "passé simple": [
+      "j'aveignis",
+      "tu aveignis",
+      "il aveignit",
+      "nous aveignîmes",
+      "vous aveignîtes",
+      "ils aveignirent"
+    ],
+    "passé antérieur": [
+      "j'eus aveint",
+      "tu eus aveint",
+      "il eut aveint",
+      "nous eûmes aveint",
+      "vous eûtes aveint",
+      "ils eurent aveint"
+    ],
+    "futur simple": [
+      "j'aveindrai",
+      "tu aveindras",
+      "il aveindra",
+      "nous aveindrons",
+      "vous aveindrez",
+      "ils aveindront"
+    ],
+    "futur antérieur": [
+      "j'aurai aveint",
+      "tu auras aveint",
+      "il aura aveint",
+      "nous aurons aveint",
+      "vous aurez aveint",
+      "ils auront aveint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'aveigne",
+      "que tu aveignes",
+      "qu'il aveigne",
+      "que nous aveignions",
+      "que vous aveigniez",
+      "qu'ils aveignent"
+    ],
+    "passé": [
+      "que j'aie aveint",
+      "que tu aies aveint",
+      "qu'il ait aveint",
+      "que nous ayons aveint",
+      "que vous ayez aveint",
+      "qu'ils aient aveint"
+    ],
+    "imparfait": [
+      "que j'aveignisse",
+      "que tu aveignisses",
+      "qu'il aveignît",
+      "que nous aveignissions",
+      "que vous aveignissiez",
+      "qu'ils aveignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse aveint",
+      "que tu eusses aveint",
+      "qu'il eût aveint",
+      "que nous eussions aveint",
+      "que vous eussiez aveint",
+      "qu'ils eussent aveint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'aveindrais",
+      "tu aveindrais",
+      "il aveindrait",
+      "nous aveindrions",
+      "vous aveindriez",
+      "ils aveindraient"
+    ],
+    "passé": [
+      "j'aurais aveint",
+      "tu aurais aveint",
+      "il aurait aveint",
+      "nous aurions aveint",
+      "vous auriez aveint",
+      "ils auraient aveint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "aveins",
+      "aveignons",
+      "aveignez"
+    ],
+    "passé": [
+      "aie aveint",
+      "ayons aveint",
+      "ayez aveint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "aveindre"
+    ],
+    "passé": [
+      "avoir aveint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "aveignant"
+    ],
+    "passé": [
+      "aveint",
+      "ayant aveint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en aveignant"
+    ],
+    "passé": [
+      "en ayant aveint"
+    ]
+  }
+}

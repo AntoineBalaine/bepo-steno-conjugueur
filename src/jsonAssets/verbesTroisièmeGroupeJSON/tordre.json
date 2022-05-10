@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je tords",
+      "tu tords",
+      "il tord",
+      "nous tordons",
+      "vous tordez",
+      "ils tordent"
+    ],
+    "passé composé": [
+      "j'ai tordu",
+      "tu as tordu",
+      "il a tordu",
+      "nous avons tordu",
+      "vous avez tordu",
+      "ils ont tordu"
+    ],
+    "imparfait": [
+      "je tordais",
+      "tu tordais",
+      "il tordait",
+      "nous tordions",
+      "vous tordiez",
+      "ils tordaient"
+    ],
+    "plus que parfait": [
+      "j'avais tordu",
+      "tu avais tordu",
+      "il avait tordu",
+      "nous avions tordu",
+      "vous aviez tordu",
+      "ils avaient tordu"
+    ],
+    "passé simple": [
+      "je tordis",
+      "tu tordis",
+      "il tordit",
+      "nous tordîmes",
+      "vous tordîtes",
+      "ils tordirent"
+    ],
+    "passé antérieur": [
+      "j'eus tordu",
+      "tu eus tordu",
+      "il eut tordu",
+      "nous eûmes tordu",
+      "vous eûtes tordu",
+      "ils eurent tordu"
+    ],
+    "futur simple": [
+      "je tordrai",
+      "tu tordras",
+      "il tordra",
+      "nous tordrons",
+      "vous tordrez",
+      "ils tordront"
+    ],
+    "futur antérieur": [
+      "j'aurai tordu",
+      "tu auras tordu",
+      "il aura tordu",
+      "nous aurons tordu",
+      "vous aurez tordu",
+      "ils auront tordu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je torde",
+      "que tu tordes",
+      "qu'il torde",
+      "que nous tordions",
+      "que vous tordiez",
+      "qu'ils tordent"
+    ],
+    "passé": [
+      "que j'aie tordu",
+      "que tu aies tordu",
+      "qu'il ait tordu",
+      "que nous ayons tordu",
+      "que vous ayez tordu",
+      "qu'ils aient tordu"
+    ],
+    "imparfait": [
+      "que je tordisse",
+      "que tu tordisses",
+      "qu'il tordît",
+      "que nous tordissions",
+      "que vous tordissiez",
+      "qu'ils tordissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse tordu",
+      "que tu eusses tordu",
+      "qu'il eût tordu",
+      "que nous eussions tordu",
+      "que vous eussiez tordu",
+      "qu'ils eussent tordu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je tordrais",
+      "tu tordrais",
+      "il tordrait",
+      "nous tordrions",
+      "vous tordriez",
+      "ils tordraient"
+    ],
+    "passé": [
+      "j'aurais tordu",
+      "tu aurais tordu",
+      "il aurait tordu",
+      "nous aurions tordu",
+      "vous auriez tordu",
+      "ils auraient tordu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tords",
+      "tordons",
+      "tordez"
+    ],
+    "passé": [
+      "aie tordu",
+      "ayons tordu",
+      "ayez tordu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "tordre"
+    ],
+    "passé": [
+      "avoir tordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "tordant"
+    ],
+    "passé": [
+      "tordu",
+      "ayant tordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en tordant"
+    ],
+    "passé": [
+      "en ayant tordu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je sens",
+      "tu sens",
+      "il sent",
+      "nous sentons",
+      "vous sentez",
+      "ils sentent"
+    ],
+    "passé composé": [
+      "j'ai senti",
+      "tu as senti",
+      "il a senti",
+      "nous avons senti",
+      "vous avez senti",
+      "ils ont senti"
+    ],
+    "imparfait": [
+      "je sentais",
+      "tu sentais",
+      "il sentait",
+      "nous sentions",
+      "vous sentiez",
+      "ils sentaient"
+    ],
+    "plus que parfait": [
+      "j'avais senti",
+      "tu avais senti",
+      "il avait senti",
+      "nous avions senti",
+      "vous aviez senti",
+      "ils avaient senti"
+    ],
+    "passé simple": [
+      "je sentis",
+      "tu sentis",
+      "il sentit",
+      "nous sentîmes",
+      "vous sentîtes",
+      "ils sentirent"
+    ],
+    "passé antérieur": [
+      "j'eus senti",
+      "tu eus senti",
+      "il eut senti",
+      "nous eûmes senti",
+      "vous eûtes senti",
+      "ils eurent senti"
+    ],
+    "futur simple": [
+      "je sentirai",
+      "tu sentiras",
+      "il sentira",
+      "nous sentirons",
+      "vous sentirez",
+      "ils sentiront"
+    ],
+    "futur antérieur": [
+      "j'aurai senti",
+      "tu auras senti",
+      "il aura senti",
+      "nous aurons senti",
+      "vous aurez senti",
+      "ils auront senti"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je sente",
+      "que tu sentes",
+      "qu'il sente",
+      "que nous sentions",
+      "que vous sentiez",
+      "qu'ils sentent"
+    ],
+    "passé": [
+      "que j'aie senti",
+      "que tu aies senti",
+      "qu'il ait senti",
+      "que nous ayons senti",
+      "que vous ayez senti",
+      "qu'ils aient senti"
+    ],
+    "imparfait": [
+      "que je sentisse",
+      "que tu sentisses",
+      "qu'il sentît",
+      "que nous sentissions",
+      "que vous sentissiez",
+      "qu'ils sentissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse senti",
+      "que tu eusses senti",
+      "qu'il eût senti",
+      "que nous eussions senti",
+      "que vous eussiez senti",
+      "qu'ils eussent senti"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je sentirais",
+      "tu sentirais",
+      "il sentirait",
+      "nous sentirions",
+      "vous sentiriez",
+      "ils sentiraient"
+    ],
+    "passé": [
+      "j'aurais senti",
+      "tu aurais senti",
+      "il aurait senti",
+      "nous aurions senti",
+      "vous auriez senti",
+      "ils auraient senti"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sens",
+      "sentons",
+      "sentez"
+    ],
+    "passé": [
+      "aie senti",
+      "ayons senti",
+      "ayez senti"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "sentir"
+    ],
+    "passé": [
+      "avoir senti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "sentant"
+    ],
+    "passé": [
+      "senti",
+      "ayant senti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en sentant"
+    ],
+    "passé": [
+      "en ayant senti"
+    ]
+  }
+}

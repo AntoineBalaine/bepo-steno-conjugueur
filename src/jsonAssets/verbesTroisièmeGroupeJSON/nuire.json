@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je nuis",
+      "tu nuis",
+      "il nuit",
+      "nous nuisons",
+      "vous nuisez",
+      "ils nuisent"
+    ],
+    "passé composé": [
+      "j'ai nuit",
+      "tu as nuit",
+      "il a nuit",
+      "nous avons nuit",
+      "vous avez nuit",
+      "ils ont nuit"
+    ],
+    "imparfait": [
+      "je nuisais",
+      "tu nuisais",
+      "il nuisait",
+      "nous nuisions",
+      "vous nuisiez",
+      "ils nuisaient"
+    ],
+    "plus que parfait": [
+      "j'avais nuit",
+      "tu avais nuit",
+      "il avait nuit",
+      "nous avions nuit",
+      "vous aviez nuit",
+      "ils avaient nuit"
+    ],
+    "passé simple": [
+      "je nuisis",
+      "tu nuisis",
+      "il nuisit",
+      "nous nuisîmes",
+      "vous nuisîtes",
+      "ils nuisirent"
+    ],
+    "passé antérieur": [
+      "j'eus nuit",
+      "tu eus nuit",
+      "il eut nuit",
+      "nous eûmes nuit",
+      "vous eûtes nuit",
+      "ils eurent nuit"
+    ],
+    "futur simple": [
+      "je nuirai",
+      "tu nuiras",
+      "il nuira",
+      "nous nuirons",
+      "vous nuirez",
+      "ils nuiront"
+    ],
+    "futur antérieur": [
+      "j'aurai nuit",
+      "tu auras nuit",
+      "il aura nuit",
+      "nous aurons nuit",
+      "vous aurez nuit",
+      "ils auront nuit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je nuise",
+      "que tu nuises",
+      "qu'il nuise",
+      "que nous nuisions",
+      "que vous nuisiez",
+      "qu'ils nuisent"
+    ],
+    "passé": [
+      "que j'aie nuit",
+      "que tu aies nuit",
+      "qu'il ait nuit",
+      "que nous ayons nuit",
+      "que vous ayez nuit",
+      "qu'ils aient nuit"
+    ],
+    "imparfait": [
+      "que je nuisisse",
+      "que tu nuisisses",
+      "qu'il nuisît",
+      "que nous nuisissions",
+      "que vous nuisissiez",
+      "qu'ils nuisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse nuit",
+      "que tu eusses nuit",
+      "qu'il eût nuit",
+      "que nous eussions nuit",
+      "que vous eussiez nuit",
+      "qu'ils eussent nuit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je nuirais",
+      "tu nuirais",
+      "il nuirait",
+      "nous nuirions",
+      "vous nuiriez",
+      "ils nuiraient"
+    ],
+    "passé": [
+      "j'aurais nuit",
+      "tu aurais nuit",
+      "il aurait nuit",
+      "nous aurions nuit",
+      "vous auriez nuit",
+      "ils auraient nuit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "nuis",
+      "nuisons",
+      "nuisez"
+    ],
+    "passé": [
+      "aie nuit",
+      "ayons nuit",
+      "ayez nuit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "nuire"
+    ],
+    "passé": [
+      "avoir nuit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "nuisant"
+    ],
+    "passé": [
+      "nuit",
+      "ayant nuit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en nuisant"
+    ],
+    "passé": [
+      "en ayant nuit"
+    ]
+  }
+}

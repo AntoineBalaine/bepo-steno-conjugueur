@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'atteins",
+      "tu atteins",
+      "il atteint",
+      "nous atteignons",
+      "vous atteignez",
+      "ils atteignent"
+    ],
+    "passé composé": [
+      "j'ai atteint",
+      "tu as atteint",
+      "il a atteint",
+      "nous avons atteint",
+      "vous avez atteint",
+      "ils ont atteint"
+    ],
+    "imparfait": [
+      "j'atteignais",
+      "tu atteignais",
+      "il atteignait",
+      "nous atteignions",
+      "vous atteigniez",
+      "ils atteignaient"
+    ],
+    "plus que parfait": [
+      "j'avais atteint",
+      "tu avais atteint",
+      "il avait atteint",
+      "nous avions atteint",
+      "vous aviez atteint",
+      "ils avaient atteint"
+    ],
+    "passé simple": [
+      "j'atteignis",
+      "tu atteignis",
+      "il atteignit",
+      "nous atteignîmes",
+      "vous atteignîtes",
+      "ils atteignirent"
+    ],
+    "passé antérieur": [
+      "j'eus atteint",
+      "tu eus atteint",
+      "il eut atteint",
+      "nous eûmes atteint",
+      "vous eûtes atteint",
+      "ils eurent atteint"
+    ],
+    "futur simple": [
+      "j'atteindrai",
+      "tu atteindras",
+      "il atteindra",
+      "nous atteindrons",
+      "vous atteindrez",
+      "ils atteindront"
+    ],
+    "futur antérieur": [
+      "j'aurai atteint",
+      "tu auras atteint",
+      "il aura atteint",
+      "nous aurons atteint",
+      "vous aurez atteint",
+      "ils auront atteint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'atteigne",
+      "que tu atteignes",
+      "qu'il atteigne",
+      "que nous atteignions",
+      "que vous atteigniez",
+      "qu'ils atteignent"
+    ],
+    "passé": [
+      "que j'aie atteint",
+      "que tu aies atteint",
+      "qu'il ait atteint",
+      "que nous ayons atteint",
+      "que vous ayez atteint",
+      "qu'ils aient atteint"
+    ],
+    "imparfait": [
+      "que j'atteignisse",
+      "que tu atteignisses",
+      "qu'il atteignît",
+      "que nous atteignissions",
+      "que vous atteignissiez",
+      "qu'ils atteignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse atteint",
+      "que tu eusses atteint",
+      "qu'il eût atteint",
+      "que nous eussions atteint",
+      "que vous eussiez atteint",
+      "qu'ils eussent atteint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'atteindrais",
+      "tu atteindrais",
+      "il atteindrait",
+      "nous atteindrions",
+      "vous atteindriez",
+      "ils atteindraient"
+    ],
+    "passé": [
+      "j'aurais atteint",
+      "tu aurais atteint",
+      "il aurait atteint",
+      "nous aurions atteint",
+      "vous auriez atteint",
+      "ils auraient atteint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "atteins",
+      "atteignons",
+      "atteignez"
+    ],
+    "passé": [
+      "aie atteint",
+      "ayons atteint",
+      "ayez atteint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "atteindre"
+    ],
+    "passé": [
+      "avoir atteint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "atteignant"
+    ],
+    "passé": [
+      "atteint",
+      "ayant atteint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en atteignant"
+    ],
+    "passé": [
+      "en ayant atteint"
+    ]
+  }
+}

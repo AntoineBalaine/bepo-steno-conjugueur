@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rouvre",
+      "tu rouvres",
+      "il rouvre",
+      "nous rouvrons",
+      "vous rouvrez",
+      "ils rouvrent"
+    ],
+    "passé composé": [
+      "j'ai rouvert",
+      "tu as rouvert",
+      "il a rouvert",
+      "nous avons rouvert",
+      "vous avez rouvert",
+      "ils ont rouvert"
+    ],
+    "imparfait": [
+      "je rouvrais",
+      "tu rouvrais",
+      "il rouvrait",
+      "nous rouvrions",
+      "vous rouvriez",
+      "ils rouvraient"
+    ],
+    "plus que parfait": [
+      "j'avais rouvert",
+      "tu avais rouvert",
+      "il avait rouvert",
+      "nous avions rouvert",
+      "vous aviez rouvert",
+      "ils avaient rouvert"
+    ],
+    "passé simple": [
+      "je rouvris",
+      "tu rouvris",
+      "il rouvrit",
+      "nous rouvrîmes",
+      "vous rouvrîtes",
+      "ils rouvrirent"
+    ],
+    "passé antérieur": [
+      "j'eus rouvert",
+      "tu eus rouvert",
+      "il eut rouvert",
+      "nous eûmes rouvert",
+      "vous eûtes rouvert",
+      "ils eurent rouvert"
+    ],
+    "futur simple": [
+      "je rouvrirai",
+      "tu rouvriras",
+      "il rouvrira",
+      "nous rouvrirons",
+      "vous rouvrirez",
+      "ils rouvriront"
+    ],
+    "futur antérieur": [
+      "j'aurai rouvert",
+      "tu auras rouvert",
+      "il aura rouvert",
+      "nous aurons rouvert",
+      "vous aurez rouvert",
+      "ils auront rouvert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rouvre",
+      "que tu rouvres",
+      "qu'il rouvre",
+      "que nous rouvrions",
+      "que vous rouvriez",
+      "qu'ils rouvrent"
+    ],
+    "passé": [
+      "que j'aie rouvert",
+      "que tu aies rouvert",
+      "qu'il ait rouvert",
+      "que nous ayons rouvert",
+      "que vous ayez rouvert",
+      "qu'ils aient rouvert"
+    ],
+    "imparfait": [
+      "que je rouvrisse",
+      "que tu rouvrisses",
+      "qu'il rouvrît",
+      "que nous rouvrissions",
+      "que vous rouvrissiez",
+      "qu'ils rouvrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rouvert",
+      "que tu eusses rouvert",
+      "qu'il eût rouvert",
+      "que nous eussions rouvert",
+      "que vous eussiez rouvert",
+      "qu'ils eussent rouvert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rouvrirais",
+      "tu rouvrirais",
+      "il rouvrirait",
+      "nous rouvririons",
+      "vous rouvririez",
+      "ils rouvriraient"
+    ],
+    "passé": [
+      "j'aurais rouvert",
+      "tu aurais rouvert",
+      "il aurait rouvert",
+      "nous aurions rouvert",
+      "vous auriez rouvert",
+      "ils auraient rouvert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rouvre",
+      "rouvrons",
+      "rouvrez"
+    ],
+    "passé": [
+      "aie rouvert",
+      "ayons rouvert",
+      "ayez rouvert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rouvrir"
+    ],
+    "passé": [
+      "avoir rouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rouvrant"
+    ],
+    "passé": [
+      "rouvert",
+      "ayant rouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rouvrant"
+    ],
+    "passé": [
+      "en ayant rouvert"
+    ]
+  }
+}

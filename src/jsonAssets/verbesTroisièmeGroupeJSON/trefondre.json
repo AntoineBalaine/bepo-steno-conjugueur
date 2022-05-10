@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je tréfonds",
+      "tu tréfonds",
+      "il tréfond",
+      "nous tréfondons",
+      "vous tréfondez",
+      "ils tréfondent"
+    ],
+    "passé composé": [
+      "j'ai tréfondu",
+      "tu as tréfondu",
+      "il a tréfondu",
+      "nous avons tréfondu",
+      "vous avez tréfondu",
+      "ils ont tréfondu"
+    ],
+    "imparfait": [
+      "je tréfondais",
+      "tu tréfondais",
+      "il tréfondait",
+      "nous tréfondions",
+      "vous tréfondiez",
+      "ils tréfondaient"
+    ],
+    "plus que parfait": [
+      "j'avais tréfondu",
+      "tu avais tréfondu",
+      "il avait tréfondu",
+      "nous avions tréfondu",
+      "vous aviez tréfondu",
+      "ils avaient tréfondu"
+    ],
+    "passé simple": [
+      "je tréfondis",
+      "tu tréfondis",
+      "il tréfondit",
+      "nous tréfondîmes",
+      "vous tréfondîtes",
+      "ils tréfondirent"
+    ],
+    "passé antérieur": [
+      "j'eus tréfondu",
+      "tu eus tréfondu",
+      "il eut tréfondu",
+      "nous eûmes tréfondu",
+      "vous eûtes tréfondu",
+      "ils eurent tréfondu"
+    ],
+    "futur simple": [
+      "je tréfondrai",
+      "tu tréfondras",
+      "il tréfondra",
+      "nous tréfondrons",
+      "vous tréfondrez",
+      "ils tréfondront"
+    ],
+    "futur antérieur": [
+      "j'aurai tréfondu",
+      "tu auras tréfondu",
+      "il aura tréfondu",
+      "nous aurons tréfondu",
+      "vous aurez tréfondu",
+      "ils auront tréfondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je tréfonde",
+      "que tu tréfondes",
+      "qu'il tréfonde",
+      "que nous tréfondions",
+      "que vous tréfondiez",
+      "qu'ils tréfondent"
+    ],
+    "passé": [
+      "que j'aie tréfondu",
+      "que tu aies tréfondu",
+      "qu'il ait tréfondu",
+      "que nous ayons tréfondu",
+      "que vous ayez tréfondu",
+      "qu'ils aient tréfondu"
+    ],
+    "imparfait": [
+      "que je tréfondisse",
+      "que tu tréfondisses",
+      "qu'il tréfondît",
+      "que nous tréfondissions",
+      "que vous tréfondissiez",
+      "qu'ils tréfondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse tréfondu",
+      "que tu eusses tréfondu",
+      "qu'il eût tréfondu",
+      "que nous eussions tréfondu",
+      "que vous eussiez tréfondu",
+      "qu'ils eussent tréfondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je tréfondrais",
+      "tu tréfondrais",
+      "il tréfondrait",
+      "nous tréfondrions",
+      "vous tréfondriez",
+      "ils tréfondraient"
+    ],
+    "passé": [
+      "j'aurais tréfondu",
+      "tu aurais tréfondu",
+      "il aurait tréfondu",
+      "nous aurions tréfondu",
+      "vous auriez tréfondu",
+      "ils auraient tréfondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tréfonds",
+      "tréfondons",
+      "tréfondez"
+    ],
+    "passé": [
+      "aie tréfondu",
+      "ayons tréfondu",
+      "ayez tréfondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "tréfondre"
+    ],
+    "passé": [
+      "avoir tréfondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "tréfondant"
+    ],
+    "passé": [
+      "tréfondu",
+      "ayant tréfondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en tréfondant"
+    ],
+    "passé": [
+      "en ayant tréfondu"
+    ]
+  }
+}

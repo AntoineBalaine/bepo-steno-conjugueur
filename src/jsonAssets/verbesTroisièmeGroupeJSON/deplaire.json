@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je déplais",
+      "tu déplais",
+      "il déplaît",
+      "nous déplaisons",
+      "vous déplaisez",
+      "ils déplaisent"
+    ],
+    "passé composé": [
+      "j'ai déplu",
+      "tu as déplu",
+      "il a déplu",
+      "nous avons déplu",
+      "vous avez déplu",
+      "ils ont déplu"
+    ],
+    "imparfait": [
+      "je déplaisais",
+      "tu déplaisais",
+      "il déplaisait",
+      "nous déplaisions",
+      "vous déplaisiez",
+      "ils déplaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais déplu",
+      "tu avais déplu",
+      "il avait déplu",
+      "nous avions déplu",
+      "vous aviez déplu",
+      "ils avaient déplu"
+    ],
+    "passé simple": [
+      "je déplus",
+      "tu déplus",
+      "il déplut",
+      "nous déplûmes",
+      "vous déplûtes",
+      "ils déplurent"
+    ],
+    "passé antérieur": [
+      "j'eus déplu",
+      "tu eus déplu",
+      "il eut déplu",
+      "nous eûmes déplu",
+      "vous eûtes déplu",
+      "ils eurent déplu"
+    ],
+    "futur simple": [
+      "je déplairai",
+      "tu déplairas",
+      "il déplaira",
+      "nous déplairons",
+      "vous déplairez",
+      "ils déplairont"
+    ],
+    "futur antérieur": [
+      "j'aurai déplu",
+      "tu auras déplu",
+      "il aura déplu",
+      "nous aurons déplu",
+      "vous aurez déplu",
+      "ils auront déplu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je déplaise",
+      "que tu déplaises",
+      "qu'il déplaise",
+      "que nous déplaisions",
+      "que vous déplaisiez",
+      "qu'ils déplaisent"
+    ],
+    "passé": [
+      "que j'aie déplu",
+      "que tu aies déplu",
+      "qu'il ait déplu",
+      "que nous ayons déplu",
+      "que vous ayez déplu",
+      "qu'ils aient déplu"
+    ],
+    "imparfait": [
+      "que je déplusse",
+      "que tu déplusses",
+      "qu'il déplût",
+      "que nous déplussions",
+      "que vous déplussiez",
+      "qu'ils déplussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse déplu",
+      "que tu eusses déplu",
+      "qu'il eût déplu",
+      "que nous eussions déplu",
+      "que vous eussiez déplu",
+      "qu'ils eussent déplu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je déplairais",
+      "tu déplairais",
+      "il déplairait",
+      "nous déplairions",
+      "vous déplairiez",
+      "ils déplairaient"
+    ],
+    "passé": [
+      "j'aurais déplu",
+      "tu aurais déplu",
+      "il aurait déplu",
+      "nous aurions déplu",
+      "vous auriez déplu",
+      "ils auraient déplu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déplais",
+      "déplaisons",
+      "déplaisez"
+    ],
+    "passé": [
+      "aie déplu",
+      "ayons déplu",
+      "ayez déplu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "déplaire"
+    ],
+    "passé": [
+      "avoir déplu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "déplaisant"
+    ],
+    "passé": [
+      "déplu",
+      "ayant déplu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en déplaisant"
+    ],
+    "passé": [
+      "en ayant déplu"
+    ]
+  }
+}

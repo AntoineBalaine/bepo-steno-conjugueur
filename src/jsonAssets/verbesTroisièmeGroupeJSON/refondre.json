@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je refonds",
+      "tu refonds",
+      "il refond",
+      "nous refondons",
+      "vous refondez",
+      "ils refondent"
+    ],
+    "passé composé": [
+      "j'ai refondu",
+      "tu as refondu",
+      "il a refondu",
+      "nous avons refondu",
+      "vous avez refondu",
+      "ils ont refondu"
+    ],
+    "imparfait": [
+      "je refondais",
+      "tu refondais",
+      "il refondait",
+      "nous refondions",
+      "vous refondiez",
+      "ils refondaient"
+    ],
+    "plus que parfait": [
+      "j'avais refondu",
+      "tu avais refondu",
+      "il avait refondu",
+      "nous avions refondu",
+      "vous aviez refondu",
+      "ils avaient refondu"
+    ],
+    "passé simple": [
+      "je refondis",
+      "tu refondis",
+      "il refondit",
+      "nous refondîmes",
+      "vous refondîtes",
+      "ils refondirent"
+    ],
+    "passé antérieur": [
+      "j'eus refondu",
+      "tu eus refondu",
+      "il eut refondu",
+      "nous eûmes refondu",
+      "vous eûtes refondu",
+      "ils eurent refondu"
+    ],
+    "futur simple": [
+      "je refondrai",
+      "tu refondras",
+      "il refondra",
+      "nous refondrons",
+      "vous refondrez",
+      "ils refondront"
+    ],
+    "futur antérieur": [
+      "j'aurai refondu",
+      "tu auras refondu",
+      "il aura refondu",
+      "nous aurons refondu",
+      "vous aurez refondu",
+      "ils auront refondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je refonde",
+      "que tu refondes",
+      "qu'il refonde",
+      "que nous refondions",
+      "que vous refondiez",
+      "qu'ils refondent"
+    ],
+    "passé": [
+      "que j'aie refondu",
+      "que tu aies refondu",
+      "qu'il ait refondu",
+      "que nous ayons refondu",
+      "que vous ayez refondu",
+      "qu'ils aient refondu"
+    ],
+    "imparfait": [
+      "que je refondisse",
+      "que tu refondisses",
+      "qu'il refondît",
+      "que nous refondissions",
+      "que vous refondissiez",
+      "qu'ils refondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse refondu",
+      "que tu eusses refondu",
+      "qu'il eût refondu",
+      "que nous eussions refondu",
+      "que vous eussiez refondu",
+      "qu'ils eussent refondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je refondrais",
+      "tu refondrais",
+      "il refondrait",
+      "nous refondrions",
+      "vous refondriez",
+      "ils refondraient"
+    ],
+    "passé": [
+      "j'aurais refondu",
+      "tu aurais refondu",
+      "il aurait refondu",
+      "nous aurions refondu",
+      "vous auriez refondu",
+      "ils auraient refondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "refonds",
+      "refondons",
+      "refondez"
+    ],
+    "passé": [
+      "aie refondu",
+      "ayons refondu",
+      "ayez refondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "refondre"
+    ],
+    "passé": [
+      "avoir refondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "refondant"
+    ],
+    "passé": [
+      "refondu",
+      "ayant refondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en refondant"
+    ],
+    "passé": [
+      "en ayant refondu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je mésoffre",
+      "tu mésoffres",
+      "il mésoffre",
+      "nous mésoffrons",
+      "vous mésoffrez",
+      "ils mésoffrent"
+    ],
+    "passé composé": [
+      "j'ai mésoffert",
+      "tu as mésoffert",
+      "il a mésoffert",
+      "nous avons mésoffert",
+      "vous avez mésoffert",
+      "ils ont mésoffert"
+    ],
+    "imparfait": [
+      "je mésoffrais",
+      "tu mésoffrais",
+      "il mésoffrait",
+      "nous mésoffrions",
+      "vous mésoffriez",
+      "ils mésoffraient"
+    ],
+    "plus que parfait": [
+      "j'avais mésoffert",
+      "tu avais mésoffert",
+      "il avait mésoffert",
+      "nous avions mésoffert",
+      "vous aviez mésoffert",
+      "ils avaient mésoffert"
+    ],
+    "passé simple": [
+      "je mésoffris",
+      "tu mésoffris",
+      "il mésoffrit",
+      "nous mésoffrîmes",
+      "vous mésoffrîtes",
+      "ils mésoffrirent"
+    ],
+    "passé antérieur": [
+      "j'eus mésoffert",
+      "tu eus mésoffert",
+      "il eut mésoffert",
+      "nous eûmes mésoffert",
+      "vous eûtes mésoffert",
+      "ils eurent mésoffert"
+    ],
+    "futur simple": [
+      "je mésoffrirai",
+      "tu mésoffriras",
+      "il mésoffrira",
+      "nous mésoffrirons",
+      "vous mésoffrirez",
+      "ils mésoffriront"
+    ],
+    "futur antérieur": [
+      "j'aurai mésoffert",
+      "tu auras mésoffert",
+      "il aura mésoffert",
+      "nous aurons mésoffert",
+      "vous aurez mésoffert",
+      "ils auront mésoffert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je mésoffre",
+      "que tu mésoffres",
+      "qu'il mésoffre",
+      "que nous mésoffrions",
+      "que vous mésoffriez",
+      "qu'ils mésoffrent"
+    ],
+    "passé": [
+      "que j'aie mésoffert",
+      "que tu aies mésoffert",
+      "qu'il ait mésoffert",
+      "que nous ayons mésoffert",
+      "que vous ayez mésoffert",
+      "qu'ils aient mésoffert"
+    ],
+    "imparfait": [
+      "que je mésoffrisse",
+      "que tu mésoffrisses",
+      "qu'il mésoffrît",
+      "que nous mésoffrissions",
+      "que vous mésoffrissiez",
+      "qu'ils mésoffrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse mésoffert",
+      "que tu eusses mésoffert",
+      "qu'il eût mésoffert",
+      "que nous eussions mésoffert",
+      "que vous eussiez mésoffert",
+      "qu'ils eussent mésoffert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je mésoffrirais",
+      "tu mésoffrirais",
+      "il mésoffrirait",
+      "nous mésoffririons",
+      "vous mésoffririez",
+      "ils mésoffriraient"
+    ],
+    "passé": [
+      "j'aurais mésoffert",
+      "tu aurais mésoffert",
+      "il aurait mésoffert",
+      "nous aurions mésoffert",
+      "vous auriez mésoffert",
+      "ils auraient mésoffert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mésoffre",
+      "mésoffrons",
+      "mésoffrez"
+    ],
+    "passé": [
+      "aie mésoffert",
+      "ayons mésoffert",
+      "ayez mésoffert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "mésoffrir"
+    ],
+    "passé": [
+      "avoir mésoffert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "mésoffrant"
+    ],
+    "passé": [
+      "mésoffert",
+      "ayant mésoffert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en mésoffrant"
+    ],
+    "passé": [
+      "en ayant mésoffert"
+    ]
+  }
+}

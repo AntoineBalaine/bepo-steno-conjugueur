@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me soumets",
+      "tu te soumets",
+      "il se soumet",
+      "nous nous soumettons",
+      "vous vous soumettez",
+      "ils se soumettent"
+    ],
+    "passé composé": [
+      "je me suis soumis",
+      "tu t'es soumis",
+      "il s'est soumis",
+      "nous nous sommes soumis",
+      "vous vous êtes soumis",
+      "ils se sont soumis"
+    ],
+    "imparfait": [
+      "je me soumettais",
+      "tu te soumettais",
+      "il se soumettait",
+      "nous nous soumettions",
+      "vous vous soumettiez",
+      "ils se soumettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais soumis",
+      "tu t'étais soumis",
+      "il s'était soumis",
+      "nous nous étions soumis",
+      "vous vous étiez soumis",
+      "ils s'étaient soumis"
+    ],
+    "passé simple": [
+      "je me soumis",
+      "tu te soumis",
+      "il se soumit",
+      "nous nous soumîmes",
+      "vous vous soumîtes",
+      "ils se soumirent"
+    ],
+    "passé antérieur": [
+      "je me fus soumis",
+      "tu te fus soumis",
+      "il se fut soumis",
+      "nous nous fûmes soumis",
+      "vous vous fûtes soumis",
+      "ils se furent soumis"
+    ],
+    "futur simple": [
+      "je me soumettrai",
+      "tu te soumettras",
+      "il se soumettra",
+      "nous nous soumettrons",
+      "vous vous soumettrez",
+      "ils se soumettront"
+    ],
+    "futur antérieur": [
+      "je me serai soumis",
+      "tu te seras soumis",
+      "il se sera soumis",
+      "nous nous serons soumis",
+      "vous vous serez soumis",
+      "ils se seront soumis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me soumette",
+      "que tu te soumettes",
+      "qu'il se soumette",
+      "que nous nous soumettions",
+      "que vous vous soumettiez",
+      "qu'ils se soumettent"
+    ],
+    "passé": [
+      "que je me sois soumis",
+      "que tu te sois soumis",
+      "qu'il se soit soumis",
+      "que nous nous soyons soumis",
+      "que vous vous soyez soumis",
+      "qu'ils se soient soumis"
+    ],
+    "imparfait": [
+      "que je me soumisse",
+      "que tu te soumisses",
+      "qu'il se soumît",
+      "que nous nous soumissions",
+      "que vous vous soumissiez",
+      "qu'ils se soumissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse soumis",
+      "que tu te fusses soumis",
+      "qu'il se fût soumis",
+      "que nous nous fussions soumis",
+      "que vous vous fussiez soumis",
+      "qu'ils se fussent soumis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me soumettrais",
+      "tu te soumettrais",
+      "il se soumettrait",
+      "nous nous soumettrions",
+      "vous vous soumettriez",
+      "ils se soumettraient"
+    ],
+    "passé": [
+      "je me serais soumis",
+      "tu te serais soumis",
+      "il se serait soumis",
+      "nous nous serions soumis",
+      "vous vous seriez soumis",
+      "ils se seraient soumis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "soumets-toi",
+      "soumettons-nous",
+      "soumettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se soumettre"
+    ],
+    "passé": [
+      "s'être soumis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se soumettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant soumis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se soumettant"
+    ],
+    "passé": [
+      "en s'étant soumis"
+    ]
+  }
+}

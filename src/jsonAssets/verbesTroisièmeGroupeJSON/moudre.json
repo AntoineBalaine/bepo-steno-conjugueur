@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je mouds",
+      "tu mouds",
+      "il moud",
+      "nous moulons",
+      "vous moulez",
+      "ils moulent"
+    ],
+    "passé composé": [
+      "j'ai moulu",
+      "tu as moulu",
+      "il a moulu",
+      "nous avons moulu",
+      "vous avez moulu",
+      "ils ont moulu"
+    ],
+    "imparfait": [
+      "je moulais",
+      "tu moulais",
+      "il moulait",
+      "nous moulions",
+      "vous mouliez",
+      "ils moulaient"
+    ],
+    "plus que parfait": [
+      "j'avais moulu",
+      "tu avais moulu",
+      "il avait moulu",
+      "nous avions moulu",
+      "vous aviez moulu",
+      "ils avaient moulu"
+    ],
+    "passé simple": [
+      "je moulus",
+      "tu moulus",
+      "il moulut",
+      "nous moulûmes",
+      "vous moulûtes",
+      "ils moulurent"
+    ],
+    "passé antérieur": [
+      "j'eus moulu",
+      "tu eus moulu",
+      "il eut moulu",
+      "nous eûmes moulu",
+      "vous eûtes moulu",
+      "ils eurent moulu"
+    ],
+    "futur simple": [
+      "je moudrai",
+      "tu moudras",
+      "il moudra",
+      "nous moudrons",
+      "vous moudrez",
+      "ils moudront"
+    ],
+    "futur antérieur": [
+      "j'aurai moulu",
+      "tu auras moulu",
+      "il aura moulu",
+      "nous aurons moulu",
+      "vous aurez moulu",
+      "ils auront moulu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je moule",
+      "que tu moules",
+      "qu'il moule",
+      "que nous moulions",
+      "que vous mouliez",
+      "qu'ils moulent"
+    ],
+    "passé": [
+      "que j'aie moulu",
+      "que tu aies moulu",
+      "qu'il ait moulu",
+      "que nous ayons moulu",
+      "que vous ayez moulu",
+      "qu'ils aient moulu"
+    ],
+    "imparfait": [
+      "que je moulusse",
+      "que tu moulusses",
+      "qu'il moulût",
+      "que nous moulussions",
+      "que vous moulussiez",
+      "qu'ils moulussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse moulu",
+      "que tu eusses moulu",
+      "qu'il eût moulu",
+      "que nous eussions moulu",
+      "que vous eussiez moulu",
+      "qu'ils eussent moulu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je moudrais",
+      "tu moudrais",
+      "il moudrait",
+      "nous moudrions",
+      "vous moudriez",
+      "ils moudraient"
+    ],
+    "passé": [
+      "j'aurais moulu",
+      "tu aurais moulu",
+      "il aurait moulu",
+      "nous aurions moulu",
+      "vous auriez moulu",
+      "ils auraient moulu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mouds",
+      "moulons",
+      "moulez"
+    ],
+    "passé": [
+      "aie moulu",
+      "ayons moulu",
+      "ayez moulu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "moudre"
+    ],
+    "passé": [
+      "avoir moulu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "moulant"
+    ],
+    "passé": [
+      "moulu",
+      "ayant moulu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en moulant"
+    ],
+    "passé": [
+      "en ayant moulu"
+    ]
+  }
+}

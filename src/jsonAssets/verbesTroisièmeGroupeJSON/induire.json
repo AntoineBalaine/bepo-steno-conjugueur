@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'induis",
+      "tu induis",
+      "il induit",
+      "nous induisons",
+      "vous induisez",
+      "ils induisent"
+    ],
+    "passé composé": [
+      "j'ai induit",
+      "tu as induit",
+      "il a induit",
+      "nous avons induit",
+      "vous avez induit",
+      "ils ont induit"
+    ],
+    "imparfait": [
+      "j'induisais",
+      "tu induisais",
+      "il induisait",
+      "nous induisions",
+      "vous induisiez",
+      "ils induisaient"
+    ],
+    "plus que parfait": [
+      "j'avais induit",
+      "tu avais induit",
+      "il avait induit",
+      "nous avions induit",
+      "vous aviez induit",
+      "ils avaient induit"
+    ],
+    "passé simple": [
+      "j'induisis",
+      "tu induisis",
+      "il induisit",
+      "nous induisîmes",
+      "vous induisîtes",
+      "ils induisirent"
+    ],
+    "passé antérieur": [
+      "j'eus induit",
+      "tu eus induit",
+      "il eut induit",
+      "nous eûmes induit",
+      "vous eûtes induit",
+      "ils eurent induit"
+    ],
+    "futur simple": [
+      "j'induirai",
+      "tu induiras",
+      "il induira",
+      "nous induirons",
+      "vous induirez",
+      "ils induiront"
+    ],
+    "futur antérieur": [
+      "j'aurai induit",
+      "tu auras induit",
+      "il aura induit",
+      "nous aurons induit",
+      "vous aurez induit",
+      "ils auront induit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'induise",
+      "que tu induises",
+      "qu'il induise",
+      "que nous induisions",
+      "que vous induisiez",
+      "qu'ils induisent"
+    ],
+    "passé": [
+      "que j'aie induit",
+      "que tu aies induit",
+      "qu'il ait induit",
+      "que nous ayons induit",
+      "que vous ayez induit",
+      "qu'ils aient induit"
+    ],
+    "imparfait": [
+      "que j'induisisse",
+      "que tu induisisses",
+      "qu'il induisît",
+      "que nous induisissions",
+      "que vous induisissiez",
+      "qu'ils induisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse induit",
+      "que tu eusses induit",
+      "qu'il eût induit",
+      "que nous eussions induit",
+      "que vous eussiez induit",
+      "qu'ils eussent induit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'induirais",
+      "tu induirais",
+      "il induirait",
+      "nous induirions",
+      "vous induiriez",
+      "ils induiraient"
+    ],
+    "passé": [
+      "j'aurais induit",
+      "tu aurais induit",
+      "il aurait induit",
+      "nous aurions induit",
+      "vous auriez induit",
+      "ils auraient induit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "induis",
+      "induisons",
+      "induisez"
+    ],
+    "passé": [
+      "aie induit",
+      "ayons induit",
+      "ayez induit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "induire"
+    ],
+    "passé": [
+      "avoir induit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "induisant"
+    ],
+    "passé": [
+      "induit",
+      "ayant induit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en induisant"
+    ],
+    "passé": [
+      "en ayant induit"
+    ]
+  }
+}

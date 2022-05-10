@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je contiens",
+      "tu contiens",
+      "il contient",
+      "nous contenons",
+      "vous contenez",
+      "ils contiennent"
+    ],
+    "passé composé": [
+      "j'ai contenu",
+      "tu as contenu",
+      "il a contenu",
+      "nous avons contenu",
+      "vous avez contenu",
+      "ils ont contenu"
+    ],
+    "imparfait": [
+      "je contenais",
+      "tu contenais",
+      "il contenait",
+      "nous contenions",
+      "vous conteniez",
+      "ils contenaient"
+    ],
+    "plus que parfait": [
+      "j'avais contenu",
+      "tu avais contenu",
+      "il avait contenu",
+      "nous avions contenu",
+      "vous aviez contenu",
+      "ils avaient contenu"
+    ],
+    "passé simple": [
+      "je contins",
+      "tu contins",
+      "il contint",
+      "nous contînmes",
+      "vous contîntes",
+      "ils continrent"
+    ],
+    "passé antérieur": [
+      "j'eus contenu",
+      "tu eus contenu",
+      "il eut contenu",
+      "nous eûmes contenu",
+      "vous eûtes contenu",
+      "ils eurent contenu"
+    ],
+    "futur simple": [
+      "je contiendrai",
+      "tu contiendras",
+      "il contiendra",
+      "nous contiendrons",
+      "vous contiendrez",
+      "ils contiendront"
+    ],
+    "futur antérieur": [
+      "j'aurai contenu",
+      "tu auras contenu",
+      "il aura contenu",
+      "nous aurons contenu",
+      "vous aurez contenu",
+      "ils auront contenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je contienne",
+      "que tu contiennes",
+      "qu'il contienne",
+      "que nous contenions",
+      "que vous conteniez",
+      "qu'ils contiennent"
+    ],
+    "passé": [
+      "que j'aie contenu",
+      "que tu aies contenu",
+      "qu'il ait contenu",
+      "que nous ayons contenu",
+      "que vous ayez contenu",
+      "qu'ils aient contenu"
+    ],
+    "imparfait": [
+      "que je continsse",
+      "que tu continsses",
+      "qu'il contînt",
+      "que nous continssions",
+      "que vous continssiez",
+      "qu'ils continssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse contenu",
+      "que tu eusses contenu",
+      "qu'il eût contenu",
+      "que nous eussions contenu",
+      "que vous eussiez contenu",
+      "qu'ils eussent contenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je contiendrais",
+      "tu contiendrais",
+      "il contiendrait",
+      "nous contiendrions",
+      "vous contiendriez",
+      "ils contiendraient"
+    ],
+    "passé": [
+      "j'aurais contenu",
+      "tu aurais contenu",
+      "il aurait contenu",
+      "nous aurions contenu",
+      "vous auriez contenu",
+      "ils auraient contenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contiens",
+      "contenons",
+      "contenez"
+    ],
+    "passé": [
+      "aie contenu",
+      "ayons contenu",
+      "ayez contenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "contenir"
+    ],
+    "passé": [
+      "avoir contenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "contenant"
+    ],
+    "passé": [
+      "contenu",
+      "ayant contenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en contenant"
+    ],
+    "passé": [
+      "en ayant contenu"
+    ]
+  }
+}

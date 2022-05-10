@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me recueille",
+      "tu te recueilles",
+      "il se recueille",
+      "nous nous recueillons",
+      "vous vous recueillez",
+      "ils se recueillent"
+    ],
+    "passé composé": [
+      "je me suis recueilli",
+      "tu t'es recueilli",
+      "il s'est recueilli",
+      "nous nous sommes recueillis",
+      "vous vous êtes recueillis",
+      "ils se sont recueillis"
+    ],
+    "imparfait": [
+      "je me recueillais",
+      "tu te recueillais",
+      "il se recueillait",
+      "nous nous recueillions",
+      "vous vous recueilliez",
+      "ils se recueillaient"
+    ],
+    "plus que parfait": [
+      "je m'étais recueilli",
+      "tu t'étais recueilli",
+      "il s'était recueilli",
+      "nous nous étions recueillis",
+      "vous vous étiez recueillis",
+      "ils s'étaient recueillis"
+    ],
+    "passé simple": [
+      "je me recueillis",
+      "tu te recueillis",
+      "il se recueillit",
+      "nous nous recueillîmes",
+      "vous vous recueillîtes",
+      "ils se recueillirent"
+    ],
+    "passé antérieur": [
+      "je me fus recueilli",
+      "tu te fus recueilli",
+      "il se fut recueilli",
+      "nous nous fûmes recueillis",
+      "vous vous fûtes recueillis",
+      "ils se furent recueillis"
+    ],
+    "futur simple": [
+      "je me recueillerai",
+      "tu te recueilleras",
+      "il se recueillera",
+      "nous nous recueillerons",
+      "vous vous recueillerez",
+      "ils se recueilleront"
+    ],
+    "futur antérieur": [
+      "je me serai recueilli",
+      "tu te seras recueilli",
+      "il se sera recueilli",
+      "nous nous serons recueillis",
+      "vous vous serez recueillis",
+      "ils se seront recueillis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me recueille",
+      "que tu te recueilles",
+      "qu'il se recueille",
+      "que nous nous recueillions",
+      "que vous vous recueilliez",
+      "qu'ils se recueillent"
+    ],
+    "passé": [
+      "que je me sois recueilli",
+      "que tu te sois recueilli",
+      "qu'il se soit recueilli",
+      "que nous nous soyons recueillis",
+      "que vous vous soyez recueillis",
+      "qu'ils se soient recueillis"
+    ],
+    "imparfait": [
+      "que je me recueillisse",
+      "que tu te recueillisses",
+      "qu'il se recueillît",
+      "que nous nous recueillissions",
+      "que vous vous recueillissiez",
+      "qu'ils se recueillissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse recueilli",
+      "que tu te fusses recueilli",
+      "qu'il se fût recueilli",
+      "que nous nous fussions recueillis",
+      "que vous vous fussiez recueillis",
+      "qu'ils se fussent recueillis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me recueillerais",
+      "tu te recueillerais",
+      "il se recueillerait",
+      "nous nous recueillerions",
+      "vous vous recueilleriez",
+      "ils se recueilleraient"
+    ],
+    "passé": [
+      "je me serais recueilli",
+      "tu te serais recueilli",
+      "il se serait recueilli",
+      "nous nous serions recueillis",
+      "vous vous seriez recueillis",
+      "ils se seraient recueillis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recueille-toi",
+      "recueillons-nous",
+      "recueillez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se recueillir"
+    ],
+    "passé": [
+      "s'être recueilli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se recueillant"
+    ],
+    "passé": [
+      "-",
+      "s'étant recueilli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se recueillant"
+    ],
+    "passé": [
+      "en s'étant recueilli"
+    ]
+  }
+}

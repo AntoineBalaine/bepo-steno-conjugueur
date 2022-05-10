@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je surprends",
+      "tu surprends",
+      "il surprend",
+      "nous surprenons",
+      "vous surprenez",
+      "ils surprennent"
+    ],
+    "passé composé": [
+      "j'ai surpris",
+      "tu as surpris",
+      "il a surpris",
+      "nous avons surpris",
+      "vous avez surpris",
+      "ils ont surpris"
+    ],
+    "imparfait": [
+      "je surprenais",
+      "tu surprenais",
+      "il surprenait",
+      "nous surprenions",
+      "vous surpreniez",
+      "ils surprenaient"
+    ],
+    "plus que parfait": [
+      "j'avais surpris",
+      "tu avais surpris",
+      "il avait surpris",
+      "nous avions surpris",
+      "vous aviez surpris",
+      "ils avaient surpris"
+    ],
+    "passé simple": [
+      "je surpris",
+      "tu surpris",
+      "il surprit",
+      "nous surprîmes",
+      "vous surprîtes",
+      "ils surprirent"
+    ],
+    "passé antérieur": [
+      "j'eus surpris",
+      "tu eus surpris",
+      "il eut surpris",
+      "nous eûmes surpris",
+      "vous eûtes surpris",
+      "ils eurent surpris"
+    ],
+    "futur simple": [
+      "je surprendrai",
+      "tu surprendras",
+      "il surprendra",
+      "nous surprendrons",
+      "vous surprendrez",
+      "ils surprendront"
+    ],
+    "futur antérieur": [
+      "j'aurai surpris",
+      "tu auras surpris",
+      "il aura surpris",
+      "nous aurons surpris",
+      "vous aurez surpris",
+      "ils auront surpris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je surprenne",
+      "que tu surprennes",
+      "qu'il surprenne",
+      "que nous surprenions",
+      "que vous surpreniez",
+      "qu'ils surprennent"
+    ],
+    "passé": [
+      "que j'aie surpris",
+      "que tu aies surpris",
+      "qu'il ait surpris",
+      "que nous ayons surpris",
+      "que vous ayez surpris",
+      "qu'ils aient surpris"
+    ],
+    "imparfait": [
+      "que je surprisse",
+      "que tu surprisses",
+      "qu'il surprît",
+      "que nous surprissions",
+      "que vous surprissiez",
+      "qu'ils surprissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse surpris",
+      "que tu eusses surpris",
+      "qu'il eût surpris",
+      "que nous eussions surpris",
+      "que vous eussiez surpris",
+      "qu'ils eussent surpris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je surprendrais",
+      "tu surprendrais",
+      "il surprendrait",
+      "nous surprendrions",
+      "vous surprendriez",
+      "ils surprendraient"
+    ],
+    "passé": [
+      "j'aurais surpris",
+      "tu aurais surpris",
+      "il aurait surpris",
+      "nous aurions surpris",
+      "vous auriez surpris",
+      "ils auraient surpris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "surprends",
+      "surprenons",
+      "surprenez"
+    ],
+    "passé": [
+      "aie surpris",
+      "ayons surpris",
+      "ayez surpris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "surprendre"
+    ],
+    "passé": [
+      "avoir surpris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "surprenant"
+    ],
+    "passé": [
+      "surpris",
+      "ayant surpris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en surprenant"
+    ],
+    "passé": [
+      "en ayant surpris"
+    ]
+  }
+}

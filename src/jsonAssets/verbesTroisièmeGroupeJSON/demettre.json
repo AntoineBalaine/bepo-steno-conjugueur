@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je démets",
+      "tu démets",
+      "il démet",
+      "nous démettons",
+      "vous démettez",
+      "ils démettent"
+    ],
+    "passé composé": [
+      "j'ai démis",
+      "tu as démis",
+      "il a démis",
+      "nous avons démis",
+      "vous avez démis",
+      "ils ont démis"
+    ],
+    "imparfait": [
+      "je démettais",
+      "tu démettais",
+      "il démettait",
+      "nous démettions",
+      "vous démettiez",
+      "ils démettaient"
+    ],
+    "plus que parfait": [
+      "j'avais démis",
+      "tu avais démis",
+      "il avait démis",
+      "nous avions démis",
+      "vous aviez démis",
+      "ils avaient démis"
+    ],
+    "passé simple": [
+      "je démis",
+      "tu démis",
+      "il démit",
+      "nous démîmes",
+      "vous démîtes",
+      "ils démirent"
+    ],
+    "passé antérieur": [
+      "j'eus démis",
+      "tu eus démis",
+      "il eut démis",
+      "nous eûmes démis",
+      "vous eûtes démis",
+      "ils eurent démis"
+    ],
+    "futur simple": [
+      "je démettrai",
+      "tu démettras",
+      "il démettra",
+      "nous démettrons",
+      "vous démettrez",
+      "ils démettront"
+    ],
+    "futur antérieur": [
+      "j'aurai démis",
+      "tu auras démis",
+      "il aura démis",
+      "nous aurons démis",
+      "vous aurez démis",
+      "ils auront démis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je démette",
+      "que tu démettes",
+      "qu'il démette",
+      "que nous démettions",
+      "que vous démettiez",
+      "qu'ils démettent"
+    ],
+    "passé": [
+      "que j'aie démis",
+      "que tu aies démis",
+      "qu'il ait démis",
+      "que nous ayons démis",
+      "que vous ayez démis",
+      "qu'ils aient démis"
+    ],
+    "imparfait": [
+      "que je démisse",
+      "que tu démisses",
+      "qu'il démît",
+      "que nous démissions",
+      "que vous démissiez",
+      "qu'ils démissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse démis",
+      "que tu eusses démis",
+      "qu'il eût démis",
+      "que nous eussions démis",
+      "que vous eussiez démis",
+      "qu'ils eussent démis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je démettrais",
+      "tu démettrais",
+      "il démettrait",
+      "nous démettrions",
+      "vous démettriez",
+      "ils démettraient"
+    ],
+    "passé": [
+      "j'aurais démis",
+      "tu aurais démis",
+      "il aurait démis",
+      "nous aurions démis",
+      "vous auriez démis",
+      "ils auraient démis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "démets",
+      "démettons",
+      "démettez"
+    ],
+    "passé": [
+      "aie démis",
+      "ayons démis",
+      "ayez démis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "démettre"
+    ],
+    "passé": [
+      "avoir démis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "démettant"
+    ],
+    "passé": [
+      "démis",
+      "ayant démis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en démettant"
+    ],
+    "passé": [
+      "en ayant démis"
+    ]
+  }
+}

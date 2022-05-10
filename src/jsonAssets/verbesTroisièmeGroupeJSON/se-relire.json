@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me relis",
+      "tu te relis",
+      "il se relit",
+      "nous nous relisons",
+      "vous vous relisez",
+      "ils se relisent"
+    ],
+    "passé composé": [
+      "je me suis relu",
+      "tu t'es relu",
+      "il s'est relu",
+      "nous nous sommes relus",
+      "vous vous êtes relus",
+      "ils se sont relus"
+    ],
+    "imparfait": [
+      "je me relisais",
+      "tu te relisais",
+      "il se relisait",
+      "nous nous relisions",
+      "vous vous relisiez",
+      "ils se relisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais relu",
+      "tu t'étais relu",
+      "il s'était relu",
+      "nous nous étions relus",
+      "vous vous étiez relus",
+      "ils s'étaient relus"
+    ],
+    "passé simple": [
+      "je me relus",
+      "tu te relus",
+      "il se relut",
+      "nous nous relûmes",
+      "vous vous relûtes",
+      "ils se relurent"
+    ],
+    "passé antérieur": [
+      "je me fus relu",
+      "tu te fus relu",
+      "il se fut relu",
+      "nous nous fûmes relus",
+      "vous vous fûtes relus",
+      "ils se furent relus"
+    ],
+    "futur simple": [
+      "je me relirai",
+      "tu te reliras",
+      "il se relira",
+      "nous nous relirons",
+      "vous vous relirez",
+      "ils se reliront"
+    ],
+    "futur antérieur": [
+      "je me serai relu",
+      "tu te seras relu",
+      "il se sera relu",
+      "nous nous serons relus",
+      "vous vous serez relus",
+      "ils se seront relus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me relise",
+      "que tu te relises",
+      "qu'il se relise",
+      "que nous nous relisions",
+      "que vous vous relisiez",
+      "qu'ils se relisent"
+    ],
+    "passé": [
+      "que je me sois relu",
+      "que tu te sois relu",
+      "qu'il se soit relu",
+      "que nous nous soyons relus",
+      "que vous vous soyez relus",
+      "qu'ils se soient relus"
+    ],
+    "imparfait": [
+      "que je me relusse",
+      "que tu te relusses",
+      "qu'il se relût",
+      "que nous nous relussions",
+      "que vous vous relussiez",
+      "qu'ils se relussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse relu",
+      "que tu te fusses relu",
+      "qu'il se fût relu",
+      "que nous nous fussions relus",
+      "que vous vous fussiez relus",
+      "qu'ils se fussent relus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me relirais",
+      "tu te relirais",
+      "il se relirait",
+      "nous nous relirions",
+      "vous vous reliriez",
+      "ils se reliraient"
+    ],
+    "passé": [
+      "je me serais relu",
+      "tu te serais relu",
+      "il se serait relu",
+      "nous nous serions relus",
+      "vous vous seriez relus",
+      "ils se seraient relus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "relis-toi",
+      "relisons-nous",
+      "relisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se relire"
+    ],
+    "passé": [
+      "s'être relu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se relisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant relu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se relisant"
+    ],
+    "passé": [
+      "en s'étant relu"
+    ]
+  }
+}

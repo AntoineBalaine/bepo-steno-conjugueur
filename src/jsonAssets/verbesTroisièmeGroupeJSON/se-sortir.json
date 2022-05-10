@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me sors",
+      "tu te sors",
+      "il se sort",
+      "nous nous sortons",
+      "vous vous sortez",
+      "ils se sortent"
+    ],
+    "passé composé": [
+      "je me suis sorti",
+      "tu t'es sorti",
+      "il s'est sorti",
+      "nous nous sommes sortis",
+      "vous vous êtes sortis",
+      "ils se sont sortis"
+    ],
+    "imparfait": [
+      "je me sortais",
+      "tu te sortais",
+      "il se sortait",
+      "nous nous sortions",
+      "vous vous sortiez",
+      "ils se sortaient"
+    ],
+    "plus que parfait": [
+      "je m'étais sorti",
+      "tu t'étais sorti",
+      "il s'était sorti",
+      "nous nous étions sortis",
+      "vous vous étiez sortis",
+      "ils s'étaient sortis"
+    ],
+    "passé simple": [
+      "je me sortis",
+      "tu te sortis",
+      "il se sortit",
+      "nous nous sortîmes",
+      "vous vous sortîtes",
+      "ils se sortirent"
+    ],
+    "passé antérieur": [
+      "je me fus sorti",
+      "tu te fus sorti",
+      "il se fut sorti",
+      "nous nous fûmes sortis",
+      "vous vous fûtes sortis",
+      "ils se furent sortis"
+    ],
+    "futur simple": [
+      "je me sortirai",
+      "tu te sortiras",
+      "il se sortira",
+      "nous nous sortirons",
+      "vous vous sortirez",
+      "ils se sortiront"
+    ],
+    "futur antérieur": [
+      "je me serai sorti",
+      "tu te seras sorti",
+      "il se sera sorti",
+      "nous nous serons sortis",
+      "vous vous serez sortis",
+      "ils se seront sortis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me sorte",
+      "que tu te sortes",
+      "qu'il se sorte",
+      "que nous nous sortions",
+      "que vous vous sortiez",
+      "qu'ils se sortent"
+    ],
+    "passé": [
+      "que je me sois sorti",
+      "que tu te sois sorti",
+      "qu'il se soit sorti",
+      "que nous nous soyons sortis",
+      "que vous vous soyez sortis",
+      "qu'ils se soient sortis"
+    ],
+    "imparfait": [
+      "que je me sortisse",
+      "que tu te sortisses",
+      "qu'il se sortît",
+      "que nous nous sortissions",
+      "que vous vous sortissiez",
+      "qu'ils se sortissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse sorti",
+      "que tu te fusses sorti",
+      "qu'il se fût sorti",
+      "que nous nous fussions sortis",
+      "que vous vous fussiez sortis",
+      "qu'ils se fussent sortis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me sortirais",
+      "tu te sortirais",
+      "il se sortirait",
+      "nous nous sortirions",
+      "vous vous sortiriez",
+      "ils se sortiraient"
+    ],
+    "passé": [
+      "je me serais sorti",
+      "tu te serais sorti",
+      "il se serait sorti",
+      "nous nous serions sortis",
+      "vous vous seriez sortis",
+      "ils se seraient sortis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sors-toi",
+      "sortons-nous",
+      "sortez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se sortir"
+    ],
+    "passé": [
+      "s'être sorti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se sortant"
+    ],
+    "passé": [
+      "-",
+      "s'étant sorti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se sortant"
+    ],
+    "passé": [
+      "en s'étant sorti"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je circoncis",
+      "tu circoncis",
+      "il circoncit",
+      "nous circoncisons",
+      "vous circoncisez",
+      "ils circoncisent"
+    ],
+    "passé composé": [
+      "j'ai circoncit",
+      "tu as circoncit",
+      "il a circoncit",
+      "nous avons circoncit",
+      "vous avez circoncit",
+      "ils ont circoncit"
+    ],
+    "imparfait": [
+      "je circoncisais",
+      "tu circoncisais",
+      "il circoncisait",
+      "nous circoncisions",
+      "vous circoncisiez",
+      "ils circoncisaient"
+    ],
+    "plus que parfait": [
+      "j'avais circoncit",
+      "tu avais circoncit",
+      "il avait circoncit",
+      "nous avions circoncit",
+      "vous aviez circoncit",
+      "ils avaient circoncit"
+    ],
+    "passé simple": [
+      "je circoncis",
+      "tu circoncis",
+      "il circoncit",
+      "nous circoncîmes",
+      "vous circoncîtes",
+      "ils circoncirent"
+    ],
+    "passé antérieur": [
+      "j'eus circoncit",
+      "tu eus circoncit",
+      "il eut circoncit",
+      "nous eûmes circoncit",
+      "vous eûtes circoncit",
+      "ils eurent circoncit"
+    ],
+    "futur simple": [
+      "je circoncirai",
+      "tu circonciras",
+      "il circoncira",
+      "nous circoncirons",
+      "vous circoncirez",
+      "ils circonciront"
+    ],
+    "futur antérieur": [
+      "j'aurai circoncit",
+      "tu auras circoncit",
+      "il aura circoncit",
+      "nous aurons circoncit",
+      "vous aurez circoncit",
+      "ils auront circoncit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je circoncise",
+      "que tu circoncises",
+      "qu'il circoncise",
+      "que nous circoncisions",
+      "que vous circoncisiez",
+      "qu'ils circoncisent"
+    ],
+    "passé": [
+      "que j'aie circoncit",
+      "que tu aies circoncit",
+      "qu'il ait circoncit",
+      "que nous ayons circoncit",
+      "que vous ayez circoncit",
+      "qu'ils aient circoncit"
+    ],
+    "imparfait": [
+      "que je circoncisse",
+      "que tu circoncisses",
+      "qu'il circoncît",
+      "que nous circoncissions",
+      "que vous circoncissiez",
+      "qu'ils circoncissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse circoncit",
+      "que tu eusses circoncit",
+      "qu'il eût circoncit",
+      "que nous eussions circoncit",
+      "que vous eussiez circoncit",
+      "qu'ils eussent circoncit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je circoncirais",
+      "tu circoncirais",
+      "il circoncirait",
+      "nous circoncirions",
+      "vous circonciriez",
+      "ils circonciraient"
+    ],
+    "passé": [
+      "j'aurais circoncit",
+      "tu aurais circoncit",
+      "il aurait circoncit",
+      "nous aurions circoncit",
+      "vous auriez circoncit",
+      "ils auraient circoncit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "circoncis",
+      "circoncisons",
+      "circoncisez"
+    ],
+    "passé": [
+      "aie circoncit",
+      "ayons circoncit",
+      "ayez circoncit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "circoncire"
+    ],
+    "passé": [
+      "avoir circoncit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "circoncisant"
+    ],
+    "passé": [
+      "circoncit",
+      "ayant circoncit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en circoncisant"
+    ],
+    "passé": [
+      "en ayant circoncit"
+    ]
+  }
+}

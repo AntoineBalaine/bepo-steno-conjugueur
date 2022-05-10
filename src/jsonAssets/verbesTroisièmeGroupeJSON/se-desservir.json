@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me dessers",
+      "tu te dessers",
+      "il se dessert",
+      "nous nous desservons",
+      "vous vous desservez",
+      "ils se desservent"
+    ],
+    "passé composé": [
+      "je me suis desservi",
+      "tu t'es desservi",
+      "il s'est desservi",
+      "nous nous sommes desservis",
+      "vous vous êtes desservis",
+      "ils se sont desservis"
+    ],
+    "imparfait": [
+      "je me desservais",
+      "tu te desservais",
+      "il se desservait",
+      "nous nous desservions",
+      "vous vous desserviez",
+      "ils se desservaient"
+    ],
+    "plus que parfait": [
+      "je m'étais desservi",
+      "tu t'étais desservi",
+      "il s'était desservi",
+      "nous nous étions desservis",
+      "vous vous étiez desservis",
+      "ils s'étaient desservis"
+    ],
+    "passé simple": [
+      "je me desservis",
+      "tu te desservis",
+      "il se desservit",
+      "nous nous desservîmes",
+      "vous vous desservîtes",
+      "ils se desservirent"
+    ],
+    "passé antérieur": [
+      "je me fus desservi",
+      "tu te fus desservi",
+      "il se fut desservi",
+      "nous nous fûmes desservis",
+      "vous vous fûtes desservis",
+      "ils se furent desservis"
+    ],
+    "futur simple": [
+      "je me desservirai",
+      "tu te desserviras",
+      "il se desservira",
+      "nous nous desservirons",
+      "vous vous desservirez",
+      "ils se desserviront"
+    ],
+    "futur antérieur": [
+      "je me serai desservi",
+      "tu te seras desservi",
+      "il se sera desservi",
+      "nous nous serons desservis",
+      "vous vous serez desservis",
+      "ils se seront desservis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me desserve",
+      "que tu te desserves",
+      "qu'il se desserve",
+      "que nous nous desservions",
+      "que vous vous desserviez",
+      "qu'ils se desservent"
+    ],
+    "passé": [
+      "que je me sois desservi",
+      "que tu te sois desservi",
+      "qu'il se soit desservi",
+      "que nous nous soyons desservis",
+      "que vous vous soyez desservis",
+      "qu'ils se soient desservis"
+    ],
+    "imparfait": [
+      "que je me desservisse",
+      "que tu te desservisses",
+      "qu'il se desservît",
+      "que nous nous desservissions",
+      "que vous vous desservissiez",
+      "qu'ils se desservissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse desservi",
+      "que tu te fusses desservi",
+      "qu'il se fût desservi",
+      "que nous nous fussions desservis",
+      "que vous vous fussiez desservis",
+      "qu'ils se fussent desservis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me desservirais",
+      "tu te desservirais",
+      "il se desservirait",
+      "nous nous desservirions",
+      "vous vous desserviriez",
+      "ils se desserviraient"
+    ],
+    "passé": [
+      "je me serais desservi",
+      "tu te serais desservi",
+      "il se serait desservi",
+      "nous nous serions desservis",
+      "vous vous seriez desservis",
+      "ils se seraient desservis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dessers-toi",
+      "desservons-nous",
+      "desservez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se desservir"
+    ],
+    "passé": [
+      "s'être desservi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se desservant"
+    ],
+    "passé": [
+      "-",
+      "s'étant desservi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se desservant"
+    ],
+    "passé": [
+      "en s'étant desservi"
+    ]
+  }
+}

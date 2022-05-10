@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je redois",
+      "tu redois",
+      "il redoit",
+      "nous redevons",
+      "vous redevez",
+      "ils redoivent"
+    ],
+    "passé composé": [
+      "j'ai redû",
+      "tu as redû",
+      "il a redû",
+      "nous avons redû",
+      "vous avez redû",
+      "ils ont redû"
+    ],
+    "imparfait": [
+      "je redevais",
+      "tu redevais",
+      "il redevait",
+      "nous redevions",
+      "vous redeviez",
+      "ils redevaient"
+    ],
+    "plus que parfait": [
+      "j'avais redû",
+      "tu avais redû",
+      "il avait redû",
+      "nous avions redû",
+      "vous aviez redû",
+      "ils avaient redû"
+    ],
+    "passé simple": [
+      "je redus",
+      "tu redus",
+      "il redut",
+      "nous redûmes",
+      "vous redûtes",
+      "ils redurent"
+    ],
+    "passé antérieur": [
+      "j'eus redû",
+      "tu eus redû",
+      "il eut redû",
+      "nous eûmes redû",
+      "vous eûtes redû",
+      "ils eurent redû"
+    ],
+    "futur simple": [
+      "je redevrai",
+      "tu redevras",
+      "il redevra",
+      "nous redevrons",
+      "vous redevrez",
+      "ils redevront"
+    ],
+    "futur antérieur": [
+      "j'aurai redû",
+      "tu auras redû",
+      "il aura redû",
+      "nous aurons redû",
+      "vous aurez redû",
+      "ils auront redû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je redoive",
+      "que tu redoives",
+      "qu'il redoive",
+      "que nous redevions",
+      "que vous redeviez",
+      "qu'ils redoivent"
+    ],
+    "passé": [
+      "que j'aie redû",
+      "que tu aies redû",
+      "qu'il ait redû",
+      "que nous ayons redû",
+      "que vous ayez redû",
+      "qu'ils aient redû"
+    ],
+    "imparfait": [
+      "que je redusse",
+      "que tu redusses",
+      "qu'il redût",
+      "que nous redussions",
+      "que vous redussiez",
+      "qu'ils redussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse redû",
+      "que tu eusses redû",
+      "qu'il eût redû",
+      "que nous eussions redû",
+      "que vous eussiez redû",
+      "qu'ils eussent redû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je redevrais",
+      "tu redevrais",
+      "il redevrait",
+      "nous redevrions",
+      "vous redevriez",
+      "ils redevraient"
+    ],
+    "passé": [
+      "j'aurais redû",
+      "tu aurais redû",
+      "il aurait redû",
+      "nous aurions redû",
+      "vous auriez redû",
+      "ils auraient redû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "redois",
+      "redevons",
+      "redevez"
+    ],
+    "passé": [
+      "aie redû",
+      "ayons redû",
+      "ayez redû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "redevoir"
+    ],
+    "passé": [
+      "avoir redû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "redevant"
+    ],
+    "passé": [
+      "redû",
+      "ayant redû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en redevant"
+    ],
+    "passé": [
+      "en ayant redû"
+    ]
+  }
+}

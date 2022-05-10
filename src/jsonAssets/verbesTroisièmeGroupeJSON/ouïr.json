@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'ois",
+      "tu ois",
+      "il oit",
+      "nous oyons",
+      "vous oyez",
+      "ils oient"
+    ],
+    "passé composé": [
+      "j'ai ouï",
+      "tu as ouï",
+      "il a ouï",
+      "nous avons ouï",
+      "vous avez ouï",
+      "ils ont ouï"
+    ],
+    "imparfait": [
+      "j'oyais",
+      "tu oyais",
+      "il oyait",
+      "nous oyions",
+      "vous oyiez",
+      "ils oyaient"
+    ],
+    "plus que parfait": [
+      "j'avais ouï",
+      "tu avais ouï",
+      "il avait ouï",
+      "nous avions ouï",
+      "vous aviez ouï",
+      "ils avaient ouï"
+    ],
+    "passé simple": [
+      "j'ouïs",
+      "tu ouïs",
+      "il ouït",
+      "nous ouïmes",
+      "vous ouïtes",
+      "ils ouïrent"
+    ],
+    "passé antérieur": [
+      "j'eus ouï",
+      "tu eus ouï",
+      "il eut ouï",
+      "nous eûmes ouï",
+      "vous eûtes ouï",
+      "ils eurent ouï"
+    ],
+    "futur simple": [
+      "j'ouïrai",
+      "tu ouïras",
+      "il ouïra",
+      "nous ouïrons",
+      "vous ouïrez",
+      "ils ouïront"
+    ],
+    "futur antérieur": [
+      "j'aurai ouï",
+      "tu auras ouï",
+      "il aura ouï",
+      "nous aurons ouï",
+      "vous aurez ouï",
+      "ils auront ouï"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'oie",
+      "que tu oies",
+      "qu'il oie",
+      "que nous oyions",
+      "que vous oyiez",
+      "qu'ils oient"
+    ],
+    "passé": [
+      "que j'aie ouï",
+      "que tu aies ouï",
+      "qu'il ait ouï",
+      "que nous ayons ouï",
+      "que vous ayez ouï",
+      "qu'ils aient ouï"
+    ],
+    "imparfait": [
+      "que j'ouïsse",
+      "que tu ouïsses",
+      "qu'il ouït",
+      "que nous ouïssions",
+      "que vous ouïssiez",
+      "qu'ils ouïssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse ouï",
+      "que tu eusses ouï",
+      "qu'il eût ouï",
+      "que nous eussions ouï",
+      "que vous eussiez ouï",
+      "qu'ils eussent ouï"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'ouïrais",
+      "tu ouïrais",
+      "il ouïrait",
+      "nous ouïrions",
+      "vous ouïriez",
+      "ils ouïraient"
+    ],
+    "passé": [
+      "j'aurais ouï",
+      "tu aurais ouï",
+      "il aurait ouï",
+      "nous aurions ouï",
+      "vous auriez ouï",
+      "ils auraient ouï"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ois",
+      "oyons",
+      "oyez"
+    ],
+    "passé": [
+      "aie ouï",
+      "ayons ouï",
+      "ayez ouï"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "ouïr"
+    ],
+    "passé": [
+      "avoir ouï"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "oyant"
+    ],
+    "passé": [
+      "ouï",
+      "ayant ouï"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en oyant"
+    ],
+    "passé": [
+      "en ayant ouï"
+    ]
+  }
+}

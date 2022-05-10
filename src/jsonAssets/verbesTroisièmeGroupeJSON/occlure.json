@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'occlus",
+      "tu occlus",
+      "il occlut",
+      "nous occluons",
+      "vous occluez",
+      "ils occluent"
+    ],
+    "passé composé": [
+      "j'ai occlus",
+      "tu as occlus",
+      "il a occlus",
+      "nous avons occlus",
+      "vous avez occlus",
+      "ils ont occlus"
+    ],
+    "imparfait": [
+      "j'occluais",
+      "tu occluais",
+      "il occluait",
+      "nous occluions",
+      "vous occluiez",
+      "ils occluaient"
+    ],
+    "plus que parfait": [
+      "j'avais occlus",
+      "tu avais occlus",
+      "il avait occlus",
+      "nous avions occlus",
+      "vous aviez occlus",
+      "ils avaient occlus"
+    ],
+    "passé simple": [
+      "j'occlus",
+      "tu occlus",
+      "il occlut",
+      "nous occlûmes",
+      "vous occlûtes",
+      "ils occlurent"
+    ],
+    "passé antérieur": [
+      "j'eus occlus",
+      "tu eus occlus",
+      "il eut occlus",
+      "nous eûmes occlus",
+      "vous eûtes occlus",
+      "ils eurent occlus"
+    ],
+    "futur simple": [
+      "j'occlurai",
+      "tu occluras",
+      "il occlura",
+      "nous occlurons",
+      "vous occlurez",
+      "ils occluront"
+    ],
+    "futur antérieur": [
+      "j'aurai occlus",
+      "tu auras occlus",
+      "il aura occlus",
+      "nous aurons occlus",
+      "vous aurez occlus",
+      "ils auront occlus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'occlue",
+      "que tu occlues",
+      "qu'il occlue",
+      "que nous occluions",
+      "que vous occluiez",
+      "qu'ils occluent"
+    ],
+    "passé": [
+      "que j'aie occlus",
+      "que tu aies occlus",
+      "qu'il ait occlus",
+      "que nous ayons occlus",
+      "que vous ayez occlus",
+      "qu'ils aient occlus"
+    ],
+    "imparfait": [
+      "que j'occlusse",
+      "que tu occlusses",
+      "qu'il occlût",
+      "que nous occlussions",
+      "que vous occlussiez",
+      "qu'ils occlussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse occlus",
+      "que tu eusses occlus",
+      "qu'il eût occlus",
+      "que nous eussions occlus",
+      "que vous eussiez occlus",
+      "qu'ils eussent occlus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'occlurais",
+      "tu occlurais",
+      "il occlurait",
+      "nous occlurions",
+      "vous occluriez",
+      "ils occluraient"
+    ],
+    "passé": [
+      "j'aurais occlus",
+      "tu aurais occlus",
+      "il aurait occlus",
+      "nous aurions occlus",
+      "vous auriez occlus",
+      "ils auraient occlus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "occlus",
+      "occluons",
+      "occluez"
+    ],
+    "passé": [
+      "aie occlus",
+      "ayons occlus",
+      "ayez occlus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "occlure"
+    ],
+    "passé": [
+      "avoir occlus"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "occluant"
+    ],
+    "passé": [
+      "occlus",
+      "ayant occlus"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en occluant"
+    ],
+    "passé": [
+      "en ayant occlus"
+    ]
+  }
+}

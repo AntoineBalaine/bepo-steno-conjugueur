@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me surprends",
+      "tu te surprends",
+      "il se surprend",
+      "nous nous surprenons",
+      "vous vous surprenez",
+      "ils se surprennent"
+    ],
+    "passé composé": [
+      "je me suis surpris",
+      "tu t'es surpris",
+      "il s'est surpris",
+      "nous nous sommes surpris",
+      "vous vous êtes surpris",
+      "ils se sont surpris"
+    ],
+    "imparfait": [
+      "je me surprenais",
+      "tu te surprenais",
+      "il se surprenait",
+      "nous nous surprenions",
+      "vous vous surpreniez",
+      "ils se surprenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais surpris",
+      "tu t'étais surpris",
+      "il s'était surpris",
+      "nous nous étions surpris",
+      "vous vous étiez surpris",
+      "ils s'étaient surpris"
+    ],
+    "passé simple": [
+      "je me surpris",
+      "tu te surpris",
+      "il se surprit",
+      "nous nous surprîmes",
+      "vous vous surprîtes",
+      "ils se surprirent"
+    ],
+    "passé antérieur": [
+      "je me fus surpris",
+      "tu te fus surpris",
+      "il se fut surpris",
+      "nous nous fûmes surpris",
+      "vous vous fûtes surpris",
+      "ils se furent surpris"
+    ],
+    "futur simple": [
+      "je me surprendrai",
+      "tu te surprendras",
+      "il se surprendra",
+      "nous nous surprendrons",
+      "vous vous surprendrez",
+      "ils se surprendront"
+    ],
+    "futur antérieur": [
+      "je me serai surpris",
+      "tu te seras surpris",
+      "il se sera surpris",
+      "nous nous serons surpris",
+      "vous vous serez surpris",
+      "ils se seront surpris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me surprenne",
+      "que tu te surprennes",
+      "qu'il se surprenne",
+      "que nous nous surprenions",
+      "que vous vous surpreniez",
+      "qu'ils se surprennent"
+    ],
+    "passé": [
+      "que je me sois surpris",
+      "que tu te sois surpris",
+      "qu'il se soit surpris",
+      "que nous nous soyons surpris",
+      "que vous vous soyez surpris",
+      "qu'ils se soient surpris"
+    ],
+    "imparfait": [
+      "que je me surprisse",
+      "que tu te surprisses",
+      "qu'il se surprît",
+      "que nous nous surprissions",
+      "que vous vous surprissiez",
+      "qu'ils se surprissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse surpris",
+      "que tu te fusses surpris",
+      "qu'il se fût surpris",
+      "que nous nous fussions surpris",
+      "que vous vous fussiez surpris",
+      "qu'ils se fussent surpris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me surprendrais",
+      "tu te surprendrais",
+      "il se surprendrait",
+      "nous nous surprendrions",
+      "vous vous surprendriez",
+      "ils se surprendraient"
+    ],
+    "passé": [
+      "je me serais surpris",
+      "tu te serais surpris",
+      "il se serait surpris",
+      "nous nous serions surpris",
+      "vous vous seriez surpris",
+      "ils se seraient surpris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "surprends-toi",
+      "surprenons-nous",
+      "surprenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se surprendre"
+    ],
+    "passé": [
+      "s'être surpris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se surprenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant surpris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se surprenant"
+    ],
+    "passé": [
+      "en s'étant surpris"
+    ]
+  }
+}

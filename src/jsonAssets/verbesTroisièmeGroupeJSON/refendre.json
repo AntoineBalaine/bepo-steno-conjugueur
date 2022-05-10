@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je refends",
+      "tu refends",
+      "il refend",
+      "nous refendons",
+      "vous refendez",
+      "ils refendent"
+    ],
+    "passé composé": [
+      "j'ai refendu",
+      "tu as refendu",
+      "il a refendu",
+      "nous avons refendu",
+      "vous avez refendu",
+      "ils ont refendu"
+    ],
+    "imparfait": [
+      "je refendais",
+      "tu refendais",
+      "il refendait",
+      "nous refendions",
+      "vous refendiez",
+      "ils refendaient"
+    ],
+    "plus que parfait": [
+      "j'avais refendu",
+      "tu avais refendu",
+      "il avait refendu",
+      "nous avions refendu",
+      "vous aviez refendu",
+      "ils avaient refendu"
+    ],
+    "passé simple": [
+      "je refendis",
+      "tu refendis",
+      "il refendit",
+      "nous refendîmes",
+      "vous refendîtes",
+      "ils refendirent"
+    ],
+    "passé antérieur": [
+      "j'eus refendu",
+      "tu eus refendu",
+      "il eut refendu",
+      "nous eûmes refendu",
+      "vous eûtes refendu",
+      "ils eurent refendu"
+    ],
+    "futur simple": [
+      "je refendrai",
+      "tu refendras",
+      "il refendra",
+      "nous refendrons",
+      "vous refendrez",
+      "ils refendront"
+    ],
+    "futur antérieur": [
+      "j'aurai refendu",
+      "tu auras refendu",
+      "il aura refendu",
+      "nous aurons refendu",
+      "vous aurez refendu",
+      "ils auront refendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je refende",
+      "que tu refendes",
+      "qu'il refende",
+      "que nous refendions",
+      "que vous refendiez",
+      "qu'ils refendent"
+    ],
+    "passé": [
+      "que j'aie refendu",
+      "que tu aies refendu",
+      "qu'il ait refendu",
+      "que nous ayons refendu",
+      "que vous ayez refendu",
+      "qu'ils aient refendu"
+    ],
+    "imparfait": [
+      "que je refendisse",
+      "que tu refendisses",
+      "qu'il refendît",
+      "que nous refendissions",
+      "que vous refendissiez",
+      "qu'ils refendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse refendu",
+      "que tu eusses refendu",
+      "qu'il eût refendu",
+      "que nous eussions refendu",
+      "que vous eussiez refendu",
+      "qu'ils eussent refendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je refendrais",
+      "tu refendrais",
+      "il refendrait",
+      "nous refendrions",
+      "vous refendriez",
+      "ils refendraient"
+    ],
+    "passé": [
+      "j'aurais refendu",
+      "tu aurais refendu",
+      "il aurait refendu",
+      "nous aurions refendu",
+      "vous auriez refendu",
+      "ils auraient refendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "refends",
+      "refendons",
+      "refendez"
+    ],
+    "passé": [
+      "aie refendu",
+      "ayons refendu",
+      "ayez refendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "refendre"
+    ],
+    "passé": [
+      "avoir refendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "refendant"
+    ],
+    "passé": [
+      "refendu",
+      "ayant refendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en refendant"
+    ],
+    "passé": [
+      "en ayant refendu"
+    ]
+  }
+}

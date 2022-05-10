@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je brais",
+      "tu brais",
+      "il brait",
+      "nous brayons",
+      "vous brayez",
+      "ils braient"
+    ],
+    "passé composé": [
+      "j'ai brait",
+      "tu as brait",
+      "il a brait",
+      "nous avons brait",
+      "vous avez brait",
+      "ils ont brait"
+    ],
+    "imparfait": [
+      "je brayais",
+      "tu brayais",
+      "il brayait",
+      "nous brayions",
+      "vous brayiez",
+      "ils brayaient"
+    ],
+    "plus que parfait": [
+      "j'avais brait",
+      "tu avais brait",
+      "il avait brait",
+      "nous avions brait",
+      "vous aviez brait",
+      "ils avaient brait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus brait",
+      "tu eus brait",
+      "il eut brait",
+      "nous eûmes brait",
+      "vous eûtes brait",
+      "ils eurent brait"
+    ],
+    "futur simple": [
+      "je brairai",
+      "tu brairas",
+      "il braira",
+      "nous brairons",
+      "vous brairez",
+      "ils brairont"
+    ],
+    "futur antérieur": [
+      "j'aurai brait",
+      "tu auras brait",
+      "il aura brait",
+      "nous aurons brait",
+      "vous aurez brait",
+      "ils auront brait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je braie",
+      "que tu braies",
+      "qu'il braie",
+      "que nous brayions",
+      "que vous brayiez",
+      "qu'ils braient"
+    ],
+    "passé": [
+      "que j'aie brait",
+      "que tu aies brait",
+      "qu'il ait brait",
+      "que nous ayons brait",
+      "que vous ayez brait",
+      "qu'ils aient brait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse brait",
+      "que tu eusses brait",
+      "qu'il eût brait",
+      "que nous eussions brait",
+      "que vous eussiez brait",
+      "qu'ils eussent brait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je brairais",
+      "tu brairais",
+      "il brairait",
+      "nous brairions",
+      "vous brairiez",
+      "ils brairaient"
+    ],
+    "passé": [
+      "j'aurais brait",
+      "tu aurais brait",
+      "il aurait brait",
+      "nous aurions brait",
+      "vous auriez brait",
+      "ils auraient brait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "brais",
+      "brayons",
+      "brayez"
+    ],
+    "passé": [
+      "aie brait",
+      "ayons brait",
+      "ayez brait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "braire"
+    ],
+    "passé": [
+      "avoir brait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "brayant"
+    ],
+    "passé": [
+      "brait",
+      "ayant brait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en brayant"
+    ],
+    "passé": [
+      "en ayant brait"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je forfais",
+      "tu forfais",
+      "il forfait",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé composé": [
+      "j'ai forfait",
+      "tu as forfait",
+      "il a forfait",
+      "nous avons forfait",
+      "vous avez forfait",
+      "ils ont forfait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais forfait",
+      "tu avais forfait",
+      "il avait forfait",
+      "nous avions forfait",
+      "vous aviez forfait",
+      "ils avaient forfait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus forfait",
+      "tu eus forfait",
+      "il eut forfait",
+      "nous eûmes forfait",
+      "vous eûtes forfait",
+      "ils eurent forfait"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur antérieur": [
+      "j'aurai forfait",
+      "tu auras forfait",
+      "il aura forfait",
+      "nous aurons forfait",
+      "vous aurez forfait",
+      "ils auront forfait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "que j'aie forfait",
+      "que tu aies forfait",
+      "qu'il ait forfait",
+      "que nous ayons forfait",
+      "que vous ayez forfait",
+      "qu'ils aient forfait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse forfait",
+      "que tu eusses forfait",
+      "qu'il eût forfait",
+      "que nous eussions forfait",
+      "que vous eussiez forfait",
+      "qu'ils eussent forfait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "j'aurais forfait",
+      "tu aurais forfait",
+      "il aurait forfait",
+      "nous aurions forfait",
+      "vous auriez forfait",
+      "ils auraient forfait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "forfais",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie forfait",
+      "ayons forfait",
+      "ayez forfait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "forfaire"
+    ],
+    "passé": [
+      "avoir forfait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "forfait",
+      "ayant forfait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "en ayant forfait"
+    ]
+  }
+}

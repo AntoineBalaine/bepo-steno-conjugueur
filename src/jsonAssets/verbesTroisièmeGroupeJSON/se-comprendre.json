@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me comprends",
+      "tu te comprends",
+      "il se comprend",
+      "nous nous comprenons",
+      "vous vous comprenez",
+      "ils se comprennent"
+    ],
+    "passé composé": [
+      "je me suis compris",
+      "tu t'es compris",
+      "il s'est compris",
+      "nous nous sommes compris",
+      "vous vous êtes compris",
+      "ils se sont compris"
+    ],
+    "imparfait": [
+      "je me comprenais",
+      "tu te comprenais",
+      "il se comprenait",
+      "nous nous comprenions",
+      "vous vous compreniez",
+      "ils se comprenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais compris",
+      "tu t'étais compris",
+      "il s'était compris",
+      "nous nous étions compris",
+      "vous vous étiez compris",
+      "ils s'étaient compris"
+    ],
+    "passé simple": [
+      "je me compris",
+      "tu te compris",
+      "il se comprit",
+      "nous nous comprîmes",
+      "vous vous comprîtes",
+      "ils se comprirent"
+    ],
+    "passé antérieur": [
+      "je me fus compris",
+      "tu te fus compris",
+      "il se fut compris",
+      "nous nous fûmes compris",
+      "vous vous fûtes compris",
+      "ils se furent compris"
+    ],
+    "futur simple": [
+      "je me comprendrai",
+      "tu te comprendras",
+      "il se comprendra",
+      "nous nous comprendrons",
+      "vous vous comprendrez",
+      "ils se comprendront"
+    ],
+    "futur antérieur": [
+      "je me serai compris",
+      "tu te seras compris",
+      "il se sera compris",
+      "nous nous serons compris",
+      "vous vous serez compris",
+      "ils se seront compris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me comprenne",
+      "que tu te comprennes",
+      "qu'il se comprenne",
+      "que nous nous comprenions",
+      "que vous vous compreniez",
+      "qu'ils se comprennent"
+    ],
+    "passé": [
+      "que je me sois compris",
+      "que tu te sois compris",
+      "qu'il se soit compris",
+      "que nous nous soyons compris",
+      "que vous vous soyez compris",
+      "qu'ils se soient compris"
+    ],
+    "imparfait": [
+      "que je me comprisse",
+      "que tu te comprisses",
+      "qu'il se comprît",
+      "que nous nous comprissions",
+      "que vous vous comprissiez",
+      "qu'ils se comprissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse compris",
+      "que tu te fusses compris",
+      "qu'il se fût compris",
+      "que nous nous fussions compris",
+      "que vous vous fussiez compris",
+      "qu'ils se fussent compris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me comprendrais",
+      "tu te comprendrais",
+      "il se comprendrait",
+      "nous nous comprendrions",
+      "vous vous comprendriez",
+      "ils se comprendraient"
+    ],
+    "passé": [
+      "je me serais compris",
+      "tu te serais compris",
+      "il se serait compris",
+      "nous nous serions compris",
+      "vous vous seriez compris",
+      "ils se seraient compris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "comprends-toi",
+      "comprenons-nous",
+      "comprenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se comprendre"
+    ],
+    "passé": [
+      "s'être compris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se comprenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant compris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se comprenant"
+    ],
+    "passé": [
+      "en s'étant compris"
+    ]
+  }
+}

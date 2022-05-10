@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me permets",
+      "tu te permets",
+      "il se permet",
+      "nous nous permettons",
+      "vous vous permettez",
+      "ils se permettent"
+    ],
+    "passé composé": [
+      "je me suis permis",
+      "tu t'es permis",
+      "il s'est permis",
+      "nous nous sommes permis",
+      "vous vous êtes permis",
+      "ils se sont permis"
+    ],
+    "imparfait": [
+      "je me permettais",
+      "tu te permettais",
+      "il se permettait",
+      "nous nous permettions",
+      "vous vous permettiez",
+      "ils se permettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais permis",
+      "tu t'étais permis",
+      "il s'était permis",
+      "nous nous étions permis",
+      "vous vous étiez permis",
+      "ils s'étaient permis"
+    ],
+    "passé simple": [
+      "je me permis",
+      "tu te permis",
+      "il se permit",
+      "nous nous permîmes",
+      "vous vous permîtes",
+      "ils se permirent"
+    ],
+    "passé antérieur": [
+      "je me fus permis",
+      "tu te fus permis",
+      "il se fut permis",
+      "nous nous fûmes permis",
+      "vous vous fûtes permis",
+      "ils se furent permis"
+    ],
+    "futur simple": [
+      "je me permettrai",
+      "tu te permettras",
+      "il se permettra",
+      "nous nous permettrons",
+      "vous vous permettrez",
+      "ils se permettront"
+    ],
+    "futur antérieur": [
+      "je me serai permis",
+      "tu te seras permis",
+      "il se sera permis",
+      "nous nous serons permis",
+      "vous vous serez permis",
+      "ils se seront permis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me permette",
+      "que tu te permettes",
+      "qu'il se permette",
+      "que nous nous permettions",
+      "que vous vous permettiez",
+      "qu'ils se permettent"
+    ],
+    "passé": [
+      "que je me sois permis",
+      "que tu te sois permis",
+      "qu'il se soit permis",
+      "que nous nous soyons permis",
+      "que vous vous soyez permis",
+      "qu'ils se soient permis"
+    ],
+    "imparfait": [
+      "que je me permisse",
+      "que tu te permisses",
+      "qu'il se permît",
+      "que nous nous permissions",
+      "que vous vous permissiez",
+      "qu'ils se permissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse permis",
+      "que tu te fusses permis",
+      "qu'il se fût permis",
+      "que nous nous fussions permis",
+      "que vous vous fussiez permis",
+      "qu'ils se fussent permis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me permettrais",
+      "tu te permettrais",
+      "il se permettrait",
+      "nous nous permettrions",
+      "vous vous permettriez",
+      "ils se permettraient"
+    ],
+    "passé": [
+      "je me serais permis",
+      "tu te serais permis",
+      "il se serait permis",
+      "nous nous serions permis",
+      "vous vous seriez permis",
+      "ils se seraient permis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "permets-toi",
+      "permettons-nous",
+      "permettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se permettre"
+    ],
+    "passé": [
+      "s'être permis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se permettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant permis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se permettant"
+    ],
+    "passé": [
+      "en s'étant permis"
+    ]
+  }
+}

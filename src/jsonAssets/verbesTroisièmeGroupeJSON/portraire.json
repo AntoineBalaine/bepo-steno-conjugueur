@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je portrais",
+      "tu portrais",
+      "il portrait",
+      "nous portrayons",
+      "vous portrayez",
+      "ils portraient"
+    ],
+    "passé composé": [
+      "j'ai portrait",
+      "tu as portrait",
+      "il a portrait",
+      "nous avons portrait",
+      "vous avez portrait",
+      "ils ont portrait"
+    ],
+    "imparfait": [
+      "je portrayais",
+      "tu portrayais",
+      "il portrayait",
+      "nous portrayions",
+      "vous portrayiez",
+      "ils portrayaient"
+    ],
+    "plus que parfait": [
+      "j'avais portrait",
+      "tu avais portrait",
+      "il avait portrait",
+      "nous avions portrait",
+      "vous aviez portrait",
+      "ils avaient portrait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus portrait",
+      "tu eus portrait",
+      "il eut portrait",
+      "nous eûmes portrait",
+      "vous eûtes portrait",
+      "ils eurent portrait"
+    ],
+    "futur simple": [
+      "je portrairai",
+      "tu portrairas",
+      "il portraira",
+      "nous portrairons",
+      "vous portrairez",
+      "ils portrairont"
+    ],
+    "futur antérieur": [
+      "j'aurai portrait",
+      "tu auras portrait",
+      "il aura portrait",
+      "nous aurons portrait",
+      "vous aurez portrait",
+      "ils auront portrait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je portraie",
+      "que tu portraies",
+      "qu'il portraie",
+      "que nous portrayions",
+      "que vous portrayiez",
+      "qu'ils portraient"
+    ],
+    "passé": [
+      "que j'aie portrait",
+      "que tu aies portrait",
+      "qu'il ait portrait",
+      "que nous ayons portrait",
+      "que vous ayez portrait",
+      "qu'ils aient portrait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse portrait",
+      "que tu eusses portrait",
+      "qu'il eût portrait",
+      "que nous eussions portrait",
+      "que vous eussiez portrait",
+      "qu'ils eussent portrait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je portrairais",
+      "tu portrairais",
+      "il portrairait",
+      "nous portrairions",
+      "vous portrairiez",
+      "ils portrairaient"
+    ],
+    "passé": [
+      "j'aurais portrait",
+      "tu aurais portrait",
+      "il aurait portrait",
+      "nous aurions portrait",
+      "vous auriez portrait",
+      "ils auraient portrait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "portrais",
+      "portrayons",
+      "portrayez"
+    ],
+    "passé": [
+      "aie portrait",
+      "ayons portrait",
+      "ayez portrait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "portraire"
+    ],
+    "passé": [
+      "avoir portrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "portrayant"
+    ],
+    "passé": [
+      "portrait",
+      "ayant portrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en portrayant"
+    ],
+    "passé": [
+      "en ayant portrait"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je couds",
+      "tu couds",
+      "il coud",
+      "nous cousons",
+      "vous cousez",
+      "ils cousent"
+    ],
+    "passé composé": [
+      "j'ai cousu",
+      "tu as cousu",
+      "il a cousu",
+      "nous avons cousu",
+      "vous avez cousu",
+      "ils ont cousu"
+    ],
+    "imparfait": [
+      "je cousais",
+      "tu cousais",
+      "il cousait",
+      "nous cousions",
+      "vous cousiez",
+      "ils cousaient"
+    ],
+    "plus que parfait": [
+      "j'avais cousu",
+      "tu avais cousu",
+      "il avait cousu",
+      "nous avions cousu",
+      "vous aviez cousu",
+      "ils avaient cousu"
+    ],
+    "passé simple": [
+      "je cousis",
+      "tu cousis",
+      "il cousit",
+      "nous cousîmes",
+      "vous cousîtes",
+      "ils cousirent"
+    ],
+    "passé antérieur": [
+      "j'eus cousu",
+      "tu eus cousu",
+      "il eut cousu",
+      "nous eûmes cousu",
+      "vous eûtes cousu",
+      "ils eurent cousu"
+    ],
+    "futur simple": [
+      "je coudrai",
+      "tu coudras",
+      "il coudra",
+      "nous coudrons",
+      "vous coudrez",
+      "ils coudront"
+    ],
+    "futur antérieur": [
+      "j'aurai cousu",
+      "tu auras cousu",
+      "il aura cousu",
+      "nous aurons cousu",
+      "vous aurez cousu",
+      "ils auront cousu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je couse",
+      "que tu couses",
+      "qu'il couse",
+      "que nous cousions",
+      "que vous cousiez",
+      "qu'ils cousent"
+    ],
+    "passé": [
+      "que j'aie cousu",
+      "que tu aies cousu",
+      "qu'il ait cousu",
+      "que nous ayons cousu",
+      "que vous ayez cousu",
+      "qu'ils aient cousu"
+    ],
+    "imparfait": [
+      "que je cousisse",
+      "que tu cousisses",
+      "qu'il cousît",
+      "que nous cousissions",
+      "que vous cousissiez",
+      "qu'ils cousissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse cousu",
+      "que tu eusses cousu",
+      "qu'il eût cousu",
+      "que nous eussions cousu",
+      "que vous eussiez cousu",
+      "qu'ils eussent cousu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je coudrais",
+      "tu coudrais",
+      "il coudrait",
+      "nous coudrions",
+      "vous coudriez",
+      "ils coudraient"
+    ],
+    "passé": [
+      "j'aurais cousu",
+      "tu aurais cousu",
+      "il aurait cousu",
+      "nous aurions cousu",
+      "vous auriez cousu",
+      "ils auraient cousu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "couds",
+      "cousons",
+      "cousez"
+    ],
+    "passé": [
+      "aie cousu",
+      "ayons cousu",
+      "ayez cousu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "coudre"
+    ],
+    "passé": [
+      "avoir cousu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "cousant"
+    ],
+    "passé": [
+      "cousu",
+      "ayant cousu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en cousant"
+    ],
+    "passé": [
+      "en ayant cousu"
+    ]
+  }
+}

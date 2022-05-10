@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'endors",
+      "tu t'endors",
+      "il s'endort",
+      "nous nous endormons",
+      "vous vous endormez",
+      "ils s'endorment"
+    ],
+    "passé composé": [
+      "je me suis endormi",
+      "tu t'es endormi",
+      "il s'est endormi",
+      "nous nous sommes endormis",
+      "vous vous êtes endormis",
+      "ils se sont endormis"
+    ],
+    "imparfait": [
+      "je m'endormais",
+      "tu t'endormais",
+      "il s'endormait",
+      "nous nous endormions",
+      "vous vous endormiez",
+      "ils s'endormaient"
+    ],
+    "plus que parfait": [
+      "je m'étais endormi",
+      "tu t'étais endormi",
+      "il s'était endormi",
+      "nous nous étions endormis",
+      "vous vous étiez endormis",
+      "ils s'étaient endormis"
+    ],
+    "passé simple": [
+      "je m'endormis",
+      "tu t'endormis",
+      "il s'endormit",
+      "nous nous endormîmes",
+      "vous vous endormîtes",
+      "ils s'endormirent"
+    ],
+    "passé antérieur": [
+      "je me fus endormi",
+      "tu te fus endormi",
+      "il se fut endormi",
+      "nous nous fûmes endormis",
+      "vous vous fûtes endormis",
+      "ils se furent endormis"
+    ],
+    "futur simple": [
+      "je m'endormirai",
+      "tu t'endormiras",
+      "il s'endormira",
+      "nous nous endormirons",
+      "vous vous endormirez",
+      "ils s'endormiront"
+    ],
+    "futur antérieur": [
+      "je me serai endormi",
+      "tu te seras endormi",
+      "il se sera endormi",
+      "nous nous serons endormis",
+      "vous vous serez endormis",
+      "ils se seront endormis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'endorme",
+      "que tu t'endormes",
+      "qu'il s'endorme",
+      "que nous nous endormions",
+      "que vous vous endormiez",
+      "qu'ils s'endorment"
+    ],
+    "passé": [
+      "que je me sois endormi",
+      "que tu te sois endormi",
+      "qu'il se soit endormi",
+      "que nous nous soyons endormis",
+      "que vous vous soyez endormis",
+      "qu'ils se soient endormis"
+    ],
+    "imparfait": [
+      "que je m'endormisse",
+      "que tu t'endormisses",
+      "qu'il s'endormît",
+      "que nous nous endormissions",
+      "que vous vous endormissiez",
+      "qu'ils s'endormissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse endormi",
+      "que tu te fusses endormi",
+      "qu'il se fût endormi",
+      "que nous nous fussions endormis",
+      "que vous vous fussiez endormis",
+      "qu'ils se fussent endormis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'endormirais",
+      "tu t'endormirais",
+      "il s'endormirait",
+      "nous nous endormirions",
+      "vous vous endormiriez",
+      "ils s'endormiraient"
+    ],
+    "passé": [
+      "je me serais endormi",
+      "tu te serais endormi",
+      "il se serait endormi",
+      "nous nous serions endormis",
+      "vous vous seriez endormis",
+      "ils se seraient endormis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "endors-toi",
+      "endormons-nous",
+      "endormez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'endormir"
+    ],
+    "passé": [
+      "s'être endormi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'endormant"
+    ],
+    "passé": [
+      "-",
+      "s'étant endormi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'endormant"
+    ],
+    "passé": [
+      "en s'étant endormi"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'acquiers",
+      "tu acquiers",
+      "il acquiert",
+      "nous acquérons",
+      "vous acquérez",
+      "ils acquièrent"
+    ],
+    "passé composé": [
+      "j'ai acquis",
+      "tu as acquis",
+      "il a acquis",
+      "nous avons acquis",
+      "vous avez acquis",
+      "ils ont acquis"
+    ],
+    "imparfait": [
+      "j'acquérais",
+      "tu acquérais",
+      "il acquérait",
+      "nous acquérions",
+      "vous acquériez",
+      "ils acquéraient"
+    ],
+    "plus que parfait": [
+      "j'avais acquis",
+      "tu avais acquis",
+      "il avait acquis",
+      "nous avions acquis",
+      "vous aviez acquis",
+      "ils avaient acquis"
+    ],
+    "passé simple": [
+      "j'acquis",
+      "tu acquis",
+      "il acquit",
+      "nous acquîmes",
+      "vous acquîtes",
+      "ils acquirent"
+    ],
+    "passé antérieur": [
+      "j'eus acquis",
+      "tu eus acquis",
+      "il eut acquis",
+      "nous eûmes acquis",
+      "vous eûtes acquis",
+      "ils eurent acquis"
+    ],
+    "futur simple": [
+      "j'acquerrai",
+      "tu acquerras",
+      "il acquerra",
+      "nous acquerrons",
+      "vous acquerrez",
+      "ils acquerront"
+    ],
+    "futur antérieur": [
+      "j'aurai acquis",
+      "tu auras acquis",
+      "il aura acquis",
+      "nous aurons acquis",
+      "vous aurez acquis",
+      "ils auront acquis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'acquière",
+      "que tu acquières",
+      "qu'il acquière",
+      "que nous acquérions",
+      "que vous acquériez",
+      "qu'ils acquièrent"
+    ],
+    "passé": [
+      "que j'aie acquis",
+      "que tu aies acquis",
+      "qu'il ait acquis",
+      "que nous ayons acquis",
+      "que vous ayez acquis",
+      "qu'ils aient acquis"
+    ],
+    "imparfait": [
+      "que j'acquisse",
+      "que tu acquisses",
+      "qu'il acquît",
+      "que nous acquissions",
+      "que vous acquissiez",
+      "qu'ils acquissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse acquis",
+      "que tu eusses acquis",
+      "qu'il eût acquis",
+      "que nous eussions acquis",
+      "que vous eussiez acquis",
+      "qu'ils eussent acquis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'acquerrais",
+      "tu acquerrais",
+      "il acquerrait",
+      "nous acquerrions",
+      "vous acquerriez",
+      "ils acquerraient"
+    ],
+    "passé": [
+      "j'aurais acquis",
+      "tu aurais acquis",
+      "il aurait acquis",
+      "nous aurions acquis",
+      "vous auriez acquis",
+      "ils auraient acquis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "acquiers",
+      "acquérons",
+      "acquérez"
+    ],
+    "passé": [
+      "aie acquis",
+      "ayons acquis",
+      "ayez acquis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "acquérir"
+    ],
+    "passé": [
+      "avoir acquis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "acquérant"
+    ],
+    "passé": [
+      "acquis",
+      "ayant acquis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en acquérant"
+    ],
+    "passé": [
+      "en ayant acquis"
+    ]
+  }
+}

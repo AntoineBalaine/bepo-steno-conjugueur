@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je soubats",
+      "tu soubats",
+      "il soubat",
+      "nous soubattons",
+      "vous soubattez",
+      "ils soubattent"
+    ],
+    "passé composé": [
+      "j'ai soubattu",
+      "tu as soubattu",
+      "il a soubattu",
+      "nous avons soubattu",
+      "vous avez soubattu",
+      "ils ont soubattu"
+    ],
+    "imparfait": [
+      "je soubattais",
+      "tu soubattais",
+      "il soubattait",
+      "nous soubattions",
+      "vous soubattiez",
+      "ils soubattaient"
+    ],
+    "plus que parfait": [
+      "j'avais soubattu",
+      "tu avais soubattu",
+      "il avait soubattu",
+      "nous avions soubattu",
+      "vous aviez soubattu",
+      "ils avaient soubattu"
+    ],
+    "passé simple": [
+      "je soubattis",
+      "tu soubattis",
+      "il soubattit",
+      "nous soubattîmes",
+      "vous soubattîtes",
+      "ils soubattirent"
+    ],
+    "passé antérieur": [
+      "j'eus soubattu",
+      "tu eus soubattu",
+      "il eut soubattu",
+      "nous eûmes soubattu",
+      "vous eûtes soubattu",
+      "ils eurent soubattu"
+    ],
+    "futur simple": [
+      "je soubattrai",
+      "tu soubattras",
+      "il soubattra",
+      "nous soubattrons",
+      "vous soubattrez",
+      "ils soubattront"
+    ],
+    "futur antérieur": [
+      "j'aurai soubattu",
+      "tu auras soubattu",
+      "il aura soubattu",
+      "nous aurons soubattu",
+      "vous aurez soubattu",
+      "ils auront soubattu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je soubatte",
+      "que tu soubattes",
+      "qu'il soubatte",
+      "que nous soubattions",
+      "que vous soubattiez",
+      "qu'ils soubattent"
+    ],
+    "passé": [
+      "que j'aie soubattu",
+      "que tu aies soubattu",
+      "qu'il ait soubattu",
+      "que nous ayons soubattu",
+      "que vous ayez soubattu",
+      "qu'ils aient soubattu"
+    ],
+    "imparfait": [
+      "que je soubattisse",
+      "que tu soubattisses",
+      "qu'il soubattît",
+      "que nous soubattissions",
+      "que vous soubattissiez",
+      "qu'ils soubattissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse soubattu",
+      "que tu eusses soubattu",
+      "qu'il eût soubattu",
+      "que nous eussions soubattu",
+      "que vous eussiez soubattu",
+      "qu'ils eussent soubattu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je soubattrais",
+      "tu soubattrais",
+      "il soubattrait",
+      "nous soubattrions",
+      "vous soubattriez",
+      "ils soubattraient"
+    ],
+    "passé": [
+      "j'aurais soubattu",
+      "tu aurais soubattu",
+      "il aurait soubattu",
+      "nous aurions soubattu",
+      "vous auriez soubattu",
+      "ils auraient soubattu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "soubats",
+      "soubattons",
+      "soubattez"
+    ],
+    "passé": [
+      "aie soubattu",
+      "ayons soubattu",
+      "ayez soubattu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "soubattre"
+    ],
+    "passé": [
+      "avoir soubattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "soubattant"
+    ],
+    "passé": [
+      "soubattu",
+      "ayant soubattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en soubattant"
+    ],
+    "passé": [
+      "en ayant soubattu"
+    ]
+  }
+}

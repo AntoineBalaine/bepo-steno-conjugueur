@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je conquiers",
+      "tu conquiers",
+      "il conquiert",
+      "nous conquérons",
+      "vous conquérez",
+      "ils conquièrent"
+    ],
+    "passé composé": [
+      "j'ai conquis",
+      "tu as conquis",
+      "il a conquis",
+      "nous avons conquis",
+      "vous avez conquis",
+      "ils ont conquis"
+    ],
+    "imparfait": [
+      "je conquérais",
+      "tu conquérais",
+      "il conquérait",
+      "nous conquérions",
+      "vous conquériez",
+      "ils conquéraient"
+    ],
+    "plus que parfait": [
+      "j'avais conquis",
+      "tu avais conquis",
+      "il avait conquis",
+      "nous avions conquis",
+      "vous aviez conquis",
+      "ils avaient conquis"
+    ],
+    "passé simple": [
+      "je conquis",
+      "tu conquis",
+      "il conquit",
+      "nous conquîmes",
+      "vous conquîtes",
+      "ils conquirent"
+    ],
+    "passé antérieur": [
+      "j'eus conquis",
+      "tu eus conquis",
+      "il eut conquis",
+      "nous eûmes conquis",
+      "vous eûtes conquis",
+      "ils eurent conquis"
+    ],
+    "futur simple": [
+      "je conquerrai",
+      "tu conquerras",
+      "il conquerra",
+      "nous conquerrons",
+      "vous conquerrez",
+      "ils conquerront"
+    ],
+    "futur antérieur": [
+      "j'aurai conquis",
+      "tu auras conquis",
+      "il aura conquis",
+      "nous aurons conquis",
+      "vous aurez conquis",
+      "ils auront conquis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je conquière",
+      "que tu conquières",
+      "qu'il conquière",
+      "que nous conquérions",
+      "que vous conquériez",
+      "qu'ils conquièrent"
+    ],
+    "passé": [
+      "que j'aie conquis",
+      "que tu aies conquis",
+      "qu'il ait conquis",
+      "que nous ayons conquis",
+      "que vous ayez conquis",
+      "qu'ils aient conquis"
+    ],
+    "imparfait": [
+      "que je conquisse",
+      "que tu conquisses",
+      "qu'il conquît",
+      "que nous conquissions",
+      "que vous conquissiez",
+      "qu'ils conquissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse conquis",
+      "que tu eusses conquis",
+      "qu'il eût conquis",
+      "que nous eussions conquis",
+      "que vous eussiez conquis",
+      "qu'ils eussent conquis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je conquerrais",
+      "tu conquerrais",
+      "il conquerrait",
+      "nous conquerrions",
+      "vous conquerriez",
+      "ils conquerraient"
+    ],
+    "passé": [
+      "j'aurais conquis",
+      "tu aurais conquis",
+      "il aurait conquis",
+      "nous aurions conquis",
+      "vous auriez conquis",
+      "ils auraient conquis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conquiers",
+      "conquérons",
+      "conquérez"
+    ],
+    "passé": [
+      "aie conquis",
+      "ayons conquis",
+      "ayez conquis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "conquérir"
+    ],
+    "passé": [
+      "avoir conquis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "conquérant"
+    ],
+    "passé": [
+      "conquis",
+      "ayant conquis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en conquérant"
+    ],
+    "passé": [
+      "en ayant conquis"
+    ]
+  }
+}

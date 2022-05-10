@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il sourd",
+      "-",
+      "-",
+      "ils sourdent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il sourdait",
+      "-",
+      "-",
+      "ils sourdaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "il sourdit",
+      "-",
+      "-",
+      "ils sourdirent"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il sourdra",
+      "-",
+      "-",
+      "ils sourdront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "il sourdrait",
+      "-",
+      "-",
+      "ils sourdraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "sourdre"
+    ],
+    "passé": [
+      "-"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "-"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me défends",
+      "tu te défends",
+      "il se défend",
+      "nous nous défendons",
+      "vous vous défendez",
+      "ils se défendent"
+    ],
+    "passé composé": [
+      "je me suis défendu",
+      "tu t'es défendu",
+      "il s'est défendu",
+      "nous nous sommes défendus",
+      "vous vous êtes défendus",
+      "ils se sont défendus"
+    ],
+    "imparfait": [
+      "je me défendais",
+      "tu te défendais",
+      "il se défendait",
+      "nous nous défendions",
+      "vous vous défendiez",
+      "ils se défendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais défendu",
+      "tu t'étais défendu",
+      "il s'était défendu",
+      "nous nous étions défendus",
+      "vous vous étiez défendus",
+      "ils s'étaient défendus"
+    ],
+    "passé simple": [
+      "je me défendis",
+      "tu te défendis",
+      "il se défendit",
+      "nous nous défendîmes",
+      "vous vous défendîtes",
+      "ils se défendirent"
+    ],
+    "passé antérieur": [
+      "je me fus défendu",
+      "tu te fus défendu",
+      "il se fut défendu",
+      "nous nous fûmes défendus",
+      "vous vous fûtes défendus",
+      "ils se furent défendus"
+    ],
+    "futur simple": [
+      "je me défendrai",
+      "tu te défendras",
+      "il se défendra",
+      "nous nous défendrons",
+      "vous vous défendrez",
+      "ils se défendront"
+    ],
+    "futur antérieur": [
+      "je me serai défendu",
+      "tu te seras défendu",
+      "il se sera défendu",
+      "nous nous serons défendus",
+      "vous vous serez défendus",
+      "ils se seront défendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me défende",
+      "que tu te défendes",
+      "qu'il se défende",
+      "que nous nous défendions",
+      "que vous vous défendiez",
+      "qu'ils se défendent"
+    ],
+    "passé": [
+      "que je me sois défendu",
+      "que tu te sois défendu",
+      "qu'il se soit défendu",
+      "que nous nous soyons défendus",
+      "que vous vous soyez défendus",
+      "qu'ils se soient défendus"
+    ],
+    "imparfait": [
+      "que je me défendisse",
+      "que tu te défendisses",
+      "qu'il se défendît",
+      "que nous nous défendissions",
+      "que vous vous défendissiez",
+      "qu'ils se défendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse défendu",
+      "que tu te fusses défendu",
+      "qu'il se fût défendu",
+      "que nous nous fussions défendus",
+      "que vous vous fussiez défendus",
+      "qu'ils se fussent défendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me défendrais",
+      "tu te défendrais",
+      "il se défendrait",
+      "nous nous défendrions",
+      "vous vous défendriez",
+      "ils se défendraient"
+    ],
+    "passé": [
+      "je me serais défendu",
+      "tu te serais défendu",
+      "il se serait défendu",
+      "nous nous serions défendus",
+      "vous vous seriez défendus",
+      "ils se seraient défendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "défends-toi",
+      "défendons-nous",
+      "défendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se défendre"
+    ],
+    "passé": [
+      "s'être défendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se défendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant défendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se défendant"
+    ],
+    "passé": [
+      "en s'étant défendu"
+    ]
+  }
+}

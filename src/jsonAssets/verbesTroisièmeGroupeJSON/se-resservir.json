@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me ressers",
+      "tu te ressers",
+      "il se ressert",
+      "nous nous resservons",
+      "vous vous resservez",
+      "ils se resservent"
+    ],
+    "passé composé": [
+      "je me suis resservi",
+      "tu t'es resservi",
+      "il s'est resservi",
+      "nous nous sommes resservis",
+      "vous vous êtes resservis",
+      "ils se sont resservis"
+    ],
+    "imparfait": [
+      "je me resservais",
+      "tu te resservais",
+      "il se resservait",
+      "nous nous resservions",
+      "vous vous resserviez",
+      "ils se resservaient"
+    ],
+    "plus que parfait": [
+      "je m'étais resservi",
+      "tu t'étais resservi",
+      "il s'était resservi",
+      "nous nous étions resservis",
+      "vous vous étiez resservis",
+      "ils s'étaient resservis"
+    ],
+    "passé simple": [
+      "je me resservis",
+      "tu te resservis",
+      "il se resservit",
+      "nous nous resservîmes",
+      "vous vous resservîtes",
+      "ils se resservirent"
+    ],
+    "passé antérieur": [
+      "je me fus resservi",
+      "tu te fus resservi",
+      "il se fut resservi",
+      "nous nous fûmes resservis",
+      "vous vous fûtes resservis",
+      "ils se furent resservis"
+    ],
+    "futur simple": [
+      "je me resservirai",
+      "tu te resserviras",
+      "il se resservira",
+      "nous nous resservirons",
+      "vous vous resservirez",
+      "ils se resserviront"
+    ],
+    "futur antérieur": [
+      "je me serai resservi",
+      "tu te seras resservi",
+      "il se sera resservi",
+      "nous nous serons resservis",
+      "vous vous serez resservis",
+      "ils se seront resservis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me resserve",
+      "que tu te resserves",
+      "qu'il se resserve",
+      "que nous nous resservions",
+      "que vous vous resserviez",
+      "qu'ils se resservent"
+    ],
+    "passé": [
+      "que je me sois resservi",
+      "que tu te sois resservi",
+      "qu'il se soit resservi",
+      "que nous nous soyons resservis",
+      "que vous vous soyez resservis",
+      "qu'ils se soient resservis"
+    ],
+    "imparfait": [
+      "que je me resservisse",
+      "que tu te resservisses",
+      "qu'il se resservît",
+      "que nous nous resservissions",
+      "que vous vous resservissiez",
+      "qu'ils se resservissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse resservi",
+      "que tu te fusses resservi",
+      "qu'il se fût resservi",
+      "que nous nous fussions resservis",
+      "que vous vous fussiez resservis",
+      "qu'ils se fussent resservis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me resservirais",
+      "tu te resservirais",
+      "il se resservirait",
+      "nous nous resservirions",
+      "vous vous resserviriez",
+      "ils se resserviraient"
+    ],
+    "passé": [
+      "je me serais resservi",
+      "tu te serais resservi",
+      "il se serait resservi",
+      "nous nous serions resservis",
+      "vous vous seriez resservis",
+      "ils se seraient resservis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ressers-toi",
+      "resservons-nous",
+      "resservez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se resservir"
+    ],
+    "passé": [
+      "s'être resservi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se resservant"
+    ],
+    "passé": [
+      "-",
+      "s'étant resservi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se resservant"
+    ],
+    "passé": [
+      "en s'étant resservi"
+    ]
+  }
+}

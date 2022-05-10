@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je conçois",
+      "tu conçois",
+      "il conçoit",
+      "nous concevons",
+      "vous concevez",
+      "ils conçoivent"
+    ],
+    "passé composé": [
+      "j'ai conçu",
+      "tu as conçu",
+      "il a conçu",
+      "nous avons conçu",
+      "vous avez conçu",
+      "ils ont conçu"
+    ],
+    "imparfait": [
+      "je concevais",
+      "tu concevais",
+      "il concevait",
+      "nous concevions",
+      "vous conceviez",
+      "ils concevaient"
+    ],
+    "plus que parfait": [
+      "j'avais conçu",
+      "tu avais conçu",
+      "il avait conçu",
+      "nous avions conçu",
+      "vous aviez conçu",
+      "ils avaient conçu"
+    ],
+    "passé simple": [
+      "je conçus",
+      "tu conçus",
+      "il conçut",
+      "nous conçûmes",
+      "vous conçûtes",
+      "ils conçurent"
+    ],
+    "passé antérieur": [
+      "j'eus conçu",
+      "tu eus conçu",
+      "il eut conçu",
+      "nous eûmes conçu",
+      "vous eûtes conçu",
+      "ils eurent conçu"
+    ],
+    "futur simple": [
+      "je concevrai",
+      "tu concevras",
+      "il concevra",
+      "nous concevrons",
+      "vous concevrez",
+      "ils concevront"
+    ],
+    "futur antérieur": [
+      "j'aurai conçu",
+      "tu auras conçu",
+      "il aura conçu",
+      "nous aurons conçu",
+      "vous aurez conçu",
+      "ils auront conçu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je conçoive",
+      "que tu conçoives",
+      "qu'il conçoive",
+      "que nous concevions",
+      "que vous conceviez",
+      "qu'ils conçoivent"
+    ],
+    "passé": [
+      "que j'aie conçu",
+      "que tu aies conçu",
+      "qu'il ait conçu",
+      "que nous ayons conçu",
+      "que vous ayez conçu",
+      "qu'ils aient conçu"
+    ],
+    "imparfait": [
+      "que je conçusse",
+      "que tu conçusses",
+      "qu'il conçût",
+      "que nous conçussions",
+      "que vous conçussiez",
+      "qu'ils conçussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse conçu",
+      "que tu eusses conçu",
+      "qu'il eût conçu",
+      "que nous eussions conçu",
+      "que vous eussiez conçu",
+      "qu'ils eussent conçu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je concevrais",
+      "tu concevrais",
+      "il concevrait",
+      "nous concevrions",
+      "vous concevriez",
+      "ils concevraient"
+    ],
+    "passé": [
+      "j'aurais conçu",
+      "tu aurais conçu",
+      "il aurait conçu",
+      "nous aurions conçu",
+      "vous auriez conçu",
+      "ils auraient conçu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conçois",
+      "concevons",
+      "concevez"
+    ],
+    "passé": [
+      "aie conçu",
+      "ayons conçu",
+      "ayez conçu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "concevoir"
+    ],
+    "passé": [
+      "avoir conçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "concevant"
+    ],
+    "passé": [
+      "conçu",
+      "ayant conçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en concevant"
+    ],
+    "passé": [
+      "en ayant conçu"
+    ]
+  }
+}

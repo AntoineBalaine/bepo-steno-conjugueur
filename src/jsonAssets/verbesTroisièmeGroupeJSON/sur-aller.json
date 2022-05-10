@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je sur-vais",
+      "tu sur-vas",
+      "il sur-va",
+      "nous sur-allons",
+      "vous sur-allez",
+      "ils sur-vont"
+    ],
+    "passé composé": [
+      "j'ai sur-allé",
+      "tu as sur-allé",
+      "il a sur-allé",
+      "nous avons sur-allé",
+      "vous avez sur-allé",
+      "ils ont sur-allé"
+    ],
+    "imparfait": [
+      "je sur-allais",
+      "tu sur-allais",
+      "il sur-allait",
+      "nous sur-allions",
+      "vous sur-alliez",
+      "ils sur-allaient"
+    ],
+    "plus que parfait": [
+      "j'avais sur-allé",
+      "tu avais sur-allé",
+      "il avait sur-allé",
+      "nous avions sur-allé",
+      "vous aviez sur-allé",
+      "ils avaient sur-allé"
+    ],
+    "passé simple": [
+      "je sur-allai",
+      "tu sur-allas",
+      "il sur-alla",
+      "nous sur-allâmes",
+      "vous sur-allâtes",
+      "ils sur-allèrent"
+    ],
+    "passé antérieur": [
+      "j'eus sur-allé",
+      "tu eus sur-allé",
+      "il eut sur-allé",
+      "nous eûmes sur-allé",
+      "vous eûtes sur-allé",
+      "ils eurent sur-allé"
+    ],
+    "futur simple": [
+      "je sur-irai",
+      "tu sur-iras",
+      "il sur-ira",
+      "nous sur-irons",
+      "vous sur-irez",
+      "ils sur-iront"
+    ],
+    "futur antérieur": [
+      "j'aurai sur-allé",
+      "tu auras sur-allé",
+      "il aura sur-allé",
+      "nous aurons sur-allé",
+      "vous aurez sur-allé",
+      "ils auront sur-allé"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je sur-aille",
+      "que tu sur-ailles",
+      "qu'il sur-aille",
+      "que nous sur-allions",
+      "que vous sur-alliez",
+      "qu'ils sur-aillent"
+    ],
+    "passé": [
+      "que j'aie sur-allé",
+      "que tu aies sur-allé",
+      "qu'il ait sur-allé",
+      "que nous ayons sur-allé",
+      "que vous ayez sur-allé",
+      "qu'ils aient sur-allé"
+    ],
+    "imparfait": [
+      "que je sur-allasse",
+      "que tu sur-allasses",
+      "qu'il sur-allât",
+      "que nous sur-allassions",
+      "que vous sur-allassiez",
+      "qu'ils sur-allassent"
+    ],
+    "plus que parfait": [
+      "que j'eusse sur-allé",
+      "que tu eusses sur-allé",
+      "qu'il eût sur-allé",
+      "que nous eussions sur-allé",
+      "que vous eussiez sur-allé",
+      "qu'ils eussent sur-allé"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je sur-irais",
+      "tu sur-irais",
+      "il sur-irait",
+      "nous sur-irions",
+      "vous sur-iriez",
+      "ils sur-iraient"
+    ],
+    "passé": [
+      "j'aurais sur-allé",
+      "tu aurais sur-allé",
+      "il aurait sur-allé",
+      "nous aurions sur-allé",
+      "vous auriez sur-allé",
+      "ils auraient sur-allé"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sur-va",
+      "sur-allons",
+      "sur-allez"
+    ],
+    "passé": [
+      "aie sur-allé",
+      "ayons sur-allé",
+      "ayez sur-allé"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "sur-aller"
+    ],
+    "passé": [
+      "avoir sur-allé"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "sur-allant"
+    ],
+    "passé": [
+      "sur-allé",
+      "ayant sur-allé"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en sur-allant"
+    ],
+    "passé": [
+      "en ayant sur-allé"
+    ]
+  }
+}

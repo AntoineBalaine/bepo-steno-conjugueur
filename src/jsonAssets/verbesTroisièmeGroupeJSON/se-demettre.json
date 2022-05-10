@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me démets",
+      "tu te démets",
+      "il se démet",
+      "nous nous démettons",
+      "vous vous démettez",
+      "ils se démettent"
+    ],
+    "passé composé": [
+      "je me suis démis",
+      "tu t'es démis",
+      "il s'est démis",
+      "nous nous sommes démis",
+      "vous vous êtes démis",
+      "ils se sont démis"
+    ],
+    "imparfait": [
+      "je me démettais",
+      "tu te démettais",
+      "il se démettait",
+      "nous nous démettions",
+      "vous vous démettiez",
+      "ils se démettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais démis",
+      "tu t'étais démis",
+      "il s'était démis",
+      "nous nous étions démis",
+      "vous vous étiez démis",
+      "ils s'étaient démis"
+    ],
+    "passé simple": [
+      "je me démis",
+      "tu te démis",
+      "il se démit",
+      "nous nous démîmes",
+      "vous vous démîtes",
+      "ils se démirent"
+    ],
+    "passé antérieur": [
+      "je me fus démis",
+      "tu te fus démis",
+      "il se fut démis",
+      "nous nous fûmes démis",
+      "vous vous fûtes démis",
+      "ils se furent démis"
+    ],
+    "futur simple": [
+      "je me démettrai",
+      "tu te démettras",
+      "il se démettra",
+      "nous nous démettrons",
+      "vous vous démettrez",
+      "ils se démettront"
+    ],
+    "futur antérieur": [
+      "je me serai démis",
+      "tu te seras démis",
+      "il se sera démis",
+      "nous nous serons démis",
+      "vous vous serez démis",
+      "ils se seront démis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me démette",
+      "que tu te démettes",
+      "qu'il se démette",
+      "que nous nous démettions",
+      "que vous vous démettiez",
+      "qu'ils se démettent"
+    ],
+    "passé": [
+      "que je me sois démis",
+      "que tu te sois démis",
+      "qu'il se soit démis",
+      "que nous nous soyons démis",
+      "que vous vous soyez démis",
+      "qu'ils se soient démis"
+    ],
+    "imparfait": [
+      "que je me démisse",
+      "que tu te démisses",
+      "qu'il se démît",
+      "que nous nous démissions",
+      "que vous vous démissiez",
+      "qu'ils se démissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse démis",
+      "que tu te fusses démis",
+      "qu'il se fût démis",
+      "que nous nous fussions démis",
+      "que vous vous fussiez démis",
+      "qu'ils se fussent démis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me démettrais",
+      "tu te démettrais",
+      "il se démettrait",
+      "nous nous démettrions",
+      "vous vous démettriez",
+      "ils se démettraient"
+    ],
+    "passé": [
+      "je me serais démis",
+      "tu te serais démis",
+      "il se serait démis",
+      "nous nous serions démis",
+      "vous vous seriez démis",
+      "ils se seraient démis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "démets-toi",
+      "démettons-nous",
+      "démettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se démettre"
+    ],
+    "passé": [
+      "s'être démis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se démettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant démis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se démettant"
+    ],
+    "passé": [
+      "en s'étant démis"
+    ]
+  }
+}

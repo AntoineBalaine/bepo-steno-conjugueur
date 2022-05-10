@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me découds",
+      "tu te découds",
+      "il se découd",
+      "nous nous décousons",
+      "vous vous décousez",
+      "ils se décousent"
+    ],
+    "passé composé": [
+      "je me suis décousu",
+      "tu t'es décousu",
+      "il s'est décousu",
+      "nous nous sommes décousus",
+      "vous vous êtes décousus",
+      "ils se sont décousus"
+    ],
+    "imparfait": [
+      "je me décousais",
+      "tu te décousais",
+      "il se décousait",
+      "nous nous décousions",
+      "vous vous décousiez",
+      "ils se décousaient"
+    ],
+    "plus que parfait": [
+      "je m'étais décousu",
+      "tu t'étais décousu",
+      "il s'était décousu",
+      "nous nous étions décousus",
+      "vous vous étiez décousus",
+      "ils s'étaient décousus"
+    ],
+    "passé simple": [
+      "je me décousis",
+      "tu te décousis",
+      "il se décousit",
+      "nous nous décousîmes",
+      "vous vous décousîtes",
+      "ils se décousirent"
+    ],
+    "passé antérieur": [
+      "je me fus décousu",
+      "tu te fus décousu",
+      "il se fut décousu",
+      "nous nous fûmes décousus",
+      "vous vous fûtes décousus",
+      "ils se furent décousus"
+    ],
+    "futur simple": [
+      "je me découdrai",
+      "tu te découdras",
+      "il se découdra",
+      "nous nous découdrons",
+      "vous vous découdrez",
+      "ils se découdront"
+    ],
+    "futur antérieur": [
+      "je me serai décousu",
+      "tu te seras décousu",
+      "il se sera décousu",
+      "nous nous serons décousus",
+      "vous vous serez décousus",
+      "ils se seront décousus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me découse",
+      "que tu te découses",
+      "qu'il se découse",
+      "que nous nous décousions",
+      "que vous vous décousiez",
+      "qu'ils se décousent"
+    ],
+    "passé": [
+      "que je me sois décousu",
+      "que tu te sois décousu",
+      "qu'il se soit décousu",
+      "que nous nous soyons décousus",
+      "que vous vous soyez décousus",
+      "qu'ils se soient décousus"
+    ],
+    "imparfait": [
+      "que je me décousisse",
+      "que tu te décousisses",
+      "qu'il se décousît",
+      "que nous nous décousissions",
+      "que vous vous décousissiez",
+      "qu'ils se décousissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse décousu",
+      "que tu te fusses décousu",
+      "qu'il se fût décousu",
+      "que nous nous fussions décousus",
+      "que vous vous fussiez décousus",
+      "qu'ils se fussent décousus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me découdrais",
+      "tu te découdrais",
+      "il se découdrait",
+      "nous nous découdrions",
+      "vous vous découdriez",
+      "ils se découdraient"
+    ],
+    "passé": [
+      "je me serais décousu",
+      "tu te serais décousu",
+      "il se serait décousu",
+      "nous nous serions décousus",
+      "vous vous seriez décousus",
+      "ils se seraient décousus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "découds-toi",
+      "décousons-nous",
+      "décousez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se découdre"
+    ],
+    "passé": [
+      "s'être décousu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se décousant"
+    ],
+    "passé": [
+      "-",
+      "s'étant décousu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se décousant"
+    ],
+    "passé": [
+      "en s'étant décousu"
+    ]
+  }
+}

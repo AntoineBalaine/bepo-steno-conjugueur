@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me revêts",
+      "tu te revêts",
+      "il se revêt",
+      "nous nous revêtons",
+      "vous vous revêtez",
+      "ils se revêtent"
+    ],
+    "passé composé": [
+      "je me suis revêtu",
+      "tu t'es revêtu",
+      "il s'est revêtu",
+      "nous nous sommes revêtus",
+      "vous vous êtes revêtus",
+      "ils se sont revêtus"
+    ],
+    "imparfait": [
+      "je me revêtais",
+      "tu te revêtais",
+      "il se revêtait",
+      "nous nous revêtions",
+      "vous vous revêtiez",
+      "ils se revêtaient"
+    ],
+    "plus que parfait": [
+      "je m'étais revêtu",
+      "tu t'étais revêtu",
+      "il s'était revêtu",
+      "nous nous étions revêtus",
+      "vous vous étiez revêtus",
+      "ils s'étaient revêtus"
+    ],
+    "passé simple": [
+      "je me revêtis",
+      "tu te revêtis",
+      "il se revêtit",
+      "nous nous revêtîmes",
+      "vous vous revêtîtes",
+      "ils se revêtirent"
+    ],
+    "passé antérieur": [
+      "je me fus revêtu",
+      "tu te fus revêtu",
+      "il se fut revêtu",
+      "nous nous fûmes revêtus",
+      "vous vous fûtes revêtus",
+      "ils se furent revêtus"
+    ],
+    "futur simple": [
+      "je me revêtirai",
+      "tu te revêtiras",
+      "il se revêtira",
+      "nous nous revêtirons",
+      "vous vous revêtirez",
+      "ils se revêtiront"
+    ],
+    "futur antérieur": [
+      "je me serai revêtu",
+      "tu te seras revêtu",
+      "il se sera revêtu",
+      "nous nous serons revêtus",
+      "vous vous serez revêtus",
+      "ils se seront revêtus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me revête",
+      "que tu te revêtes",
+      "qu'il se revête",
+      "que nous nous revêtions",
+      "que vous vous revêtiez",
+      "qu'ils se revêtent"
+    ],
+    "passé": [
+      "que je me sois revêtu",
+      "que tu te sois revêtu",
+      "qu'il se soit revêtu",
+      "que nous nous soyons revêtus",
+      "que vous vous soyez revêtus",
+      "qu'ils se soient revêtus"
+    ],
+    "imparfait": [
+      "que je me revêtisse",
+      "que tu te revêtisses",
+      "qu'il se revêtît",
+      "que nous nous revêtissions",
+      "que vous vous revêtissiez",
+      "qu'ils se revêtissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse revêtu",
+      "que tu te fusses revêtu",
+      "qu'il se fût revêtu",
+      "que nous nous fussions revêtus",
+      "que vous vous fussiez revêtus",
+      "qu'ils se fussent revêtus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me revêtirais",
+      "tu te revêtirais",
+      "il se revêtirait",
+      "nous nous revêtirions",
+      "vous vous revêtiriez",
+      "ils se revêtiraient"
+    ],
+    "passé": [
+      "je me serais revêtu",
+      "tu te serais revêtu",
+      "il se serait revêtu",
+      "nous nous serions revêtus",
+      "vous vous seriez revêtus",
+      "ils se seraient revêtus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "revêts-toi",
+      "revêtons-nous",
+      "revêtez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se revêtir"
+    ],
+    "passé": [
+      "s'être revêtu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se revêtant"
+    ],
+    "passé": [
+      "-",
+      "s'étant revêtu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se revêtant"
+    ],
+    "passé": [
+      "en s'étant revêtu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je retonds",
+      "tu retonds",
+      "il retond",
+      "nous retondons",
+      "vous retondez",
+      "ils retondent"
+    ],
+    "passé composé": [
+      "j'ai retondu",
+      "tu as retondu",
+      "il a retondu",
+      "nous avons retondu",
+      "vous avez retondu",
+      "ils ont retondu"
+    ],
+    "imparfait": [
+      "je retondais",
+      "tu retondais",
+      "il retondait",
+      "nous retondions",
+      "vous retondiez",
+      "ils retondaient"
+    ],
+    "plus que parfait": [
+      "j'avais retondu",
+      "tu avais retondu",
+      "il avait retondu",
+      "nous avions retondu",
+      "vous aviez retondu",
+      "ils avaient retondu"
+    ],
+    "passé simple": [
+      "je retondis",
+      "tu retondis",
+      "il retondit",
+      "nous retondîmes",
+      "vous retondîtes",
+      "ils retondirent"
+    ],
+    "passé antérieur": [
+      "j'eus retondu",
+      "tu eus retondu",
+      "il eut retondu",
+      "nous eûmes retondu",
+      "vous eûtes retondu",
+      "ils eurent retondu"
+    ],
+    "futur simple": [
+      "je retondrai",
+      "tu retondras",
+      "il retondra",
+      "nous retondrons",
+      "vous retondrez",
+      "ils retondront"
+    ],
+    "futur antérieur": [
+      "j'aurai retondu",
+      "tu auras retondu",
+      "il aura retondu",
+      "nous aurons retondu",
+      "vous aurez retondu",
+      "ils auront retondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je retonde",
+      "que tu retondes",
+      "qu'il retonde",
+      "que nous retondions",
+      "que vous retondiez",
+      "qu'ils retondent"
+    ],
+    "passé": [
+      "que j'aie retondu",
+      "que tu aies retondu",
+      "qu'il ait retondu",
+      "que nous ayons retondu",
+      "que vous ayez retondu",
+      "qu'ils aient retondu"
+    ],
+    "imparfait": [
+      "que je retondisse",
+      "que tu retondisses",
+      "qu'il retondît",
+      "que nous retondissions",
+      "que vous retondissiez",
+      "qu'ils retondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse retondu",
+      "que tu eusses retondu",
+      "qu'il eût retondu",
+      "que nous eussions retondu",
+      "que vous eussiez retondu",
+      "qu'ils eussent retondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je retondrais",
+      "tu retondrais",
+      "il retondrait",
+      "nous retondrions",
+      "vous retondriez",
+      "ils retondraient"
+    ],
+    "passé": [
+      "j'aurais retondu",
+      "tu aurais retondu",
+      "il aurait retondu",
+      "nous aurions retondu",
+      "vous auriez retondu",
+      "ils auraient retondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "retonds",
+      "retondons",
+      "retondez"
+    ],
+    "passé": [
+      "aie retondu",
+      "ayons retondu",
+      "ayez retondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "retondre"
+    ],
+    "passé": [
+      "avoir retondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "retondant"
+    ],
+    "passé": [
+      "retondu",
+      "ayant retondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en retondant"
+    ],
+    "passé": [
+      "en ayant retondu"
+    ]
+  }
+}

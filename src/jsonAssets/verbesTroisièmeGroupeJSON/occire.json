@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé composé": [
+      "j'ai occis",
+      "tu as occis",
+      "il a occis",
+      "nous avons occis",
+      "vous avez occis",
+      "ils ont occis"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais occis",
+      "tu avais occis",
+      "il avait occis",
+      "nous avions occis",
+      "vous aviez occis",
+      "ils avaient occis"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus occis",
+      "tu eus occis",
+      "il eut occis",
+      "nous eûmes occis",
+      "vous eûtes occis",
+      "ils eurent occis"
+    ],
+    "futur simple": [
+      "j'occirai",
+      "tu occiras",
+      "il occira",
+      "nous occirons",
+      "vous occirez",
+      "ils occiront"
+    ],
+    "futur antérieur": [
+      "j'aurai occis",
+      "tu auras occis",
+      "il aura occis",
+      "nous aurons occis",
+      "vous aurez occis",
+      "ils auront occis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "que j'aie occis",
+      "que tu aies occis",
+      "qu'il ait occis",
+      "que nous ayons occis",
+      "que vous ayez occis",
+      "qu'ils aient occis"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse occis",
+      "que tu eusses occis",
+      "qu'il eût occis",
+      "que nous eussions occis",
+      "que vous eussiez occis",
+      "qu'ils eussent occis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'occirais",
+      "tu occirais",
+      "il occirait",
+      "nous occirions",
+      "vous occiriez",
+      "ils occiraient"
+    ],
+    "passé": [
+      "j'aurais occis",
+      "tu aurais occis",
+      "il aurait occis",
+      "nous aurions occis",
+      "vous auriez occis",
+      "ils auraient occis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie occis",
+      "ayons occis",
+      "ayez occis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "occire"
+    ],
+    "passé": [
+      "avoir occis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "occis",
+      "ayant occis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "en ayant occis"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je combats",
+      "tu combats",
+      "il combat",
+      "nous combattons",
+      "vous combattez",
+      "ils combattent"
+    ],
+    "passé composé": [
+      "j'ai combattu",
+      "tu as combattu",
+      "il a combattu",
+      "nous avons combattu",
+      "vous avez combattu",
+      "ils ont combattu"
+    ],
+    "imparfait": [
+      "je combattais",
+      "tu combattais",
+      "il combattait",
+      "nous combattions",
+      "vous combattiez",
+      "ils combattaient"
+    ],
+    "plus que parfait": [
+      "j'avais combattu",
+      "tu avais combattu",
+      "il avait combattu",
+      "nous avions combattu",
+      "vous aviez combattu",
+      "ils avaient combattu"
+    ],
+    "passé simple": [
+      "je combattis",
+      "tu combattis",
+      "il combattit",
+      "nous combattîmes",
+      "vous combattîtes",
+      "ils combattirent"
+    ],
+    "passé antérieur": [
+      "j'eus combattu",
+      "tu eus combattu",
+      "il eut combattu",
+      "nous eûmes combattu",
+      "vous eûtes combattu",
+      "ils eurent combattu"
+    ],
+    "futur simple": [
+      "je combattrai",
+      "tu combattras",
+      "il combattra",
+      "nous combattrons",
+      "vous combattrez",
+      "ils combattront"
+    ],
+    "futur antérieur": [
+      "j'aurai combattu",
+      "tu auras combattu",
+      "il aura combattu",
+      "nous aurons combattu",
+      "vous aurez combattu",
+      "ils auront combattu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je combatte",
+      "que tu combattes",
+      "qu'il combatte",
+      "que nous combattions",
+      "que vous combattiez",
+      "qu'ils combattent"
+    ],
+    "passé": [
+      "que j'aie combattu",
+      "que tu aies combattu",
+      "qu'il ait combattu",
+      "que nous ayons combattu",
+      "que vous ayez combattu",
+      "qu'ils aient combattu"
+    ],
+    "imparfait": [
+      "que je combattisse",
+      "que tu combattisses",
+      "qu'il combattît",
+      "que nous combattissions",
+      "que vous combattissiez",
+      "qu'ils combattissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse combattu",
+      "que tu eusses combattu",
+      "qu'il eût combattu",
+      "que nous eussions combattu",
+      "que vous eussiez combattu",
+      "qu'ils eussent combattu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je combattrais",
+      "tu combattrais",
+      "il combattrait",
+      "nous combattrions",
+      "vous combattriez",
+      "ils combattraient"
+    ],
+    "passé": [
+      "j'aurais combattu",
+      "tu aurais combattu",
+      "il aurait combattu",
+      "nous aurions combattu",
+      "vous auriez combattu",
+      "ils auraient combattu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "combats",
+      "combattons",
+      "combattez"
+    ],
+    "passé": [
+      "aie combattu",
+      "ayons combattu",
+      "ayez combattu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "combattre"
+    ],
+    "passé": [
+      "avoir combattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "combattant"
+    ],
+    "passé": [
+      "combattu",
+      "ayant combattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en combattant"
+    ],
+    "passé": [
+      "en ayant combattu"
+    ]
+  }
+}

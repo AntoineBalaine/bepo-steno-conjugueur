@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reluis",
+      "tu reluis",
+      "il reluit",
+      "nous reluisons",
+      "vous reluisez",
+      "ils reluisent"
+    ],
+    "passé composé": [
+      "j'ai reluit",
+      "tu as reluit",
+      "il a reluit",
+      "nous avons reluit",
+      "vous avez reluit",
+      "ils ont reluit"
+    ],
+    "imparfait": [
+      "je reluisais",
+      "tu reluisais",
+      "il reluisait",
+      "nous reluisions",
+      "vous reluisiez",
+      "ils reluisaient"
+    ],
+    "plus que parfait": [
+      "j'avais reluit",
+      "tu avais reluit",
+      "il avait reluit",
+      "nous avions reluit",
+      "vous aviez reluit",
+      "ils avaient reluit"
+    ],
+    "passé simple": [
+      "je reluisis",
+      "tu reluisis",
+      "il reluisit",
+      "nous reluisîmes",
+      "vous reluisîtes",
+      "ils reluisirent"
+    ],
+    "passé antérieur": [
+      "j'eus reluit",
+      "tu eus reluit",
+      "il eut reluit",
+      "nous eûmes reluit",
+      "vous eûtes reluit",
+      "ils eurent reluit"
+    ],
+    "futur simple": [
+      "je reluirai",
+      "tu reluiras",
+      "il reluira",
+      "nous reluirons",
+      "vous reluirez",
+      "ils reluiront"
+    ],
+    "futur antérieur": [
+      "j'aurai reluit",
+      "tu auras reluit",
+      "il aura reluit",
+      "nous aurons reluit",
+      "vous aurez reluit",
+      "ils auront reluit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reluise",
+      "que tu reluises",
+      "qu'il reluise",
+      "que nous reluisions",
+      "que vous reluisiez",
+      "qu'ils reluisent"
+    ],
+    "passé": [
+      "que j'aie reluit",
+      "que tu aies reluit",
+      "qu'il ait reluit",
+      "que nous ayons reluit",
+      "que vous ayez reluit",
+      "qu'ils aient reluit"
+    ],
+    "imparfait": [
+      "que je reluisisse",
+      "que tu reluisisses",
+      "qu'il reluisît",
+      "que nous reluisissions",
+      "que vous reluisissiez",
+      "qu'ils reluisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reluit",
+      "que tu eusses reluit",
+      "qu'il eût reluit",
+      "que nous eussions reluit",
+      "que vous eussiez reluit",
+      "qu'ils eussent reluit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reluirais",
+      "tu reluirais",
+      "il reluirait",
+      "nous reluirions",
+      "vous reluiriez",
+      "ils reluiraient"
+    ],
+    "passé": [
+      "j'aurais reluit",
+      "tu aurais reluit",
+      "il aurait reluit",
+      "nous aurions reluit",
+      "vous auriez reluit",
+      "ils auraient reluit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reluis",
+      "reluisons",
+      "reluisez"
+    ],
+    "passé": [
+      "aie reluit",
+      "ayons reluit",
+      "ayez reluit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reluire"
+    ],
+    "passé": [
+      "avoir reluit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reluisant"
+    ],
+    "passé": [
+      "reluit",
+      "ayant reluit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reluisant"
+    ],
+    "passé": [
+      "en ayant reluit"
+    ]
+  }
+}

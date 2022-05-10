@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je requiers",
+      "tu requiers",
+      "il requiert",
+      "nous requérons",
+      "vous requérez",
+      "ils requièrent"
+    ],
+    "passé composé": [
+      "j'ai requis",
+      "tu as requis",
+      "il a requis",
+      "nous avons requis",
+      "vous avez requis",
+      "ils ont requis"
+    ],
+    "imparfait": [
+      "je requérais",
+      "tu requérais",
+      "il requérait",
+      "nous requérions",
+      "vous requériez",
+      "ils requéraient"
+    ],
+    "plus que parfait": [
+      "j'avais requis",
+      "tu avais requis",
+      "il avait requis",
+      "nous avions requis",
+      "vous aviez requis",
+      "ils avaient requis"
+    ],
+    "passé simple": [
+      "je requis",
+      "tu requis",
+      "il requit",
+      "nous requîmes",
+      "vous requîtes",
+      "ils requirent"
+    ],
+    "passé antérieur": [
+      "j'eus requis",
+      "tu eus requis",
+      "il eut requis",
+      "nous eûmes requis",
+      "vous eûtes requis",
+      "ils eurent requis"
+    ],
+    "futur simple": [
+      "je requerrai",
+      "tu requerras",
+      "il requerra",
+      "nous requerrons",
+      "vous requerrez",
+      "ils requerront"
+    ],
+    "futur antérieur": [
+      "j'aurai requis",
+      "tu auras requis",
+      "il aura requis",
+      "nous aurons requis",
+      "vous aurez requis",
+      "ils auront requis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je requière",
+      "que tu requières",
+      "qu'il requière",
+      "que nous requérions",
+      "que vous requériez",
+      "qu'ils requièrent"
+    ],
+    "passé": [
+      "que j'aie requis",
+      "que tu aies requis",
+      "qu'il ait requis",
+      "que nous ayons requis",
+      "que vous ayez requis",
+      "qu'ils aient requis"
+    ],
+    "imparfait": [
+      "que je requisse",
+      "que tu requisses",
+      "qu'il requît",
+      "que nous requissions",
+      "que vous requissiez",
+      "qu'ils requissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse requis",
+      "que tu eusses requis",
+      "qu'il eût requis",
+      "que nous eussions requis",
+      "que vous eussiez requis",
+      "qu'ils eussent requis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je requerrais",
+      "tu requerrais",
+      "il requerrait",
+      "nous requerrions",
+      "vous requerriez",
+      "ils requerraient"
+    ],
+    "passé": [
+      "j'aurais requis",
+      "tu aurais requis",
+      "il aurait requis",
+      "nous aurions requis",
+      "vous auriez requis",
+      "ils auraient requis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "requiers",
+      "requérons",
+      "requérez"
+    ],
+    "passé": [
+      "aie requis",
+      "ayons requis",
+      "ayez requis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "requérir"
+    ],
+    "passé": [
+      "avoir requis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "requérant"
+    ],
+    "passé": [
+      "requis",
+      "ayant requis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en requérant"
+    ],
+    "passé": [
+      "en ayant requis"
+    ]
+  }
+}

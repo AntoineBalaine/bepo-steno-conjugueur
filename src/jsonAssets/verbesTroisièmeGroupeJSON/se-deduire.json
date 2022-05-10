@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me déduis",
+      "tu te déduis",
+      "il se déduit",
+      "nous nous déduisons",
+      "vous vous déduisez",
+      "ils se déduisent"
+    ],
+    "passé composé": [
+      "je me suis déduit",
+      "tu t'es déduit",
+      "il s'est déduit",
+      "nous nous sommes déduits",
+      "vous vous êtes déduits",
+      "ils se sont déduits"
+    ],
+    "imparfait": [
+      "je me déduisais",
+      "tu te déduisais",
+      "il se déduisait",
+      "nous nous déduisions",
+      "vous vous déduisiez",
+      "ils se déduisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais déduit",
+      "tu t'étais déduit",
+      "il s'était déduit",
+      "nous nous étions déduits",
+      "vous vous étiez déduits",
+      "ils s'étaient déduits"
+    ],
+    "passé simple": [
+      "je me déduisis",
+      "tu te déduisis",
+      "il se déduisit",
+      "nous nous déduisîmes",
+      "vous vous déduisîtes",
+      "ils se déduisirent"
+    ],
+    "passé antérieur": [
+      "je me fus déduit",
+      "tu te fus déduit",
+      "il se fut déduit",
+      "nous nous fûmes déduits",
+      "vous vous fûtes déduits",
+      "ils se furent déduits"
+    ],
+    "futur simple": [
+      "je me déduirai",
+      "tu te déduiras",
+      "il se déduira",
+      "nous nous déduirons",
+      "vous vous déduirez",
+      "ils se déduiront"
+    ],
+    "futur antérieur": [
+      "je me serai déduit",
+      "tu te seras déduit",
+      "il se sera déduit",
+      "nous nous serons déduits",
+      "vous vous serez déduits",
+      "ils se seront déduits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me déduise",
+      "que tu te déduises",
+      "qu'il se déduise",
+      "que nous nous déduisions",
+      "que vous vous déduisiez",
+      "qu'ils se déduisent"
+    ],
+    "passé": [
+      "que je me sois déduit",
+      "que tu te sois déduit",
+      "qu'il se soit déduit",
+      "que nous nous soyons déduits",
+      "que vous vous soyez déduits",
+      "qu'ils se soient déduits"
+    ],
+    "imparfait": [
+      "que je me déduisisse",
+      "que tu te déduisisses",
+      "qu'il se déduisît",
+      "que nous nous déduisissions",
+      "que vous vous déduisissiez",
+      "qu'ils se déduisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse déduit",
+      "que tu te fusses déduit",
+      "qu'il se fût déduit",
+      "que nous nous fussions déduits",
+      "que vous vous fussiez déduits",
+      "qu'ils se fussent déduits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me déduirais",
+      "tu te déduirais",
+      "il se déduirait",
+      "nous nous déduirions",
+      "vous vous déduiriez",
+      "ils se déduiraient"
+    ],
+    "passé": [
+      "je me serais déduit",
+      "tu te serais déduit",
+      "il se serait déduit",
+      "nous nous serions déduits",
+      "vous vous seriez déduits",
+      "ils se seraient déduits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déduis-toi",
+      "déduisons-nous",
+      "déduisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se déduire"
+    ],
+    "passé": [
+      "s'être déduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se déduisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant déduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se déduisant"
+    ],
+    "passé": [
+      "en s'étant déduit"
+    ]
+  }
+}

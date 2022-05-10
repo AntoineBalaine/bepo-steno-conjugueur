@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'empreins",
+      "tu t'empreins",
+      "il s'empreint",
+      "nous nous empreignons",
+      "vous vous empreignez",
+      "ils s'empreignent"
+    ],
+    "passé composé": [
+      "je me suis empreint",
+      "tu t'es empreint",
+      "il s'est empreint",
+      "nous nous sommes empreints",
+      "vous vous êtes empreints",
+      "ils se sont empreints"
+    ],
+    "imparfait": [
+      "je m'empreignais",
+      "tu t'empreignais",
+      "il s'empreignait",
+      "nous nous empreignions",
+      "vous vous empreigniez",
+      "ils s'empreignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais empreint",
+      "tu t'étais empreint",
+      "il s'était empreint",
+      "nous nous étions empreints",
+      "vous vous étiez empreints",
+      "ils s'étaient empreints"
+    ],
+    "passé simple": [
+      "je m'empreignis",
+      "tu t'empreignis",
+      "il s'empreignit",
+      "nous nous empreignîmes",
+      "vous vous empreignîtes",
+      "ils s'empreignirent"
+    ],
+    "passé antérieur": [
+      "je me fus empreint",
+      "tu te fus empreint",
+      "il se fut empreint",
+      "nous nous fûmes empreints",
+      "vous vous fûtes empreints",
+      "ils se furent empreints"
+    ],
+    "futur simple": [
+      "je m'empreindrai",
+      "tu t'empreindras",
+      "il s'empreindra",
+      "nous nous empreindrons",
+      "vous vous empreindrez",
+      "ils s'empreindront"
+    ],
+    "futur antérieur": [
+      "je me serai empreint",
+      "tu te seras empreint",
+      "il se sera empreint",
+      "nous nous serons empreints",
+      "vous vous serez empreints",
+      "ils se seront empreints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'empreigne",
+      "que tu t'empreignes",
+      "qu'il s'empreigne",
+      "que nous nous empreignions",
+      "que vous vous empreigniez",
+      "qu'ils s'empreignent"
+    ],
+    "passé": [
+      "que je me sois empreint",
+      "que tu te sois empreint",
+      "qu'il se soit empreint",
+      "que nous nous soyons empreints",
+      "que vous vous soyez empreints",
+      "qu'ils se soient empreints"
+    ],
+    "imparfait": [
+      "que je m'empreignisse",
+      "que tu t'empreignisses",
+      "qu'il s'empreignît",
+      "que nous nous empreignissions",
+      "que vous vous empreignissiez",
+      "qu'ils s'empreignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse empreint",
+      "que tu te fusses empreint",
+      "qu'il se fût empreint",
+      "que nous nous fussions empreints",
+      "que vous vous fussiez empreints",
+      "qu'ils se fussent empreints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'empreindrais",
+      "tu t'empreindrais",
+      "il s'empreindrait",
+      "nous nous empreindrions",
+      "vous vous empreindriez",
+      "ils s'empreindraient"
+    ],
+    "passé": [
+      "je me serais empreint",
+      "tu te serais empreint",
+      "il se serait empreint",
+      "nous nous serions empreints",
+      "vous vous seriez empreints",
+      "ils se seraient empreints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "empreins-toi",
+      "empreignons-nous",
+      "empreignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'empreindre"
+    ],
+    "passé": [
+      "s'être empreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'empreignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant empreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'empreignant"
+    ],
+    "passé": [
+      "en s'étant empreint"
+    ]
+  }
+}

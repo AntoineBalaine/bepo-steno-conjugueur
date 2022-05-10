@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me tais",
+      "tu te tais",
+      "il se tait",
+      "nous nous taisons",
+      "vous vous taisez",
+      "ils se taisent"
+    ],
+    "passé composé": [
+      "je me suis tu",
+      "tu t'es tu",
+      "il s'est tu",
+      "nous nous sommes tus",
+      "vous vous êtes tus",
+      "ils se sont tus"
+    ],
+    "imparfait": [
+      "je me taisais",
+      "tu te taisais",
+      "il se taisait",
+      "nous nous taisions",
+      "vous vous taisiez",
+      "ils se taisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais tu",
+      "tu t'étais tu",
+      "il s'était tu",
+      "nous nous étions tus",
+      "vous vous étiez tus",
+      "ils s'étaient tus"
+    ],
+    "passé simple": [
+      "je me tus",
+      "tu te tus",
+      "il se tut",
+      "nous nous tûmes",
+      "vous vous tûtes",
+      "ils se turent"
+    ],
+    "passé antérieur": [
+      "je me fus tu",
+      "tu te fus tu",
+      "il se fut tu",
+      "nous nous fûmes tus",
+      "vous vous fûtes tus",
+      "ils se furent tus"
+    ],
+    "futur simple": [
+      "je me tairai",
+      "tu te tairas",
+      "il se taira",
+      "nous nous tairons",
+      "vous vous tairez",
+      "ils se tairont"
+    ],
+    "futur antérieur": [
+      "je me serai tu",
+      "tu te seras tu",
+      "il se sera tu",
+      "nous nous serons tus",
+      "vous vous serez tus",
+      "ils se seront tus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me taise",
+      "que tu te taises",
+      "qu'il se taise",
+      "que nous nous taisions",
+      "que vous vous taisiez",
+      "qu'ils se taisent"
+    ],
+    "passé": [
+      "que je me sois tu",
+      "que tu te sois tu",
+      "qu'il se soit tu",
+      "que nous nous soyons tus",
+      "que vous vous soyez tus",
+      "qu'ils se soient tus"
+    ],
+    "imparfait": [
+      "que je me tusse",
+      "que tu te tusses",
+      "qu'il se tût",
+      "que nous nous tussions",
+      "que vous vous tussiez",
+      "qu'ils se tussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse tu",
+      "que tu te fusses tu",
+      "qu'il se fût tu",
+      "que nous nous fussions tus",
+      "que vous vous fussiez tus",
+      "qu'ils se fussent tus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me tairais",
+      "tu te tairais",
+      "il se tairait",
+      "nous nous tairions",
+      "vous vous tairiez",
+      "ils se tairaient"
+    ],
+    "passé": [
+      "je me serais tu",
+      "tu te serais tu",
+      "il se serait tu",
+      "nous nous serions tus",
+      "vous vous seriez tus",
+      "ils se seraient tus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tais-toi",
+      "taisons-nous",
+      "taisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se taire"
+    ],
+    "passé": [
+      "s'être tu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se taisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant tu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se taisant"
+    ],
+    "passé": [
+      "en s'étant tu"
+    ]
+  }
+}

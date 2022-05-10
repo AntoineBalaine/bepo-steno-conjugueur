@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me répands",
+      "tu te répands",
+      "il se répand",
+      "nous nous répandons",
+      "vous vous répandez",
+      "ils se répandent"
+    ],
+    "passé composé": [
+      "je me suis répandu",
+      "tu t'es répandu",
+      "il s'est répandu",
+      "nous nous sommes répandus",
+      "vous vous êtes répandus",
+      "ils se sont répandus"
+    ],
+    "imparfait": [
+      "je me répandais",
+      "tu te répandais",
+      "il se répandait",
+      "nous nous répandions",
+      "vous vous répandiez",
+      "ils se répandaient"
+    ],
+    "plus que parfait": [
+      "je m'étais répandu",
+      "tu t'étais répandu",
+      "il s'était répandu",
+      "nous nous étions répandus",
+      "vous vous étiez répandus",
+      "ils s'étaient répandus"
+    ],
+    "passé simple": [
+      "je me répandis",
+      "tu te répandis",
+      "il se répandit",
+      "nous nous répandîmes",
+      "vous vous répandîtes",
+      "ils se répandirent"
+    ],
+    "passé antérieur": [
+      "je me fus répandu",
+      "tu te fus répandu",
+      "il se fut répandu",
+      "nous nous fûmes répandus",
+      "vous vous fûtes répandus",
+      "ils se furent répandus"
+    ],
+    "futur simple": [
+      "je me répandrai",
+      "tu te répandras",
+      "il se répandra",
+      "nous nous répandrons",
+      "vous vous répandrez",
+      "ils se répandront"
+    ],
+    "futur antérieur": [
+      "je me serai répandu",
+      "tu te seras répandu",
+      "il se sera répandu",
+      "nous nous serons répandus",
+      "vous vous serez répandus",
+      "ils se seront répandus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me répande",
+      "que tu te répandes",
+      "qu'il se répande",
+      "que nous nous répandions",
+      "que vous vous répandiez",
+      "qu'ils se répandent"
+    ],
+    "passé": [
+      "que je me sois répandu",
+      "que tu te sois répandu",
+      "qu'il se soit répandu",
+      "que nous nous soyons répandus",
+      "que vous vous soyez répandus",
+      "qu'ils se soient répandus"
+    ],
+    "imparfait": [
+      "que je me répandisse",
+      "que tu te répandisses",
+      "qu'il se répandît",
+      "que nous nous répandissions",
+      "que vous vous répandissiez",
+      "qu'ils se répandissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse répandu",
+      "que tu te fusses répandu",
+      "qu'il se fût répandu",
+      "que nous nous fussions répandus",
+      "que vous vous fussiez répandus",
+      "qu'ils se fussent répandus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me répandrais",
+      "tu te répandrais",
+      "il se répandrait",
+      "nous nous répandrions",
+      "vous vous répandriez",
+      "ils se répandraient"
+    ],
+    "passé": [
+      "je me serais répandu",
+      "tu te serais répandu",
+      "il se serait répandu",
+      "nous nous serions répandus",
+      "vous vous seriez répandus",
+      "ils se seraient répandus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "répands-toi",
+      "répandons-nous",
+      "répandez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se répandre"
+    ],
+    "passé": [
+      "s'être répandu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se répandant"
+    ],
+    "passé": [
+      "-",
+      "s'étant répandu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se répandant"
+    ],
+    "passé": [
+      "en s'étant répandu"
+    ]
+  }
+}

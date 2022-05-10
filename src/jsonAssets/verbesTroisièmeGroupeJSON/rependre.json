@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je repends",
+      "tu repends",
+      "il repend",
+      "nous rependons",
+      "vous rependez",
+      "ils rependent"
+    ],
+    "passé composé": [
+      "j'ai rependu",
+      "tu as rependu",
+      "il a rependu",
+      "nous avons rependu",
+      "vous avez rependu",
+      "ils ont rependu"
+    ],
+    "imparfait": [
+      "je rependais",
+      "tu rependais",
+      "il rependait",
+      "nous rependions",
+      "vous rependiez",
+      "ils rependaient"
+    ],
+    "plus que parfait": [
+      "j'avais rependu",
+      "tu avais rependu",
+      "il avait rependu",
+      "nous avions rependu",
+      "vous aviez rependu",
+      "ils avaient rependu"
+    ],
+    "passé simple": [
+      "je rependis",
+      "tu rependis",
+      "il rependit",
+      "nous rependîmes",
+      "vous rependîtes",
+      "ils rependirent"
+    ],
+    "passé antérieur": [
+      "j'eus rependu",
+      "tu eus rependu",
+      "il eut rependu",
+      "nous eûmes rependu",
+      "vous eûtes rependu",
+      "ils eurent rependu"
+    ],
+    "futur simple": [
+      "je rependrai",
+      "tu rependras",
+      "il rependra",
+      "nous rependrons",
+      "vous rependrez",
+      "ils rependront"
+    ],
+    "futur antérieur": [
+      "j'aurai rependu",
+      "tu auras rependu",
+      "il aura rependu",
+      "nous aurons rependu",
+      "vous aurez rependu",
+      "ils auront rependu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je repende",
+      "que tu rependes",
+      "qu'il repende",
+      "que nous rependions",
+      "que vous rependiez",
+      "qu'ils rependent"
+    ],
+    "passé": [
+      "que j'aie rependu",
+      "que tu aies rependu",
+      "qu'il ait rependu",
+      "que nous ayons rependu",
+      "que vous ayez rependu",
+      "qu'ils aient rependu"
+    ],
+    "imparfait": [
+      "que je rependisse",
+      "que tu rependisses",
+      "qu'il rependît",
+      "que nous rependissions",
+      "que vous rependissiez",
+      "qu'ils rependissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rependu",
+      "que tu eusses rependu",
+      "qu'il eût rependu",
+      "que nous eussions rependu",
+      "que vous eussiez rependu",
+      "qu'ils eussent rependu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rependrais",
+      "tu rependrais",
+      "il rependrait",
+      "nous rependrions",
+      "vous rependriez",
+      "ils rependraient"
+    ],
+    "passé": [
+      "j'aurais rependu",
+      "tu aurais rependu",
+      "il aurait rependu",
+      "nous aurions rependu",
+      "vous auriez rependu",
+      "ils auraient rependu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "repends",
+      "rependons",
+      "rependez"
+    ],
+    "passé": [
+      "aie rependu",
+      "ayons rependu",
+      "ayez rependu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rependre"
+    ],
+    "passé": [
+      "avoir rependu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rependant"
+    ],
+    "passé": [
+      "rependu",
+      "ayant rependu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rependant"
+    ],
+    "passé": [
+      "en ayant rependu"
+    ]
+  }
+}

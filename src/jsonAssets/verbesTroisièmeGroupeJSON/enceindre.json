@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'enceins",
+      "tu enceins",
+      "il enceint",
+      "nous enceignons",
+      "vous enceignez",
+      "ils enceignent"
+    ],
+    "passé composé": [
+      "j'ai enceint",
+      "tu as enceint",
+      "il a enceint",
+      "nous avons enceint",
+      "vous avez enceint",
+      "ils ont enceint"
+    ],
+    "imparfait": [
+      "j'enceignais",
+      "tu enceignais",
+      "il enceignait",
+      "nous enceignions",
+      "vous enceigniez",
+      "ils enceignaient"
+    ],
+    "plus que parfait": [
+      "j'avais enceint",
+      "tu avais enceint",
+      "il avait enceint",
+      "nous avions enceint",
+      "vous aviez enceint",
+      "ils avaient enceint"
+    ],
+    "passé simple": [
+      "j'enceignis",
+      "tu enceignis",
+      "il enceignit",
+      "nous enceignîmes",
+      "vous enceignîtes",
+      "ils enceignirent"
+    ],
+    "passé antérieur": [
+      "j'eus enceint",
+      "tu eus enceint",
+      "il eut enceint",
+      "nous eûmes enceint",
+      "vous eûtes enceint",
+      "ils eurent enceint"
+    ],
+    "futur simple": [
+      "j'enceindrai",
+      "tu enceindras",
+      "il enceindra",
+      "nous enceindrons",
+      "vous enceindrez",
+      "ils enceindront"
+    ],
+    "futur antérieur": [
+      "j'aurai enceint",
+      "tu auras enceint",
+      "il aura enceint",
+      "nous aurons enceint",
+      "vous aurez enceint",
+      "ils auront enceint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'enceigne",
+      "que tu enceignes",
+      "qu'il enceigne",
+      "que nous enceignions",
+      "que vous enceigniez",
+      "qu'ils enceignent"
+    ],
+    "passé": [
+      "que j'aie enceint",
+      "que tu aies enceint",
+      "qu'il ait enceint",
+      "que nous ayons enceint",
+      "que vous ayez enceint",
+      "qu'ils aient enceint"
+    ],
+    "imparfait": [
+      "que j'enceignisse",
+      "que tu enceignisses",
+      "qu'il enceignît",
+      "que nous enceignissions",
+      "que vous enceignissiez",
+      "qu'ils enceignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse enceint",
+      "que tu eusses enceint",
+      "qu'il eût enceint",
+      "que nous eussions enceint",
+      "que vous eussiez enceint",
+      "qu'ils eussent enceint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'enceindrais",
+      "tu enceindrais",
+      "il enceindrait",
+      "nous enceindrions",
+      "vous enceindriez",
+      "ils enceindraient"
+    ],
+    "passé": [
+      "j'aurais enceint",
+      "tu aurais enceint",
+      "il aurait enceint",
+      "nous aurions enceint",
+      "vous auriez enceint",
+      "ils auraient enceint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "enceins",
+      "enceignons",
+      "enceignez"
+    ],
+    "passé": [
+      "aie enceint",
+      "ayons enceint",
+      "ayez enceint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "enceindre"
+    ],
+    "passé": [
+      "avoir enceint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "enceignant"
+    ],
+    "passé": [
+      "enceint",
+      "ayant enceint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en enceignant"
+    ],
+    "passé": [
+      "en ayant enceint"
+    ]
+  }
+}

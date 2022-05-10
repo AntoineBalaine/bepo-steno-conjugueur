@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je cueille",
+      "tu cueilles",
+      "il cueille",
+      "nous cueillons",
+      "vous cueillez",
+      "ils cueillent"
+    ],
+    "passé composé": [
+      "j'ai cueilli",
+      "tu as cueilli",
+      "il a cueilli",
+      "nous avons cueilli",
+      "vous avez cueilli",
+      "ils ont cueilli"
+    ],
+    "imparfait": [
+      "je cueillais",
+      "tu cueillais",
+      "il cueillait",
+      "nous cueillions",
+      "vous cueilliez",
+      "ils cueillaient"
+    ],
+    "plus que parfait": [
+      "j'avais cueilli",
+      "tu avais cueilli",
+      "il avait cueilli",
+      "nous avions cueilli",
+      "vous aviez cueilli",
+      "ils avaient cueilli"
+    ],
+    "passé simple": [
+      "je cueillis",
+      "tu cueillis",
+      "il cueillit",
+      "nous cueillîmes",
+      "vous cueillîtes",
+      "ils cueillirent"
+    ],
+    "passé antérieur": [
+      "j'eus cueilli",
+      "tu eus cueilli",
+      "il eut cueilli",
+      "nous eûmes cueilli",
+      "vous eûtes cueilli",
+      "ils eurent cueilli"
+    ],
+    "futur simple": [
+      "je cueillerai",
+      "tu cueilleras",
+      "il cueillera",
+      "nous cueillerons",
+      "vous cueillerez",
+      "ils cueilleront"
+    ],
+    "futur antérieur": [
+      "j'aurai cueilli",
+      "tu auras cueilli",
+      "il aura cueilli",
+      "nous aurons cueilli",
+      "vous aurez cueilli",
+      "ils auront cueilli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je cueille",
+      "que tu cueilles",
+      "qu'il cueille",
+      "que nous cueillions",
+      "que vous cueilliez",
+      "qu'ils cueillent"
+    ],
+    "passé": [
+      "que j'aie cueilli",
+      "que tu aies cueilli",
+      "qu'il ait cueilli",
+      "que nous ayons cueilli",
+      "que vous ayez cueilli",
+      "qu'ils aient cueilli"
+    ],
+    "imparfait": [
+      "que je cueillisse",
+      "que tu cueillisses",
+      "qu'il cueillît",
+      "que nous cueillissions",
+      "que vous cueillissiez",
+      "qu'ils cueillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse cueilli",
+      "que tu eusses cueilli",
+      "qu'il eût cueilli",
+      "que nous eussions cueilli",
+      "que vous eussiez cueilli",
+      "qu'ils eussent cueilli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je cueillerais",
+      "tu cueillerais",
+      "il cueillerait",
+      "nous cueillerions",
+      "vous cueilleriez",
+      "ils cueilleraient"
+    ],
+    "passé": [
+      "j'aurais cueilli",
+      "tu aurais cueilli",
+      "il aurait cueilli",
+      "nous aurions cueilli",
+      "vous auriez cueilli",
+      "ils auraient cueilli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "cueille",
+      "cueillons",
+      "cueillez"
+    ],
+    "passé": [
+      "aie cueilli",
+      "ayons cueilli",
+      "ayez cueilli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "cueillir"
+    ],
+    "passé": [
+      "avoir cueilli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "cueillant"
+    ],
+    "passé": [
+      "cueilli",
+      "ayant cueilli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en cueillant"
+    ],
+    "passé": [
+      "en ayant cueilli"
+    ]
+  }
+}

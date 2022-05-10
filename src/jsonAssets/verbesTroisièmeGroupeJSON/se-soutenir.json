@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me soutiens",
+      "tu te soutiens",
+      "il se soutient",
+      "nous nous soutenons",
+      "vous vous soutenez",
+      "ils se soutiennent"
+    ],
+    "passé composé": [
+      "je me suis soutenu",
+      "tu t'es soutenu",
+      "il s'est soutenu",
+      "nous nous sommes soutenus",
+      "vous vous êtes soutenus",
+      "ils se sont soutenus"
+    ],
+    "imparfait": [
+      "je me soutenais",
+      "tu te soutenais",
+      "il se soutenait",
+      "nous nous soutenions",
+      "vous vous souteniez",
+      "ils se soutenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais soutenu",
+      "tu t'étais soutenu",
+      "il s'était soutenu",
+      "nous nous étions soutenus",
+      "vous vous étiez soutenus",
+      "ils s'étaient soutenus"
+    ],
+    "passé simple": [
+      "je me soutins",
+      "tu te soutins",
+      "il se soutint",
+      "nous nous soutînmes",
+      "vous vous soutîntes",
+      "ils se soutinrent"
+    ],
+    "passé antérieur": [
+      "je me fus soutenu",
+      "tu te fus soutenu",
+      "il se fut soutenu",
+      "nous nous fûmes soutenus",
+      "vous vous fûtes soutenus",
+      "ils se furent soutenus"
+    ],
+    "futur simple": [
+      "je me soutiendrai",
+      "tu te soutiendras",
+      "il se soutiendra",
+      "nous nous soutiendrons",
+      "vous vous soutiendrez",
+      "ils se soutiendront"
+    ],
+    "futur antérieur": [
+      "je me serai soutenu",
+      "tu te seras soutenu",
+      "il se sera soutenu",
+      "nous nous serons soutenus",
+      "vous vous serez soutenus",
+      "ils se seront soutenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me soutienne",
+      "que tu te soutiennes",
+      "qu'il se soutienne",
+      "que nous nous soutenions",
+      "que vous vous souteniez",
+      "qu'ils se soutiennent"
+    ],
+    "passé": [
+      "que je me sois soutenu",
+      "que tu te sois soutenu",
+      "qu'il se soit soutenu",
+      "que nous nous soyons soutenus",
+      "que vous vous soyez soutenus",
+      "qu'ils se soient soutenus"
+    ],
+    "imparfait": [
+      "que je me soutinsse",
+      "que tu te soutinsses",
+      "qu'il se soutînt",
+      "que nous nous soutinssions",
+      "que vous vous soutinssiez",
+      "qu'ils se soutinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse soutenu",
+      "que tu te fusses soutenu",
+      "qu'il se fût soutenu",
+      "que nous nous fussions soutenus",
+      "que vous vous fussiez soutenus",
+      "qu'ils se fussent soutenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me soutiendrais",
+      "tu te soutiendrais",
+      "il se soutiendrait",
+      "nous nous soutiendrions",
+      "vous vous soutiendriez",
+      "ils se soutiendraient"
+    ],
+    "passé": [
+      "je me serais soutenu",
+      "tu te serais soutenu",
+      "il se serait soutenu",
+      "nous nous serions soutenus",
+      "vous vous seriez soutenus",
+      "ils se seraient soutenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "soutiens-toi",
+      "soutenons-nous",
+      "soutenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se soutenir"
+    ],
+    "passé": [
+      "s'être soutenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se soutenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant soutenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se soutenant"
+    ],
+    "passé": [
+      "en s'étant soutenu"
+    ]
+  }
+}

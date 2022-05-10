@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dissous",
+      "tu dissous",
+      "il dissout",
+      "nous dissolvons",
+      "vous dissolvez",
+      "ils dissolvent"
+    ],
+    "passé composé": [
+      "j'ai dissout",
+      "tu as dissout",
+      "il a dissout",
+      "nous avons dissout",
+      "vous avez dissout",
+      "ils ont dissout"
+    ],
+    "imparfait": [
+      "je dissolvais",
+      "tu dissolvais",
+      "il dissolvait",
+      "nous dissolvions",
+      "vous dissolviez",
+      "ils dissolvaient"
+    ],
+    "plus que parfait": [
+      "j'avais dissout",
+      "tu avais dissout",
+      "il avait dissout",
+      "nous avions dissout",
+      "vous aviez dissout",
+      "ils avaient dissout"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus dissout",
+      "tu eus dissout",
+      "il eut dissout",
+      "nous eûmes dissout",
+      "vous eûtes dissout",
+      "ils eurent dissout"
+    ],
+    "futur simple": [
+      "je dissoudrai",
+      "tu dissoudras",
+      "il dissoudra",
+      "nous dissoudrons",
+      "vous dissoudrez",
+      "ils dissoudront"
+    ],
+    "futur antérieur": [
+      "j'aurai dissout",
+      "tu auras dissout",
+      "il aura dissout",
+      "nous aurons dissout",
+      "vous aurez dissout",
+      "ils auront dissout"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je dissolve",
+      "que tu dissolves",
+      "qu'il dissolve",
+      "que nous dissolvions",
+      "que vous dissolviez",
+      "qu'ils dissolvent"
+    ],
+    "passé": [
+      "que j'aie dissout",
+      "que tu aies dissout",
+      "qu'il ait dissout",
+      "que nous ayons dissout",
+      "que vous ayez dissout",
+      "qu'ils aient dissout"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse dissout",
+      "que tu eusses dissout",
+      "qu'il eût dissout",
+      "que nous eussions dissout",
+      "que vous eussiez dissout",
+      "qu'ils eussent dissout"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je dissoudrais",
+      "tu dissoudrais",
+      "il dissoudrait",
+      "nous dissoudrions",
+      "vous dissoudriez",
+      "ils dissoudraient"
+    ],
+    "passé": [
+      "j'aurais dissout",
+      "tu aurais dissout",
+      "il aurait dissout",
+      "nous aurions dissout",
+      "vous auriez dissout",
+      "ils auraient dissout"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dissous",
+      "dissolvons",
+      "dissolvez"
+    ],
+    "passé": [
+      "aie dissout",
+      "ayons dissout",
+      "ayez dissout"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "dissoudre"
+    ],
+    "passé": [
+      "avoir dissout"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "dissolvant"
+    ],
+    "passé": [
+      "dissout",
+      "ayant dissout"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en dissolvant"
+    ],
+    "passé": [
+      "en ayant dissout"
+    ]
+  }
+}

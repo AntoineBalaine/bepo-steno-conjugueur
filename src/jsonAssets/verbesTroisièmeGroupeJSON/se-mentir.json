@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me mens",
+      "tu te mens",
+      "il se ment",
+      "nous nous mentons",
+      "vous vous mentez",
+      "ils se mentent"
+    ],
+    "passé composé": [
+      "je me suis menti",
+      "tu t'es menti",
+      "il s'est menti",
+      "nous nous sommes menti",
+      "vous vous êtes menti",
+      "ils se sont menti"
+    ],
+    "imparfait": [
+      "je me mentais",
+      "tu te mentais",
+      "il se mentait",
+      "nous nous mentions",
+      "vous vous mentiez",
+      "ils se mentaient"
+    ],
+    "plus que parfait": [
+      "je m'étais menti",
+      "tu t'étais menti",
+      "il s'était menti",
+      "nous nous étions menti",
+      "vous vous étiez menti",
+      "ils s'étaient menti"
+    ],
+    "passé simple": [
+      "je me mentis",
+      "tu te mentis",
+      "il se mentit",
+      "nous nous mentîmes",
+      "vous vous mentîtes",
+      "ils se mentirent"
+    ],
+    "passé antérieur": [
+      "je me fus menti",
+      "tu te fus menti",
+      "il se fut menti",
+      "nous nous fûmes menti",
+      "vous vous fûtes menti",
+      "ils se furent menti"
+    ],
+    "futur simple": [
+      "je me mentirai",
+      "tu te mentiras",
+      "il se mentira",
+      "nous nous mentirons",
+      "vous vous mentirez",
+      "ils se mentiront"
+    ],
+    "futur antérieur": [
+      "je me serai menti",
+      "tu te seras menti",
+      "il se sera menti",
+      "nous nous serons menti",
+      "vous vous serez menti",
+      "ils se seront menti"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me mente",
+      "que tu te mentes",
+      "qu'il se mente",
+      "que nous nous mentions",
+      "que vous vous mentiez",
+      "qu'ils se mentent"
+    ],
+    "passé": [
+      "que je me sois menti",
+      "que tu te sois menti",
+      "qu'il se soit menti",
+      "que nous nous soyons menti",
+      "que vous vous soyez menti",
+      "qu'ils se soient menti"
+    ],
+    "imparfait": [
+      "que je me mentisse",
+      "que tu te mentisses",
+      "qu'il se mentît",
+      "que nous nous mentissions",
+      "que vous vous mentissiez",
+      "qu'ils se mentissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse menti",
+      "que tu te fusses menti",
+      "qu'il se fût menti",
+      "que nous nous fussions menti",
+      "que vous vous fussiez menti",
+      "qu'ils se fussent menti"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me mentirais",
+      "tu te mentirais",
+      "il se mentirait",
+      "nous nous mentirions",
+      "vous vous mentiriez",
+      "ils se mentiraient"
+    ],
+    "passé": [
+      "je me serais menti",
+      "tu te serais menti",
+      "il se serait menti",
+      "nous nous serions menti",
+      "vous vous seriez menti",
+      "ils se seraient menti"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mens-toi",
+      "mentons-nous",
+      "mentez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se mentir"
+    ],
+    "passé": [
+      "s'être menti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se mentant"
+    ],
+    "passé": [
+      "-",
+      "s'étant menti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se mentant"
+    ],
+    "passé": [
+      "en s'étant menti"
+    ]
+  }
+}

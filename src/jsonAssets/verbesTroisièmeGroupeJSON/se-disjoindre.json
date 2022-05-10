@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me disjoins",
+      "tu te disjoins",
+      "il se disjoint",
+      "nous nous disjoignons",
+      "vous vous disjoignez",
+      "ils se disjoignent"
+    ],
+    "passé composé": [
+      "je me suis disjoint",
+      "tu t'es disjoint",
+      "il s'est disjoint",
+      "nous nous sommes disjoints",
+      "vous vous êtes disjoints",
+      "ils se sont disjoints"
+    ],
+    "imparfait": [
+      "je me disjoignais",
+      "tu te disjoignais",
+      "il se disjoignait",
+      "nous nous disjoignions",
+      "vous vous disjoigniez",
+      "ils se disjoignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais disjoint",
+      "tu t'étais disjoint",
+      "il s'était disjoint",
+      "nous nous étions disjoints",
+      "vous vous étiez disjoints",
+      "ils s'étaient disjoints"
+    ],
+    "passé simple": [
+      "je me disjoignis",
+      "tu te disjoignis",
+      "il se disjoignit",
+      "nous nous disjoignîmes",
+      "vous vous disjoignîtes",
+      "ils se disjoignirent"
+    ],
+    "passé antérieur": [
+      "je me fus disjoint",
+      "tu te fus disjoint",
+      "il se fut disjoint",
+      "nous nous fûmes disjoints",
+      "vous vous fûtes disjoints",
+      "ils se furent disjoints"
+    ],
+    "futur simple": [
+      "je me disjoindrai",
+      "tu te disjoindras",
+      "il se disjoindra",
+      "nous nous disjoindrons",
+      "vous vous disjoindrez",
+      "ils se disjoindront"
+    ],
+    "futur antérieur": [
+      "je me serai disjoint",
+      "tu te seras disjoint",
+      "il se sera disjoint",
+      "nous nous serons disjoints",
+      "vous vous serez disjoints",
+      "ils se seront disjoints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me disjoigne",
+      "que tu te disjoignes",
+      "qu'il se disjoigne",
+      "que nous nous disjoignions",
+      "que vous vous disjoigniez",
+      "qu'ils se disjoignent"
+    ],
+    "passé": [
+      "que je me sois disjoint",
+      "que tu te sois disjoint",
+      "qu'il se soit disjoint",
+      "que nous nous soyons disjoints",
+      "que vous vous soyez disjoints",
+      "qu'ils se soient disjoints"
+    ],
+    "imparfait": [
+      "que je me disjoignisse",
+      "que tu te disjoignisses",
+      "qu'il se disjoignît",
+      "que nous nous disjoignissions",
+      "que vous vous disjoignissiez",
+      "qu'ils se disjoignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse disjoint",
+      "que tu te fusses disjoint",
+      "qu'il se fût disjoint",
+      "que nous nous fussions disjoints",
+      "que vous vous fussiez disjoints",
+      "qu'ils se fussent disjoints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me disjoindrais",
+      "tu te disjoindrais",
+      "il se disjoindrait",
+      "nous nous disjoindrions",
+      "vous vous disjoindriez",
+      "ils se disjoindraient"
+    ],
+    "passé": [
+      "je me serais disjoint",
+      "tu te serais disjoint",
+      "il se serait disjoint",
+      "nous nous serions disjoints",
+      "vous vous seriez disjoints",
+      "ils se seraient disjoints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "disjoins-toi",
+      "disjoignons-nous",
+      "disjoignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se disjoindre"
+    ],
+    "passé": [
+      "s'être disjoint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se disjoignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant disjoint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se disjoignant"
+    ],
+    "passé": [
+      "en s'étant disjoint"
+    ]
+  }
+}

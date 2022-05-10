@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me tords",
+      "tu te tords",
+      "il se tord",
+      "nous nous tordons",
+      "vous vous tordez",
+      "ils se tordent"
+    ],
+    "passé composé": [
+      "je me suis tordu",
+      "tu t'es tordu",
+      "il s'est tordu",
+      "nous nous sommes tordus",
+      "vous vous êtes tordus",
+      "ils se sont tordus"
+    ],
+    "imparfait": [
+      "je me tordais",
+      "tu te tordais",
+      "il se tordait",
+      "nous nous tordions",
+      "vous vous tordiez",
+      "ils se tordaient"
+    ],
+    "plus que parfait": [
+      "je m'étais tordu",
+      "tu t'étais tordu",
+      "il s'était tordu",
+      "nous nous étions tordus",
+      "vous vous étiez tordus",
+      "ils s'étaient tordus"
+    ],
+    "passé simple": [
+      "je me tordis",
+      "tu te tordis",
+      "il se tordit",
+      "nous nous tordîmes",
+      "vous vous tordîtes",
+      "ils se tordirent"
+    ],
+    "passé antérieur": [
+      "je me fus tordu",
+      "tu te fus tordu",
+      "il se fut tordu",
+      "nous nous fûmes tordus",
+      "vous vous fûtes tordus",
+      "ils se furent tordus"
+    ],
+    "futur simple": [
+      "je me tordrai",
+      "tu te tordras",
+      "il se tordra",
+      "nous nous tordrons",
+      "vous vous tordrez",
+      "ils se tordront"
+    ],
+    "futur antérieur": [
+      "je me serai tordu",
+      "tu te seras tordu",
+      "il se sera tordu",
+      "nous nous serons tordus",
+      "vous vous serez tordus",
+      "ils se seront tordus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me torde",
+      "que tu te tordes",
+      "qu'il se torde",
+      "que nous nous tordions",
+      "que vous vous tordiez",
+      "qu'ils se tordent"
+    ],
+    "passé": [
+      "que je me sois tordu",
+      "que tu te sois tordu",
+      "qu'il se soit tordu",
+      "que nous nous soyons tordus",
+      "que vous vous soyez tordus",
+      "qu'ils se soient tordus"
+    ],
+    "imparfait": [
+      "que je me tordisse",
+      "que tu te tordisses",
+      "qu'il se tordît",
+      "que nous nous tordissions",
+      "que vous vous tordissiez",
+      "qu'ils se tordissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse tordu",
+      "que tu te fusses tordu",
+      "qu'il se fût tordu",
+      "que nous nous fussions tordus",
+      "que vous vous fussiez tordus",
+      "qu'ils se fussent tordus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me tordrais",
+      "tu te tordrais",
+      "il se tordrait",
+      "nous nous tordrions",
+      "vous vous tordriez",
+      "ils se tordraient"
+    ],
+    "passé": [
+      "je me serais tordu",
+      "tu te serais tordu",
+      "il se serait tordu",
+      "nous nous serions tordus",
+      "vous vous seriez tordus",
+      "ils se seraient tordus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tords-toi",
+      "tordons-nous",
+      "tordez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se tordre"
+    ],
+    "passé": [
+      "s'être tordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se tordant"
+    ],
+    "passé": [
+      "-",
+      "s'étant tordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se tordant"
+    ],
+    "passé": [
+      "en s'étant tordu"
+    ]
+  }
+}

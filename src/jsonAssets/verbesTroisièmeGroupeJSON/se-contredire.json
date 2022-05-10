@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me contredis",
+      "tu te contredis",
+      "il se contredit",
+      "nous nous contredisons",
+      "vous vous contredites",
+      "ils se contredisent"
+    ],
+    "passé composé": [
+      "je me suis contredit",
+      "tu t'es contredit",
+      "il s'est contredit",
+      "nous nous sommes contredits",
+      "vous vous êtes contredits",
+      "ils se sont contredits"
+    ],
+    "imparfait": [
+      "je me contredisais",
+      "tu te contredisais",
+      "il se contredisait",
+      "nous nous contredisions",
+      "vous vous contredisiez",
+      "ils se contredisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais contredit",
+      "tu t'étais contredit",
+      "il s'était contredit",
+      "nous nous étions contredits",
+      "vous vous étiez contredits",
+      "ils s'étaient contredits"
+    ],
+    "passé simple": [
+      "je me contredis",
+      "tu te contredis",
+      "il se contredit",
+      "nous nous contredîmes",
+      "vous vous contredîtes",
+      "ils se contredirent"
+    ],
+    "passé antérieur": [
+      "je me fus contredit",
+      "tu te fus contredit",
+      "il se fut contredit",
+      "nous nous fûmes contredits",
+      "vous vous fûtes contredits",
+      "ils se furent contredits"
+    ],
+    "futur simple": [
+      "je me contredirai",
+      "tu te contrediras",
+      "il se contredira",
+      "nous nous contredirons",
+      "vous vous contredirez",
+      "ils se contrediront"
+    ],
+    "futur antérieur": [
+      "je me serai contredit",
+      "tu te seras contredit",
+      "il se sera contredit",
+      "nous nous serons contredits",
+      "vous vous serez contredits",
+      "ils se seront contredits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me contredise",
+      "que tu te contredises",
+      "qu'il se contredise",
+      "que nous nous contredisions",
+      "que vous vous contredisiez",
+      "qu'ils se contredisent"
+    ],
+    "passé": [
+      "que je me sois contredit",
+      "que tu te sois contredit",
+      "qu'il se soit contredit",
+      "que nous nous soyons contredits",
+      "que vous vous soyez contredits",
+      "qu'ils se soient contredits"
+    ],
+    "imparfait": [
+      "que je me contredisse",
+      "que tu te contredisses",
+      "qu'il se contredît",
+      "que nous nous contredissions",
+      "que vous vous contredissiez",
+      "qu'ils se contredissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse contredit",
+      "que tu te fusses contredit",
+      "qu'il se fût contredit",
+      "que nous nous fussions contredits",
+      "que vous vous fussiez contredits",
+      "qu'ils se fussent contredits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me contredirais",
+      "tu te contredirais",
+      "il se contredirait",
+      "nous nous contredirions",
+      "vous vous contrediriez",
+      "ils se contrediraient"
+    ],
+    "passé": [
+      "je me serais contredit",
+      "tu te serais contredit",
+      "il se serait contredit",
+      "nous nous serions contredits",
+      "vous vous seriez contredits",
+      "ils se seraient contredits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contredis-toi",
+      "contredisons-nous",
+      "contredites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se contredire"
+    ],
+    "passé": [
+      "s'être contredit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se contredisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant contredit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se contredisant"
+    ],
+    "passé": [
+      "en s'étant contredit"
+    ]
+  }
+}

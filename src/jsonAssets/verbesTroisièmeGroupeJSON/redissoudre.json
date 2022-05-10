@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je redissous",
+      "tu redissous",
+      "il redissout",
+      "nous redissolvons",
+      "vous redissolvez",
+      "ils redissolvent"
+    ],
+    "passé composé": [
+      "j'ai redissout",
+      "tu as redissout",
+      "il a redissout",
+      "nous avons redissout",
+      "vous avez redissout",
+      "ils ont redissout"
+    ],
+    "imparfait": [
+      "je redissolvais",
+      "tu redissolvais",
+      "il redissolvait",
+      "nous redissolvions",
+      "vous redissolviez",
+      "ils redissolvaient"
+    ],
+    "plus que parfait": [
+      "j'avais redissout",
+      "tu avais redissout",
+      "il avait redissout",
+      "nous avions redissout",
+      "vous aviez redissout",
+      "ils avaient redissout"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus redissout",
+      "tu eus redissout",
+      "il eut redissout",
+      "nous eûmes redissout",
+      "vous eûtes redissout",
+      "ils eurent redissout"
+    ],
+    "futur simple": [
+      "je redissoudrai",
+      "tu redissoudras",
+      "il redissoudra",
+      "nous redissoudrons",
+      "vous redissoudrez",
+      "ils redissoudront"
+    ],
+    "futur antérieur": [
+      "j'aurai redissout",
+      "tu auras redissout",
+      "il aura redissout",
+      "nous aurons redissout",
+      "vous aurez redissout",
+      "ils auront redissout"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je redissolve",
+      "que tu redissolves",
+      "qu'il redissolve",
+      "que nous redissolvions",
+      "que vous redissolviez",
+      "qu'ils redissolvent"
+    ],
+    "passé": [
+      "que j'aie redissout",
+      "que tu aies redissout",
+      "qu'il ait redissout",
+      "que nous ayons redissout",
+      "que vous ayez redissout",
+      "qu'ils aient redissout"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse redissout",
+      "que tu eusses redissout",
+      "qu'il eût redissout",
+      "que nous eussions redissout",
+      "que vous eussiez redissout",
+      "qu'ils eussent redissout"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je redissoudrais",
+      "tu redissoudrais",
+      "il redissoudrait",
+      "nous redissoudrions",
+      "vous redissoudriez",
+      "ils redissoudraient"
+    ],
+    "passé": [
+      "j'aurais redissout",
+      "tu aurais redissout",
+      "il aurait redissout",
+      "nous aurions redissout",
+      "vous auriez redissout",
+      "ils auraient redissout"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "redissous",
+      "redissolvons",
+      "redissolvez"
+    ],
+    "passé": [
+      "aie redissout",
+      "ayons redissout",
+      "ayez redissout"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "redissoudre"
+    ],
+    "passé": [
+      "avoir redissout"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "redissolvant"
+    ],
+    "passé": [
+      "redissout",
+      "ayant redissout"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en redissolvant"
+    ],
+    "passé": [
+      "en ayant redissout"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'enfreins",
+      "tu enfreins",
+      "il enfreint",
+      "nous enfreignons",
+      "vous enfreignez",
+      "ils enfreignent"
+    ],
+    "passé composé": [
+      "j'ai enfreint",
+      "tu as enfreint",
+      "il a enfreint",
+      "nous avons enfreint",
+      "vous avez enfreint",
+      "ils ont enfreint"
+    ],
+    "imparfait": [
+      "j'enfreignais",
+      "tu enfreignais",
+      "il enfreignait",
+      "nous enfreignions",
+      "vous enfreigniez",
+      "ils enfreignaient"
+    ],
+    "plus que parfait": [
+      "j'avais enfreint",
+      "tu avais enfreint",
+      "il avait enfreint",
+      "nous avions enfreint",
+      "vous aviez enfreint",
+      "ils avaient enfreint"
+    ],
+    "passé simple": [
+      "j'enfreignis",
+      "tu enfreignis",
+      "il enfreignit",
+      "nous enfreignîmes",
+      "vous enfreignîtes",
+      "ils enfreignirent"
+    ],
+    "passé antérieur": [
+      "j'eus enfreint",
+      "tu eus enfreint",
+      "il eut enfreint",
+      "nous eûmes enfreint",
+      "vous eûtes enfreint",
+      "ils eurent enfreint"
+    ],
+    "futur simple": [
+      "j'enfreindrai",
+      "tu enfreindras",
+      "il enfreindra",
+      "nous enfreindrons",
+      "vous enfreindrez",
+      "ils enfreindront"
+    ],
+    "futur antérieur": [
+      "j'aurai enfreint",
+      "tu auras enfreint",
+      "il aura enfreint",
+      "nous aurons enfreint",
+      "vous aurez enfreint",
+      "ils auront enfreint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'enfreigne",
+      "que tu enfreignes",
+      "qu'il enfreigne",
+      "que nous enfreignions",
+      "que vous enfreigniez",
+      "qu'ils enfreignent"
+    ],
+    "passé": [
+      "que j'aie enfreint",
+      "que tu aies enfreint",
+      "qu'il ait enfreint",
+      "que nous ayons enfreint",
+      "que vous ayez enfreint",
+      "qu'ils aient enfreint"
+    ],
+    "imparfait": [
+      "que j'enfreignisse",
+      "que tu enfreignisses",
+      "qu'il enfreignît",
+      "que nous enfreignissions",
+      "que vous enfreignissiez",
+      "qu'ils enfreignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse enfreint",
+      "que tu eusses enfreint",
+      "qu'il eût enfreint",
+      "que nous eussions enfreint",
+      "que vous eussiez enfreint",
+      "qu'ils eussent enfreint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'enfreindrais",
+      "tu enfreindrais",
+      "il enfreindrait",
+      "nous enfreindrions",
+      "vous enfreindriez",
+      "ils enfreindraient"
+    ],
+    "passé": [
+      "j'aurais enfreint",
+      "tu aurais enfreint",
+      "il aurait enfreint",
+      "nous aurions enfreint",
+      "vous auriez enfreint",
+      "ils auraient enfreint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "enfreins",
+      "enfreignons",
+      "enfreignez"
+    ],
+    "passé": [
+      "aie enfreint",
+      "ayons enfreint",
+      "ayez enfreint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "enfreindre"
+    ],
+    "passé": [
+      "avoir enfreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "enfreignant"
+    ],
+    "passé": [
+      "enfreint",
+      "ayant enfreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en enfreignant"
+    ],
+    "passé": [
+      "en ayant enfreint"
+    ]
+  }
+}

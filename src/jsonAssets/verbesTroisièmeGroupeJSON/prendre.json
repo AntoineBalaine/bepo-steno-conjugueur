@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je prends",
+      "tu prends",
+      "il prend",
+      "nous prenons",
+      "vous prenez",
+      "ils prennent"
+    ],
+    "passé composé": [
+      "j'ai pris",
+      "tu as pris",
+      "il a pris",
+      "nous avons pris",
+      "vous avez pris",
+      "ils ont pris"
+    ],
+    "imparfait": [
+      "je prenais",
+      "tu prenais",
+      "il prenait",
+      "nous prenions",
+      "vous preniez",
+      "ils prenaient"
+    ],
+    "plus que parfait": [
+      "j'avais pris",
+      "tu avais pris",
+      "il avait pris",
+      "nous avions pris",
+      "vous aviez pris",
+      "ils avaient pris"
+    ],
+    "passé simple": [
+      "je pris",
+      "tu pris",
+      "il prit",
+      "nous prîmes",
+      "vous prîtes",
+      "ils prirent"
+    ],
+    "passé antérieur": [
+      "j'eus pris",
+      "tu eus pris",
+      "il eut pris",
+      "nous eûmes pris",
+      "vous eûtes pris",
+      "ils eurent pris"
+    ],
+    "futur simple": [
+      "je prendrai",
+      "tu prendras",
+      "il prendra",
+      "nous prendrons",
+      "vous prendrez",
+      "ils prendront"
+    ],
+    "futur antérieur": [
+      "j'aurai pris",
+      "tu auras pris",
+      "il aura pris",
+      "nous aurons pris",
+      "vous aurez pris",
+      "ils auront pris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je prenne",
+      "que tu prennes",
+      "qu'il prenne",
+      "que nous prenions",
+      "que vous preniez",
+      "qu'ils prennent"
+    ],
+    "passé": [
+      "que j'aie pris",
+      "que tu aies pris",
+      "qu'il ait pris",
+      "que nous ayons pris",
+      "que vous ayez pris",
+      "qu'ils aient pris"
+    ],
+    "imparfait": [
+      "que je prisse",
+      "que tu prisses",
+      "qu'il prît",
+      "que nous prissions",
+      "que vous prissiez",
+      "qu'ils prissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse pris",
+      "que tu eusses pris",
+      "qu'il eût pris",
+      "que nous eussions pris",
+      "que vous eussiez pris",
+      "qu'ils eussent pris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je prendrais",
+      "tu prendrais",
+      "il prendrait",
+      "nous prendrions",
+      "vous prendriez",
+      "ils prendraient"
+    ],
+    "passé": [
+      "j'aurais pris",
+      "tu aurais pris",
+      "il aurait pris",
+      "nous aurions pris",
+      "vous auriez pris",
+      "ils auraient pris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prends",
+      "prenons",
+      "prenez"
+    ],
+    "passé": [
+      "aie pris",
+      "ayons pris",
+      "ayez pris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "prendre"
+    ],
+    "passé": [
+      "avoir pris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "prenant"
+    ],
+    "passé": [
+      "pris",
+      "ayant pris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en prenant"
+    ],
+    "passé": [
+      "en ayant pris"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me joins",
+      "tu te joins",
+      "il se joint",
+      "nous nous joignons",
+      "vous vous joignez",
+      "ils se joignent"
+    ],
+    "passé composé": [
+      "je me suis joint",
+      "tu t'es joint",
+      "il s'est joint",
+      "nous nous sommes joints",
+      "vous vous êtes joints",
+      "ils se sont joints"
+    ],
+    "imparfait": [
+      "je me joignais",
+      "tu te joignais",
+      "il se joignait",
+      "nous nous joignions",
+      "vous vous joigniez",
+      "ils se joignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais joint",
+      "tu t'étais joint",
+      "il s'était joint",
+      "nous nous étions joints",
+      "vous vous étiez joints",
+      "ils s'étaient joints"
+    ],
+    "passé simple": [
+      "je me joignis",
+      "tu te joignis",
+      "il se joignit",
+      "nous nous joignîmes",
+      "vous vous joignîtes",
+      "ils se joignirent"
+    ],
+    "passé antérieur": [
+      "je me fus joint",
+      "tu te fus joint",
+      "il se fut joint",
+      "nous nous fûmes joints",
+      "vous vous fûtes joints",
+      "ils se furent joints"
+    ],
+    "futur simple": [
+      "je me joindrai",
+      "tu te joindras",
+      "il se joindra",
+      "nous nous joindrons",
+      "vous vous joindrez",
+      "ils se joindront"
+    ],
+    "futur antérieur": [
+      "je me serai joint",
+      "tu te seras joint",
+      "il se sera joint",
+      "nous nous serons joints",
+      "vous vous serez joints",
+      "ils se seront joints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me joigne",
+      "que tu te joignes",
+      "qu'il se joigne",
+      "que nous nous joignions",
+      "que vous vous joigniez",
+      "qu'ils se joignent"
+    ],
+    "passé": [
+      "que je me sois joint",
+      "que tu te sois joint",
+      "qu'il se soit joint",
+      "que nous nous soyons joints",
+      "que vous vous soyez joints",
+      "qu'ils se soient joints"
+    ],
+    "imparfait": [
+      "que je me joignisse",
+      "que tu te joignisses",
+      "qu'il se joignît",
+      "que nous nous joignissions",
+      "que vous vous joignissiez",
+      "qu'ils se joignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse joint",
+      "que tu te fusses joint",
+      "qu'il se fût joint",
+      "que nous nous fussions joints",
+      "que vous vous fussiez joints",
+      "qu'ils se fussent joints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me joindrais",
+      "tu te joindrais",
+      "il se joindrait",
+      "nous nous joindrions",
+      "vous vous joindriez",
+      "ils se joindraient"
+    ],
+    "passé": [
+      "je me serais joint",
+      "tu te serais joint",
+      "il se serait joint",
+      "nous nous serions joints",
+      "vous vous seriez joints",
+      "ils se seraient joints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "joins-toi",
+      "joignons-nous",
+      "joignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se joindre"
+    ],
+    "passé": [
+      "s'être joint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se joignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant joint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se joignant"
+    ],
+    "passé": [
+      "en s'étant joint"
+    ]
+  }
+}

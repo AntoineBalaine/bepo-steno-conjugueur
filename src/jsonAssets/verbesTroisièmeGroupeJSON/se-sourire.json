@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me souris",
+      "tu te souris",
+      "il se sourit",
+      "nous nous sourions",
+      "vous vous souriez",
+      "ils se sourient"
+    ],
+    "passé composé": [
+      "je me suis souri",
+      "tu t'es souri",
+      "il s'est souri",
+      "nous nous sommes souri",
+      "vous vous êtes souri",
+      "ils se sont souri"
+    ],
+    "imparfait": [
+      "je me souriais",
+      "tu te souriais",
+      "il se souriait",
+      "nous nous souriions",
+      "vous vous souriiez",
+      "ils se souriaient"
+    ],
+    "plus que parfait": [
+      "je m'étais souri",
+      "tu t'étais souri",
+      "il s'était souri",
+      "nous nous étions souri",
+      "vous vous étiez souri",
+      "ils s'étaient souri"
+    ],
+    "passé simple": [
+      "je me souris",
+      "tu te souris",
+      "il se sourit",
+      "nous nous sourîmes",
+      "vous vous sourîtes",
+      "ils se sourirent"
+    ],
+    "passé antérieur": [
+      "je me fus souri",
+      "tu te fus souri",
+      "il se fut souri",
+      "nous nous fûmes souri",
+      "vous vous fûtes souri",
+      "ils se furent souri"
+    ],
+    "futur simple": [
+      "je me sourirai",
+      "tu te souriras",
+      "il se sourira",
+      "nous nous sourirons",
+      "vous vous sourirez",
+      "ils se souriront"
+    ],
+    "futur antérieur": [
+      "je me serai souri",
+      "tu te seras souri",
+      "il se sera souri",
+      "nous nous serons souri",
+      "vous vous serez souri",
+      "ils se seront souri"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me sourie",
+      "que tu te souries",
+      "qu'il se sourie",
+      "que nous nous souruons",
+      "que vous vous souruez",
+      "qu'ils se sourient"
+    ],
+    "passé": [
+      "que je me sois souri",
+      "que tu te sois souri",
+      "qu'il se soit souri",
+      "que nous nous soyons souri",
+      "que vous vous soyez souri",
+      "qu'ils se soient souri"
+    ],
+    "imparfait": [
+      "que je me sourisse",
+      "que tu te sourisses",
+      "qu'il se sourît",
+      "que nous nous sourissions",
+      "que vous vous sourissiez",
+      "qu'ils se sourissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse souri",
+      "que tu te fusses souri",
+      "qu'il se fût souri",
+      "que nous nous fussions souri",
+      "que vous vous fussiez souri",
+      "qu'ils se fussent souri"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me sourirais",
+      "tu te sourirais",
+      "il se sourirait",
+      "nous nous souririons",
+      "vous vous souririez",
+      "ils se souriraient"
+    ],
+    "passé": [
+      "je me serais souri",
+      "tu te serais souri",
+      "il se serait souri",
+      "nous nous serions souri",
+      "vous vous seriez souri",
+      "ils se seraient souri"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "souris-toi",
+      "sourions-nous",
+      "souriez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se sourire"
+    ],
+    "passé": [
+      "s'être souri"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se souriant"
+    ],
+    "passé": [
+      "-",
+      "s'étant souri"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se souriant"
+    ],
+    "passé": [
+      "en s'étant souri"
+    ]
+  }
+}

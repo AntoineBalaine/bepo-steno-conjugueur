@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je décris",
+      "tu décris",
+      "il décrit",
+      "nous décrivons",
+      "vous décrivez",
+      "ils décrivent"
+    ],
+    "passé composé": [
+      "j'ai décrit",
+      "tu as décrit",
+      "il a décrit",
+      "nous avons décrit",
+      "vous avez décrit",
+      "ils ont décrit"
+    ],
+    "imparfait": [
+      "je décrivais",
+      "tu décrivais",
+      "il décrivait",
+      "nous décrivions",
+      "vous décriviez",
+      "ils décrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais décrit",
+      "tu avais décrit",
+      "il avait décrit",
+      "nous avions décrit",
+      "vous aviez décrit",
+      "ils avaient décrit"
+    ],
+    "passé simple": [
+      "je décrivis",
+      "tu décrivis",
+      "il décrivit",
+      "nous décrivîmes",
+      "vous décrivîtes",
+      "ils décrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus décrit",
+      "tu eus décrit",
+      "il eut décrit",
+      "nous eûmes décrit",
+      "vous eûtes décrit",
+      "ils eurent décrit"
+    ],
+    "futur simple": [
+      "je décrirai",
+      "tu décriras",
+      "il décrira",
+      "nous décrirons",
+      "vous décrirez",
+      "ils décriront"
+    ],
+    "futur antérieur": [
+      "j'aurai décrit",
+      "tu auras décrit",
+      "il aura décrit",
+      "nous aurons décrit",
+      "vous aurez décrit",
+      "ils auront décrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je décrive",
+      "que tu décrives",
+      "qu'il décrive",
+      "que nous décrivions",
+      "que vous décriviez",
+      "qu'ils décrivent"
+    ],
+    "passé": [
+      "que j'aie décrit",
+      "que tu aies décrit",
+      "qu'il ait décrit",
+      "que nous ayons décrit",
+      "que vous ayez décrit",
+      "qu'ils aient décrit"
+    ],
+    "imparfait": [
+      "que je décrivisse",
+      "que tu décrivisses",
+      "qu'il décrivît",
+      "que nous décrivissions",
+      "que vous décrivissiez",
+      "qu'ils décrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse décrit",
+      "que tu eusses décrit",
+      "qu'il eût décrit",
+      "que nous eussions décrit",
+      "que vous eussiez décrit",
+      "qu'ils eussent décrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je décrirais",
+      "tu décrirais",
+      "il décrirait",
+      "nous décririons",
+      "vous décririez",
+      "ils décriraient"
+    ],
+    "passé": [
+      "j'aurais décrit",
+      "tu aurais décrit",
+      "il aurait décrit",
+      "nous aurions décrit",
+      "vous auriez décrit",
+      "ils auraient décrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "décris",
+      "décrivons",
+      "décrivez"
+    ],
+    "passé": [
+      "aie décrit",
+      "ayons décrit",
+      "ayez décrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "décrire"
+    ],
+    "passé": [
+      "avoir décrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "décrivant"
+    ],
+    "passé": [
+      "décrit",
+      "ayant décrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en décrivant"
+    ],
+    "passé": [
+      "en ayant décrit"
+    ]
+  }
+}

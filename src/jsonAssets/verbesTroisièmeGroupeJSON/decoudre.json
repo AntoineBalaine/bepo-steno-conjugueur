@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je découds",
+      "tu découds",
+      "il découd",
+      "nous décousons",
+      "vous décousez",
+      "ils décousent"
+    ],
+    "passé composé": [
+      "j'ai décousu",
+      "tu as décousu",
+      "il a décousu",
+      "nous avons décousu",
+      "vous avez décousu",
+      "ils ont décousu"
+    ],
+    "imparfait": [
+      "je décousais",
+      "tu décousais",
+      "il décousait",
+      "nous décousions",
+      "vous décousiez",
+      "ils décousaient"
+    ],
+    "plus que parfait": [
+      "j'avais décousu",
+      "tu avais décousu",
+      "il avait décousu",
+      "nous avions décousu",
+      "vous aviez décousu",
+      "ils avaient décousu"
+    ],
+    "passé simple": [
+      "je décousis",
+      "tu décousis",
+      "il décousit",
+      "nous décousîmes",
+      "vous décousîtes",
+      "ils décousirent"
+    ],
+    "passé antérieur": [
+      "j'eus décousu",
+      "tu eus décousu",
+      "il eut décousu",
+      "nous eûmes décousu",
+      "vous eûtes décousu",
+      "ils eurent décousu"
+    ],
+    "futur simple": [
+      "je découdrai",
+      "tu découdras",
+      "il découdra",
+      "nous découdrons",
+      "vous découdrez",
+      "ils découdront"
+    ],
+    "futur antérieur": [
+      "j'aurai décousu",
+      "tu auras décousu",
+      "il aura décousu",
+      "nous aurons décousu",
+      "vous aurez décousu",
+      "ils auront décousu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je découse",
+      "que tu découses",
+      "qu'il découse",
+      "que nous décousions",
+      "que vous décousiez",
+      "qu'ils décousent"
+    ],
+    "passé": [
+      "que j'aie décousu",
+      "que tu aies décousu",
+      "qu'il ait décousu",
+      "que nous ayons décousu",
+      "que vous ayez décousu",
+      "qu'ils aient décousu"
+    ],
+    "imparfait": [
+      "que je décousisse",
+      "que tu décousisses",
+      "qu'il décousît",
+      "que nous décousissions",
+      "que vous décousissiez",
+      "qu'ils décousissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse décousu",
+      "que tu eusses décousu",
+      "qu'il eût décousu",
+      "que nous eussions décousu",
+      "que vous eussiez décousu",
+      "qu'ils eussent décousu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je découdrais",
+      "tu découdrais",
+      "il découdrait",
+      "nous découdrions",
+      "vous découdriez",
+      "ils découdraient"
+    ],
+    "passé": [
+      "j'aurais décousu",
+      "tu aurais décousu",
+      "il aurait décousu",
+      "nous aurions décousu",
+      "vous auriez décousu",
+      "ils auraient décousu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "découds",
+      "décousons",
+      "décousez"
+    ],
+    "passé": [
+      "aie décousu",
+      "ayons décousu",
+      "ayez décousu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "découdre"
+    ],
+    "passé": [
+      "avoir décousu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "décousant"
+    ],
+    "passé": [
+      "décousu",
+      "ayant décousu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en décousant"
+    ],
+    "passé": [
+      "en ayant décousu"
+    ]
+  }
+}

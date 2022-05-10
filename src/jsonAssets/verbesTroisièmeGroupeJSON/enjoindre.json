@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'enjoins",
+      "tu enjoins",
+      "il enjoint",
+      "nous enjoignons",
+      "vous enjoignez",
+      "ils enjoignent"
+    ],
+    "passé composé": [
+      "j'ai enjoint",
+      "tu as enjoint",
+      "il a enjoint",
+      "nous avons enjoint",
+      "vous avez enjoint",
+      "ils ont enjoint"
+    ],
+    "imparfait": [
+      "j'enjoignais",
+      "tu enjoignais",
+      "il enjoignait",
+      "nous enjoignions",
+      "vous enjoigniez",
+      "ils enjoignaient"
+    ],
+    "plus que parfait": [
+      "j'avais enjoint",
+      "tu avais enjoint",
+      "il avait enjoint",
+      "nous avions enjoint",
+      "vous aviez enjoint",
+      "ils avaient enjoint"
+    ],
+    "passé simple": [
+      "j'enjoignis",
+      "tu enjoignis",
+      "il enjoignit",
+      "nous enjoignîmes",
+      "vous enjoignîtes",
+      "ils enjoignirent"
+    ],
+    "passé antérieur": [
+      "j'eus enjoint",
+      "tu eus enjoint",
+      "il eut enjoint",
+      "nous eûmes enjoint",
+      "vous eûtes enjoint",
+      "ils eurent enjoint"
+    ],
+    "futur simple": [
+      "j'enjoindrai",
+      "tu enjoindras",
+      "il enjoindra",
+      "nous enjoindrons",
+      "vous enjoindrez",
+      "ils enjoindront"
+    ],
+    "futur antérieur": [
+      "j'aurai enjoint",
+      "tu auras enjoint",
+      "il aura enjoint",
+      "nous aurons enjoint",
+      "vous aurez enjoint",
+      "ils auront enjoint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'enjoigne",
+      "que tu enjoignes",
+      "qu'il enjoigne",
+      "que nous enjoignions",
+      "que vous enjoigniez",
+      "qu'ils enjoignent"
+    ],
+    "passé": [
+      "que j'aie enjoint",
+      "que tu aies enjoint",
+      "qu'il ait enjoint",
+      "que nous ayons enjoint",
+      "que vous ayez enjoint",
+      "qu'ils aient enjoint"
+    ],
+    "imparfait": [
+      "que j'enjoignisse",
+      "que tu enjoignisses",
+      "qu'il enjoignît",
+      "que nous enjoignissions",
+      "que vous enjoignissiez",
+      "qu'ils enjoignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse enjoint",
+      "que tu eusses enjoint",
+      "qu'il eût enjoint",
+      "que nous eussions enjoint",
+      "que vous eussiez enjoint",
+      "qu'ils eussent enjoint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'enjoindrais",
+      "tu enjoindrais",
+      "il enjoindrait",
+      "nous enjoindrions",
+      "vous enjoindriez",
+      "ils enjoindraient"
+    ],
+    "passé": [
+      "j'aurais enjoint",
+      "tu aurais enjoint",
+      "il aurait enjoint",
+      "nous aurions enjoint",
+      "vous auriez enjoint",
+      "ils auraient enjoint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "enjoins",
+      "enjoignons",
+      "enjoignez"
+    ],
+    "passé": [
+      "aie enjoint",
+      "ayons enjoint",
+      "ayez enjoint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "enjoindre"
+    ],
+    "passé": [
+      "avoir enjoint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "enjoignant"
+    ],
+    "passé": [
+      "enjoint",
+      "ayant enjoint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en enjoignant"
+    ],
+    "passé": [
+      "en ayant enjoint"
+    ]
+  }
+}

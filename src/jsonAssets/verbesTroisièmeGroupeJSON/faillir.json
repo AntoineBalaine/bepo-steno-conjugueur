@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je faux",
+      "tu faux",
+      "il faut",
+      "nous faillons",
+      "vous faillez",
+      "ils faillent"
+    ],
+    "passé composé": [
+      "j'ai failli",
+      "tu as failli",
+      "il a failli",
+      "nous avons failli",
+      "vous avez failli",
+      "ils ont failli"
+    ],
+    "imparfait": [
+      "je faillais",
+      "tu faillais",
+      "il faillait",
+      "nous faillions",
+      "vous failliez",
+      "ils faillaient"
+    ],
+    "plus que parfait": [
+      "j'avais failli",
+      "tu avais failli",
+      "il avait failli",
+      "nous avions failli",
+      "vous aviez failli",
+      "ils avaient failli"
+    ],
+    "passé simple": [
+      "je faillis",
+      "tu faillis",
+      "il faillit",
+      "nous faillîmes",
+      "vous faillîtes",
+      "ils faillirent"
+    ],
+    "passé antérieur": [
+      "j'eus failli",
+      "tu eus failli",
+      "il eut failli",
+      "nous eûmes failli",
+      "vous eûtes failli",
+      "ils eurent failli"
+    ],
+    "futur simple": [
+      "je faillirai",
+      "tu failliras",
+      "il faillira",
+      "nous faillirons",
+      "vous faillirez",
+      "ils failliront"
+    ],
+    "futur antérieur": [
+      "j'aurai failli",
+      "tu auras failli",
+      "il aura failli",
+      "nous aurons failli",
+      "vous aurez failli",
+      "ils auront failli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je faillisse",
+      "que tu faillisses",
+      "qu'il faillisse",
+      "que nous faillissions",
+      "que vous faillissiez",
+      "qu'ils faillissent"
+    ],
+    "passé": [
+      "que j'aie failli",
+      "que tu aies failli",
+      "qu'il ait failli",
+      "que nous ayons failli",
+      "que vous ayez failli",
+      "qu'ils aient failli"
+    ],
+    "imparfait": [
+      "que je faillisse",
+      "que tu faillisses",
+      "qu'il faillît",
+      "que nous faillissions",
+      "que vous faillissiez",
+      "qu'ils faillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse failli",
+      "que tu eusses failli",
+      "qu'il eût failli",
+      "que nous eussions failli",
+      "que vous eussiez failli",
+      "qu'ils eussent failli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je faillirais",
+      "tu faillirais",
+      "il faillirait",
+      "nous faillirions",
+      "vous failliriez",
+      "ils failliraient"
+    ],
+    "passé": [
+      "j'aurais failli",
+      "tu aurais failli",
+      "il aurait failli",
+      "nous aurions failli",
+      "vous auriez failli",
+      "ils auraient failli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "faillir"
+    ],
+    "passé": [
+      "avoir failli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "faillant"
+    ],
+    "passé": [
+      "failli",
+      "ayant failli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en faillant"
+    ],
+    "passé": [
+      "en ayant failli"
+    ]
+  }
+}

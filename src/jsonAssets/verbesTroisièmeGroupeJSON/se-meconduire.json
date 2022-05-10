@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me méconduis",
+      "tu te méconduis",
+      "il se méconduit",
+      "nous nous méconduisons",
+      "vous vous méconduisez",
+      "ils se méconduisent"
+    ],
+    "passé composé": [
+      "je me suis méconduit",
+      "tu t'es méconduit",
+      "il s'est méconduit",
+      "nous nous sommes méconduits",
+      "vous vous êtes méconduits",
+      "ils se sont méconduits"
+    ],
+    "imparfait": [
+      "je me méconduisais",
+      "tu te méconduisais",
+      "il se méconduisait",
+      "nous nous méconduisions",
+      "vous vous méconduisiez",
+      "ils se méconduisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais méconduit",
+      "tu t'étais méconduit",
+      "il s'était méconduit",
+      "nous nous étions méconduits",
+      "vous vous étiez méconduits",
+      "ils s'étaient méconduits"
+    ],
+    "passé simple": [
+      "je me méconduisis",
+      "tu te méconduisis",
+      "il se méconduisit",
+      "nous nous méconduisîmes",
+      "vous vous méconduisîtes",
+      "ils se méconduisirent"
+    ],
+    "passé antérieur": [
+      "je me fus méconduit",
+      "tu te fus méconduit",
+      "il se fut méconduit",
+      "nous nous fûmes méconduits",
+      "vous vous fûtes méconduits",
+      "ils se furent méconduits"
+    ],
+    "futur simple": [
+      "je me méconduirai",
+      "tu te méconduiras",
+      "il se méconduira",
+      "nous nous méconduirons",
+      "vous vous méconduirez",
+      "ils se méconduiront"
+    ],
+    "futur antérieur": [
+      "je me serai méconduit",
+      "tu te seras méconduit",
+      "il se sera méconduit",
+      "nous nous serons méconduits",
+      "vous vous serez méconduits",
+      "ils se seront méconduits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me méconduise",
+      "que tu te méconduises",
+      "qu'il se méconduise",
+      "que nous nous méconduisions",
+      "que vous vous méconduisiez",
+      "qu'ils se méconduisent"
+    ],
+    "passé": [
+      "que je me sois méconduit",
+      "que tu te sois méconduit",
+      "qu'il se soit méconduit",
+      "que nous nous soyons méconduits",
+      "que vous vous soyez méconduits",
+      "qu'ils se soient méconduits"
+    ],
+    "imparfait": [
+      "que je me méconduisisse",
+      "que tu te méconduisisses",
+      "qu'il se méconduisît",
+      "que nous nous méconduisissions",
+      "que vous vous méconduisissiez",
+      "qu'ils se méconduisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse méconduit",
+      "que tu te fusses méconduit",
+      "qu'il se fût méconduit",
+      "que nous nous fussions méconduits",
+      "que vous vous fussiez méconduits",
+      "qu'ils se fussent méconduits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me méconduirais",
+      "tu te méconduirais",
+      "il se méconduirait",
+      "nous nous méconduirions",
+      "vous vous méconduiriez",
+      "ils se méconduiraient"
+    ],
+    "passé": [
+      "je me serais méconduit",
+      "tu te serais méconduit",
+      "il se serait méconduit",
+      "nous nous serions méconduits",
+      "vous vous seriez méconduits",
+      "ils se seraient méconduits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "méconduis-toi",
+      "méconduisons-nous",
+      "méconduisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se méconduire"
+    ],
+    "passé": [
+      "s'être méconduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se méconduisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant méconduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se méconduisant"
+    ],
+    "passé": [
+      "en s'étant méconduit"
+    ]
+  }
+}

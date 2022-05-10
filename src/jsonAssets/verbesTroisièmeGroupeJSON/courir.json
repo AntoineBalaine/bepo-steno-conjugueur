@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je cours",
+      "tu cours",
+      "il court",
+      "nous courons",
+      "vous courez",
+      "ils courent"
+    ],
+    "passé composé": [
+      "j'ai couru",
+      "tu as couru",
+      "il a couru",
+      "nous avons couru",
+      "vous avez couru",
+      "ils ont couru"
+    ],
+    "imparfait": [
+      "je courais",
+      "tu courais",
+      "il courait",
+      "nous courions",
+      "vous couriez",
+      "ils couraient"
+    ],
+    "plus que parfait": [
+      "j'avais couru",
+      "tu avais couru",
+      "il avait couru",
+      "nous avions couru",
+      "vous aviez couru",
+      "ils avaient couru"
+    ],
+    "passé simple": [
+      "je courus",
+      "tu courus",
+      "il courut",
+      "nous courûmes",
+      "vous courûtes",
+      "ils coururent"
+    ],
+    "passé antérieur": [
+      "j'eus couru",
+      "tu eus couru",
+      "il eut couru",
+      "nous eûmes couru",
+      "vous eûtes couru",
+      "ils eurent couru"
+    ],
+    "futur simple": [
+      "je courrai",
+      "tu courras",
+      "il courra",
+      "nous courrons",
+      "vous courrez",
+      "ils courront"
+    ],
+    "futur antérieur": [
+      "j'aurai couru",
+      "tu auras couru",
+      "il aura couru",
+      "nous aurons couru",
+      "vous aurez couru",
+      "ils auront couru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je coure",
+      "que tu coures",
+      "qu'il coure",
+      "que nous courions",
+      "que vous couriez",
+      "qu'ils courent"
+    ],
+    "passé": [
+      "que j'aie couru",
+      "que tu aies couru",
+      "qu'il ait couru",
+      "que nous ayons couru",
+      "que vous ayez couru",
+      "qu'ils aient couru"
+    ],
+    "imparfait": [
+      "que je courusse",
+      "que tu courusses",
+      "qu'il courût",
+      "que nous courussions",
+      "que vous courussiez",
+      "qu'ils courussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse couru",
+      "que tu eusses couru",
+      "qu'il eût couru",
+      "que nous eussions couru",
+      "que vous eussiez couru",
+      "qu'ils eussent couru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je courrais",
+      "tu courrais",
+      "il courrait",
+      "nous courrions",
+      "vous courriez",
+      "ils courraient"
+    ],
+    "passé": [
+      "j'aurais couru",
+      "tu aurais couru",
+      "il aurait couru",
+      "nous aurions couru",
+      "vous auriez couru",
+      "ils auraient couru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "cours",
+      "courons",
+      "courez"
+    ],
+    "passé": [
+      "aie couru",
+      "ayons couru",
+      "ayez couru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "courir"
+    ],
+    "passé": [
+      "avoir couru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "courant"
+    ],
+    "passé": [
+      "couru",
+      "ayant couru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en courant"
+    ],
+    "passé": [
+      "en ayant couru"
+    ]
+  }
+}

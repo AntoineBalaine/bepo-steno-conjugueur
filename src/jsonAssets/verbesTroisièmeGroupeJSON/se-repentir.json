@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me repens",
+      "tu te repens",
+      "il se repent",
+      "nous nous repentons",
+      "vous vous repentez",
+      "ils se repentent"
+    ],
+    "passé composé": [
+      "je me suis repenti",
+      "tu t'es repenti",
+      "il s'est repenti",
+      "nous nous sommes repentis",
+      "vous vous êtes repentis",
+      "ils se sont repentis"
+    ],
+    "imparfait": [
+      "je me repentais",
+      "tu te repentais",
+      "il se repentait",
+      "nous nous repentions",
+      "vous vous repentiez",
+      "ils se repentaient"
+    ],
+    "plus que parfait": [
+      "je m'étais repenti",
+      "tu t'étais repenti",
+      "il s'était repenti",
+      "nous nous étions repentis",
+      "vous vous étiez repentis",
+      "ils s'étaient repentis"
+    ],
+    "passé simple": [
+      "je me repentis",
+      "tu te repentis",
+      "il se repentit",
+      "nous nous repentîmes",
+      "vous vous repentîtes",
+      "ils se repentirent"
+    ],
+    "passé antérieur": [
+      "je me fus repenti",
+      "tu te fus repenti",
+      "il se fut repenti",
+      "nous nous fûmes repentis",
+      "vous vous fûtes repentis",
+      "ils se furent repentis"
+    ],
+    "futur simple": [
+      "je me repentirai",
+      "tu te repentiras",
+      "il se repentira",
+      "nous nous repentirons",
+      "vous vous repentirez",
+      "ils se repentiront"
+    ],
+    "futur antérieur": [
+      "je me serai repenti",
+      "tu te seras repenti",
+      "il se sera repenti",
+      "nous nous serons repentis",
+      "vous vous serez repentis",
+      "ils se seront repentis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me repente",
+      "que tu te repentes",
+      "qu'il se repente",
+      "que nous nous repentions",
+      "que vous vous repentiez",
+      "qu'ils se repentent"
+    ],
+    "passé": [
+      "que je me sois repenti",
+      "que tu te sois repenti",
+      "qu'il se soit repenti",
+      "que nous nous soyons repentis",
+      "que vous vous soyez repentis",
+      "qu'ils se soient repentis"
+    ],
+    "imparfait": [
+      "que je me repentisse",
+      "que tu te repentisses",
+      "qu'il se repentît",
+      "que nous nous repentissions",
+      "que vous vous repentissiez",
+      "qu'ils se repentissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse repenti",
+      "que tu te fusses repenti",
+      "qu'il se fût repenti",
+      "que nous nous fussions repentis",
+      "que vous vous fussiez repentis",
+      "qu'ils se fussent repentis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me repentirais",
+      "tu te repentirais",
+      "il se repentirait",
+      "nous nous repentirions",
+      "vous vous repentiriez",
+      "ils se repentiraient"
+    ],
+    "passé": [
+      "je me serais repenti",
+      "tu te serais repenti",
+      "il se serait repenti",
+      "nous nous serions repentis",
+      "vous vous seriez repentis",
+      "ils se seraient repentis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "repens-toi",
+      "repentons-nous",
+      "repentez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se repentir"
+    ],
+    "passé": [
+      "s'être repenti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se repentant"
+    ],
+    "passé": [
+      "-",
+      "s'étant repenti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se repentant"
+    ],
+    "passé": [
+      "en s'étant repenti"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il pleut",
+      "-",
+      "-",
+      "ils pleuvent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "il a plu",
+      "-",
+      "-",
+      "ils ont plu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il pleuvait",
+      "-",
+      "-",
+      "ils pleuvaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "il avait plu",
+      "-",
+      "-",
+      "ils avaient plu"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "il plut",
+      "-",
+      "-",
+      "ils plurent"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "il eut plu",
+      "-",
+      "-",
+      "ils eurent plu"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il pleuvra",
+      "-",
+      "-",
+      "ils pleuvront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "il aura plu",
+      "-",
+      "-",
+      "ils auront plu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "qu'il pleuve",
+      "-",
+      "-",
+      "qu'ils pleuvent"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "qu'il ait plu",
+      "-",
+      "-",
+      "qu'ils aient plu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "qu'il plût",
+      "-",
+      "-",
+      "qu'ils plussent"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "qu'il eût plu",
+      "-",
+      "-",
+      "qu'ils eussent plu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "il pleuvrait",
+      "-",
+      "-",
+      "ils pleuvraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "il aurait plu",
+      "-",
+      "-",
+      "ils auraient plu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "pleuvoir"
+    ],
+    "passé": [
+      "avoir plu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "pleuvant"
+    ],
+    "passé": [
+      "plu",
+      "ayant plu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "-"
+    ]
+  }
+}

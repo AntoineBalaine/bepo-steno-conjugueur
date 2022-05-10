@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je satisfais",
+      "tu satisfais",
+      "il satisfait",
+      "nous satisfaisons",
+      "vous satisfaites",
+      "ils satisfont"
+    ],
+    "passé composé": [
+      "j'ai satisfait",
+      "tu as satisfait",
+      "il a satisfait",
+      "nous avons satisfait",
+      "vous avez satisfait",
+      "ils ont satisfait"
+    ],
+    "imparfait": [
+      "je satisfaisais",
+      "tu satisfaisais",
+      "il satisfaisait",
+      "nous satisfaisions",
+      "vous satisfaisiez",
+      "ils satisfaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais satisfait",
+      "tu avais satisfait",
+      "il avait satisfait",
+      "nous avions satisfait",
+      "vous aviez satisfait",
+      "ils avaient satisfait"
+    ],
+    "passé simple": [
+      "je satisfis",
+      "tu satisfis",
+      "il satisfit",
+      "nous satisfîmes",
+      "vous satisfîtes",
+      "ils satisfirent"
+    ],
+    "passé antérieur": [
+      "j'eus satisfait",
+      "tu eus satisfait",
+      "il eut satisfait",
+      "nous eûmes satisfait",
+      "vous eûtes satisfait",
+      "ils eurent satisfait"
+    ],
+    "futur simple": [
+      "je satisferai",
+      "tu satisferas",
+      "il satisfera",
+      "nous satisferons",
+      "vous satisferez",
+      "ils satisferont"
+    ],
+    "futur antérieur": [
+      "j'aurai satisfait",
+      "tu auras satisfait",
+      "il aura satisfait",
+      "nous aurons satisfait",
+      "vous aurez satisfait",
+      "ils auront satisfait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je satisfasse",
+      "que tu satisfasses",
+      "qu'il satisfasse",
+      "que nous satisfassions",
+      "que vous satisfassiez",
+      "qu'ils satisfassent"
+    ],
+    "passé": [
+      "que j'aie satisfait",
+      "que tu aies satisfait",
+      "qu'il ait satisfait",
+      "que nous ayons satisfait",
+      "que vous ayez satisfait",
+      "qu'ils aient satisfait"
+    ],
+    "imparfait": [
+      "que je satisfisse",
+      "que tu satisfisses",
+      "qu'il satisfît",
+      "que nous satisfissions",
+      "que vous satisfissiez",
+      "qu'ils satisfissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse satisfait",
+      "que tu eusses satisfait",
+      "qu'il eût satisfait",
+      "que nous eussions satisfait",
+      "que vous eussiez satisfait",
+      "qu'ils eussent satisfait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je satisferais",
+      "tu satisferais",
+      "il satisferait",
+      "nous satisferions",
+      "vous satisferiez",
+      "ils satisferaient"
+    ],
+    "passé": [
+      "j'aurais satisfait",
+      "tu aurais satisfait",
+      "il aurait satisfait",
+      "nous aurions satisfait",
+      "vous auriez satisfait",
+      "ils auraient satisfait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "satisfais",
+      "satisfaisons",
+      "satisfaites"
+    ],
+    "passé": [
+      "aie satisfait",
+      "ayons satisfait",
+      "ayez satisfait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "satisfaire"
+    ],
+    "passé": [
+      "avoir satisfait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "satisfaisant"
+    ],
+    "passé": [
+      "satisfait",
+      "ayant satisfait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en satisfaisant"
+    ],
+    "passé": [
+      "en ayant satisfait"
+    ]
+  }
+}

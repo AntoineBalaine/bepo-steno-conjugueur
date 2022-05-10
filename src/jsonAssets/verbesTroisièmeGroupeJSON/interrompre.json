@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'interromps",
+      "tu interromps",
+      "il interrompt",
+      "nous interrompons",
+      "vous interrompez",
+      "ils interrompent"
+    ],
+    "passé composé": [
+      "j'ai interrompu",
+      "tu as interrompu",
+      "il a interrompu",
+      "nous avons interrompu",
+      "vous avez interrompu",
+      "ils ont interrompu"
+    ],
+    "imparfait": [
+      "j'interrompais",
+      "tu interrompais",
+      "il interrompait",
+      "nous interrompions",
+      "vous interrompiez",
+      "ils interrompaient"
+    ],
+    "plus que parfait": [
+      "j'avais interrompu",
+      "tu avais interrompu",
+      "il avait interrompu",
+      "nous avions interrompu",
+      "vous aviez interrompu",
+      "ils avaient interrompu"
+    ],
+    "passé simple": [
+      "j'interrompis",
+      "tu interrompis",
+      "il interrompit",
+      "nous interrompîmes",
+      "vous interrompîtes",
+      "ils interrompirent"
+    ],
+    "passé antérieur": [
+      "j'eus interrompu",
+      "tu eus interrompu",
+      "il eut interrompu",
+      "nous eûmes interrompu",
+      "vous eûtes interrompu",
+      "ils eurent interrompu"
+    ],
+    "futur simple": [
+      "j'interromprai",
+      "tu interrompras",
+      "il interrompra",
+      "nous interromprons",
+      "vous interromprez",
+      "ils interrompront"
+    ],
+    "futur antérieur": [
+      "j'aurai interrompu",
+      "tu auras interrompu",
+      "il aura interrompu",
+      "nous aurons interrompu",
+      "vous aurez interrompu",
+      "ils auront interrompu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'interrompe",
+      "que tu interrompes",
+      "qu'il interrompe",
+      "que nous interrompions",
+      "que vous interrompiez",
+      "qu'ils interrompent"
+    ],
+    "passé": [
+      "que j'aie interrompu",
+      "que tu aies interrompu",
+      "qu'il ait interrompu",
+      "que nous ayons interrompu",
+      "que vous ayez interrompu",
+      "qu'ils aient interrompu"
+    ],
+    "imparfait": [
+      "que j'interrompisse",
+      "que tu interrompisses",
+      "qu'il interrompît",
+      "que nous interrompissions",
+      "que vous interrompissiez",
+      "qu'ils interrompissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse interrompu",
+      "que tu eusses interrompu",
+      "qu'il eût interrompu",
+      "que nous eussions interrompu",
+      "que vous eussiez interrompu",
+      "qu'ils eussent interrompu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'interromprais",
+      "tu interromprais",
+      "il interromprait",
+      "nous interromprions",
+      "vous interrompriez",
+      "ils interrompraient"
+    ],
+    "passé": [
+      "j'aurais interrompu",
+      "tu aurais interrompu",
+      "il aurait interrompu",
+      "nous aurions interrompu",
+      "vous auriez interrompu",
+      "ils auraient interrompu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "interromps",
+      "interrompons",
+      "interrompez"
+    ],
+    "passé": [
+      "aie interrompu",
+      "ayons interrompu",
+      "ayez interrompu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "interrompre"
+    ],
+    "passé": [
+      "avoir interrompu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "interrompant"
+    ],
+    "passé": [
+      "interrompu",
+      "ayant interrompu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en interrompant"
+    ],
+    "passé": [
+      "en ayant interrompu"
+    ]
+  }
+}

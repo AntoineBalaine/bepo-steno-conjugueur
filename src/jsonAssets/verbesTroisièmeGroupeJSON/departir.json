@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dépars",
+      "tu dépars",
+      "il départ",
+      "nous départons",
+      "vous départez",
+      "ils départent"
+    ],
+    "passé composé": [
+      "j'ai départi",
+      "tu as départi",
+      "il a départi",
+      "nous avons départi",
+      "vous avez départi",
+      "ils ont départi"
+    ],
+    "imparfait": [
+      "je départais",
+      "tu départais",
+      "il départait",
+      "nous départions",
+      "vous départiez",
+      "ils départaient"
+    ],
+    "plus que parfait": [
+      "j'avais départi",
+      "tu avais départi",
+      "il avait départi",
+      "nous avions départi",
+      "vous aviez départi",
+      "ils avaient départi"
+    ],
+    "passé simple": [
+      "je départis",
+      "tu départis",
+      "il départit",
+      "nous départîmes",
+      "vous départîtes",
+      "ils départirent"
+    ],
+    "passé antérieur": [
+      "j'eus départi",
+      "tu eus départi",
+      "il eut départi",
+      "nous eûmes départi",
+      "vous eûtes départi",
+      "ils eurent départi"
+    ],
+    "futur simple": [
+      "je départirai",
+      "tu départiras",
+      "il départira",
+      "nous départirons",
+      "vous départirez",
+      "ils départiront"
+    ],
+    "futur antérieur": [
+      "j'aurai départi",
+      "tu auras départi",
+      "il aura départi",
+      "nous aurons départi",
+      "vous aurez départi",
+      "ils auront départi"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je départe",
+      "que tu départes",
+      "qu'il départe",
+      "que nous départions",
+      "que vous départiez",
+      "qu'ils départent"
+    ],
+    "passé": [
+      "que j'aie départi",
+      "que tu aies départi",
+      "qu'il ait départi",
+      "que nous ayons départi",
+      "que vous ayez départi",
+      "qu'ils aient départi"
+    ],
+    "imparfait": [
+      "que je départisse",
+      "que tu départisses",
+      "qu'il départît",
+      "que nous départissions",
+      "que vous départissiez",
+      "qu'ils départissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse départi",
+      "que tu eusses départi",
+      "qu'il eût départi",
+      "que nous eussions départi",
+      "que vous eussiez départi",
+      "qu'ils eussent départi"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je départirais",
+      "tu départirais",
+      "il départirait",
+      "nous départirions",
+      "vous départiriez",
+      "ils départiraient"
+    ],
+    "passé": [
+      "j'aurais départi",
+      "tu aurais départi",
+      "il aurait départi",
+      "nous aurions départi",
+      "vous auriez départi",
+      "ils auraient départi"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dépars",
+      "départons",
+      "départez"
+    ],
+    "passé": [
+      "aie départi",
+      "ayons départi",
+      "ayez départi"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "départir"
+    ],
+    "passé": [
+      "avoir départi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "départant"
+    ],
+    "passé": [
+      "départi",
+      "ayant départi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en départant"
+    ],
+    "passé": [
+      "en ayant départi"
+    ]
+  }
+}

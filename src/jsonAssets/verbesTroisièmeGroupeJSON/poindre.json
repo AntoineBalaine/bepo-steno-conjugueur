@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il point",
+      "-",
+      "-",
+      "ils poignent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "il a point",
+      "-",
+      "-",
+      "ils ont point"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il poignait",
+      "-",
+      "-",
+      "ils poignaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "il avait point",
+      "-",
+      "-",
+      "ils avaient point"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il poindra",
+      "-",
+      "-",
+      "ils poindront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "il aura point",
+      "-",
+      "-",
+      "ils auront point"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "poindre"
+    ],
+    "passé": [
+      "avoir point"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "poignant"
+    ],
+    "passé": [
+      "point",
+      "ayant point"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en poignant"
+    ],
+    "passé": [
+      "en ayant point"
+    ]
+  }
+}

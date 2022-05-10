@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je distords",
+      "tu distords",
+      "il distord",
+      "nous distordons",
+      "vous distordez",
+      "ils distordent"
+    ],
+    "passé composé": [
+      "j'ai distordu",
+      "tu as distordu",
+      "il a distordu",
+      "nous avons distordu",
+      "vous avez distordu",
+      "ils ont distordu"
+    ],
+    "imparfait": [
+      "je distordais",
+      "tu distordais",
+      "il distordait",
+      "nous distordions",
+      "vous distordiez",
+      "ils distordaient"
+    ],
+    "plus que parfait": [
+      "j'avais distordu",
+      "tu avais distordu",
+      "il avait distordu",
+      "nous avions distordu",
+      "vous aviez distordu",
+      "ils avaient distordu"
+    ],
+    "passé simple": [
+      "je distordis",
+      "tu distordis",
+      "il distordit",
+      "nous distordîmes",
+      "vous distordîtes",
+      "ils distordirent"
+    ],
+    "passé antérieur": [
+      "j'eus distordu",
+      "tu eus distordu",
+      "il eut distordu",
+      "nous eûmes distordu",
+      "vous eûtes distordu",
+      "ils eurent distordu"
+    ],
+    "futur simple": [
+      "je distordrai",
+      "tu distordras",
+      "il distordra",
+      "nous distordrons",
+      "vous distordrez",
+      "ils distordront"
+    ],
+    "futur antérieur": [
+      "j'aurai distordu",
+      "tu auras distordu",
+      "il aura distordu",
+      "nous aurons distordu",
+      "vous aurez distordu",
+      "ils auront distordu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je distorde",
+      "que tu distordes",
+      "qu'il distorde",
+      "que nous distordions",
+      "que vous distordiez",
+      "qu'ils distordent"
+    ],
+    "passé": [
+      "que j'aie distordu",
+      "que tu aies distordu",
+      "qu'il ait distordu",
+      "que nous ayons distordu",
+      "que vous ayez distordu",
+      "qu'ils aient distordu"
+    ],
+    "imparfait": [
+      "que je distordisse",
+      "que tu distordisses",
+      "qu'il distordît",
+      "que nous distordissions",
+      "que vous distordissiez",
+      "qu'ils distordissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse distordu",
+      "que tu eusses distordu",
+      "qu'il eût distordu",
+      "que nous eussions distordu",
+      "que vous eussiez distordu",
+      "qu'ils eussent distordu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je distordrais",
+      "tu distordrais",
+      "il distordrait",
+      "nous distordrions",
+      "vous distordriez",
+      "ils distordraient"
+    ],
+    "passé": [
+      "j'aurais distordu",
+      "tu aurais distordu",
+      "il aurait distordu",
+      "nous aurions distordu",
+      "vous auriez distordu",
+      "ils auraient distordu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "distords",
+      "distordons",
+      "distordez"
+    ],
+    "passé": [
+      "aie distordu",
+      "ayons distordu",
+      "ayez distordu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "distordre"
+    ],
+    "passé": [
+      "avoir distordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "distordant"
+    ],
+    "passé": [
+      "distordu",
+      "ayant distordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en distordant"
+    ],
+    "passé": [
+      "en ayant distordu"
+    ]
+  }
+}

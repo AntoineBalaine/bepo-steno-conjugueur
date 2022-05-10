@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je pends",
+      "tu pends",
+      "il pend",
+      "nous pendons",
+      "vous pendez",
+      "ils pendent"
+    ],
+    "passé composé": [
+      "j'ai pendu",
+      "tu as pendu",
+      "il a pendu",
+      "nous avons pendu",
+      "vous avez pendu",
+      "ils ont pendu"
+    ],
+    "imparfait": [
+      "je pendais",
+      "tu pendais",
+      "il pendait",
+      "nous pendions",
+      "vous pendiez",
+      "ils pendaient"
+    ],
+    "plus que parfait": [
+      "j'avais pendu",
+      "tu avais pendu",
+      "il avait pendu",
+      "nous avions pendu",
+      "vous aviez pendu",
+      "ils avaient pendu"
+    ],
+    "passé simple": [
+      "je pendis",
+      "tu pendis",
+      "il pendit",
+      "nous pendîmes",
+      "vous pendîtes",
+      "ils pendirent"
+    ],
+    "passé antérieur": [
+      "j'eus pendu",
+      "tu eus pendu",
+      "il eut pendu",
+      "nous eûmes pendu",
+      "vous eûtes pendu",
+      "ils eurent pendu"
+    ],
+    "futur simple": [
+      "je pendrai",
+      "tu pendras",
+      "il pendra",
+      "nous pendrons",
+      "vous pendrez",
+      "ils pendront"
+    ],
+    "futur antérieur": [
+      "j'aurai pendu",
+      "tu auras pendu",
+      "il aura pendu",
+      "nous aurons pendu",
+      "vous aurez pendu",
+      "ils auront pendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je pende",
+      "que tu pendes",
+      "qu'il pende",
+      "que nous pendions",
+      "que vous pendiez",
+      "qu'ils pendent"
+    ],
+    "passé": [
+      "que j'aie pendu",
+      "que tu aies pendu",
+      "qu'il ait pendu",
+      "que nous ayons pendu",
+      "que vous ayez pendu",
+      "qu'ils aient pendu"
+    ],
+    "imparfait": [
+      "que je pendisse",
+      "que tu pendisses",
+      "qu'il pendît",
+      "que nous pendissions",
+      "que vous pendissiez",
+      "qu'ils pendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse pendu",
+      "que tu eusses pendu",
+      "qu'il eût pendu",
+      "que nous eussions pendu",
+      "que vous eussiez pendu",
+      "qu'ils eussent pendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je pendrais",
+      "tu pendrais",
+      "il pendrait",
+      "nous pendrions",
+      "vous pendriez",
+      "ils pendraient"
+    ],
+    "passé": [
+      "j'aurais pendu",
+      "tu aurais pendu",
+      "il aurait pendu",
+      "nous aurions pendu",
+      "vous auriez pendu",
+      "ils auraient pendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "pends",
+      "pendons",
+      "pendez"
+    ],
+    "passé": [
+      "aie pendu",
+      "ayons pendu",
+      "ayez pendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "pendre"
+    ],
+    "passé": [
+      "avoir pendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "pendant"
+    ],
+    "passé": [
+      "pendu",
+      "ayant pendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en pendant"
+    ],
+    "passé": [
+      "en ayant pendu"
+    ]
+  }
+}

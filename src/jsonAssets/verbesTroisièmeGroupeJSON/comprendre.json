@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je comprends",
+      "tu comprends",
+      "il comprend",
+      "nous comprenons",
+      "vous comprenez",
+      "ils comprennent"
+    ],
+    "passé composé": [
+      "j'ai compris",
+      "tu as compris",
+      "il a compris",
+      "nous avons compris",
+      "vous avez compris",
+      "ils ont compris"
+    ],
+    "imparfait": [
+      "je comprenais",
+      "tu comprenais",
+      "il comprenait",
+      "nous comprenions",
+      "vous compreniez",
+      "ils comprenaient"
+    ],
+    "plus que parfait": [
+      "j'avais compris",
+      "tu avais compris",
+      "il avait compris",
+      "nous avions compris",
+      "vous aviez compris",
+      "ils avaient compris"
+    ],
+    "passé simple": [
+      "je compris",
+      "tu compris",
+      "il comprit",
+      "nous comprîmes",
+      "vous comprîtes",
+      "ils comprirent"
+    ],
+    "passé antérieur": [
+      "j'eus compris",
+      "tu eus compris",
+      "il eut compris",
+      "nous eûmes compris",
+      "vous eûtes compris",
+      "ils eurent compris"
+    ],
+    "futur simple": [
+      "je comprendrai",
+      "tu comprendras",
+      "il comprendra",
+      "nous comprendrons",
+      "vous comprendrez",
+      "ils comprendront"
+    ],
+    "futur antérieur": [
+      "j'aurai compris",
+      "tu auras compris",
+      "il aura compris",
+      "nous aurons compris",
+      "vous aurez compris",
+      "ils auront compris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je comprenne",
+      "que tu comprennes",
+      "qu'il comprenne",
+      "que nous comprenions",
+      "que vous compreniez",
+      "qu'ils comprennent"
+    ],
+    "passé": [
+      "que j'aie compris",
+      "que tu aies compris",
+      "qu'il ait compris",
+      "que nous ayons compris",
+      "que vous ayez compris",
+      "qu'ils aient compris"
+    ],
+    "imparfait": [
+      "que je comprisse",
+      "que tu comprisses",
+      "qu'il comprît",
+      "que nous comprissions",
+      "que vous comprissiez",
+      "qu'ils comprissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse compris",
+      "que tu eusses compris",
+      "qu'il eût compris",
+      "que nous eussions compris",
+      "que vous eussiez compris",
+      "qu'ils eussent compris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je comprendrais",
+      "tu comprendrais",
+      "il comprendrait",
+      "nous comprendrions",
+      "vous comprendriez",
+      "ils comprendraient"
+    ],
+    "passé": [
+      "j'aurais compris",
+      "tu aurais compris",
+      "il aurait compris",
+      "nous aurions compris",
+      "vous auriez compris",
+      "ils auraient compris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "comprends",
+      "comprenons",
+      "comprenez"
+    ],
+    "passé": [
+      "aie compris",
+      "ayons compris",
+      "ayez compris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "comprendre"
+    ],
+    "passé": [
+      "avoir compris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "comprenant"
+    ],
+    "passé": [
+      "compris",
+      "ayant compris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en comprenant"
+    ],
+    "passé": [
+      "en ayant compris"
+    ]
+  }
+}

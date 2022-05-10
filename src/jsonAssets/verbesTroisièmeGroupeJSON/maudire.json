@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je maudis",
+      "tu maudis",
+      "il maudit",
+      "nous maudissons",
+      "vous maudissez",
+      "ils maudissent"
+    ],
+    "passé composé": [
+      "j'ai maudit",
+      "tu as maudit",
+      "il a maudit",
+      "nous avons maudit",
+      "vous avez maudit",
+      "ils ont maudit"
+    ],
+    "imparfait": [
+      "je maudissais",
+      "tu maudissais",
+      "il maudissait",
+      "nous maudissions",
+      "vous maudissiez",
+      "ils maudissaient"
+    ],
+    "plus que parfait": [
+      "j'avais maudit",
+      "tu avais maudit",
+      "il avait maudit",
+      "nous avions maudit",
+      "vous aviez maudit",
+      "ils avaient maudit"
+    ],
+    "passé simple": [
+      "je maudis",
+      "tu maudis",
+      "il maudit",
+      "nous maudîmes",
+      "vous maudîtes",
+      "ils maudirent"
+    ],
+    "passé antérieur": [
+      "j'eus maudit",
+      "tu eus maudit",
+      "il eut maudit",
+      "nous eûmes maudit",
+      "vous eûtes maudit",
+      "ils eurent maudit"
+    ],
+    "futur simple": [
+      "je maudirai",
+      "tu maudiras",
+      "il maudira",
+      "nous maudirons",
+      "vous maudirez",
+      "ils maudiront"
+    ],
+    "futur antérieur": [
+      "j'aurai maudit",
+      "tu auras maudit",
+      "il aura maudit",
+      "nous aurons maudit",
+      "vous aurez maudit",
+      "ils auront maudit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je maudisse",
+      "que tu maudisses",
+      "qu'il maudisse",
+      "que nous maudissions",
+      "que vous maudissiez",
+      "qu'ils maudissent"
+    ],
+    "passé": [
+      "que j'aie maudit",
+      "que tu aies maudit",
+      "qu'il ait maudit",
+      "que nous ayons maudit",
+      "que vous ayez maudit",
+      "qu'ils aient maudit"
+    ],
+    "imparfait": [
+      "que je maudisse",
+      "que tu maudisses",
+      "qu'il maudît",
+      "que nous maudissions",
+      "que vous maudissiez",
+      "qu'ils maudissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse maudit",
+      "que tu eusses maudit",
+      "qu'il eût maudit",
+      "que nous eussions maudit",
+      "que vous eussiez maudit",
+      "qu'ils eussent maudit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je maudirais",
+      "tu maudirais",
+      "il maudirait",
+      "nous maudirions",
+      "vous maudiriez",
+      "ils maudiraient"
+    ],
+    "passé": [
+      "j'aurais maudit",
+      "tu aurais maudit",
+      "il aurait maudit",
+      "nous aurions maudit",
+      "vous auriez maudit",
+      "ils auraient maudit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "maudis",
+      "maudissons",
+      "maudissez"
+    ],
+    "passé": [
+      "aie maudit",
+      "ayons maudit",
+      "ayez maudit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "maudire"
+    ],
+    "passé": [
+      "avoir maudit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "maudissant"
+    ],
+    "passé": [
+      "maudit",
+      "ayant maudit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en maudissant"
+    ],
+    "passé": [
+      "en ayant maudit"
+    ]
+  }
+}

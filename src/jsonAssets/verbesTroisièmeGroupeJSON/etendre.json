@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'étends",
+      "tu étends",
+      "il étend",
+      "nous étendons",
+      "vous étendez",
+      "ils étendent"
+    ],
+    "passé composé": [
+      "j'ai étendu",
+      "tu as étendu",
+      "il a étendu",
+      "nous avons étendu",
+      "vous avez étendu",
+      "ils ont étendu"
+    ],
+    "imparfait": [
+      "j'étendais",
+      "tu étendais",
+      "il étendait",
+      "nous étendions",
+      "vous étendiez",
+      "ils étendaient"
+    ],
+    "plus que parfait": [
+      "j'avais étendu",
+      "tu avais étendu",
+      "il avait étendu",
+      "nous avions étendu",
+      "vous aviez étendu",
+      "ils avaient étendu"
+    ],
+    "passé simple": [
+      "j'étendis",
+      "tu étendis",
+      "il étendit",
+      "nous étendîmes",
+      "vous étendîtes",
+      "ils étendirent"
+    ],
+    "passé antérieur": [
+      "j'eus étendu",
+      "tu eus étendu",
+      "il eut étendu",
+      "nous eûmes étendu",
+      "vous eûtes étendu",
+      "ils eurent étendu"
+    ],
+    "futur simple": [
+      "j'étendrai",
+      "tu étendras",
+      "il étendra",
+      "nous étendrons",
+      "vous étendrez",
+      "ils étendront"
+    ],
+    "futur antérieur": [
+      "j'aurai étendu",
+      "tu auras étendu",
+      "il aura étendu",
+      "nous aurons étendu",
+      "vous aurez étendu",
+      "ils auront étendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'étende",
+      "que tu étendes",
+      "qu'il étende",
+      "que nous étendions",
+      "que vous étendiez",
+      "qu'ils étendent"
+    ],
+    "passé": [
+      "que j'aie étendu",
+      "que tu aies étendu",
+      "qu'il ait étendu",
+      "que nous ayons étendu",
+      "que vous ayez étendu",
+      "qu'ils aient étendu"
+    ],
+    "imparfait": [
+      "que j'étendisse",
+      "que tu étendisses",
+      "qu'il étendît",
+      "que nous étendissions",
+      "que vous étendissiez",
+      "qu'ils étendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse étendu",
+      "que tu eusses étendu",
+      "qu'il eût étendu",
+      "que nous eussions étendu",
+      "que vous eussiez étendu",
+      "qu'ils eussent étendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'étendrais",
+      "tu étendrais",
+      "il étendrait",
+      "nous étendrions",
+      "vous étendriez",
+      "ils étendraient"
+    ],
+    "passé": [
+      "j'aurais étendu",
+      "tu aurais étendu",
+      "il aurait étendu",
+      "nous aurions étendu",
+      "vous auriez étendu",
+      "ils auraient étendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "étends",
+      "étendons",
+      "étendez"
+    ],
+    "passé": [
+      "aie étendu",
+      "ayons étendu",
+      "ayez étendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "étendre"
+    ],
+    "passé": [
+      "avoir étendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "étendant"
+    ],
+    "passé": [
+      "étendu",
+      "ayant étendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en étendant"
+    ],
+    "passé": [
+      "en ayant étendu"
+    ]
+  }
+}

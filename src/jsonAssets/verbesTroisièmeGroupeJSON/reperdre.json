@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reperds",
+      "tu reperds",
+      "il reperd",
+      "nous reperdons",
+      "vous reperdez",
+      "ils reperdent"
+    ],
+    "passé composé": [
+      "j'ai reperdu",
+      "tu as reperdu",
+      "il a reperdu",
+      "nous avons reperdu",
+      "vous avez reperdu",
+      "ils ont reperdu"
+    ],
+    "imparfait": [
+      "je reperdais",
+      "tu reperdais",
+      "il reperdait",
+      "nous reperdions",
+      "vous reperdiez",
+      "ils reperdaient"
+    ],
+    "plus que parfait": [
+      "j'avais reperdu",
+      "tu avais reperdu",
+      "il avait reperdu",
+      "nous avions reperdu",
+      "vous aviez reperdu",
+      "ils avaient reperdu"
+    ],
+    "passé simple": [
+      "je reperdis",
+      "tu reperdis",
+      "il reperdit",
+      "nous reperdîmes",
+      "vous reperdîtes",
+      "ils reperdirent"
+    ],
+    "passé antérieur": [
+      "j'eus reperdu",
+      "tu eus reperdu",
+      "il eut reperdu",
+      "nous eûmes reperdu",
+      "vous eûtes reperdu",
+      "ils eurent reperdu"
+    ],
+    "futur simple": [
+      "je reperdrai",
+      "tu reperdras",
+      "il reperdra",
+      "nous reperdrons",
+      "vous reperdrez",
+      "ils reperdront"
+    ],
+    "futur antérieur": [
+      "j'aurai reperdu",
+      "tu auras reperdu",
+      "il aura reperdu",
+      "nous aurons reperdu",
+      "vous aurez reperdu",
+      "ils auront reperdu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reperde",
+      "que tu reperdes",
+      "qu'il reperde",
+      "que nous reperdions",
+      "que vous reperdiez",
+      "qu'ils reperdent"
+    ],
+    "passé": [
+      "que j'aie reperdu",
+      "que tu aies reperdu",
+      "qu'il ait reperdu",
+      "que nous ayons reperdu",
+      "que vous ayez reperdu",
+      "qu'ils aient reperdu"
+    ],
+    "imparfait": [
+      "que je reperdisse",
+      "que tu reperdisses",
+      "qu'il reperdît",
+      "que nous reperdissions",
+      "que vous reperdissiez",
+      "qu'ils reperdissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reperdu",
+      "que tu eusses reperdu",
+      "qu'il eût reperdu",
+      "que nous eussions reperdu",
+      "que vous eussiez reperdu",
+      "qu'ils eussent reperdu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reperdrais",
+      "tu reperdrais",
+      "il reperdrait",
+      "nous reperdrions",
+      "vous reperdriez",
+      "ils reperdraient"
+    ],
+    "passé": [
+      "j'aurais reperdu",
+      "tu aurais reperdu",
+      "il aurait reperdu",
+      "nous aurions reperdu",
+      "vous auriez reperdu",
+      "ils auraient reperdu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reperds",
+      "reperdons",
+      "reperdez"
+    ],
+    "passé": [
+      "aie reperdu",
+      "ayons reperdu",
+      "ayez reperdu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reperdre"
+    ],
+    "passé": [
+      "avoir reperdu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reperdant"
+    ],
+    "passé": [
+      "reperdu",
+      "ayant reperdu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reperdant"
+    ],
+    "passé": [
+      "en ayant reperdu"
+    ]
+  }
+}

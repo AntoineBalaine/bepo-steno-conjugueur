@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'accours",
+      "tu accours",
+      "il accourt",
+      "nous accourons",
+      "vous accourez",
+      "ils accourent"
+    ],
+    "passé composé": [
+      "j'ai accouru",
+      "tu as accouru",
+      "il a accouru",
+      "nous avons accouru",
+      "vous avez accouru",
+      "ils ont accouru"
+    ],
+    "imparfait": [
+      "j'accourais",
+      "tu accourais",
+      "il accourait",
+      "nous accourions",
+      "vous accouriez",
+      "ils accouraient"
+    ],
+    "plus que parfait": [
+      "j'avais accouru",
+      "tu avais accouru",
+      "il avait accouru",
+      "nous avions accouru",
+      "vous aviez accouru",
+      "ils avaient accouru"
+    ],
+    "passé simple": [
+      "j'accourus",
+      "tu accourus",
+      "il accourut",
+      "nous accourûmes",
+      "vous accourûtes",
+      "ils accoururent"
+    ],
+    "passé antérieur": [
+      "j'eus accouru",
+      "tu eus accouru",
+      "il eut accouru",
+      "nous eûmes accouru",
+      "vous eûtes accouru",
+      "ils eurent accouru"
+    ],
+    "futur simple": [
+      "j'accourrai",
+      "tu accourras",
+      "il accourra",
+      "nous accourrons",
+      "vous accourrez",
+      "ils accourront"
+    ],
+    "futur antérieur": [
+      "j'aurai accouru",
+      "tu auras accouru",
+      "il aura accouru",
+      "nous aurons accouru",
+      "vous aurez accouru",
+      "ils auront accouru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'accoure",
+      "que tu accoures",
+      "qu'il accoure",
+      "que nous accourions",
+      "que vous accouriez",
+      "qu'ils accourent"
+    ],
+    "passé": [
+      "que j'aie accouru",
+      "que tu aies accouru",
+      "qu'il ait accouru",
+      "que nous ayons accouru",
+      "que vous ayez accouru",
+      "qu'ils aient accouru"
+    ],
+    "imparfait": [
+      "que j'accourusse",
+      "que tu accourusses",
+      "qu'il accourût",
+      "que nous accourussions",
+      "que vous accourussiez",
+      "qu'ils accourussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse accouru",
+      "que tu eusses accouru",
+      "qu'il eût accouru",
+      "que nous eussions accouru",
+      "que vous eussiez accouru",
+      "qu'ils eussent accouru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'accourrais",
+      "tu accourrais",
+      "il accourrait",
+      "nous accourrions",
+      "vous accourriez",
+      "ils accourraient"
+    ],
+    "passé": [
+      "j'aurais accouru",
+      "tu aurais accouru",
+      "il aurait accouru",
+      "nous aurions accouru",
+      "vous auriez accouru",
+      "ils auraient accouru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "accours",
+      "accourons",
+      "accourez"
+    ],
+    "passé": [
+      "aie accouru",
+      "ayons accouru",
+      "ayez accouru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "accourir"
+    ],
+    "passé": [
+      "avoir accouru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "accourant"
+    ],
+    "passé": [
+      "accouru",
+      "ayant accouru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en accourant"
+    ],
+    "passé": [
+      "en ayant accouru"
+    ]
+  }
+}

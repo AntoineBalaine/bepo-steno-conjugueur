@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je transmets",
+      "tu transmets",
+      "il transmet",
+      "nous transmettons",
+      "vous transmettez",
+      "ils transmettent"
+    ],
+    "passé composé": [
+      "j'ai transmis",
+      "tu as transmis",
+      "il a transmis",
+      "nous avons transmis",
+      "vous avez transmis",
+      "ils ont transmis"
+    ],
+    "imparfait": [
+      "je transmettais",
+      "tu transmettais",
+      "il transmettait",
+      "nous transmettions",
+      "vous transmettiez",
+      "ils transmettaient"
+    ],
+    "plus que parfait": [
+      "j'avais transmis",
+      "tu avais transmis",
+      "il avait transmis",
+      "nous avions transmis",
+      "vous aviez transmis",
+      "ils avaient transmis"
+    ],
+    "passé simple": [
+      "je transmis",
+      "tu transmis",
+      "il transmit",
+      "nous transmîmes",
+      "vous transmîtes",
+      "ils transmirent"
+    ],
+    "passé antérieur": [
+      "j'eus transmis",
+      "tu eus transmis",
+      "il eut transmis",
+      "nous eûmes transmis",
+      "vous eûtes transmis",
+      "ils eurent transmis"
+    ],
+    "futur simple": [
+      "je transmettrai",
+      "tu transmettras",
+      "il transmettra",
+      "nous transmettrons",
+      "vous transmettrez",
+      "ils transmettront"
+    ],
+    "futur antérieur": [
+      "j'aurai transmis",
+      "tu auras transmis",
+      "il aura transmis",
+      "nous aurons transmis",
+      "vous aurez transmis",
+      "ils auront transmis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je transmette",
+      "que tu transmettes",
+      "qu'il transmette",
+      "que nous transmettions",
+      "que vous transmettiez",
+      "qu'ils transmettent"
+    ],
+    "passé": [
+      "que j'aie transmis",
+      "que tu aies transmis",
+      "qu'il ait transmis",
+      "que nous ayons transmis",
+      "que vous ayez transmis",
+      "qu'ils aient transmis"
+    ],
+    "imparfait": [
+      "que je transmisse",
+      "que tu transmisses",
+      "qu'il transmît",
+      "que nous transmissions",
+      "que vous transmissiez",
+      "qu'ils transmissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse transmis",
+      "que tu eusses transmis",
+      "qu'il eût transmis",
+      "que nous eussions transmis",
+      "que vous eussiez transmis",
+      "qu'ils eussent transmis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je transmettrais",
+      "tu transmettrais",
+      "il transmettrait",
+      "nous transmettrions",
+      "vous transmettriez",
+      "ils transmettraient"
+    ],
+    "passé": [
+      "j'aurais transmis",
+      "tu aurais transmis",
+      "il aurait transmis",
+      "nous aurions transmis",
+      "vous auriez transmis",
+      "ils auraient transmis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "transmets",
+      "transmettons",
+      "transmettez"
+    ],
+    "passé": [
+      "aie transmis",
+      "ayons transmis",
+      "ayez transmis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "transmettre"
+    ],
+    "passé": [
+      "avoir transmis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "transmettant"
+    ],
+    "passé": [
+      "transmis",
+      "ayant transmis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en transmettant"
+    ],
+    "passé": [
+      "en ayant transmis"
+    ]
+  }
+}

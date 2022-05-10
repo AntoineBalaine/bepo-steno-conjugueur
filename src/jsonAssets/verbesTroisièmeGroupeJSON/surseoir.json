@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je sursois",
+      "tu sursois",
+      "il sursoit",
+      "nous sursoyons",
+      "vous sursoyez",
+      "ils sursoient"
+    ],
+    "passé composé": [
+      "j'ai sursis",
+      "tu as sursis",
+      "il a sursis",
+      "nous avons sursis",
+      "vous avez sursis",
+      "ils ont sursis"
+    ],
+    "imparfait": [
+      "je sursoyais",
+      "tu sursoyais",
+      "il sursoyait",
+      "nous sursoyions",
+      "vous sursoyiez",
+      "ils sursoyaient"
+    ],
+    "plus que parfait": [
+      "j'avais sursis",
+      "tu avais sursis",
+      "il avait sursis",
+      "nous avions sursis",
+      "vous aviez sursis",
+      "ils avaient sursis"
+    ],
+    "passé simple": [
+      "je sursis",
+      "tu sursis",
+      "il sursit",
+      "nous sursîmes",
+      "vous sursîtes",
+      "ils sursirent"
+    ],
+    "passé antérieur": [
+      "j'eus sursis",
+      "tu eus sursis",
+      "il eut sursis",
+      "nous eûmes sursis",
+      "vous eûtes sursis",
+      "ils eurent sursis"
+    ],
+    "futur simple": [
+      "je surseoirai",
+      "tu surseoiras",
+      "il surseoira",
+      "nous surseoirons",
+      "vous surseoirez",
+      "ils surseoiront"
+    ],
+    "futur antérieur": [
+      "j'aurai sursis",
+      "tu auras sursis",
+      "il aura sursis",
+      "nous aurons sursis",
+      "vous aurez sursis",
+      "ils auront sursis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je sursoie",
+      "que tu sursoies",
+      "qu'il sursoie",
+      "que nous sursoyions",
+      "que vous sursoyiez",
+      "qu'ils sursoient"
+    ],
+    "passé": [
+      "que j'aie sursis",
+      "que tu aies sursis",
+      "qu'il ait sursis",
+      "que nous ayons sursis",
+      "que vous ayez sursis",
+      "qu'ils aient sursis"
+    ],
+    "imparfait": [
+      "que je sursisse",
+      "que tu sursisses",
+      "qu'il sursît",
+      "que nous sursissions",
+      "que vous sursissiez",
+      "qu'ils sursissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse sursis",
+      "que tu eusses sursis",
+      "qu'il eût sursis",
+      "que nous eussions sursis",
+      "que vous eussiez sursis",
+      "qu'ils eussent sursis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je surseoirais",
+      "tu surseoirais",
+      "il surseoirait",
+      "nous surseoirions",
+      "vous surseoiriez",
+      "ils surseoiraient"
+    ],
+    "passé": [
+      "j'aurais sursis",
+      "tu aurais sursis",
+      "il aurait sursis",
+      "nous aurions sursis",
+      "vous auriez sursis",
+      "ils auraient sursis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sursois",
+      "sursoyons",
+      "sursoyez"
+    ],
+    "passé": [
+      "aie sursis",
+      "ayons sursis",
+      "ayez sursis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "surseoir"
+    ],
+    "passé": [
+      "avoir sursis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "sursoyant"
+    ],
+    "passé": [
+      "sursis",
+      "ayant sursis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en sursoyant"
+    ],
+    "passé": [
+      "en ayant sursis"
+    ]
+  }
+}

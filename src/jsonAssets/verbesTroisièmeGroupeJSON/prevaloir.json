@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je prévaux",
+      "tu prévaux",
+      "il prévaut",
+      "nous prévalons",
+      "vous prévalez",
+      "ils prévalent"
+    ],
+    "passé composé": [
+      "j'ai prévalu",
+      "tu as prévalu",
+      "il a prévalu",
+      "nous avons prévalu",
+      "vous avez prévalu",
+      "ils ont prévalu"
+    ],
+    "imparfait": [
+      "je prévalais",
+      "tu prévalais",
+      "il prévalait",
+      "nous prévalions",
+      "vous prévaliez",
+      "ils prévalaient"
+    ],
+    "plus que parfait": [
+      "j'avais prévalu",
+      "tu avais prévalu",
+      "il avait prévalu",
+      "nous avions prévalu",
+      "vous aviez prévalu",
+      "ils avaient prévalu"
+    ],
+    "passé simple": [
+      "je prévalus",
+      "tu prévalus",
+      "il prévalut",
+      "nous prévalûmes",
+      "vous prévalûtes",
+      "ils prévalurent"
+    ],
+    "passé antérieur": [
+      "j'eus prévalu",
+      "tu eus prévalu",
+      "il eut prévalu",
+      "nous eûmes prévalu",
+      "vous eûtes prévalu",
+      "ils eurent prévalu"
+    ],
+    "futur simple": [
+      "je prévaudrai",
+      "tu prévaudras",
+      "il prévaudra",
+      "nous prévaudrons",
+      "vous prévaudrez",
+      "ils prévaudront"
+    ],
+    "futur antérieur": [
+      "j'aurai prévalu",
+      "tu auras prévalu",
+      "il aura prévalu",
+      "nous aurons prévalu",
+      "vous aurez prévalu",
+      "ils auront prévalu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je prévaille",
+      "que tu prévailles",
+      "qu'il prévaille",
+      "que nous prévalions",
+      "que vous prévaliez",
+      "qu'ils prévaillent"
+    ],
+    "passé": [
+      "que j'aie prévalu",
+      "que tu aies prévalu",
+      "qu'il ait prévalu",
+      "que nous ayons prévalu",
+      "que vous ayez prévalu",
+      "qu'ils aient prévalu"
+    ],
+    "imparfait": [
+      "que je prévalusse",
+      "que tu prévalusses",
+      "qu'il prévalût",
+      "que nous prévalussions",
+      "que vous prévalussiez",
+      "qu'ils prévalussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse prévalu",
+      "que tu eusses prévalu",
+      "qu'il eût prévalu",
+      "que nous eussions prévalu",
+      "que vous eussiez prévalu",
+      "qu'ils eussent prévalu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je prévaudrais",
+      "tu prévaudrais",
+      "il prévaudrait",
+      "nous prévaudrions",
+      "vous prévaudriez",
+      "ils prévaudraient"
+    ],
+    "passé": [
+      "j'aurais prévalu",
+      "tu aurais prévalu",
+      "il aurait prévalu",
+      "nous aurions prévalu",
+      "vous auriez prévalu",
+      "ils auraient prévalu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prévaux",
+      "prévalons",
+      "prévalez"
+    ],
+    "passé": [
+      "aie prévalu",
+      "ayons prévalu",
+      "ayez prévalu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "prévaloir"
+    ],
+    "passé": [
+      "avoir prévalu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "prévalant"
+    ],
+    "passé": [
+      "prévalu",
+      "ayant prévalu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en prévalant"
+    ],
+    "passé": [
+      "en ayant prévalu"
+    ]
+  }
+}

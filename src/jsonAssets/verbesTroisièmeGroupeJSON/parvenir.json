@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je parviens",
+      "tu parviens",
+      "il parvient",
+      "nous parvenons",
+      "vous parvenez",
+      "ils parviennent"
+    ],
+    "passé composé": [
+      "je suis parvenu",
+      "tu es parvenu",
+      "il est parvenu",
+      "nous sommes parvenus",
+      "vous êtes parvenus",
+      "ils sont parvenus"
+    ],
+    "imparfait": [
+      "je parvenais",
+      "tu parvenais",
+      "il parvenait",
+      "nous parvenions",
+      "vous parveniez",
+      "ils parvenaient"
+    ],
+    "plus que parfait": [
+      "j'étais parvenu",
+      "tu étais parvenu",
+      "il était parvenu",
+      "nous étions parvenus",
+      "vous étiez parvenus",
+      "ils étaient parvenus"
+    ],
+    "passé simple": [
+      "je parvins",
+      "tu parvins",
+      "il parvint",
+      "nous parvînmes",
+      "vous parvîntes",
+      "ils parvinrent"
+    ],
+    "passé antérieur": [
+      "je fus parvenu",
+      "tu fus parvenu",
+      "il fut parvenu",
+      "nous fûmes parvenus",
+      "vous fûtes parvenus",
+      "ils furent parvenus"
+    ],
+    "futur simple": [
+      "je parviendrai",
+      "tu parviendras",
+      "il parviendra",
+      "nous parviendrons",
+      "vous parviendrez",
+      "ils parviendront"
+    ],
+    "futur antérieur": [
+      "je serai parvenu",
+      "tu seras parvenu",
+      "il sera parvenu",
+      "nous serons parvenus",
+      "vous serez parvenus",
+      "ils seront parvenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je parvienne",
+      "que tu parviennes",
+      "qu'il parvienne",
+      "que nous parvenions",
+      "que vous parveniez",
+      "qu'ils parviennent"
+    ],
+    "passé": [
+      "que je sois parvenu",
+      "que tu sois parvenu",
+      "qu'il soit parvenu",
+      "que nous soyons parvenus",
+      "que vous soyez parvenus",
+      "qu'ils soient parvenus"
+    ],
+    "imparfait": [
+      "que je parvinsse",
+      "que tu parvinsses",
+      "qu'il parvînt",
+      "que nous parvinssions",
+      "que vous parvinssiez",
+      "qu'ils parvinssent"
+    ],
+    "plus que parfait": [
+      "que je fusse parvenu",
+      "que tu fusses parvenu",
+      "qu'il fût parvenu",
+      "que nous fussions parvenus",
+      "que vous fussiez parvenus",
+      "qu'ils fussent parvenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je parviendrais",
+      "tu parviendrais",
+      "il parviendrait",
+      "nous parviendrions",
+      "vous parviendriez",
+      "ils parviendraient"
+    ],
+    "passé": [
+      "je serais parvenu",
+      "tu serais parvenu",
+      "il serait parvenu",
+      "nous serions parvenus",
+      "vous seriez parvenus",
+      "ils seraient parvenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "parviens",
+      "parvenons",
+      "parvenez"
+    ],
+    "passé": [
+      "sois parvenu",
+      "soyons parvenus",
+      "soyez parvenus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "parvenir"
+    ],
+    "passé": [
+      "être parvenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "parvenant"
+    ],
+    "passé": [
+      "parvenu",
+      "étant parvenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en parvenant"
+    ],
+    "passé": [
+      "en étant parvenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je mainmets",
+      "tu mainmets",
+      "il mainmet",
+      "nous mainmettons",
+      "vous mainmettez",
+      "ils mainmettent"
+    ],
+    "passé composé": [
+      "j'ai mainmis",
+      "tu as mainmis",
+      "il a mainmis",
+      "nous avons mainmis",
+      "vous avez mainmis",
+      "ils ont mainmis"
+    ],
+    "imparfait": [
+      "je mainmettais",
+      "tu mainmettais",
+      "il mainmettait",
+      "nous mainmettions",
+      "vous mainmettiez",
+      "ils mainmettaient"
+    ],
+    "plus que parfait": [
+      "j'avais mainmis",
+      "tu avais mainmis",
+      "il avait mainmis",
+      "nous avions mainmis",
+      "vous aviez mainmis",
+      "ils avaient mainmis"
+    ],
+    "passé simple": [
+      "je mainmis",
+      "tu mainmis",
+      "il mainmit",
+      "nous mainmîmes",
+      "vous mainmîtes",
+      "ils mainmirent"
+    ],
+    "passé antérieur": [
+      "j'eus mainmis",
+      "tu eus mainmis",
+      "il eut mainmis",
+      "nous eûmes mainmis",
+      "vous eûtes mainmis",
+      "ils eurent mainmis"
+    ],
+    "futur simple": [
+      "je mainmettrai",
+      "tu mainmettras",
+      "il mainmettra",
+      "nous mainmettrons",
+      "vous mainmettrez",
+      "ils mainmettront"
+    ],
+    "futur antérieur": [
+      "j'aurai mainmis",
+      "tu auras mainmis",
+      "il aura mainmis",
+      "nous aurons mainmis",
+      "vous aurez mainmis",
+      "ils auront mainmis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je mainmette",
+      "que tu mainmettes",
+      "qu'il mainmette",
+      "que nous mainmettions",
+      "que vous mainmettiez",
+      "qu'ils mainmettent"
+    ],
+    "passé": [
+      "que j'aie mainmis",
+      "que tu aies mainmis",
+      "qu'il ait mainmis",
+      "que nous ayons mainmis",
+      "que vous ayez mainmis",
+      "qu'ils aient mainmis"
+    ],
+    "imparfait": [
+      "que je mainmisse",
+      "que tu mainmisses",
+      "qu'il mainmît",
+      "que nous mainmissions",
+      "que vous mainmissiez",
+      "qu'ils mainmissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse mainmis",
+      "que tu eusses mainmis",
+      "qu'il eût mainmis",
+      "que nous eussions mainmis",
+      "que vous eussiez mainmis",
+      "qu'ils eussent mainmis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je mainmettrais",
+      "tu mainmettrais",
+      "il mainmettrait",
+      "nous mainmettrions",
+      "vous mainmettriez",
+      "ils mainmettraient"
+    ],
+    "passé": [
+      "j'aurais mainmis",
+      "tu aurais mainmis",
+      "il aurait mainmis",
+      "nous aurions mainmis",
+      "vous auriez mainmis",
+      "ils auraient mainmis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mainmets",
+      "mainmettons",
+      "mainmettez"
+    ],
+    "passé": [
+      "aie mainmis",
+      "ayons mainmis",
+      "ayez mainmis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "mainmettre"
+    ],
+    "passé": [
+      "avoir mainmis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "mainmettant"
+    ],
+    "passé": [
+      "mainmis",
+      "ayant mainmis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en mainmettant"
+    ],
+    "passé": [
+      "en ayant mainmis"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je vaincs",
+      "tu vaincs",
+      "il vainc",
+      "nous vainquons",
+      "vous vainquez",
+      "ils vainquent"
+    ],
+    "passé composé": [
+      "j'ai vaincu",
+      "tu as vaincu",
+      "il a vaincu",
+      "nous avons vaincu",
+      "vous avez vaincu",
+      "ils ont vaincu"
+    ],
+    "imparfait": [
+      "je vainquais",
+      "tu vainquais",
+      "il vainquait",
+      "nous vainquions",
+      "vous vainquiez",
+      "ils vainquaient"
+    ],
+    "plus que parfait": [
+      "j'avais vaincu",
+      "tu avais vaincu",
+      "il avait vaincu",
+      "nous avions vaincu",
+      "vous aviez vaincu",
+      "ils avaient vaincu"
+    ],
+    "passé simple": [
+      "je vainquis",
+      "tu vainquis",
+      "il vainquit",
+      "nous vainquîmes",
+      "vous vainquîtes",
+      "ils vainquirent"
+    ],
+    "passé antérieur": [
+      "j'eus vaincu",
+      "tu eus vaincu",
+      "il eut vaincu",
+      "nous eûmes vaincu",
+      "vous eûtes vaincu",
+      "ils eurent vaincu"
+    ],
+    "futur simple": [
+      "je vaincrai",
+      "tu vaincras",
+      "il vaincra",
+      "nous vaincrons",
+      "vous vaincrez",
+      "ils vaincront"
+    ],
+    "futur antérieur": [
+      "j'aurai vaincu",
+      "tu auras vaincu",
+      "il aura vaincu",
+      "nous aurons vaincu",
+      "vous aurez vaincu",
+      "ils auront vaincu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je vainque",
+      "que tu vainques",
+      "qu'il vainque",
+      "que nous vainquions",
+      "que vous vainquiez",
+      "qu'ils vainquent"
+    ],
+    "passé": [
+      "que j'aie vaincu",
+      "que tu aies vaincu",
+      "qu'il ait vaincu",
+      "que nous ayons vaincu",
+      "que vous ayez vaincu",
+      "qu'ils aient vaincu"
+    ],
+    "imparfait": [
+      "que je vainquisse",
+      "que tu vainquisses",
+      "qu'il vainquît",
+      "que nous vainquissions",
+      "que vous vainquissiez",
+      "qu'ils vainquissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse vaincu",
+      "que tu eusses vaincu",
+      "qu'il eût vaincu",
+      "que nous eussions vaincu",
+      "que vous eussiez vaincu",
+      "qu'ils eussent vaincu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je vaincrais",
+      "tu vaincrais",
+      "il vaincrait",
+      "nous vaincrions",
+      "vous vaincriez",
+      "ils vaincraient"
+    ],
+    "passé": [
+      "j'aurais vaincu",
+      "tu aurais vaincu",
+      "il aurait vaincu",
+      "nous aurions vaincu",
+      "vous auriez vaincu",
+      "ils auraient vaincu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vaincs",
+      "vainquons",
+      "vainquez"
+    ],
+    "passé": [
+      "aie vaincu",
+      "ayons vaincu",
+      "ayez vaincu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "vaincre"
+    ],
+    "passé": [
+      "avoir vaincu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "vainquant"
+    ],
+    "passé": [
+      "vaincu",
+      "ayant vaincu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en vainquant"
+    ],
+    "passé": [
+      "en ayant vaincu"
+    ]
+  }
+}

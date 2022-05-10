@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'éprends",
+      "tu t'éprends",
+      "il s'éprend",
+      "nous nous éprenons",
+      "vous vous éprenez",
+      "ils s'éprennent"
+    ],
+    "passé composé": [
+      "je me suis épris",
+      "tu t'es épris",
+      "il s'est épris",
+      "nous nous sommes épris",
+      "vous vous êtes épris",
+      "ils se sont épris"
+    ],
+    "imparfait": [
+      "je m'éprenais",
+      "tu t'éprenais",
+      "il s'éprenait",
+      "nous nous éprenions",
+      "vous vous épreniez",
+      "ils s'éprenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais épris",
+      "tu t'étais épris",
+      "il s'était épris",
+      "nous nous étions épris",
+      "vous vous étiez épris",
+      "ils s'étaient épris"
+    ],
+    "passé simple": [
+      "je m'épris",
+      "tu t'épris",
+      "il s'éprit",
+      "nous nous éprîmes",
+      "vous vous éprîtes",
+      "ils s'éprirent"
+    ],
+    "passé antérieur": [
+      "je me fus épris",
+      "tu te fus épris",
+      "il se fut épris",
+      "nous nous fûmes épris",
+      "vous vous fûtes épris",
+      "ils se furent épris"
+    ],
+    "futur simple": [
+      "je m'éprendrai",
+      "tu t'éprendras",
+      "il s'éprendra",
+      "nous nous éprendrons",
+      "vous vous éprendrez",
+      "ils s'éprendront"
+    ],
+    "futur antérieur": [
+      "je me serai épris",
+      "tu te seras épris",
+      "il se sera épris",
+      "nous nous serons épris",
+      "vous vous serez épris",
+      "ils se seront épris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'éprenne",
+      "que tu t'éprennes",
+      "qu'il s'éprenne",
+      "que nous nous éprenions",
+      "que vous vous épreniez",
+      "qu'ils s'éprennent"
+    ],
+    "passé": [
+      "que je me sois épris",
+      "que tu te sois épris",
+      "qu'il se soit épris",
+      "que nous nous soyons épris",
+      "que vous vous soyez épris",
+      "qu'ils se soient épris"
+    ],
+    "imparfait": [
+      "que je m'éprisse",
+      "que tu t'éprisses",
+      "qu'il s'éprît",
+      "que nous nous éprissions",
+      "que vous vous éprissiez",
+      "qu'ils s'éprissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse épris",
+      "que tu te fusses épris",
+      "qu'il se fût épris",
+      "que nous nous fussions épris",
+      "que vous vous fussiez épris",
+      "qu'ils se fussent épris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'éprendrais",
+      "tu t'éprendrais",
+      "il s'éprendrait",
+      "nous nous éprendrions",
+      "vous vous éprendriez",
+      "ils s'éprendraient"
+    ],
+    "passé": [
+      "je me serais épris",
+      "tu te serais épris",
+      "il se serait épris",
+      "nous nous serions épris",
+      "vous vous seriez épris",
+      "ils se seraient épris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "éprends-toi",
+      "éprenons-nous",
+      "éprenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'éprendre"
+    ],
+    "passé": [
+      "s'être épris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'éprenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant épris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'éprenant"
+    ],
+    "passé": [
+      "en s'étant épris"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'étreins",
+      "tu t'étreins",
+      "il s'étreint",
+      "nous nous étreignons",
+      "vous vous étreignez",
+      "ils s'étreignent"
+    ],
+    "passé composé": [
+      "je me suis étreint",
+      "tu t'es étreint",
+      "il s'est étreint",
+      "nous nous sommes étreints",
+      "vous vous êtes étreints",
+      "ils se sont étreints"
+    ],
+    "imparfait": [
+      "je m'étreignais",
+      "tu t'étreignais",
+      "il s'étreignait",
+      "nous nous étreignions",
+      "vous vous étreigniez",
+      "ils s'étreignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais étreint",
+      "tu t'étais étreint",
+      "il s'était étreint",
+      "nous nous étions étreints",
+      "vous vous étiez étreints",
+      "ils s'étaient étreints"
+    ],
+    "passé simple": [
+      "je m'étreignis",
+      "tu t'étreignis",
+      "il s'étreignit",
+      "nous nous étreignîmes",
+      "vous vous étreignîtes",
+      "ils s'étreignirent"
+    ],
+    "passé antérieur": [
+      "je me fus étreint",
+      "tu te fus étreint",
+      "il se fut étreint",
+      "nous nous fûmes étreints",
+      "vous vous fûtes étreints",
+      "ils se furent étreints"
+    ],
+    "futur simple": [
+      "je m'étreindrai",
+      "tu t'étreindras",
+      "il s'étreindra",
+      "nous nous étreindrons",
+      "vous vous étreindrez",
+      "ils s'étreindront"
+    ],
+    "futur antérieur": [
+      "je me serai étreint",
+      "tu te seras étreint",
+      "il se sera étreint",
+      "nous nous serons étreints",
+      "vous vous serez étreints",
+      "ils se seront étreints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'étreigne",
+      "que tu t'étreignes",
+      "qu'il s'étreigne",
+      "que nous nous étreignions",
+      "que vous vous étreigniez",
+      "qu'ils s'étreignent"
+    ],
+    "passé": [
+      "que je me sois étreint",
+      "que tu te sois étreint",
+      "qu'il se soit étreint",
+      "que nous nous soyons étreints",
+      "que vous vous soyez étreints",
+      "qu'ils se soient étreints"
+    ],
+    "imparfait": [
+      "que je m'étreignisse",
+      "que tu t'étreignisses",
+      "qu'il s'étreignît",
+      "que nous nous étreignissions",
+      "que vous vous étreignissiez",
+      "qu'ils s'étreignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse étreint",
+      "que tu te fusses étreint",
+      "qu'il se fût étreint",
+      "que nous nous fussions étreints",
+      "que vous vous fussiez étreints",
+      "qu'ils se fussent étreints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'étreindrais",
+      "tu t'étreindrais",
+      "il s'étreindrait",
+      "nous nous étreindrions",
+      "vous vous étreindriez",
+      "ils s'étreindraient"
+    ],
+    "passé": [
+      "je me serais étreint",
+      "tu te serais étreint",
+      "il se serait étreint",
+      "nous nous serions étreints",
+      "vous vous seriez étreints",
+      "ils se seraient étreints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "étreins-toi",
+      "étreignons-nous",
+      "étreignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'étreindre"
+    ],
+    "passé": [
+      "s'être étreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'étreignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant étreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'étreignant"
+    ],
+    "passé": [
+      "en s'étant étreint"
+    ]
+  }
+}

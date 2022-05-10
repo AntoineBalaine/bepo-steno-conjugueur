@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il messied",
+      "-",
+      "-",
+      "ils messiéent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il messeyait",
+      "-",
+      "-",
+      "ils messeyaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il messiéra",
+      "-",
+      "-",
+      "ils messiéront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "qu'il messiée",
+      "-",
+      "-",
+      "qu'ils messiéent"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "il messiérait",
+      "-",
+      "-",
+      "ils messiéraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "messeoir"
+    ],
+    "passé": [
+      "-"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "messéant"
+    ],
+    "passé": [
+      "-",
+      "-"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en messéant"
+    ],
+    "passé": [
+      "-"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'exclus",
+      "tu exclus",
+      "il exclut",
+      "nous excluons",
+      "vous excluez",
+      "ils excluent"
+    ],
+    "passé composé": [
+      "j'ai exclu",
+      "tu as exclu",
+      "il a exclu",
+      "nous avons exclu",
+      "vous avez exclu",
+      "ils ont exclu"
+    ],
+    "imparfait": [
+      "j'excluais",
+      "tu excluais",
+      "il excluait",
+      "nous excluions",
+      "vous excluiez",
+      "ils excluaient"
+    ],
+    "plus que parfait": [
+      "j'avais exclu",
+      "tu avais exclu",
+      "il avait exclu",
+      "nous avions exclu",
+      "vous aviez exclu",
+      "ils avaient exclu"
+    ],
+    "passé simple": [
+      "j'exclus",
+      "tu exclus",
+      "il exclut",
+      "nous exclûmes",
+      "vous exclûtes",
+      "ils exclurent"
+    ],
+    "passé antérieur": [
+      "j'eus exclu",
+      "tu eus exclu",
+      "il eut exclu",
+      "nous eûmes exclu",
+      "vous eûtes exclu",
+      "ils eurent exclu"
+    ],
+    "futur simple": [
+      "j'exclurai",
+      "tu excluras",
+      "il exclura",
+      "nous exclurons",
+      "vous exclurez",
+      "ils excluront"
+    ],
+    "futur antérieur": [
+      "j'aurai exclu",
+      "tu auras exclu",
+      "il aura exclu",
+      "nous aurons exclu",
+      "vous aurez exclu",
+      "ils auront exclu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'exclue",
+      "que tu exclues",
+      "qu'il exclue",
+      "que nous excluions",
+      "que vous excluiez",
+      "qu'ils excluent"
+    ],
+    "passé": [
+      "que j'aie exclu",
+      "que tu aies exclu",
+      "qu'il ait exclu",
+      "que nous ayons exclu",
+      "que vous ayez exclu",
+      "qu'ils aient exclu"
+    ],
+    "imparfait": [
+      "que j'exclusse",
+      "que tu exclusses",
+      "qu'il exclût",
+      "que nous exclussions",
+      "que vous exclussiez",
+      "qu'ils exclussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse exclu",
+      "que tu eusses exclu",
+      "qu'il eût exclu",
+      "que nous eussions exclu",
+      "que vous eussiez exclu",
+      "qu'ils eussent exclu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'exclurais",
+      "tu exclurais",
+      "il exclurait",
+      "nous exclurions",
+      "vous excluriez",
+      "ils excluraient"
+    ],
+    "passé": [
+      "j'aurais exclu",
+      "tu aurais exclu",
+      "il aurait exclu",
+      "nous aurions exclu",
+      "vous auriez exclu",
+      "ils auraient exclu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "exclus",
+      "excluons",
+      "excluez"
+    ],
+    "passé": [
+      "aie exclu",
+      "ayons exclu",
+      "ayez exclu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "exclure"
+    ],
+    "passé": [
+      "avoir exclu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "excluant"
+    ],
+    "passé": [
+      "exclu",
+      "ayant exclu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en excluant"
+    ],
+    "passé": [
+      "en ayant exclu"
+    ]
+  }
+}

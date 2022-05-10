@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je recomparais",
+      "tu recomparais",
+      "il recomparaît",
+      "nous recomparaissons",
+      "vous recomparaissez",
+      "ils recomparaissent"
+    ],
+    "passé composé": [
+      "j'ai recomparu",
+      "tu as recomparu",
+      "il a recomparu",
+      "nous avons recomparu",
+      "vous avez recomparu",
+      "ils ont recomparu"
+    ],
+    "imparfait": [
+      "je recomparaissais",
+      "tu recomparaissais",
+      "il recomparaissait",
+      "nous recomparaissions",
+      "vous recomparaissiez",
+      "ils recomparaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais recomparu",
+      "tu avais recomparu",
+      "il avait recomparu",
+      "nous avions recomparu",
+      "vous aviez recomparu",
+      "ils avaient recomparu"
+    ],
+    "passé simple": [
+      "je recomparus",
+      "tu recomparus",
+      "il recomparut",
+      "nous recomparûmes",
+      "vous recomparûtes",
+      "ils recomparurent"
+    ],
+    "passé antérieur": [
+      "j'eus recomparu",
+      "tu eus recomparu",
+      "il eut recomparu",
+      "nous eûmes recomparu",
+      "vous eûtes recomparu",
+      "ils eurent recomparu"
+    ],
+    "futur simple": [
+      "je recomparaîtrai",
+      "tu recomparaîtras",
+      "il recomparaîtra",
+      "nous recomparaîtrons",
+      "vous recomparaîtrez",
+      "ils recomparaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai recomparu",
+      "tu auras recomparu",
+      "il aura recomparu",
+      "nous aurons recomparu",
+      "vous aurez recomparu",
+      "ils auront recomparu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je recomparaisse",
+      "que tu recomparaisses",
+      "qu'il recomparaisse",
+      "que nous recomparaissions",
+      "que vous recomparaissiez",
+      "qu'ils recomparaissent"
+    ],
+    "passé": [
+      "que j'aie recomparu",
+      "que tu aies recomparu",
+      "qu'il ait recomparu",
+      "que nous ayons recomparu",
+      "que vous ayez recomparu",
+      "qu'ils aient recomparu"
+    ],
+    "imparfait": [
+      "que je recomparusse",
+      "que tu recomparusses",
+      "qu'il recomparût",
+      "que nous recomparussions",
+      "que vous recomparussiez",
+      "qu'ils recomparussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse recomparu",
+      "que tu eusses recomparu",
+      "qu'il eût recomparu",
+      "que nous eussions recomparu",
+      "que vous eussiez recomparu",
+      "qu'ils eussent recomparu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je recomparaîtrais",
+      "tu recomparaîtrais",
+      "il recomparaîtrait",
+      "nous recomparaîtrions",
+      "vous recomparaîtriez",
+      "ils recomparaîtraient"
+    ],
+    "passé": [
+      "j'aurais recomparu",
+      "tu aurais recomparu",
+      "il aurait recomparu",
+      "nous aurions recomparu",
+      "vous auriez recomparu",
+      "ils auraient recomparu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recomparais",
+      "recomparaissons",
+      "recomparaissez"
+    ],
+    "passé": [
+      "aie recomparu",
+      "ayons recomparu",
+      "ayez recomparu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "recomparaître"
+    ],
+    "passé": [
+      "avoir recomparu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "recomparaissant"
+    ],
+    "passé": [
+      "recomparu",
+      "ayant recomparu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en recomparaissant"
+    ],
+    "passé": [
+      "en ayant recomparu"
+    ]
+  }
+}

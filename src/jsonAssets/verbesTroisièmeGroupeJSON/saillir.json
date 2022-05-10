@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je saille",
+      "tu sailles",
+      "il saille",
+      "nous saillons",
+      "vous saillez",
+      "ils saillent"
+    ],
+    "passé composé": [
+      "j'ai sailli",
+      "tu as sailli",
+      "il a sailli",
+      "nous avons sailli",
+      "vous avez sailli",
+      "ils ont sailli"
+    ],
+    "imparfait": [
+      "je saillais",
+      "tu saillais",
+      "il saillait",
+      "nous saillions",
+      "vous sailliez",
+      "ils saillaient"
+    ],
+    "plus que parfait": [
+      "j'avais sailli",
+      "tu avais sailli",
+      "il avait sailli",
+      "nous avions sailli",
+      "vous aviez sailli",
+      "ils avaient sailli"
+    ],
+    "passé simple": [
+      "je saillis",
+      "tu saillis",
+      "il saillit",
+      "nous saillîmes",
+      "vous saillîtes",
+      "ils saillirent"
+    ],
+    "passé antérieur": [
+      "j'eus sailli",
+      "tu eus sailli",
+      "il eut sailli",
+      "nous eûmes sailli",
+      "vous eûtes sailli",
+      "ils eurent sailli"
+    ],
+    "futur simple": [
+      "je saillirai",
+      "tu sailliras",
+      "il saillira",
+      "nous saillirons",
+      "vous saillirez",
+      "ils sailliront"
+    ],
+    "futur antérieur": [
+      "j'aurai sailli",
+      "tu auras sailli",
+      "il aura sailli",
+      "nous aurons sailli",
+      "vous aurez sailli",
+      "ils auront sailli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je saille",
+      "que tu sailles",
+      "qu'il saille",
+      "que nous saillions",
+      "que vous sailliez",
+      "qu'ils saillent"
+    ],
+    "passé": [
+      "que j'aie sailli",
+      "que tu aies sailli",
+      "qu'il ait sailli",
+      "que nous ayons sailli",
+      "que vous ayez sailli",
+      "qu'ils aient sailli"
+    ],
+    "imparfait": [
+      "que je saillisse",
+      "que tu saillisses",
+      "qu'il saillît",
+      "que nous saillissions",
+      "que vous saillissiez",
+      "qu'ils saillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse sailli",
+      "que tu eusses sailli",
+      "qu'il eût sailli",
+      "que nous eussions sailli",
+      "que vous eussiez sailli",
+      "qu'ils eussent sailli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je saillirais",
+      "tu saillirais",
+      "il saillirait",
+      "nous saillirions",
+      "vous sailliriez",
+      "ils sailliraient"
+    ],
+    "passé": [
+      "j'aurais sailli",
+      "tu aurais sailli",
+      "il aurait sailli",
+      "nous aurions sailli",
+      "vous auriez sailli",
+      "ils auraient sailli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "saille",
+      "saillons",
+      "saillez"
+    ],
+    "passé": [
+      "aie sailli",
+      "ayons sailli",
+      "ayez sailli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "saillir"
+    ],
+    "passé": [
+      "avoir sailli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "saillant"
+    ],
+    "passé": [
+      "sailli",
+      "ayant sailli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en saillant"
+    ],
+    "passé": [
+      "en ayant sailli"
+    ]
+  }
+}

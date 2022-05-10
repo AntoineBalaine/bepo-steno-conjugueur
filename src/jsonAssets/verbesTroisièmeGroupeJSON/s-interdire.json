@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'interdis",
+      "tu t'interdis",
+      "il s'interdit",
+      "nous nous interdisons",
+      "vous vous interdites",
+      "ils s'interdisent"
+    ],
+    "passé composé": [
+      "je me suis interdit",
+      "tu t'es interdit",
+      "il s'est interdit",
+      "nous nous sommes interdits",
+      "vous vous êtes interdits",
+      "ils se sont interdits"
+    ],
+    "imparfait": [
+      "je m'interdisais",
+      "tu t'interdisais",
+      "il s'interdisait",
+      "nous nous interdisions",
+      "vous vous interdisiez",
+      "ils s'interdisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais interdit",
+      "tu t'étais interdit",
+      "il s'était interdit",
+      "nous nous étions interdits",
+      "vous vous étiez interdits",
+      "ils s'étaient interdits"
+    ],
+    "passé simple": [
+      "je m'interdis",
+      "tu t'interdis",
+      "il s'interdit",
+      "nous nous interdîmes",
+      "vous vous interdîtes",
+      "ils s'interdirent"
+    ],
+    "passé antérieur": [
+      "je me fus interdit",
+      "tu te fus interdit",
+      "il se fut interdit",
+      "nous nous fûmes interdits",
+      "vous vous fûtes interdits",
+      "ils se furent interdits"
+    ],
+    "futur simple": [
+      "je m'interdirai",
+      "tu t'interdiras",
+      "il s'interdira",
+      "nous nous interdirons",
+      "vous vous interdirez",
+      "ils s'interdiront"
+    ],
+    "futur antérieur": [
+      "je me serai interdit",
+      "tu te seras interdit",
+      "il se sera interdit",
+      "nous nous serons interdits",
+      "vous vous serez interdits",
+      "ils se seront interdits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'interdise",
+      "que tu t'interdises",
+      "qu'il s'interdise",
+      "que nous nous interdisions",
+      "que vous vous interdisiez",
+      "qu'ils s'interdisent"
+    ],
+    "passé": [
+      "que je me sois interdit",
+      "que tu te sois interdit",
+      "qu'il se soit interdit",
+      "que nous nous soyons interdits",
+      "que vous vous soyez interdits",
+      "qu'ils se soient interdits"
+    ],
+    "imparfait": [
+      "que je m'interdisse",
+      "que tu t'interdisses",
+      "qu'il s'interdît",
+      "que nous nous interdissions",
+      "que vous vous interdissiez",
+      "qu'ils s'interdissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse interdit",
+      "que tu te fusses interdit",
+      "qu'il se fût interdit",
+      "que nous nous fussions interdits",
+      "que vous vous fussiez interdits",
+      "qu'ils se fussent interdits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'interdirais",
+      "tu t'interdirais",
+      "il s'interdirait",
+      "nous nous interdirions",
+      "vous vous interdiriez",
+      "ils s'interdiraient"
+    ],
+    "passé": [
+      "je me serais interdit",
+      "tu te serais interdit",
+      "il se serait interdit",
+      "nous nous serions interdits",
+      "vous vous seriez interdits",
+      "ils se seraient interdits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "interdis-toi",
+      "interdisons-nous",
+      "interdites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'interdire"
+    ],
+    "passé": [
+      "s'être interdit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'interdisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant interdit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'interdisant"
+    ],
+    "passé": [
+      "en s'étant interdit"
+    ]
+  }
+}

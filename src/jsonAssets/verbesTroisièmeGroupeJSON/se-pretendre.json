@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me prétends",
+      "tu te prétends",
+      "il se prétend",
+      "nous nous prétendons",
+      "vous vous prétendez",
+      "ils se prétendent"
+    ],
+    "passé composé": [
+      "je me suis prétendu",
+      "tu t'es prétendu",
+      "il s'est prétendu",
+      "nous nous sommes prétendus",
+      "vous vous êtes prétendus",
+      "ils se sont prétendus"
+    ],
+    "imparfait": [
+      "je me prétendais",
+      "tu te prétendais",
+      "il se prétendait",
+      "nous nous prétendions",
+      "vous vous prétendiez",
+      "ils se prétendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais prétendu",
+      "tu t'étais prétendu",
+      "il s'était prétendu",
+      "nous nous étions prétendus",
+      "vous vous étiez prétendus",
+      "ils s'étaient prétendus"
+    ],
+    "passé simple": [
+      "je me prétendis",
+      "tu te prétendis",
+      "il se prétendit",
+      "nous nous prétendîmes",
+      "vous vous prétendîtes",
+      "ils se prétendirent"
+    ],
+    "passé antérieur": [
+      "je me fus prétendu",
+      "tu te fus prétendu",
+      "il se fut prétendu",
+      "nous nous fûmes prétendus",
+      "vous vous fûtes prétendus",
+      "ils se furent prétendus"
+    ],
+    "futur simple": [
+      "je me prétendrai",
+      "tu te prétendras",
+      "il se prétendra",
+      "nous nous prétendrons",
+      "vous vous prétendrez",
+      "ils se prétendront"
+    ],
+    "futur antérieur": [
+      "je me serai prétendu",
+      "tu te seras prétendu",
+      "il se sera prétendu",
+      "nous nous serons prétendus",
+      "vous vous serez prétendus",
+      "ils se seront prétendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me prétende",
+      "que tu te prétendes",
+      "qu'il se prétende",
+      "que nous nous prétendions",
+      "que vous vous prétendiez",
+      "qu'ils se prétendent"
+    ],
+    "passé": [
+      "que je me sois prétendu",
+      "que tu te sois prétendu",
+      "qu'il se soit prétendu",
+      "que nous nous soyons prétendus",
+      "que vous vous soyez prétendus",
+      "qu'ils se soient prétendus"
+    ],
+    "imparfait": [
+      "que je me prétendisse",
+      "que tu te prétendisses",
+      "qu'il se prétendît",
+      "que nous nous prétendissions",
+      "que vous vous prétendissiez",
+      "qu'ils se prétendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse prétendu",
+      "que tu te fusses prétendu",
+      "qu'il se fût prétendu",
+      "que nous nous fussions prétendus",
+      "que vous vous fussiez prétendus",
+      "qu'ils se fussent prétendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me prétendrais",
+      "tu te prétendrais",
+      "il se prétendrait",
+      "nous nous prétendrions",
+      "vous vous prétendriez",
+      "ils se prétendraient"
+    ],
+    "passé": [
+      "je me serais prétendu",
+      "tu te serais prétendu",
+      "il se serait prétendu",
+      "nous nous serions prétendus",
+      "vous vous seriez prétendus",
+      "ils se seraient prétendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prétends-toi",
+      "prétendons-nous",
+      "prétendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se prétendre"
+    ],
+    "passé": [
+      "s'être prétendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se prétendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant prétendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se prétendant"
+    ],
+    "passé": [
+      "en s'étant prétendu"
+    ]
+  }
+}

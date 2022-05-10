@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je ponds",
+      "tu ponds",
+      "il pond",
+      "nous pondons",
+      "vous pondez",
+      "ils pondent"
+    ],
+    "passé composé": [
+      "j'ai pondu",
+      "tu as pondu",
+      "il a pondu",
+      "nous avons pondu",
+      "vous avez pondu",
+      "ils ont pondu"
+    ],
+    "imparfait": [
+      "je pondais",
+      "tu pondais",
+      "il pondait",
+      "nous pondions",
+      "vous pondiez",
+      "ils pondaient"
+    ],
+    "plus que parfait": [
+      "j'avais pondu",
+      "tu avais pondu",
+      "il avait pondu",
+      "nous avions pondu",
+      "vous aviez pondu",
+      "ils avaient pondu"
+    ],
+    "passé simple": [
+      "je pondis",
+      "tu pondis",
+      "il pondit",
+      "nous pondîmes",
+      "vous pondîtes",
+      "ils pondirent"
+    ],
+    "passé antérieur": [
+      "j'eus pondu",
+      "tu eus pondu",
+      "il eut pondu",
+      "nous eûmes pondu",
+      "vous eûtes pondu",
+      "ils eurent pondu"
+    ],
+    "futur simple": [
+      "je pondrai",
+      "tu pondras",
+      "il pondra",
+      "nous pondrons",
+      "vous pondrez",
+      "ils pondront"
+    ],
+    "futur antérieur": [
+      "j'aurai pondu",
+      "tu auras pondu",
+      "il aura pondu",
+      "nous aurons pondu",
+      "vous aurez pondu",
+      "ils auront pondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je ponde",
+      "que tu pondes",
+      "qu'il ponde",
+      "que nous pondions",
+      "que vous pondiez",
+      "qu'ils pondent"
+    ],
+    "passé": [
+      "que j'aie pondu",
+      "que tu aies pondu",
+      "qu'il ait pondu",
+      "que nous ayons pondu",
+      "que vous ayez pondu",
+      "qu'ils aient pondu"
+    ],
+    "imparfait": [
+      "que je pondisse",
+      "que tu pondisses",
+      "qu'il pondît",
+      "que nous pondissions",
+      "que vous pondissiez",
+      "qu'ils pondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse pondu",
+      "que tu eusses pondu",
+      "qu'il eût pondu",
+      "que nous eussions pondu",
+      "que vous eussiez pondu",
+      "qu'ils eussent pondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je pondrais",
+      "tu pondrais",
+      "il pondrait",
+      "nous pondrions",
+      "vous pondriez",
+      "ils pondraient"
+    ],
+    "passé": [
+      "j'aurais pondu",
+      "tu aurais pondu",
+      "il aurait pondu",
+      "nous aurions pondu",
+      "vous auriez pondu",
+      "ils auraient pondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ponds",
+      "pondons",
+      "pondez"
+    ],
+    "passé": [
+      "aie pondu",
+      "ayons pondu",
+      "ayez pondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "pondre"
+    ],
+    "passé": [
+      "avoir pondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "pondant"
+    ],
+    "passé": [
+      "pondu",
+      "ayant pondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en pondant"
+    ],
+    "passé": [
+      "en ayant pondu"
+    ]
+  }
+}

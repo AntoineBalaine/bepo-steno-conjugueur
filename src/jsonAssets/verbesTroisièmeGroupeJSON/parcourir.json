@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je parcours",
+      "tu parcours",
+      "il parcourt",
+      "nous parcourons",
+      "vous parcourez",
+      "ils parcourent"
+    ],
+    "passé composé": [
+      "j'ai parcouru",
+      "tu as parcouru",
+      "il a parcouru",
+      "nous avons parcouru",
+      "vous avez parcouru",
+      "ils ont parcouru"
+    ],
+    "imparfait": [
+      "je parcourais",
+      "tu parcourais",
+      "il parcourait",
+      "nous parcourions",
+      "vous parcouriez",
+      "ils parcouraient"
+    ],
+    "plus que parfait": [
+      "j'avais parcouru",
+      "tu avais parcouru",
+      "il avait parcouru",
+      "nous avions parcouru",
+      "vous aviez parcouru",
+      "ils avaient parcouru"
+    ],
+    "passé simple": [
+      "je parcourus",
+      "tu parcourus",
+      "il parcourut",
+      "nous parcourûmes",
+      "vous parcourûtes",
+      "ils parcoururent"
+    ],
+    "passé antérieur": [
+      "j'eus parcouru",
+      "tu eus parcouru",
+      "il eut parcouru",
+      "nous eûmes parcouru",
+      "vous eûtes parcouru",
+      "ils eurent parcouru"
+    ],
+    "futur simple": [
+      "je parcourrai",
+      "tu parcourras",
+      "il parcourra",
+      "nous parcourrons",
+      "vous parcourrez",
+      "ils parcourront"
+    ],
+    "futur antérieur": [
+      "j'aurai parcouru",
+      "tu auras parcouru",
+      "il aura parcouru",
+      "nous aurons parcouru",
+      "vous aurez parcouru",
+      "ils auront parcouru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je parcoure",
+      "que tu parcoures",
+      "qu'il parcoure",
+      "que nous parcourions",
+      "que vous parcouriez",
+      "qu'ils parcourent"
+    ],
+    "passé": [
+      "que j'aie parcouru",
+      "que tu aies parcouru",
+      "qu'il ait parcouru",
+      "que nous ayons parcouru",
+      "que vous ayez parcouru",
+      "qu'ils aient parcouru"
+    ],
+    "imparfait": [
+      "que je parcourusse",
+      "que tu parcourusses",
+      "qu'il parcourût",
+      "que nous parcourussions",
+      "que vous parcourussiez",
+      "qu'ils parcourussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse parcouru",
+      "que tu eusses parcouru",
+      "qu'il eût parcouru",
+      "que nous eussions parcouru",
+      "que vous eussiez parcouru",
+      "qu'ils eussent parcouru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je parcourrais",
+      "tu parcourrais",
+      "il parcourrait",
+      "nous parcourrions",
+      "vous parcourriez",
+      "ils parcourraient"
+    ],
+    "passé": [
+      "j'aurais parcouru",
+      "tu aurais parcouru",
+      "il aurait parcouru",
+      "nous aurions parcouru",
+      "vous auriez parcouru",
+      "ils auraient parcouru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "parcours",
+      "parcourons",
+      "parcourez"
+    ],
+    "passé": [
+      "aie parcouru",
+      "ayons parcouru",
+      "ayez parcouru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "parcourir"
+    ],
+    "passé": [
+      "avoir parcouru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "parcourant"
+    ],
+    "passé": [
+      "parcouru",
+      "ayant parcouru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en parcourant"
+    ],
+    "passé": [
+      "en ayant parcouru"
+    ]
+  }
+}

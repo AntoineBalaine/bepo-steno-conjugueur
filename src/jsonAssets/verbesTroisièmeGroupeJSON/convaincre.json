@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je convaincs",
+      "tu convaincs",
+      "il convainc",
+      "nous convainquons",
+      "vous convainquez",
+      "ils convainquent"
+    ],
+    "passé composé": [
+      "j'ai convaincu",
+      "tu as convaincu",
+      "il a convaincu",
+      "nous avons convaincu",
+      "vous avez convaincu",
+      "ils ont convaincu"
+    ],
+    "imparfait": [
+      "je convainquais",
+      "tu convainquais",
+      "il convainquait",
+      "nous convainquions",
+      "vous convainquiez",
+      "ils convainquaient"
+    ],
+    "plus que parfait": [
+      "j'avais convaincu",
+      "tu avais convaincu",
+      "il avait convaincu",
+      "nous avions convaincu",
+      "vous aviez convaincu",
+      "ils avaient convaincu"
+    ],
+    "passé simple": [
+      "je convainquis",
+      "tu convainquis",
+      "il convainquit",
+      "nous convainquîmes",
+      "vous convainquîtes",
+      "ils convainquirent"
+    ],
+    "passé antérieur": [
+      "j'eus convaincu",
+      "tu eus convaincu",
+      "il eut convaincu",
+      "nous eûmes convaincu",
+      "vous eûtes convaincu",
+      "ils eurent convaincu"
+    ],
+    "futur simple": [
+      "je convaincrai",
+      "tu convaincras",
+      "il convaincra",
+      "nous convaincrons",
+      "vous convaincrez",
+      "ils convaincront"
+    ],
+    "futur antérieur": [
+      "j'aurai convaincu",
+      "tu auras convaincu",
+      "il aura convaincu",
+      "nous aurons convaincu",
+      "vous aurez convaincu",
+      "ils auront convaincu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je convainque",
+      "que tu convainques",
+      "qu'il convainque",
+      "que nous convainquions",
+      "que vous convainquiez",
+      "qu'ils convainquent"
+    ],
+    "passé": [
+      "que j'aie convaincu",
+      "que tu aies convaincu",
+      "qu'il ait convaincu",
+      "que nous ayons convaincu",
+      "que vous ayez convaincu",
+      "qu'ils aient convaincu"
+    ],
+    "imparfait": [
+      "que je convainquisse",
+      "que tu convainquisses",
+      "qu'il convainquît",
+      "que nous convainquissions",
+      "que vous convainquissiez",
+      "qu'ils convainquissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse convaincu",
+      "que tu eusses convaincu",
+      "qu'il eût convaincu",
+      "que nous eussions convaincu",
+      "que vous eussiez convaincu",
+      "qu'ils eussent convaincu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je convaincrais",
+      "tu convaincrais",
+      "il convaincrait",
+      "nous convaincrions",
+      "vous convaincriez",
+      "ils convaincraient"
+    ],
+    "passé": [
+      "j'aurais convaincu",
+      "tu aurais convaincu",
+      "il aurait convaincu",
+      "nous aurions convaincu",
+      "vous auriez convaincu",
+      "ils auraient convaincu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "convaincs",
+      "convainquons",
+      "convainquez"
+    ],
+    "passé": [
+      "aie convaincu",
+      "ayons convaincu",
+      "ayez convaincu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "convaincre"
+    ],
+    "passé": [
+      "avoir convaincu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "convainquant"
+    ],
+    "passé": [
+      "convaincu",
+      "ayant convaincu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en convainquant"
+    ],
+    "passé": [
+      "en ayant convaincu"
+    ]
+  }
+}

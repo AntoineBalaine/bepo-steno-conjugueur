@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me confis",
+      "tu te confis",
+      "il se confit",
+      "nous nous confisons",
+      "vous vous confisez",
+      "ils se confisent"
+    ],
+    "passé composé": [
+      "je me suis confit",
+      "tu t'es confit",
+      "il s'est confit",
+      "nous nous sommes confits",
+      "vous vous êtes confits",
+      "ils se sont confits"
+    ],
+    "imparfait": [
+      "je me confisais",
+      "tu te confisais",
+      "il se confisait",
+      "nous nous confisions",
+      "vous vous confisiez",
+      "ils se confisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais confit",
+      "tu t'étais confit",
+      "il s'était confit",
+      "nous nous étions confits",
+      "vous vous étiez confits",
+      "ils s'étaient confits"
+    ],
+    "passé simple": [
+      "je me confis",
+      "tu te confis",
+      "il se confit",
+      "nous nous confîmes",
+      "vous vous confîtes",
+      "ils se confirent"
+    ],
+    "passé antérieur": [
+      "je me fus confit",
+      "tu te fus confit",
+      "il se fut confit",
+      "nous nous fûmes confits",
+      "vous vous fûtes confits",
+      "ils se furent confits"
+    ],
+    "futur simple": [
+      "je me confirai",
+      "tu te confiras",
+      "il se confira",
+      "nous nous confirons",
+      "vous vous confirez",
+      "ils se confiront"
+    ],
+    "futur antérieur": [
+      "je me serai confit",
+      "tu te seras confit",
+      "il se sera confit",
+      "nous nous serons confits",
+      "vous vous serez confits",
+      "ils se seront confits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me confise",
+      "que tu te confises",
+      "qu'il se confise",
+      "que nous nous confisions",
+      "que vous vous confisiez",
+      "qu'ils se confisent"
+    ],
+    "passé": [
+      "que je me sois confit",
+      "que tu te sois confit",
+      "qu'il se soit confit",
+      "que nous nous soyons confits",
+      "que vous vous soyez confits",
+      "qu'ils se soient confits"
+    ],
+    "imparfait": [
+      "que je me confisse",
+      "que tu te confisses",
+      "qu'il se confît",
+      "que nous nous confissions",
+      "que vous vous confissiez",
+      "qu'ils se confissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse confit",
+      "que tu te fusses confit",
+      "qu'il se fût confit",
+      "que nous nous fussions confits",
+      "que vous vous fussiez confits",
+      "qu'ils se fussent confits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me confirais",
+      "tu te confirais",
+      "il se confirait",
+      "nous nous confirions",
+      "vous vous confiriez",
+      "ils se confiraient"
+    ],
+    "passé": [
+      "je me serais confit",
+      "tu te serais confit",
+      "il se serait confit",
+      "nous nous serions confits",
+      "vous vous seriez confits",
+      "ils se seraient confits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "confis-toi",
+      "confisons-nous",
+      "confisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se confire"
+    ],
+    "passé": [
+      "s'être confit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se confisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant confit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se confisant"
+    ],
+    "passé": [
+      "en s'étant confit"
+    ]
+  }
+}

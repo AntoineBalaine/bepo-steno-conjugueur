@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me remets",
+      "tu te remets",
+      "il se remet",
+      "nous nous remettons",
+      "vous vous remettez",
+      "ils se remettent"
+    ],
+    "passé composé": [
+      "je me suis remis",
+      "tu t'es remis",
+      "il s'est remis",
+      "nous nous sommes remis",
+      "vous vous êtes remis",
+      "ils se sont remis"
+    ],
+    "imparfait": [
+      "je me remettais",
+      "tu te remettais",
+      "il se remettait",
+      "nous nous remettions",
+      "vous vous remettiez",
+      "ils se remettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais remis",
+      "tu t'étais remis",
+      "il s'était remis",
+      "nous nous étions remis",
+      "vous vous étiez remis",
+      "ils s'étaient remis"
+    ],
+    "passé simple": [
+      "je me remis",
+      "tu te remis",
+      "il se remit",
+      "nous nous remîmes",
+      "vous vous remîtes",
+      "ils se remirent"
+    ],
+    "passé antérieur": [
+      "je me fus remis",
+      "tu te fus remis",
+      "il se fut remis",
+      "nous nous fûmes remis",
+      "vous vous fûtes remis",
+      "ils se furent remis"
+    ],
+    "futur simple": [
+      "je me remettrai",
+      "tu te remettras",
+      "il se remettra",
+      "nous nous remettrons",
+      "vous vous remettrez",
+      "ils se remettront"
+    ],
+    "futur antérieur": [
+      "je me serai remis",
+      "tu te seras remis",
+      "il se sera remis",
+      "nous nous serons remis",
+      "vous vous serez remis",
+      "ils se seront remis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me remette",
+      "que tu te remettes",
+      "qu'il se remette",
+      "que nous nous remettions",
+      "que vous vous remettiez",
+      "qu'ils se remettent"
+    ],
+    "passé": [
+      "que je me sois remis",
+      "que tu te sois remis",
+      "qu'il se soit remis",
+      "que nous nous soyons remis",
+      "que vous vous soyez remis",
+      "qu'ils se soient remis"
+    ],
+    "imparfait": [
+      "que je me remisse",
+      "que tu te remisses",
+      "qu'il se remît",
+      "que nous nous remissions",
+      "que vous vous remissiez",
+      "qu'ils se remissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse remis",
+      "que tu te fusses remis",
+      "qu'il se fût remis",
+      "que nous nous fussions remis",
+      "que vous vous fussiez remis",
+      "qu'ils se fussent remis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me remettrais",
+      "tu te remettrais",
+      "il se remettrait",
+      "nous nous remettrions",
+      "vous vous remettriez",
+      "ils se remettraient"
+    ],
+    "passé": [
+      "je me serais remis",
+      "tu te serais remis",
+      "il se serait remis",
+      "nous nous serions remis",
+      "vous vous seriez remis",
+      "ils se seraient remis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "remets-toi",
+      "remettons-nous",
+      "remettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se remettre"
+    ],
+    "passé": [
+      "s'être remis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se remettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant remis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se remettant"
+    ],
+    "passé": [
+      "en s'étant remis"
+    ]
+  }
+}

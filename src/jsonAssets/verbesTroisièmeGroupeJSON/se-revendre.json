@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me revends",
+      "tu te revends",
+      "il se revend",
+      "nous nous revendons",
+      "vous vous revendez",
+      "ils se revendent"
+    ],
+    "passé composé": [
+      "je me suis revendu",
+      "tu t'es revendu",
+      "il s'est revendu",
+      "nous nous sommes revendus",
+      "vous vous êtes revendus",
+      "ils se sont revendus"
+    ],
+    "imparfait": [
+      "je me revendais",
+      "tu te revendais",
+      "il se revendait",
+      "nous nous revendions",
+      "vous vous revendiez",
+      "ils se revendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais revendu",
+      "tu t'étais revendu",
+      "il s'était revendu",
+      "nous nous étions revendus",
+      "vous vous étiez revendus",
+      "ils s'étaient revendus"
+    ],
+    "passé simple": [
+      "je me revendis",
+      "tu te revendis",
+      "il se revendit",
+      "nous nous revendîmes",
+      "vous vous revendîtes",
+      "ils se revendirent"
+    ],
+    "passé antérieur": [
+      "je me fus revendu",
+      "tu te fus revendu",
+      "il se fut revendu",
+      "nous nous fûmes revendus",
+      "vous vous fûtes revendus",
+      "ils se furent revendus"
+    ],
+    "futur simple": [
+      "je me revendrai",
+      "tu te revendras",
+      "il se revendra",
+      "nous nous revendrons",
+      "vous vous revendrez",
+      "ils se revendront"
+    ],
+    "futur antérieur": [
+      "je me serai revendu",
+      "tu te seras revendu",
+      "il se sera revendu",
+      "nous nous serons revendus",
+      "vous vous serez revendus",
+      "ils se seront revendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me revende",
+      "que tu te revendes",
+      "qu'il se revende",
+      "que nous nous revendions",
+      "que vous vous revendiez",
+      "qu'ils se revendent"
+    ],
+    "passé": [
+      "que je me sois revendu",
+      "que tu te sois revendu",
+      "qu'il se soit revendu",
+      "que nous nous soyons revendus",
+      "que vous vous soyez revendus",
+      "qu'ils se soient revendus"
+    ],
+    "imparfait": [
+      "que je me revendisse",
+      "que tu te revendisses",
+      "qu'il se revendît",
+      "que nous nous revendissions",
+      "que vous vous revendissiez",
+      "qu'ils se revendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse revendu",
+      "que tu te fusses revendu",
+      "qu'il se fût revendu",
+      "que nous nous fussions revendus",
+      "que vous vous fussiez revendus",
+      "qu'ils se fussent revendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me revendrais",
+      "tu te revendrais",
+      "il se revendrait",
+      "nous nous revendrions",
+      "vous vous revendriez",
+      "ils se revendraient"
+    ],
+    "passé": [
+      "je me serais revendu",
+      "tu te serais revendu",
+      "il se serait revendu",
+      "nous nous serions revendus",
+      "vous vous seriez revendus",
+      "ils se seraient revendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "revends-toi",
+      "revendons-nous",
+      "revendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se revendre"
+    ],
+    "passé": [
+      "s'être revendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se revendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant revendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se revendant"
+    ],
+    "passé": [
+      "en s'étant revendu"
+    ]
+  }
+}

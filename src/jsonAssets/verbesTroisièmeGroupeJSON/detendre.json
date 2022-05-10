@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je détends",
+      "tu détends",
+      "il détend",
+      "nous détendons",
+      "vous détendez",
+      "ils détendent"
+    ],
+    "passé composé": [
+      "j'ai détendu",
+      "tu as détendu",
+      "il a détendu",
+      "nous avons détendu",
+      "vous avez détendu",
+      "ils ont détendu"
+    ],
+    "imparfait": [
+      "je détendais",
+      "tu détendais",
+      "il détendait",
+      "nous détendions",
+      "vous détendiez",
+      "ils détendaient"
+    ],
+    "plus que parfait": [
+      "j'avais détendu",
+      "tu avais détendu",
+      "il avait détendu",
+      "nous avions détendu",
+      "vous aviez détendu",
+      "ils avaient détendu"
+    ],
+    "passé simple": [
+      "je détendis",
+      "tu détendis",
+      "il détendit",
+      "nous détendîmes",
+      "vous détendîtes",
+      "ils détendirent"
+    ],
+    "passé antérieur": [
+      "j'eus détendu",
+      "tu eus détendu",
+      "il eut détendu",
+      "nous eûmes détendu",
+      "vous eûtes détendu",
+      "ils eurent détendu"
+    ],
+    "futur simple": [
+      "je détendrai",
+      "tu détendras",
+      "il détendra",
+      "nous détendrons",
+      "vous détendrez",
+      "ils détendront"
+    ],
+    "futur antérieur": [
+      "j'aurai détendu",
+      "tu auras détendu",
+      "il aura détendu",
+      "nous aurons détendu",
+      "vous aurez détendu",
+      "ils auront détendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je détende",
+      "que tu détendes",
+      "qu'il détende",
+      "que nous détendions",
+      "que vous détendiez",
+      "qu'ils détendent"
+    ],
+    "passé": [
+      "que j'aie détendu",
+      "que tu aies détendu",
+      "qu'il ait détendu",
+      "que nous ayons détendu",
+      "que vous ayez détendu",
+      "qu'ils aient détendu"
+    ],
+    "imparfait": [
+      "que je détendisse",
+      "que tu détendisses",
+      "qu'il détendît",
+      "que nous détendissions",
+      "que vous détendissiez",
+      "qu'ils détendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse détendu",
+      "que tu eusses détendu",
+      "qu'il eût détendu",
+      "que nous eussions détendu",
+      "que vous eussiez détendu",
+      "qu'ils eussent détendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je détendrais",
+      "tu détendrais",
+      "il détendrait",
+      "nous détendrions",
+      "vous détendriez",
+      "ils détendraient"
+    ],
+    "passé": [
+      "j'aurais détendu",
+      "tu aurais détendu",
+      "il aurait détendu",
+      "nous aurions détendu",
+      "vous auriez détendu",
+      "ils auraient détendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "détends",
+      "détendons",
+      "détendez"
+    ],
+    "passé": [
+      "aie détendu",
+      "ayons détendu",
+      "ayez détendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "détendre"
+    ],
+    "passé": [
+      "avoir détendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "détendant"
+    ],
+    "passé": [
+      "détendu",
+      "ayant détendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en détendant"
+    ],
+    "passé": [
+      "en ayant détendu"
+    ]
+  }
+}

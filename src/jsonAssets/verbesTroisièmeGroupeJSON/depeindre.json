@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dépeins",
+      "tu dépeins",
+      "il dépeint",
+      "nous dépeignons",
+      "vous dépeignez",
+      "ils dépeignent"
+    ],
+    "passé composé": [
+      "j'ai dépeint",
+      "tu as dépeint",
+      "il a dépeint",
+      "nous avons dépeint",
+      "vous avez dépeint",
+      "ils ont dépeint"
+    ],
+    "imparfait": [
+      "je dépeignais",
+      "tu dépeignais",
+      "il dépeignait",
+      "nous dépeignions",
+      "vous dépeigniez",
+      "ils dépeignaient"
+    ],
+    "plus que parfait": [
+      "j'avais dépeint",
+      "tu avais dépeint",
+      "il avait dépeint",
+      "nous avions dépeint",
+      "vous aviez dépeint",
+      "ils avaient dépeint"
+    ],
+    "passé simple": [
+      "je dépeignis",
+      "tu dépeignis",
+      "il dépeignit",
+      "nous dépeignîmes",
+      "vous dépeignîtes",
+      "ils dépeignirent"
+    ],
+    "passé antérieur": [
+      "j'eus dépeint",
+      "tu eus dépeint",
+      "il eut dépeint",
+      "nous eûmes dépeint",
+      "vous eûtes dépeint",
+      "ils eurent dépeint"
+    ],
+    "futur simple": [
+      "je dépeindrai",
+      "tu dépeindras",
+      "il dépeindra",
+      "nous dépeindrons",
+      "vous dépeindrez",
+      "ils dépeindront"
+    ],
+    "futur antérieur": [
+      "j'aurai dépeint",
+      "tu auras dépeint",
+      "il aura dépeint",
+      "nous aurons dépeint",
+      "vous aurez dépeint",
+      "ils auront dépeint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je dépeigne",
+      "que tu dépeignes",
+      "qu'il dépeigne",
+      "que nous dépeignions",
+      "que vous dépeigniez",
+      "qu'ils dépeignent"
+    ],
+    "passé": [
+      "que j'aie dépeint",
+      "que tu aies dépeint",
+      "qu'il ait dépeint",
+      "que nous ayons dépeint",
+      "que vous ayez dépeint",
+      "qu'ils aient dépeint"
+    ],
+    "imparfait": [
+      "que je dépeignisse",
+      "que tu dépeignisses",
+      "qu'il dépeignît",
+      "que nous dépeignissions",
+      "que vous dépeignissiez",
+      "qu'ils dépeignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse dépeint",
+      "que tu eusses dépeint",
+      "qu'il eût dépeint",
+      "que nous eussions dépeint",
+      "que vous eussiez dépeint",
+      "qu'ils eussent dépeint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je dépeindrais",
+      "tu dépeindrais",
+      "il dépeindrait",
+      "nous dépeindrions",
+      "vous dépeindriez",
+      "ils dépeindraient"
+    ],
+    "passé": [
+      "j'aurais dépeint",
+      "tu aurais dépeint",
+      "il aurait dépeint",
+      "nous aurions dépeint",
+      "vous auriez dépeint",
+      "ils auraient dépeint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dépeins",
+      "dépeignons",
+      "dépeignez"
+    ],
+    "passé": [
+      "aie dépeint",
+      "ayons dépeint",
+      "ayez dépeint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "dépeindre"
+    ],
+    "passé": [
+      "avoir dépeint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "dépeignant"
+    ],
+    "passé": [
+      "dépeint",
+      "ayant dépeint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en dépeignant"
+    ],
+    "passé": [
+      "en ayant dépeint"
+    ]
+  }
+}

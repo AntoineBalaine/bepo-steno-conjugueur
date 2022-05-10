@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je répartis",
+      "tu répartis",
+      "il répartit",
+      "nous répartissons",
+      "vous répartissez",
+      "ils répartissent"
+    ],
+    "passé composé": [
+      "j'ai réparti",
+      "tu as réparti",
+      "il a réparti",
+      "nous avons réparti",
+      "vous avez réparti",
+      "ils ont réparti"
+    ],
+    "imparfait": [
+      "je répartissais",
+      "tu répartissais",
+      "il répartissait",
+      "nous répartissions",
+      "vous répartissiez",
+      "ils répartissaient"
+    ],
+    "plus que parfait": [
+      "j'avais réparti",
+      "tu avais réparti",
+      "il avait réparti",
+      "nous avions réparti",
+      "vous aviez réparti",
+      "ils avaient réparti"
+    ],
+    "passé simple": [
+      "je répartis",
+      "tu répartis",
+      "il répartit",
+      "nous répartîmes",
+      "vous répartîtes",
+      "ils répartirent"
+    ],
+    "passé antérieur": [
+      "j'eus réparti",
+      "tu eus réparti",
+      "il eut réparti",
+      "nous eûmes réparti",
+      "vous eûtes réparti",
+      "ils eurent réparti"
+    ],
+    "futur simple": [
+      "je répartirai",
+      "tu répartiras",
+      "il répartira",
+      "nous répartirons",
+      "vous répartirez",
+      "ils répartiront"
+    ],
+    "futur antérieur": [
+      "j'aurai réparti",
+      "tu auras réparti",
+      "il aura réparti",
+      "nous aurons réparti",
+      "vous aurez réparti",
+      "ils auront réparti"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je répartisse",
+      "que tu répartisses",
+      "qu'il répartisse",
+      "que nous répartissions",
+      "que vous répartissiez",
+      "qu'ils répartissent"
+    ],
+    "passé": [
+      "que j'aie réparti",
+      "que tu aies réparti",
+      "qu'il ait réparti",
+      "que nous ayons réparti",
+      "que vous ayez réparti",
+      "qu'ils aient réparti"
+    ],
+    "imparfait": [
+      "que je répartisse",
+      "que tu répartisses",
+      "qu'il répartît",
+      "que nous répartissions",
+      "que vous répartissiez",
+      "qu'ils répartissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réparti",
+      "que tu eusses réparti",
+      "qu'il eût réparti",
+      "que nous eussions réparti",
+      "que vous eussiez réparti",
+      "qu'ils eussent réparti"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je répartirais",
+      "tu répartirais",
+      "il répartirait",
+      "nous répartirions",
+      "vous répartiriez",
+      "ils répartiraient"
+    ],
+    "passé": [
+      "j'aurais réparti",
+      "tu aurais réparti",
+      "il aurait réparti",
+      "nous aurions réparti",
+      "vous auriez réparti",
+      "ils auraient réparti"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "répartis",
+      "répartissons",
+      "répartissez"
+    ],
+    "passé": [
+      "aie réparti",
+      "ayons réparti",
+      "ayez réparti"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "répartir"
+    ],
+    "passé": [
+      "avoir réparti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "répartissant"
+    ],
+    "passé": [
+      "réparti",
+      "ayant réparti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en répartissant"
+    ],
+    "passé": [
+      "en ayant réparti"
+    ]
+  }
+}

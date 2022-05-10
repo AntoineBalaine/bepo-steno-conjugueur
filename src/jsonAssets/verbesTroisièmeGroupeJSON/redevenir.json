@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je redeviens",
+      "tu redeviens",
+      "il redevient",
+      "nous redevenons",
+      "vous redevenez",
+      "ils redeviennent"
+    ],
+    "passé composé": [
+      "je suis redevenu",
+      "tu es redevenu",
+      "il est redevenu",
+      "nous sommes redevenus",
+      "vous êtes redevenus",
+      "ils sont redevenus"
+    ],
+    "imparfait": [
+      "je redevenais",
+      "tu redevenais",
+      "il redevenait",
+      "nous redevenions",
+      "vous redeveniez",
+      "ils redevenaient"
+    ],
+    "plus que parfait": [
+      "j'étais redevenu",
+      "tu étais redevenu",
+      "il était redevenu",
+      "nous étions redevenus",
+      "vous étiez redevenus",
+      "ils étaient redevenus"
+    ],
+    "passé simple": [
+      "je redevins",
+      "tu redevins",
+      "il redevint",
+      "nous redevînmes",
+      "vous redevîntes",
+      "ils redevinrent"
+    ],
+    "passé antérieur": [
+      "je fus redevenu",
+      "tu fus redevenu",
+      "il fut redevenu",
+      "nous fûmes redevenus",
+      "vous fûtes redevenus",
+      "ils furent redevenus"
+    ],
+    "futur simple": [
+      "je redeviendrai",
+      "tu redeviendras",
+      "il redeviendra",
+      "nous redeviendrons",
+      "vous redeviendrez",
+      "ils redeviendront"
+    ],
+    "futur antérieur": [
+      "je serai redevenu",
+      "tu seras redevenu",
+      "il sera redevenu",
+      "nous serons redevenus",
+      "vous serez redevenus",
+      "ils seront redevenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je redevienne",
+      "que tu redeviennes",
+      "qu'il redevienne",
+      "que nous redevenions",
+      "que vous redeveniez",
+      "qu'ils redeviennent"
+    ],
+    "passé": [
+      "que je sois redevenu",
+      "que tu sois redevenu",
+      "qu'il soit redevenu",
+      "que nous soyons redevenus",
+      "que vous soyez redevenus",
+      "qu'ils soient redevenus"
+    ],
+    "imparfait": [
+      "que je redevinsse",
+      "que tu redevinsses",
+      "qu'il redevînt",
+      "que nous redevinssions",
+      "que vous redevinssiez",
+      "qu'ils redevinssent"
+    ],
+    "plus que parfait": [
+      "que je fusse redevenu",
+      "que tu fusses redevenu",
+      "qu'il fût redevenu",
+      "que nous fussions redevenus",
+      "que vous fussiez redevenus",
+      "qu'ils fussent redevenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je redeviendrais",
+      "tu redeviendrais",
+      "il redeviendrait",
+      "nous redeviendrions",
+      "vous redeviendriez",
+      "ils redeviendraient"
+    ],
+    "passé": [
+      "je serais redevenu",
+      "tu serais redevenu",
+      "il serait redevenu",
+      "nous serions redevenus",
+      "vous seriez redevenus",
+      "ils seraient redevenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "redeviens",
+      "redevenons",
+      "redevenez"
+    ],
+    "passé": [
+      "sois redevenu",
+      "soyons redevenus",
+      "soyez redevenus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "redevenir"
+    ],
+    "passé": [
+      "être redevenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "redevenant"
+    ],
+    "passé": [
+      "redevenu",
+      "étant redevenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en redevenant"
+    ],
+    "passé": [
+      "en étant redevenu"
+    ]
+  }
+}

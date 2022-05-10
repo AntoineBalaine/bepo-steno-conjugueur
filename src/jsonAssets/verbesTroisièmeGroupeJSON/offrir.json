@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'offre",
+      "tu offres",
+      "il offre",
+      "nous offrons",
+      "vous offrez",
+      "ils offrent"
+    ],
+    "passé composé": [
+      "j'ai offert",
+      "tu as offert",
+      "il a offert",
+      "nous avons offert",
+      "vous avez offert",
+      "ils ont offert"
+    ],
+    "imparfait": [
+      "j'offrais",
+      "tu offrais",
+      "il offrait",
+      "nous offrions",
+      "vous offriez",
+      "ils offraient"
+    ],
+    "plus que parfait": [
+      "j'avais offert",
+      "tu avais offert",
+      "il avait offert",
+      "nous avions offert",
+      "vous aviez offert",
+      "ils avaient offert"
+    ],
+    "passé simple": [
+      "j'offris",
+      "tu offris",
+      "il offrit",
+      "nous offrîmes",
+      "vous offrîtes",
+      "ils offrirent"
+    ],
+    "passé antérieur": [
+      "j'eus offert",
+      "tu eus offert",
+      "il eut offert",
+      "nous eûmes offert",
+      "vous eûtes offert",
+      "ils eurent offert"
+    ],
+    "futur simple": [
+      "j'offrirai",
+      "tu offriras",
+      "il offrira",
+      "nous offrirons",
+      "vous offrirez",
+      "ils offriront"
+    ],
+    "futur antérieur": [
+      "j'aurai offert",
+      "tu auras offert",
+      "il aura offert",
+      "nous aurons offert",
+      "vous aurez offert",
+      "ils auront offert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'offre",
+      "que tu offres",
+      "qu'il offre",
+      "que nous offrions",
+      "que vous offriez",
+      "qu'ils offrent"
+    ],
+    "passé": [
+      "que j'aie offert",
+      "que tu aies offert",
+      "qu'il ait offert",
+      "que nous ayons offert",
+      "que vous ayez offert",
+      "qu'ils aient offert"
+    ],
+    "imparfait": [
+      "que j'offrisse",
+      "que tu offrisses",
+      "qu'il offrît",
+      "que nous offrissions",
+      "que vous offrissiez",
+      "qu'ils offrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse offert",
+      "que tu eusses offert",
+      "qu'il eût offert",
+      "que nous eussions offert",
+      "que vous eussiez offert",
+      "qu'ils eussent offert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'offrirais",
+      "tu offrirais",
+      "il offrirait",
+      "nous offririons",
+      "vous offririez",
+      "ils offriraient"
+    ],
+    "passé": [
+      "j'aurais offert",
+      "tu aurais offert",
+      "il aurait offert",
+      "nous aurions offert",
+      "vous auriez offert",
+      "ils auraient offert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "offre",
+      "offrons",
+      "offrez"
+    ],
+    "passé": [
+      "aie offert",
+      "ayons offert",
+      "ayez offert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "offrir"
+    ],
+    "passé": [
+      "avoir offert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "offrant"
+    ],
+    "passé": [
+      "offert",
+      "ayant offert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en offrant"
+    ],
+    "passé": [
+      "en ayant offert"
+    ]
+  }
+}

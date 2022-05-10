@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je recroîs",
+      "tu recroîs",
+      "il recroît",
+      "nous recroissons",
+      "vous recroissez",
+      "ils recroissent"
+    ],
+    "passé composé": [
+      "j'ai recrû",
+      "tu as recrû",
+      "il a recrû",
+      "nous avons recrû",
+      "vous avez recrû",
+      "ils ont recrû"
+    ],
+    "imparfait": [
+      "je recroissais",
+      "tu recroissais",
+      "il recroissait",
+      "nous recroissions",
+      "vous recroissiez",
+      "ils recroissaient"
+    ],
+    "plus que parfait": [
+      "j'avais recrû",
+      "tu avais recrû",
+      "il avait recrû",
+      "nous avions recrû",
+      "vous aviez recrû",
+      "ils avaient recrû"
+    ],
+    "passé simple": [
+      "je recrûs",
+      "tu recrûs",
+      "il recrût",
+      "nous recrûmes",
+      "vous recrûtes",
+      "ils recrûrent"
+    ],
+    "passé antérieur": [
+      "j'eus recrû",
+      "tu eus recrû",
+      "il eut recrû",
+      "nous eûmes recrû",
+      "vous eûtes recrû",
+      "ils eurent recrû"
+    ],
+    "futur simple": [
+      "je recroîtrai",
+      "tu recroîtras",
+      "il recroîtra",
+      "nous recroîtrons",
+      "vous recroîtrez",
+      "ils recroîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai recrû",
+      "tu auras recrû",
+      "il aura recrû",
+      "nous aurons recrû",
+      "vous aurez recrû",
+      "ils auront recrû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je recroisse",
+      "que tu recroisses",
+      "qu'il recroisse",
+      "que nous recroissions",
+      "que vous recroissiez",
+      "qu'ils recroissent"
+    ],
+    "passé": [
+      "que j'aie recrû",
+      "que tu aies recrû",
+      "qu'il ait recrû",
+      "que nous ayons recrû",
+      "que vous ayez recrû",
+      "qu'ils aient recrû"
+    ],
+    "imparfait": [
+      "que je recrûsse",
+      "que tu recrûsses",
+      "qu'il recrût",
+      "que nous recrûssions",
+      "que vous recrussiez",
+      "qu'ils recrûssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse recrû",
+      "que tu eusses recrû",
+      "qu'il eût recrû",
+      "que nous eussions recrû",
+      "que vous eussiez recrû",
+      "qu'ils eussent recrû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je recroîtrais",
+      "tu recroîtrais",
+      "il recroîtrait",
+      "nous recroîtrions",
+      "vous recroîtriez",
+      "ils recroîtraient"
+    ],
+    "passé": [
+      "j'aurais recrû",
+      "tu aurais recrû",
+      "il aurait recrû",
+      "nous aurions recrû",
+      "vous auriez recrû",
+      "ils auraient recrû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recroîs",
+      "recroissons",
+      "recroissez"
+    ],
+    "passé": [
+      "aie recrû",
+      "ayons recrû",
+      "ayez recrû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "recroître"
+    ],
+    "passé": [
+      "avoir recrû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "recroissant"
+    ],
+    "passé": [
+      "recrû",
+      "ayant recrû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en recroissant"
+    ],
+    "passé": [
+      "en ayant recrû"
+    ]
+  }
+}

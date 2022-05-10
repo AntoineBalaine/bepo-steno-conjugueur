@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me contrefous",
+      "tu te contrefous",
+      "il se contrefout",
+      "nous nous contrefoutons",
+      "vous vous contrefoutez",
+      "ils se contrefoutent"
+    ],
+    "passé composé": [
+      "je me suis contrefoutu",
+      "tu t'es contrefoutu",
+      "il s'est contrefoutu",
+      "nous nous sommes contrefoutus",
+      "vous vous êtes contrefoutus",
+      "ils se sont contrefoutus"
+    ],
+    "imparfait": [
+      "je me contrefoutais",
+      "tu te contrefoutais",
+      "il se contrefoutait",
+      "nous nous contrefoutions",
+      "vous vous contrefoutiez",
+      "ils se contrefoutaient"
+    ],
+    "plus que parfait": [
+      "je m'étais contrefoutu",
+      "tu t'étais contrefoutu",
+      "il s'était contrefoutu",
+      "nous nous étions contrefoutus",
+      "vous vous étiez contrefoutus",
+      "ils s'étaient contrefoutus"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "je me contrefoutrai",
+      "tu te contrefoutras",
+      "il se contrefoutra",
+      "nous nous contrefoutrons",
+      "vous vous contrefoutrez",
+      "ils se contrefoutront"
+    ],
+    "futur antérieur": [
+      "je me serai contrefoutu",
+      "tu te seras contrefoutu",
+      "il se sera contrefoutu",
+      "nous nous serons contrefoutus",
+      "vous vous serez contrefoutus",
+      "ils se seront contrefoutus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me contrefoute",
+      "que tu te contrefoutes",
+      "qu'il se contrefoute",
+      "que nous nous contrefoutions",
+      "que vous vous contrefoutiez",
+      "qu'ils se contrefoutent"
+    ],
+    "passé": [
+      "que je me sois contrefoutu",
+      "que tu te sois contrefoutu",
+      "qu'il se soit contrefoutu",
+      "que nous nous soyons contrefoutus",
+      "que vous vous soyez contrefoutus",
+      "qu'ils se soient contrefoutus"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me contrefoutrais",
+      "tu te contrefoutrais",
+      "il se contrefoutrait",
+      "nous nous contrefoutrions",
+      "vous vous contrefoutriez",
+      "ils se contrefoutraient"
+    ],
+    "passé": [
+      "je me serais contrefoutu",
+      "tu te serais contrefoutu",
+      "il se serait contrefoutu",
+      "nous nous serions contrefoutus",
+      "vous vous seriez contrefoutus",
+      "ils se seraient contrefoutus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contrefous-toi",
+      "contrefoutons-nous",
+      "contrefoutez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se contrefoutre"
+    ],
+    "passé": [
+      "s'être contrefoutu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se contrefoutant"
+    ],
+    "passé": [
+      "-",
+      "s'étant contrefoutu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se contrefoutant"
+    ],
+    "passé": [
+      "en s'étant contrefoutu"
+    ]
+  }
+}

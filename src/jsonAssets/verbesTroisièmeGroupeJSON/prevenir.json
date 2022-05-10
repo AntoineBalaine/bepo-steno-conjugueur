@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je préviens",
+      "tu préviens",
+      "il prévient",
+      "nous prévenons",
+      "vous prévenez",
+      "ils préviennent"
+    ],
+    "passé composé": [
+      "j'ai prévenu",
+      "tu as prévenu",
+      "il a prévenu",
+      "nous avons prévenu",
+      "vous avez prévenu",
+      "ils ont prévenu"
+    ],
+    "imparfait": [
+      "je prévenais",
+      "tu prévenais",
+      "il prévenait",
+      "nous prévenions",
+      "vous préveniez",
+      "ils prévenaient"
+    ],
+    "plus que parfait": [
+      "j'avais prévenu",
+      "tu avais prévenu",
+      "il avait prévenu",
+      "nous avions prévenu",
+      "vous aviez prévenu",
+      "ils avaient prévenu"
+    ],
+    "passé simple": [
+      "je prévins",
+      "tu prévins",
+      "il prévint",
+      "nous prévînmes",
+      "vous prévîntes",
+      "ils prévinrent"
+    ],
+    "passé antérieur": [
+      "j'eus prévenu",
+      "tu eus prévenu",
+      "il eut prévenu",
+      "nous eûmes prévenu",
+      "vous eûtes prévenu",
+      "ils eurent prévenu"
+    ],
+    "futur simple": [
+      "je préviendrai",
+      "tu préviendras",
+      "il préviendra",
+      "nous préviendrons",
+      "vous préviendrez",
+      "ils préviendront"
+    ],
+    "futur antérieur": [
+      "j'aurai prévenu",
+      "tu auras prévenu",
+      "il aura prévenu",
+      "nous aurons prévenu",
+      "vous aurez prévenu",
+      "ils auront prévenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je prévienne",
+      "que tu préviennes",
+      "qu'il prévienne",
+      "que nous prévenions",
+      "que vous préveniez",
+      "qu'ils préviennent"
+    ],
+    "passé": [
+      "que j'aie prévenu",
+      "que tu aies prévenu",
+      "qu'il ait prévenu",
+      "que nous ayons prévenu",
+      "que vous ayez prévenu",
+      "qu'ils aient prévenu"
+    ],
+    "imparfait": [
+      "que je prévinsse",
+      "que tu prévinsses",
+      "qu'il prévînt",
+      "que nous prévinssions",
+      "que vous prévinssiez",
+      "qu'ils prévinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse prévenu",
+      "que tu eusses prévenu",
+      "qu'il eût prévenu",
+      "que nous eussions prévenu",
+      "que vous eussiez prévenu",
+      "qu'ils eussent prévenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je préviendrais",
+      "tu préviendrais",
+      "il préviendrait",
+      "nous préviendrions",
+      "vous préviendriez",
+      "ils préviendraient"
+    ],
+    "passé": [
+      "j'aurais prévenu",
+      "tu aurais prévenu",
+      "il aurait prévenu",
+      "nous aurions prévenu",
+      "vous auriez prévenu",
+      "ils auraient prévenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "préviens",
+      "prévenons",
+      "prévenez"
+    ],
+    "passé": [
+      "aie prévenu",
+      "ayons prévenu",
+      "ayez prévenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "prévenir"
+    ],
+    "passé": [
+      "avoir prévenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "prévenant"
+    ],
+    "passé": [
+      "prévenu",
+      "ayant prévenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en prévenant"
+    ],
+    "passé": [
+      "en ayant prévenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entraperçois",
+      "tu t'entraperçois",
+      "il s'entraperçoit",
+      "nous nous entrapercevons",
+      "vous vous entrapercevez",
+      "ils s'entraperçoivent"
+    ],
+    "passé composé": [
+      "je me suis entraperçu",
+      "tu t'es entraperçu",
+      "il s'est entraperçu",
+      "nous nous sommes entraperçus",
+      "vous vous êtes entraperçus",
+      "ils se sont entraperçus"
+    ],
+    "imparfait": [
+      "je m'entrapercevais",
+      "tu t'entrapercevais",
+      "il s'entrapercevait",
+      "nous nous entrapercevions",
+      "vous vous entraperceviez",
+      "ils s'entrapercevaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entraperçu",
+      "tu t'étais entraperçu",
+      "il s'était entraperçu",
+      "nous nous étions entraperçus",
+      "vous vous étiez entraperçus",
+      "ils s'étaient entraperçus"
+    ],
+    "passé simple": [
+      "je m'entraperçus",
+      "tu t'entraperçus",
+      "il s'entraperçut",
+      "nous nous entraperçûmes",
+      "vous vous entraperçûtes",
+      "ils s'entraperçurent"
+    ],
+    "passé antérieur": [
+      "je me fus entraperçu",
+      "tu te fus entraperçu",
+      "il se fut entraperçu",
+      "nous nous fûmes entraperçus",
+      "vous vous fûtes entraperçus",
+      "ils se furent entraperçus"
+    ],
+    "futur simple": [
+      "je m'entrapercevrai",
+      "tu t'entrapercevras",
+      "il s'entrapercevra",
+      "nous nous entrapercevrons",
+      "vous vous entrapercevrez",
+      "ils s'entrapercevront"
+    ],
+    "futur antérieur": [
+      "je me serai entraperçu",
+      "tu te seras entraperçu",
+      "il se sera entraperçu",
+      "nous nous serons entraperçus",
+      "vous vous serez entraperçus",
+      "ils se seront entraperçus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entraperçoive",
+      "que tu t'entraperçoives",
+      "qu'il s'entraperçoive",
+      "que nous nous entrapercevions",
+      "que vous vous entraperceviez",
+      "qu'ils s'entraperçoivent"
+    ],
+    "passé": [
+      "que je me sois entraperçu",
+      "que tu te sois entraperçu",
+      "qu'il se soit entraperçu",
+      "que nous nous soyons entraperçus",
+      "que vous vous soyez entraperçus",
+      "qu'ils se soient entraperçus"
+    ],
+    "imparfait": [
+      "que je m'entraperçusse",
+      "que tu t'entraperçusses",
+      "qu'il s'entraperçût",
+      "que nous nous entraperçussions",
+      "que vous vous entraperçussiez",
+      "qu'ils s'entraperçussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entraperçu",
+      "que tu te fusses entraperçu",
+      "qu'il se fût entraperçu",
+      "que nous nous fussions entraperçus",
+      "que vous vous fussiez entraperçus",
+      "qu'ils se fussent entraperçus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entrapercevrais",
+      "tu t'entrapercevrais",
+      "il s'entrapercevrait",
+      "nous nous entrapercevrions",
+      "vous vous entrapercevriez",
+      "ils s'entrapercevraient"
+    ],
+    "passé": [
+      "je me serais entraperçu",
+      "tu te serais entraperçu",
+      "il se serait entraperçu",
+      "nous nous serions entraperçus",
+      "vous vous seriez entraperçus",
+      "ils se seraient entraperçus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entraperçois-toi",
+      "entrapercevons-nous",
+      "entrapercevez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entrapercevoir"
+    ],
+    "passé": [
+      "s'être entraperçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entrapercevant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entraperçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entrapercevant"
+    ],
+    "passé": [
+      "en s'étant entraperçu"
+    ]
+  }
+}

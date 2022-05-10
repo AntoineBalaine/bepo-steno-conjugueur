@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je bous",
+      "tu bous",
+      "il bout",
+      "nous bouillons",
+      "vous bouillez",
+      "ils bouillent"
+    ],
+    "passé composé": [
+      "j'ai bouilli",
+      "tu as bouilli",
+      "il a bouilli",
+      "nous avons bouilli",
+      "vous avez bouilli",
+      "ils ont bouilli"
+    ],
+    "imparfait": [
+      "je bouillais",
+      "tu bouillais",
+      "il bouillait",
+      "nous bouillions",
+      "vous bouilliez",
+      "ils bouillaient"
+    ],
+    "plus que parfait": [
+      "j'avais bouilli",
+      "tu avais bouilli",
+      "il avait bouilli",
+      "nous avions bouilli",
+      "vous aviez bouilli",
+      "ils avaient bouilli"
+    ],
+    "passé simple": [
+      "je bouillis",
+      "tu bouillis",
+      "il bouillit",
+      "nous bouillîmes",
+      "vous bouillîtes",
+      "ils bouillirent"
+    ],
+    "passé antérieur": [
+      "j'eus bouilli",
+      "tu eus bouilli",
+      "il eut bouilli",
+      "nous eûmes bouilli",
+      "vous eûtes bouilli",
+      "ils eurent bouilli"
+    ],
+    "futur simple": [
+      "je bouillirai",
+      "tu bouilliras",
+      "il bouillira",
+      "nous bouillirons",
+      "vous bouillirez",
+      "ils bouilliront"
+    ],
+    "futur antérieur": [
+      "j'aurai bouilli",
+      "tu auras bouilli",
+      "il aura bouilli",
+      "nous aurons bouilli",
+      "vous aurez bouilli",
+      "ils auront bouilli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je bouille",
+      "que tu bouilles",
+      "qu'il bouille",
+      "que nous bouillions",
+      "que vous bouilliez",
+      "qu'ils bouillent"
+    ],
+    "passé": [
+      "que j'aie bouilli",
+      "que tu aies bouilli",
+      "qu'il ait bouilli",
+      "que nous ayons bouilli",
+      "que vous ayez bouilli",
+      "qu'ils aient bouilli"
+    ],
+    "imparfait": [
+      "que je bouillisse",
+      "que tu bouillisses",
+      "qu'il bouillît",
+      "que nous bouillissions",
+      "que vous bouillissiez",
+      "qu'ils bouillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse bouilli",
+      "que tu eusses bouilli",
+      "qu'il eût bouilli",
+      "que nous eussions bouilli",
+      "que vous eussiez bouilli",
+      "qu'ils eussent bouilli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je bouillirais",
+      "tu bouillirais",
+      "il bouillirait",
+      "nous bouillirions",
+      "vous bouilliriez",
+      "ils bouilliraient"
+    ],
+    "passé": [
+      "j'aurais bouilli",
+      "tu aurais bouilli",
+      "il aurait bouilli",
+      "nous aurions bouilli",
+      "vous auriez bouilli",
+      "ils auraient bouilli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "bous",
+      "bouillons",
+      "bouillez"
+    ],
+    "passé": [
+      "aie bouilli",
+      "ayons bouilli",
+      "ayez bouilli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "bouillir"
+    ],
+    "passé": [
+      "avoir bouilli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "bouillant"
+    ],
+    "passé": [
+      "bouilli",
+      "ayant bouilli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en bouillant"
+    ],
+    "passé": [
+      "en ayant bouilli"
+    ]
+  }
+}

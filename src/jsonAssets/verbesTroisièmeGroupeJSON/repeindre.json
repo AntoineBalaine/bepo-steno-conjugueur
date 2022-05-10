@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je repeins",
+      "tu repeins",
+      "il repeint",
+      "nous repeignons",
+      "vous repeignez",
+      "ils repeignent"
+    ],
+    "passé composé": [
+      "j'ai repeint",
+      "tu as repeint",
+      "il a repeint",
+      "nous avons repeint",
+      "vous avez repeint",
+      "ils ont repeint"
+    ],
+    "imparfait": [
+      "je repeignais",
+      "tu repeignais",
+      "il repeignait",
+      "nous repeignions",
+      "vous repeigniez",
+      "ils repeignaient"
+    ],
+    "plus que parfait": [
+      "j'avais repeint",
+      "tu avais repeint",
+      "il avait repeint",
+      "nous avions repeint",
+      "vous aviez repeint",
+      "ils avaient repeint"
+    ],
+    "passé simple": [
+      "je repeignis",
+      "tu repeignis",
+      "il repeignit",
+      "nous repeignîmes",
+      "vous repeignîtes",
+      "ils repeignirent"
+    ],
+    "passé antérieur": [
+      "j'eus repeint",
+      "tu eus repeint",
+      "il eut repeint",
+      "nous eûmes repeint",
+      "vous eûtes repeint",
+      "ils eurent repeint"
+    ],
+    "futur simple": [
+      "je repeindrai",
+      "tu repeindras",
+      "il repeindra",
+      "nous repeindrons",
+      "vous repeindrez",
+      "ils repeindront"
+    ],
+    "futur antérieur": [
+      "j'aurai repeint",
+      "tu auras repeint",
+      "il aura repeint",
+      "nous aurons repeint",
+      "vous aurez repeint",
+      "ils auront repeint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je repeigne",
+      "que tu repeignes",
+      "qu'il repeigne",
+      "que nous repeignions",
+      "que vous repeigniez",
+      "qu'ils repeignent"
+    ],
+    "passé": [
+      "que j'aie repeint",
+      "que tu aies repeint",
+      "qu'il ait repeint",
+      "que nous ayons repeint",
+      "que vous ayez repeint",
+      "qu'ils aient repeint"
+    ],
+    "imparfait": [
+      "que je repeignisse",
+      "que tu repeignisses",
+      "qu'il repeignît",
+      "que nous repeignissions",
+      "que vous repeignissiez",
+      "qu'ils repeignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse repeint",
+      "que tu eusses repeint",
+      "qu'il eût repeint",
+      "que nous eussions repeint",
+      "que vous eussiez repeint",
+      "qu'ils eussent repeint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je repeindrais",
+      "tu repeindrais",
+      "il repeindrait",
+      "nous repeindrions",
+      "vous repeindriez",
+      "ils repeindraient"
+    ],
+    "passé": [
+      "j'aurais repeint",
+      "tu aurais repeint",
+      "il aurait repeint",
+      "nous aurions repeint",
+      "vous auriez repeint",
+      "ils auraient repeint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "repeins",
+      "repeignons",
+      "repeignez"
+    ],
+    "passé": [
+      "aie repeint",
+      "ayons repeint",
+      "ayez repeint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "repeindre"
+    ],
+    "passé": [
+      "avoir repeint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "repeignant"
+    ],
+    "passé": [
+      "repeint",
+      "ayant repeint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en repeignant"
+    ],
+    "passé": [
+      "en ayant repeint"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reteins",
+      "tu reteins",
+      "il reteint",
+      "nous reteignons",
+      "vous reteignez",
+      "ils reteignent"
+    ],
+    "passé composé": [
+      "j'ai reteint",
+      "tu as reteint",
+      "il a reteint",
+      "nous avons reteint",
+      "vous avez reteint",
+      "ils ont reteint"
+    ],
+    "imparfait": [
+      "je reteignais",
+      "tu reteignais",
+      "il reteignait",
+      "nous reteignions",
+      "vous reteigniez",
+      "ils reteignaient"
+    ],
+    "plus que parfait": [
+      "j'avais reteint",
+      "tu avais reteint",
+      "il avait reteint",
+      "nous avions reteint",
+      "vous aviez reteint",
+      "ils avaient reteint"
+    ],
+    "passé simple": [
+      "je reteignis",
+      "tu reteignis",
+      "il reteignit",
+      "nous reteignîmes",
+      "vous reteignîtes",
+      "ils reteignirent"
+    ],
+    "passé antérieur": [
+      "j'eus reteint",
+      "tu eus reteint",
+      "il eut reteint",
+      "nous eûmes reteint",
+      "vous eûtes reteint",
+      "ils eurent reteint"
+    ],
+    "futur simple": [
+      "je reteindrai",
+      "tu reteindras",
+      "il reteindra",
+      "nous reteindrons",
+      "vous reteindrez",
+      "ils reteindront"
+    ],
+    "futur antérieur": [
+      "j'aurai reteint",
+      "tu auras reteint",
+      "il aura reteint",
+      "nous aurons reteint",
+      "vous aurez reteint",
+      "ils auront reteint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reteigne",
+      "que tu reteignes",
+      "qu'il reteigne",
+      "que nous reteignions",
+      "que vous reteigniez",
+      "qu'ils reteignent"
+    ],
+    "passé": [
+      "que j'aie reteint",
+      "que tu aies reteint",
+      "qu'il ait reteint",
+      "que nous ayons reteint",
+      "que vous ayez reteint",
+      "qu'ils aient reteint"
+    ],
+    "imparfait": [
+      "que je reteignisse",
+      "que tu reteignisses",
+      "qu'il reteignît",
+      "que nous reteignissions",
+      "que vous reteignissiez",
+      "qu'ils reteignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reteint",
+      "que tu eusses reteint",
+      "qu'il eût reteint",
+      "que nous eussions reteint",
+      "que vous eussiez reteint",
+      "qu'ils eussent reteint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reteindrais",
+      "tu reteindrais",
+      "il reteindrait",
+      "nous reteindrions",
+      "vous reteindriez",
+      "ils reteindraient"
+    ],
+    "passé": [
+      "j'aurais reteint",
+      "tu aurais reteint",
+      "il aurait reteint",
+      "nous aurions reteint",
+      "vous auriez reteint",
+      "ils auraient reteint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reteins",
+      "reteignons",
+      "reteignez"
+    ],
+    "passé": [
+      "aie reteint",
+      "ayons reteint",
+      "ayez reteint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reteindre"
+    ],
+    "passé": [
+      "avoir reteint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reteignant"
+    ],
+    "passé": [
+      "reteint",
+      "ayant reteint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reteignant"
+    ],
+    "passé": [
+      "en ayant reteint"
+    ]
+  }
+}

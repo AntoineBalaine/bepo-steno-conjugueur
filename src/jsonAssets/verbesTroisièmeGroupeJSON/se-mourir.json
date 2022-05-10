@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me meurs",
+      "tu te meurs",
+      "il se meurt",
+      "nous nous mourons",
+      "vous vous mourez",
+      "ils se meurent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "je me mourais",
+      "tu te mourais",
+      "il se mourait",
+      "nous nous mourions",
+      "vous vous mouriez",
+      "ils se mouraient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "je me mourrai",
+      "tu te mourras",
+      "il se mourra",
+      "nous nous mourrons",
+      "vous vous mourrez",
+      "ils se mourront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me meure",
+      "que tu te meures",
+      "qu'il se meure",
+      "que nous nous mourions",
+      "que vous vous mouriez",
+      "qu'ils se meurent"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me mourrais",
+      "tu te mourrais",
+      "il se mourrait",
+      "nous nous mourrions",
+      "vous vous mourriez",
+      "ils se mourraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se mourir"
+    ],
+    "passé": [
+      "-"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se mourant"
+    ],
+    "passé": [
+      "-",
+      "-"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se mourant"
+    ],
+    "passé": [
+      "-"
+    ]
+  }
+}

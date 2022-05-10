@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je perds",
+      "tu perds",
+      "il perd",
+      "nous perdons",
+      "vous perdez",
+      "ils perdent"
+    ],
+    "passé composé": [
+      "j'ai perdu",
+      "tu as perdu",
+      "il a perdu",
+      "nous avons perdu",
+      "vous avez perdu",
+      "ils ont perdu"
+    ],
+    "imparfait": [
+      "je perdais",
+      "tu perdais",
+      "il perdait",
+      "nous perdions",
+      "vous perdiez",
+      "ils perdaient"
+    ],
+    "plus que parfait": [
+      "j'avais perdu",
+      "tu avais perdu",
+      "il avait perdu",
+      "nous avions perdu",
+      "vous aviez perdu",
+      "ils avaient perdu"
+    ],
+    "passé simple": [
+      "je perdis",
+      "tu perdis",
+      "il perdit",
+      "nous perdîmes",
+      "vous perdîtes",
+      "ils perdirent"
+    ],
+    "passé antérieur": [
+      "j'eus perdu",
+      "tu eus perdu",
+      "il eut perdu",
+      "nous eûmes perdu",
+      "vous eûtes perdu",
+      "ils eurent perdu"
+    ],
+    "futur simple": [
+      "je perdrai",
+      "tu perdras",
+      "il perdra",
+      "nous perdrons",
+      "vous perdrez",
+      "ils perdront"
+    ],
+    "futur antérieur": [
+      "j'aurai perdu",
+      "tu auras perdu",
+      "il aura perdu",
+      "nous aurons perdu",
+      "vous aurez perdu",
+      "ils auront perdu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je perde",
+      "que tu perdes",
+      "qu'il perde",
+      "que nous perdions",
+      "que vous perdiez",
+      "qu'ils perdent"
+    ],
+    "passé": [
+      "que j'aie perdu",
+      "que tu aies perdu",
+      "qu'il ait perdu",
+      "que nous ayons perdu",
+      "que vous ayez perdu",
+      "qu'ils aient perdu"
+    ],
+    "imparfait": [
+      "que je perdisse",
+      "que tu perdisses",
+      "qu'il perdît",
+      "que nous perdissions",
+      "que vous perdissiez",
+      "qu'ils perdissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse perdu",
+      "que tu eusses perdu",
+      "qu'il eût perdu",
+      "que nous eussions perdu",
+      "que vous eussiez perdu",
+      "qu'ils eussent perdu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je perdrais",
+      "tu perdrais",
+      "il perdrait",
+      "nous perdrions",
+      "vous perdriez",
+      "ils perdraient"
+    ],
+    "passé": [
+      "j'aurais perdu",
+      "tu aurais perdu",
+      "il aurait perdu",
+      "nous aurions perdu",
+      "vous auriez perdu",
+      "ils auraient perdu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "perds",
+      "perdons",
+      "perdez"
+    ],
+    "passé": [
+      "aie perdu",
+      "ayons perdu",
+      "ayez perdu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "perdre"
+    ],
+    "passé": [
+      "avoir perdu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "perdant"
+    ],
+    "passé": [
+      "perdu",
+      "ayant perdu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en perdant"
+    ],
+    "passé": [
+      "en ayant perdu"
+    ]
+  }
+}

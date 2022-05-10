@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je revêts",
+      "tu revêts",
+      "il revêt",
+      "nous revêtons",
+      "vous revêtez",
+      "ils revêtent"
+    ],
+    "passé composé": [
+      "j'ai revêtu",
+      "tu as revêtu",
+      "il a revêtu",
+      "nous avons revêtu",
+      "vous avez revêtu",
+      "ils ont revêtu"
+    ],
+    "imparfait": [
+      "je revêtais",
+      "tu revêtais",
+      "il revêtait",
+      "nous revêtions",
+      "vous revêtiez",
+      "ils revêtaient"
+    ],
+    "plus que parfait": [
+      "j'avais revêtu",
+      "tu avais revêtu",
+      "il avait revêtu",
+      "nous avions revêtu",
+      "vous aviez revêtu",
+      "ils avaient revêtu"
+    ],
+    "passé simple": [
+      "je revêtis",
+      "tu revêtis",
+      "il revêtit",
+      "nous revêtîmes",
+      "vous revêtîtes",
+      "ils revêtirent"
+    ],
+    "passé antérieur": [
+      "j'eus revêtu",
+      "tu eus revêtu",
+      "il eut revêtu",
+      "nous eûmes revêtu",
+      "vous eûtes revêtu",
+      "ils eurent revêtu"
+    ],
+    "futur simple": [
+      "je revêtirai",
+      "tu revêtiras",
+      "il revêtira",
+      "nous revêtirons",
+      "vous revêtirez",
+      "ils revêtiront"
+    ],
+    "futur antérieur": [
+      "j'aurai revêtu",
+      "tu auras revêtu",
+      "il aura revêtu",
+      "nous aurons revêtu",
+      "vous aurez revêtu",
+      "ils auront revêtu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je revête",
+      "que tu revêtes",
+      "qu'il revête",
+      "que nous revêtions",
+      "que vous revêtiez",
+      "qu'ils revêtent"
+    ],
+    "passé": [
+      "que j'aie revêtu",
+      "que tu aies revêtu",
+      "qu'il ait revêtu",
+      "que nous ayons revêtu",
+      "que vous ayez revêtu",
+      "qu'ils aient revêtu"
+    ],
+    "imparfait": [
+      "que je revêtisse",
+      "que tu revêtisses",
+      "qu'il revêtît",
+      "que nous revêtissions",
+      "que vous revêtissiez",
+      "qu'ils revêtissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse revêtu",
+      "que tu eusses revêtu",
+      "qu'il eût revêtu",
+      "que nous eussions revêtu",
+      "que vous eussiez revêtu",
+      "qu'ils eussent revêtu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je revêtirais",
+      "tu revêtirais",
+      "il revêtirait",
+      "nous revêtirions",
+      "vous revêtiriez",
+      "ils revêtiraient"
+    ],
+    "passé": [
+      "j'aurais revêtu",
+      "tu aurais revêtu",
+      "il aurait revêtu",
+      "nous aurions revêtu",
+      "vous auriez revêtu",
+      "ils auraient revêtu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "revêts",
+      "revêtons",
+      "revêtez"
+    ],
+    "passé": [
+      "aie revêtu",
+      "ayons revêtu",
+      "ayez revêtu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "revêtir"
+    ],
+    "passé": [
+      "avoir revêtu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "revêtant"
+    ],
+    "passé": [
+      "revêtu",
+      "ayant revêtu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en revêtant"
+    ],
+    "passé": [
+      "en ayant revêtu"
+    ]
+  }
+}

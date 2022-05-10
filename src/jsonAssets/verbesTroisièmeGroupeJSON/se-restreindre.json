@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me restreins",
+      "tu te restreins",
+      "il se restreint",
+      "nous nous restreignons",
+      "vous vous restreignez",
+      "ils se restreignent"
+    ],
+    "passé composé": [
+      "je me suis restreint",
+      "tu t'es restreint",
+      "il s'est restreint",
+      "nous nous sommes restreints",
+      "vous vous êtes restreints",
+      "ils se sont restreints"
+    ],
+    "imparfait": [
+      "je me restreignais",
+      "tu te restreignais",
+      "il se restreignait",
+      "nous nous restreignions",
+      "vous vous restreigniez",
+      "ils se restreignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais restreint",
+      "tu t'étais restreint",
+      "il s'était restreint",
+      "nous nous étions restreints",
+      "vous vous étiez restreints",
+      "ils s'étaient restreints"
+    ],
+    "passé simple": [
+      "je me restreignis",
+      "tu te restreignis",
+      "il se restreignit",
+      "nous nous restreignîmes",
+      "vous vous restreignîtes",
+      "ils se restreignirent"
+    ],
+    "passé antérieur": [
+      "je me fus restreint",
+      "tu te fus restreint",
+      "il se fut restreint",
+      "nous nous fûmes restreints",
+      "vous vous fûtes restreints",
+      "ils se furent restreints"
+    ],
+    "futur simple": [
+      "je me restreindrai",
+      "tu te restreindras",
+      "il se restreindra",
+      "nous nous restreindrons",
+      "vous vous restreindrez",
+      "ils se restreindront"
+    ],
+    "futur antérieur": [
+      "je me serai restreint",
+      "tu te seras restreint",
+      "il se sera restreint",
+      "nous nous serons restreints",
+      "vous vous serez restreints",
+      "ils se seront restreints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me restreigne",
+      "que tu te restreignes",
+      "qu'il se restreigne",
+      "que nous nous restreignions",
+      "que vous vous restreigniez",
+      "qu'ils se restreignent"
+    ],
+    "passé": [
+      "que je me sois restreint",
+      "que tu te sois restreint",
+      "qu'il se soit restreint",
+      "que nous nous soyons restreints",
+      "que vous vous soyez restreints",
+      "qu'ils se soient restreints"
+    ],
+    "imparfait": [
+      "que je me restreignisse",
+      "que tu te restreignisses",
+      "qu'il se restreignît",
+      "que nous nous restreignissions",
+      "que vous vous restreignissiez",
+      "qu'ils se restreignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse restreint",
+      "que tu te fusses restreint",
+      "qu'il se fût restreint",
+      "que nous nous fussions restreints",
+      "que vous vous fussiez restreints",
+      "qu'ils se fussent restreints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me restreindrais",
+      "tu te restreindrais",
+      "il se restreindrait",
+      "nous nous restreindrions",
+      "vous vous restreindriez",
+      "ils se restreindraient"
+    ],
+    "passé": [
+      "je me serais restreint",
+      "tu te serais restreint",
+      "il se serait restreint",
+      "nous nous serions restreints",
+      "vous vous seriez restreints",
+      "ils se seraient restreints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "restreins-toi",
+      "restreignons-nous",
+      "restreignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se restreindre"
+    ],
+    "passé": [
+      "s'être restreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se restreignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant restreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se restreignant"
+    ],
+    "passé": [
+      "en s'étant restreint"
+    ]
+  }
+}

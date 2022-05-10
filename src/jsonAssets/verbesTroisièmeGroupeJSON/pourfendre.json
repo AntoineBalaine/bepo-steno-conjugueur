@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je pourfends",
+      "tu pourfends",
+      "il pourfend",
+      "nous pourfendons",
+      "vous pourfendez",
+      "ils pourfendent"
+    ],
+    "passé composé": [
+      "j'ai pourfendu",
+      "tu as pourfendu",
+      "il a pourfendu",
+      "nous avons pourfendu",
+      "vous avez pourfendu",
+      "ils ont pourfendu"
+    ],
+    "imparfait": [
+      "je pourfendais",
+      "tu pourfendais",
+      "il pourfendait",
+      "nous pourfendions",
+      "vous pourfendiez",
+      "ils pourfendaient"
+    ],
+    "plus que parfait": [
+      "j'avais pourfendu",
+      "tu avais pourfendu",
+      "il avait pourfendu",
+      "nous avions pourfendu",
+      "vous aviez pourfendu",
+      "ils avaient pourfendu"
+    ],
+    "passé simple": [
+      "je pourfendis",
+      "tu pourfendis",
+      "il pourfendit",
+      "nous pourfendîmes",
+      "vous pourfendîtes",
+      "ils pourfendirent"
+    ],
+    "passé antérieur": [
+      "j'eus pourfendu",
+      "tu eus pourfendu",
+      "il eut pourfendu",
+      "nous eûmes pourfendu",
+      "vous eûtes pourfendu",
+      "ils eurent pourfendu"
+    ],
+    "futur simple": [
+      "je pourfendrai",
+      "tu pourfendras",
+      "il pourfendra",
+      "nous pourfendrons",
+      "vous pourfendrez",
+      "ils pourfendront"
+    ],
+    "futur antérieur": [
+      "j'aurai pourfendu",
+      "tu auras pourfendu",
+      "il aura pourfendu",
+      "nous aurons pourfendu",
+      "vous aurez pourfendu",
+      "ils auront pourfendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je pourfende",
+      "que tu pourfendes",
+      "qu'il pourfende",
+      "que nous pourfendions",
+      "que vous pourfendiez",
+      "qu'ils pourfendent"
+    ],
+    "passé": [
+      "que j'aie pourfendu",
+      "que tu aies pourfendu",
+      "qu'il ait pourfendu",
+      "que nous ayons pourfendu",
+      "que vous ayez pourfendu",
+      "qu'ils aient pourfendu"
+    ],
+    "imparfait": [
+      "que je pourfendisse",
+      "que tu pourfendisses",
+      "qu'il pourfendît",
+      "que nous pourfendissions",
+      "que vous pourfendissiez",
+      "qu'ils pourfendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse pourfendu",
+      "que tu eusses pourfendu",
+      "qu'il eût pourfendu",
+      "que nous eussions pourfendu",
+      "que vous eussiez pourfendu",
+      "qu'ils eussent pourfendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je pourfendrais",
+      "tu pourfendrais",
+      "il pourfendrait",
+      "nous pourfendrions",
+      "vous pourfendriez",
+      "ils pourfendraient"
+    ],
+    "passé": [
+      "j'aurais pourfendu",
+      "tu aurais pourfendu",
+      "il aurait pourfendu",
+      "nous aurions pourfendu",
+      "vous auriez pourfendu",
+      "ils auraient pourfendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "pourfends",
+      "pourfendons",
+      "pourfendez"
+    ],
+    "passé": [
+      "aie pourfendu",
+      "ayons pourfendu",
+      "ayez pourfendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "pourfendre"
+    ],
+    "passé": [
+      "avoir pourfendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "pourfendant"
+    ],
+    "passé": [
+      "pourfendu",
+      "ayant pourfendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en pourfendant"
+    ],
+    "passé": [
+      "en ayant pourfendu"
+    ]
+  }
+}

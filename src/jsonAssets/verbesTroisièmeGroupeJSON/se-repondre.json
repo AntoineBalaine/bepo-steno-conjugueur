@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me réponds",
+      "tu te réponds",
+      "il se répond",
+      "nous nous répondons",
+      "vous vous répondez",
+      "ils se répondent"
+    ],
+    "passé composé": [
+      "je me suis répondu",
+      "tu t'es répondu",
+      "il s'est répondu",
+      "nous nous sommes répondus",
+      "vous vous êtes répondus",
+      "ils se sont répondus"
+    ],
+    "imparfait": [
+      "je me répondais",
+      "tu te répondais",
+      "il se répondait",
+      "nous nous répondions",
+      "vous vous répondiez",
+      "ils se répondaient"
+    ],
+    "plus que parfait": [
+      "je m'étais répondu",
+      "tu t'étais répondu",
+      "il s'était répondu",
+      "nous nous étions répondus",
+      "vous vous étiez répondus",
+      "ils s'étaient répondus"
+    ],
+    "passé simple": [
+      "je me répondis",
+      "tu te répondis",
+      "il se répondit",
+      "nous nous répondîmes",
+      "vous vous répondîtes",
+      "ils se répondirent"
+    ],
+    "passé antérieur": [
+      "je me fus répondu",
+      "tu te fus répondu",
+      "il se fut répondu",
+      "nous nous fûmes répondus",
+      "vous vous fûtes répondus",
+      "ils se furent répondus"
+    ],
+    "futur simple": [
+      "je me répondrai",
+      "tu te répondras",
+      "il se répondra",
+      "nous nous répondrons",
+      "vous vous répondrez",
+      "ils se répondront"
+    ],
+    "futur antérieur": [
+      "je me serai répondu",
+      "tu te seras répondu",
+      "il se sera répondu",
+      "nous nous serons répondus",
+      "vous vous serez répondus",
+      "ils se seront répondus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me réponde",
+      "que tu te répondes",
+      "qu'il se réponde",
+      "que nous nous répondions",
+      "que vous vous répondiez",
+      "qu'ils se répondent"
+    ],
+    "passé": [
+      "que je me sois répondu",
+      "que tu te sois répondu",
+      "qu'il se soit répondu",
+      "que nous nous soyons répondus",
+      "que vous vous soyez répondus",
+      "qu'ils se soient répondus"
+    ],
+    "imparfait": [
+      "que je me répondisse",
+      "que tu te répondisses",
+      "qu'il se répondît",
+      "que nous nous répondissions",
+      "que vous vous répondissiez",
+      "qu'ils se répondissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse répondu",
+      "que tu te fusses répondu",
+      "qu'il se fût répondu",
+      "que nous nous fussions répondus",
+      "que vous vous fussiez répondus",
+      "qu'ils se fussent répondus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me répondrais",
+      "tu te répondrais",
+      "il se répondrait",
+      "nous nous répondrions",
+      "vous vous répondriez",
+      "ils se répondraient"
+    ],
+    "passé": [
+      "je me serais répondu",
+      "tu te serais répondu",
+      "il se serait répondu",
+      "nous nous serions répondus",
+      "vous vous seriez répondus",
+      "ils se seraient répondus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réponds-toi",
+      "répondons-nous",
+      "répondez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se répondre"
+    ],
+    "passé": [
+      "s'être répondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se répondant"
+    ],
+    "passé": [
+      "-",
+      "s'étant répondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se répondant"
+    ],
+    "passé": [
+      "en s'étant répondu"
+    ]
+  }
+}

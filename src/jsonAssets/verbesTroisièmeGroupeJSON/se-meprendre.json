@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me méprends",
+      "tu te méprends",
+      "il se méprend",
+      "nous nous méprenons",
+      "vous vous méprenez",
+      "ils se méprennent"
+    ],
+    "passé composé": [
+      "je me suis mépris",
+      "tu t'es mépris",
+      "il s'est mépris",
+      "nous nous sommes mépris",
+      "vous vous êtes mépris",
+      "ils se sont mépris"
+    ],
+    "imparfait": [
+      "je me méprenais",
+      "tu te méprenais",
+      "il se méprenait",
+      "nous nous méprenions",
+      "vous vous mépreniez",
+      "ils se méprenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais mépris",
+      "tu t'étais mépris",
+      "il s'était mépris",
+      "nous nous étions mépris",
+      "vous vous étiez mépris",
+      "ils s'étaient mépris"
+    ],
+    "passé simple": [
+      "je me mépris",
+      "tu te mépris",
+      "il se méprit",
+      "nous nous méprîmes",
+      "vous vous méprîtes",
+      "ils se méprirent"
+    ],
+    "passé antérieur": [
+      "je me fus mépris",
+      "tu te fus mépris",
+      "il se fut mépris",
+      "nous nous fûmes mépris",
+      "vous vous fûtes mépris",
+      "ils se furent mépris"
+    ],
+    "futur simple": [
+      "je me méprendrai",
+      "tu te méprendras",
+      "il se méprendra",
+      "nous nous méprendrons",
+      "vous vous méprendrez",
+      "ils se méprendront"
+    ],
+    "futur antérieur": [
+      "je me serai mépris",
+      "tu te seras mépris",
+      "il se sera mépris",
+      "nous nous serons mépris",
+      "vous vous serez mépris",
+      "ils se seront mépris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me méprenne",
+      "que tu te méprennes",
+      "qu'il se méprenne",
+      "que nous nous méprenions",
+      "que vous vous mépreniez",
+      "qu'ils se méprennent"
+    ],
+    "passé": [
+      "que je me sois mépris",
+      "que tu te sois mépris",
+      "qu'il se soit mépris",
+      "que nous nous soyons mépris",
+      "que vous vous soyez mépris",
+      "qu'ils se soient mépris"
+    ],
+    "imparfait": [
+      "que je me méprisse",
+      "que tu te méprisses",
+      "qu'il se méprît",
+      "que nous nous méprissions",
+      "que vous vous méprissiez",
+      "qu'ils se méprissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse mépris",
+      "que tu te fusses mépris",
+      "qu'il se fût mépris",
+      "que nous nous fussions mépris",
+      "que vous vous fussiez mépris",
+      "qu'ils se fussent mépris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me méprendrais",
+      "tu te méprendrais",
+      "il se méprendrait",
+      "nous nous méprendrions",
+      "vous vous méprendriez",
+      "ils se méprendraient"
+    ],
+    "passé": [
+      "je me serais mépris",
+      "tu te serais mépris",
+      "il se serait mépris",
+      "nous nous serions mépris",
+      "vous vous seriez mépris",
+      "ils se seraient mépris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "méprends-toi",
+      "méprenons-nous",
+      "méprenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se méprendre"
+    ],
+    "passé": [
+      "s'être mépris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se méprenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant mépris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se méprenant"
+    ],
+    "passé": [
+      "en s'étant mépris"
+    ]
+  }
+}

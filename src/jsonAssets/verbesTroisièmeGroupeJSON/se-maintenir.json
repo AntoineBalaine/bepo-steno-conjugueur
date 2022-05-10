@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me maintiens",
+      "tu te maintiens",
+      "il se maintient",
+      "nous nous maintenons",
+      "vous vous maintenez",
+      "ils se maintiennent"
+    ],
+    "passé composé": [
+      "je me suis maintenu",
+      "tu t'es maintenu",
+      "il s'est maintenu",
+      "nous nous sommes maintenus",
+      "vous vous êtes maintenus",
+      "ils se sont maintenus"
+    ],
+    "imparfait": [
+      "je me maintenais",
+      "tu te maintenais",
+      "il se maintenait",
+      "nous nous maintenions",
+      "vous vous mainteniez",
+      "ils se maintenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais maintenu",
+      "tu t'étais maintenu",
+      "il s'était maintenu",
+      "nous nous étions maintenus",
+      "vous vous étiez maintenus",
+      "ils s'étaient maintenus"
+    ],
+    "passé simple": [
+      "je me maintins",
+      "tu te maintins",
+      "il se maintint",
+      "nous nous maintînmes",
+      "vous vous maintîntes",
+      "ils se maintinrent"
+    ],
+    "passé antérieur": [
+      "je me fus maintenu",
+      "tu te fus maintenu",
+      "il se fut maintenu",
+      "nous nous fûmes maintenus",
+      "vous vous fûtes maintenus",
+      "ils se furent maintenus"
+    ],
+    "futur simple": [
+      "je me maintiendrai",
+      "tu te maintiendras",
+      "il se maintiendra",
+      "nous nous maintiendrons",
+      "vous vous maintiendrez",
+      "ils se maintiendront"
+    ],
+    "futur antérieur": [
+      "je me serai maintenu",
+      "tu te seras maintenu",
+      "il se sera maintenu",
+      "nous nous serons maintenus",
+      "vous vous serez maintenus",
+      "ils se seront maintenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me maintienne",
+      "que tu te maintiennes",
+      "qu'il se maintienne",
+      "que nous nous maintenions",
+      "que vous vous mainteniez",
+      "qu'ils se maintiennent"
+    ],
+    "passé": [
+      "que je me sois maintenu",
+      "que tu te sois maintenu",
+      "qu'il se soit maintenu",
+      "que nous nous soyons maintenus",
+      "que vous vous soyez maintenus",
+      "qu'ils se soient maintenus"
+    ],
+    "imparfait": [
+      "que je me maintinsse",
+      "que tu te maintinsses",
+      "qu'il se maintînt",
+      "que nous nous maintinssions",
+      "que vous vous maintinssiez",
+      "qu'ils se maintinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse maintenu",
+      "que tu te fusses maintenu",
+      "qu'il se fût maintenu",
+      "que nous nous fussions maintenus",
+      "que vous vous fussiez maintenus",
+      "qu'ils se fussent maintenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me maintiendrais",
+      "tu te maintiendrais",
+      "il se maintiendrait",
+      "nous nous maintiendrions",
+      "vous vous maintiendriez",
+      "ils se maintiendraient"
+    ],
+    "passé": [
+      "je me serais maintenu",
+      "tu te serais maintenu",
+      "il se serait maintenu",
+      "nous nous serions maintenus",
+      "vous vous seriez maintenus",
+      "ils se seraient maintenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "maintiens-toi",
+      "maintenons-nous",
+      "maintenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se maintenir"
+    ],
+    "passé": [
+      "s'être maintenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se maintenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant maintenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se maintenant"
+    ],
+    "passé": [
+      "en s'étant maintenu"
+    ]
+  }
+}

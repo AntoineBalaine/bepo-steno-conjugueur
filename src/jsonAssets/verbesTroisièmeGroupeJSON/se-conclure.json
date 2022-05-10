@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me conclus",
+      "tu te conclus",
+      "il se conclut",
+      "nous nous concluons",
+      "vous vous concluez",
+      "ils se concluent"
+    ],
+    "passé composé": [
+      "je me suis conclu",
+      "tu t'es conclu",
+      "il s'est conclu",
+      "nous nous sommes conclus",
+      "vous vous êtes conclus",
+      "ils se sont conclus"
+    ],
+    "imparfait": [
+      "je me concluais",
+      "tu te concluais",
+      "il se concluait",
+      "nous nous concluions",
+      "vous vous concluiez",
+      "ils se concluaient"
+    ],
+    "plus que parfait": [
+      "je m'étais conclu",
+      "tu t'étais conclu",
+      "il s'était conclu",
+      "nous nous étions conclus",
+      "vous vous étiez conclus",
+      "ils s'étaient conclus"
+    ],
+    "passé simple": [
+      "je me conclus",
+      "tu te conclus",
+      "il se conclut",
+      "nous nous conclûmes",
+      "vous vous conclûtes",
+      "ils se conclurent"
+    ],
+    "passé antérieur": [
+      "je me fus conclu",
+      "tu te fus conclu",
+      "il se fut conclu",
+      "nous nous fûmes conclus",
+      "vous vous fûtes conclus",
+      "ils se furent conclus"
+    ],
+    "futur simple": [
+      "je me conclurai",
+      "tu te concluras",
+      "il se conclura",
+      "nous nous conclurons",
+      "vous vous conclurez",
+      "ils se concluront"
+    ],
+    "futur antérieur": [
+      "je me serai conclu",
+      "tu te seras conclu",
+      "il se sera conclu",
+      "nous nous serons conclus",
+      "vous vous serez conclus",
+      "ils se seront conclus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me conclue",
+      "que tu te conclues",
+      "qu'il se conclue",
+      "que nous nous concluions",
+      "que vous vous concluiez",
+      "qu'ils se concluent"
+    ],
+    "passé": [
+      "que je me sois conclu",
+      "que tu te sois conclu",
+      "qu'il se soit conclu",
+      "que nous nous soyons conclus",
+      "que vous vous soyez conclus",
+      "qu'ils se soient conclus"
+    ],
+    "imparfait": [
+      "que je me conclusse",
+      "que tu te conclusses",
+      "qu'il se conclût",
+      "que nous nous conclussions",
+      "que vous vous conclussiez",
+      "qu'ils se conclussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse conclu",
+      "que tu te fusses conclu",
+      "qu'il se fût conclu",
+      "que nous nous fussions conclus",
+      "que vous vous fussiez conclus",
+      "qu'ils se fussent conclus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me conclurais",
+      "tu te conclurais",
+      "il se conclurait",
+      "nous nous conclurions",
+      "vous vous concluriez",
+      "ils se concluraient"
+    ],
+    "passé": [
+      "je me serais conclu",
+      "tu te serais conclu",
+      "il se serait conclu",
+      "nous nous serions conclus",
+      "vous vous seriez conclus",
+      "ils se seraient conclus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conclus-toi",
+      "concluons-nous",
+      "concluez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se conclure"
+    ],
+    "passé": [
+      "s'être conclu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se concluant"
+    ],
+    "passé": [
+      "-",
+      "s'étant conclu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se concluant"
+    ],
+    "passé": [
+      "en s'étant conclu"
+    ]
+  }
+}

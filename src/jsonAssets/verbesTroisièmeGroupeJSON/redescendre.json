@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je redescends",
+      "tu redescends",
+      "il redescend",
+      "nous redescendons",
+      "vous redescendez",
+      "ils redescendent"
+    ],
+    "passé composé": [
+      "j'ai redescendu",
+      "tu as redescendu",
+      "il a redescendu",
+      "nous avons redescendu",
+      "vous avez redescendu",
+      "ils ont redescendu"
+    ],
+    "imparfait": [
+      "je redescendais",
+      "tu redescendais",
+      "il redescendait",
+      "nous redescendions",
+      "vous redescendiez",
+      "ils redescendaient"
+    ],
+    "plus que parfait": [
+      "j'avais redescendu",
+      "tu avais redescendu",
+      "il avait redescendu",
+      "nous avions redescendu",
+      "vous aviez redescendu",
+      "ils avaient redescendu"
+    ],
+    "passé simple": [
+      "je redescendis",
+      "tu redescendis",
+      "il redescendit",
+      "nous redescendîmes",
+      "vous redescendîtes",
+      "ils redescendirent"
+    ],
+    "passé antérieur": [
+      "j'eus redescendu",
+      "tu eus redescendu",
+      "il eut redescendu",
+      "nous eûmes redescendu",
+      "vous eûtes redescendu",
+      "ils eurent redescendu"
+    ],
+    "futur simple": [
+      "je redescendrai",
+      "tu redescendras",
+      "il redescendra",
+      "nous redescendrons",
+      "vous redescendrez",
+      "ils redescendront"
+    ],
+    "futur antérieur": [
+      "j'aurai redescendu",
+      "tu auras redescendu",
+      "il aura redescendu",
+      "nous aurons redescendu",
+      "vous aurez redescendu",
+      "ils auront redescendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je redescende",
+      "que tu redescendes",
+      "qu'il redescende",
+      "que nous redescendions",
+      "que vous redescendiez",
+      "qu'ils redescendent"
+    ],
+    "passé": [
+      "que j'aie redescendu",
+      "que tu aies redescendu",
+      "qu'il ait redescendu",
+      "que nous ayons redescendu",
+      "que vous ayez redescendu",
+      "qu'ils aient redescendu"
+    ],
+    "imparfait": [
+      "que je redescendisse",
+      "que tu redescendisses",
+      "qu'il redescendît",
+      "que nous redescendissions",
+      "que vous redescendissiez",
+      "qu'ils redescendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse redescendu",
+      "que tu eusses redescendu",
+      "qu'il eût redescendu",
+      "que nous eussions redescendu",
+      "que vous eussiez redescendu",
+      "qu'ils eussent redescendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je redescendrais",
+      "tu redescendrais",
+      "il redescendrait",
+      "nous redescendrions",
+      "vous redescendriez",
+      "ils redescendraient"
+    ],
+    "passé": [
+      "j'aurais redescendu",
+      "tu aurais redescendu",
+      "il aurait redescendu",
+      "nous aurions redescendu",
+      "vous auriez redescendu",
+      "ils auraient redescendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "redescends",
+      "redescendons",
+      "redescendez"
+    ],
+    "passé": [
+      "aie redescendu",
+      "ayons redescendu",
+      "ayez redescendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "redescendre"
+    ],
+    "passé": [
+      "avoir redescendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "redescendant"
+    ],
+    "passé": [
+      "redescendu",
+      "ayant redescendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en redescendant"
+    ],
+    "passé": [
+      "en ayant redescendu"
+    ]
+  }
+}

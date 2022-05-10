@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je produis",
+      "tu produis",
+      "il produit",
+      "nous produisons",
+      "vous produisez",
+      "ils produisent"
+    ],
+    "passé composé": [
+      "j'ai produit",
+      "tu as produit",
+      "il a produit",
+      "nous avons produit",
+      "vous avez produit",
+      "ils ont produit"
+    ],
+    "imparfait": [
+      "je produisais",
+      "tu produisais",
+      "il produisait",
+      "nous produisions",
+      "vous produisiez",
+      "ils produisaient"
+    ],
+    "plus que parfait": [
+      "j'avais produit",
+      "tu avais produit",
+      "il avait produit",
+      "nous avions produit",
+      "vous aviez produit",
+      "ils avaient produit"
+    ],
+    "passé simple": [
+      "je produisis",
+      "tu produisis",
+      "il produisit",
+      "nous produisîmes",
+      "vous produisîtes",
+      "ils produisirent"
+    ],
+    "passé antérieur": [
+      "j'eus produit",
+      "tu eus produit",
+      "il eut produit",
+      "nous eûmes produit",
+      "vous eûtes produit",
+      "ils eurent produit"
+    ],
+    "futur simple": [
+      "je produirai",
+      "tu produiras",
+      "il produira",
+      "nous produirons",
+      "vous produirez",
+      "ils produiront"
+    ],
+    "futur antérieur": [
+      "j'aurai produit",
+      "tu auras produit",
+      "il aura produit",
+      "nous aurons produit",
+      "vous aurez produit",
+      "ils auront produit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je produise",
+      "que tu produises",
+      "qu'il produise",
+      "que nous produisions",
+      "que vous produisiez",
+      "qu'ils produisent"
+    ],
+    "passé": [
+      "que j'aie produit",
+      "que tu aies produit",
+      "qu'il ait produit",
+      "que nous ayons produit",
+      "que vous ayez produit",
+      "qu'ils aient produit"
+    ],
+    "imparfait": [
+      "que je produisisse",
+      "que tu produisisses",
+      "qu'il produisît",
+      "que nous produisissions",
+      "que vous produisissiez",
+      "qu'ils produisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse produit",
+      "que tu eusses produit",
+      "qu'il eût produit",
+      "que nous eussions produit",
+      "que vous eussiez produit",
+      "qu'ils eussent produit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je produirais",
+      "tu produirais",
+      "il produirait",
+      "nous produirions",
+      "vous produiriez",
+      "ils produiraient"
+    ],
+    "passé": [
+      "j'aurais produit",
+      "tu aurais produit",
+      "il aurait produit",
+      "nous aurions produit",
+      "vous auriez produit",
+      "ils auraient produit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "produis",
+      "produisons",
+      "produisez"
+    ],
+    "passé": [
+      "aie produit",
+      "ayons produit",
+      "ayez produit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "produire"
+    ],
+    "passé": [
+      "avoir produit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "produisant"
+    ],
+    "passé": [
+      "produit",
+      "ayant produit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en produisant"
+    ],
+    "passé": [
+      "en ayant produit"
+    ]
+  }
+}

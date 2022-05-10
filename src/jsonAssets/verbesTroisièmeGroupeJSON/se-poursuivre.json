@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me poursuis",
+      "tu te poursuis",
+      "il se poursuit",
+      "nous nous poursuivons",
+      "vous vous poursuivez",
+      "ils se poursuivent"
+    ],
+    "passé composé": [
+      "je me suis poursuivi",
+      "tu t'es poursuivi",
+      "il s'est poursuivi",
+      "nous nous sommes poursuivis",
+      "vous vous êtes poursuivis",
+      "ils se sont poursuivis"
+    ],
+    "imparfait": [
+      "je me poursuivais",
+      "tu te poursuivais",
+      "il se poursuivait",
+      "nous nous poursuivions",
+      "vous vous poursuiviez",
+      "ils se poursuivaient"
+    ],
+    "plus que parfait": [
+      "je m'étais poursuivi",
+      "tu t'étais poursuivi",
+      "il s'était poursuivi",
+      "nous nous étions poursuivis",
+      "vous vous étiez poursuivis",
+      "ils s'étaient poursuivis"
+    ],
+    "passé simple": [
+      "je me poursuivis",
+      "tu te poursuivis",
+      "il se poursuivit",
+      "nous nous poursuivîmes",
+      "vous vous poursuivîtes",
+      "ils se poursuivirent"
+    ],
+    "passé antérieur": [
+      "je me fus poursuivi",
+      "tu te fus poursuivi",
+      "il se fut poursuivi",
+      "nous nous fûmes poursuivis",
+      "vous vous fûtes poursuivis",
+      "ils se furent poursuivis"
+    ],
+    "futur simple": [
+      "je me poursuivrai",
+      "tu te poursuivras",
+      "il se poursuivra",
+      "nous nous poursuivrons",
+      "vous vous poursuivrez",
+      "ils se poursuivront"
+    ],
+    "futur antérieur": [
+      "je me serai poursuivi",
+      "tu te seras poursuivi",
+      "il se sera poursuivi",
+      "nous nous serons poursuivis",
+      "vous vous serez poursuivis",
+      "ils se seront poursuivis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me poursuive",
+      "que tu te poursuives",
+      "qu'il se poursuive",
+      "que nous nous poursuivions",
+      "que vous vous poursuiviez",
+      "qu'ils se poursuivent"
+    ],
+    "passé": [
+      "que je me sois poursuivi",
+      "que tu te sois poursuivi",
+      "qu'il se soit poursuivi",
+      "que nous nous soyons poursuivis",
+      "que vous vous soyez poursuivis",
+      "qu'ils se soient poursuivis"
+    ],
+    "imparfait": [
+      "que je me poursuivisse",
+      "que tu te poursuivisses",
+      "qu'il se poursuivît",
+      "que nous nous poursuivissions",
+      "que vous vous poursuivissiez",
+      "qu'ils se poursuivissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse poursuivi",
+      "que tu te fusses poursuivi",
+      "qu'il se fût poursuivi",
+      "que nous nous fussions poursuivis",
+      "que vous vous fussiez poursuivis",
+      "qu'ils se fussent poursuivis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me poursuivrais",
+      "tu te poursuivrais",
+      "il se poursuivrait",
+      "nous nous poursuivrions",
+      "vous vous poursuivriez",
+      "ils se poursuivraient"
+    ],
+    "passé": [
+      "je me serais poursuivi",
+      "tu te serais poursuivi",
+      "il se serait poursuivi",
+      "nous nous serions poursuivis",
+      "vous vous seriez poursuivis",
+      "ils se seraient poursuivis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "poursuis-toi",
+      "poursuivons-nous",
+      "poursuivez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se poursuivre"
+    ],
+    "passé": [
+      "s'être poursuivi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se poursuivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant poursuivi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se poursuivant"
+    ],
+    "passé": [
+      "en s'étant poursuivi"
+    ]
+  }
+}

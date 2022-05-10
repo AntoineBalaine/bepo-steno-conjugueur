@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je retranscris",
+      "tu retranscris",
+      "il retranscrit",
+      "nous retranscrivons",
+      "vous retranscrivez",
+      "ils retranscrivent"
+    ],
+    "passé composé": [
+      "j'ai retranscrit",
+      "tu as retranscrit",
+      "il a retranscrit",
+      "nous avons retranscrit",
+      "vous avez retranscrit",
+      "ils ont retranscrit"
+    ],
+    "imparfait": [
+      "je retranscrivais",
+      "tu retranscrivais",
+      "il retranscrivait",
+      "nous retranscrivions",
+      "vous retranscriviez",
+      "ils retranscrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais retranscrit",
+      "tu avais retranscrit",
+      "il avait retranscrit",
+      "nous avions retranscrit",
+      "vous aviez retranscrit",
+      "ils avaient retranscrit"
+    ],
+    "passé simple": [
+      "je retranscrivis",
+      "tu retranscrivis",
+      "il retranscrivit",
+      "nous retranscrivîmes",
+      "vous retranscrivîtes",
+      "ils retranscrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus retranscrit",
+      "tu eus retranscrit",
+      "il eut retranscrit",
+      "nous eûmes retranscrit",
+      "vous eûtes retranscrit",
+      "ils eurent retranscrit"
+    ],
+    "futur simple": [
+      "je retranscrirai",
+      "tu retranscriras",
+      "il retranscrira",
+      "nous retranscrirons",
+      "vous retranscrirez",
+      "ils retranscriront"
+    ],
+    "futur antérieur": [
+      "j'aurai retranscrit",
+      "tu auras retranscrit",
+      "il aura retranscrit",
+      "nous aurons retranscrit",
+      "vous aurez retranscrit",
+      "ils auront retranscrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je retranscrive",
+      "que tu retranscrives",
+      "qu'il retranscrive",
+      "que nous retranscrivions",
+      "que vous retranscriviez",
+      "qu'ils retranscrivent"
+    ],
+    "passé": [
+      "que j'aie retranscrit",
+      "que tu aies retranscrit",
+      "qu'il ait retranscrit",
+      "que nous ayons retranscrit",
+      "que vous ayez retranscrit",
+      "qu'ils aient retranscrit"
+    ],
+    "imparfait": [
+      "que je retranscrivisse",
+      "que tu retranscrivisses",
+      "qu'il retranscrivît",
+      "que nous retranscrivissions",
+      "que vous retranscrivissiez",
+      "qu'ils retranscrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse retranscrit",
+      "que tu eusses retranscrit",
+      "qu'il eût retranscrit",
+      "que nous eussions retranscrit",
+      "que vous eussiez retranscrit",
+      "qu'ils eussent retranscrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je retranscrirais",
+      "tu retranscrirais",
+      "il retranscrirait",
+      "nous retranscririons",
+      "vous retranscririez",
+      "ils retranscriraient"
+    ],
+    "passé": [
+      "j'aurais retranscrit",
+      "tu aurais retranscrit",
+      "il aurait retranscrit",
+      "nous aurions retranscrit",
+      "vous auriez retranscrit",
+      "ils auraient retranscrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "retranscris",
+      "retranscrivons",
+      "retranscrivez"
+    ],
+    "passé": [
+      "aie retranscrit",
+      "ayons retranscrit",
+      "ayez retranscrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "retranscrire"
+    ],
+    "passé": [
+      "avoir retranscrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "retranscrivant"
+    ],
+    "passé": [
+      "retranscrit",
+      "ayant retranscrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en retranscrivant"
+    ],
+    "passé": [
+      "en ayant retranscrit"
+    ]
+  }
+}

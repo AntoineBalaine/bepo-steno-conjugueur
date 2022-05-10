@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me dis",
+      "tu te dis",
+      "il se dit",
+      "nous nous disons",
+      "vous vous dites",
+      "ils se disent"
+    ],
+    "passé composé": [
+      "je me suis dit",
+      "tu t'es dit",
+      "il s'est dit",
+      "nous nous sommes dits",
+      "vous vous êtes dits",
+      "ils se sont dits"
+    ],
+    "imparfait": [
+      "je me disais",
+      "tu te disais",
+      "il se disait",
+      "nous nous disions",
+      "vous vous disiez",
+      "ils se disaient"
+    ],
+    "plus que parfait": [
+      "je m'étais dit",
+      "tu t'étais dit",
+      "il s'était dit",
+      "nous nous étions dits",
+      "vous vous étiez dits",
+      "ils s'étaient dits"
+    ],
+    "passé simple": [
+      "je me dis",
+      "tu te dis",
+      "il se dit",
+      "nous nous dîmes",
+      "vous vous dîtes",
+      "ils se dirent"
+    ],
+    "passé antérieur": [
+      "je me fus dit",
+      "tu te fus dit",
+      "il se fut dit",
+      "nous nous fûmes dits",
+      "vous vous fûtes dits",
+      "ils se furent dits"
+    ],
+    "futur simple": [
+      "je me dirai",
+      "tu te diras",
+      "il se dira",
+      "nous nous dirons",
+      "vous vous direz",
+      "ils se diront"
+    ],
+    "futur antérieur": [
+      "je me serai dit",
+      "tu te seras dit",
+      "il se sera dit",
+      "nous nous serons dits",
+      "vous vous serez dits",
+      "ils se seront dits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me dise",
+      "que tu te dises",
+      "qu'il se dise",
+      "que nous nous disions",
+      "que vous vous disiez",
+      "qu'ils se disent"
+    ],
+    "passé": [
+      "que je me sois dit",
+      "que tu te sois dit",
+      "qu'il se soit dit",
+      "que nous nous soyons dits",
+      "que vous vous soyez dits",
+      "qu'ils se soient dits"
+    ],
+    "imparfait": [
+      "que je me disse",
+      "que tu te disses",
+      "qu'il se dît",
+      "que nous nous dissions",
+      "que vous vous dissiez",
+      "qu'ils se dissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse dit",
+      "que tu te fusses dit",
+      "qu'il se fût dit",
+      "que nous nous fussions dits",
+      "que vous vous fussiez dits",
+      "qu'ils se fussent dits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me dirais",
+      "tu te dirais",
+      "il se dirait",
+      "nous nous dirions",
+      "vous vous diriez",
+      "ils se diraient"
+    ],
+    "passé": [
+      "je me serais dit",
+      "tu te serais dit",
+      "il se serait dit",
+      "nous nous serions dits",
+      "vous vous seriez dits",
+      "ils se seraient dits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dis-toi",
+      "disons-nous",
+      "dites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se dire"
+    ],
+    "passé": [
+      "s'être dit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se disant"
+    ],
+    "passé": [
+      "-",
+      "s'étant dit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se disant"
+    ],
+    "passé": [
+      "en s'étant dit"
+    ]
+  }
+}

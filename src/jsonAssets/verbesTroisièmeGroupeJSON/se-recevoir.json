@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me reçois",
+      "tu te reçois",
+      "il se reçoit",
+      "nous nous recevons",
+      "vous vous recevez",
+      "ils se reçoivent"
+    ],
+    "passé composé": [
+      "je me suis reçu",
+      "tu t'es reçu",
+      "il s'est reçu",
+      "nous nous sommes reçus",
+      "vous vous êtes reçus",
+      "ils se sont reçus"
+    ],
+    "imparfait": [
+      "je me recevais",
+      "tu te recevais",
+      "il se recevait",
+      "nous nous recevions",
+      "vous vous receviez",
+      "ils se recevaient"
+    ],
+    "plus que parfait": [
+      "je m'étais reçu",
+      "tu t'étais reçu",
+      "il s'était reçu",
+      "nous nous étions reçus",
+      "vous vous étiez reçus",
+      "ils s'étaient reçus"
+    ],
+    "passé simple": [
+      "je me reçus",
+      "tu te reçus",
+      "il se reçut",
+      "nous nous reçûmes",
+      "vous vous reçûtes",
+      "ils se reçurent"
+    ],
+    "passé antérieur": [
+      "je me fus reçu",
+      "tu te fus reçu",
+      "il se fut reçu",
+      "nous nous fûmes reçus",
+      "vous vous fûtes reçus",
+      "ils se furent reçus"
+    ],
+    "futur simple": [
+      "je me recevrai",
+      "tu te recevras",
+      "il se recevra",
+      "nous nous recevrons",
+      "vous vous recevrez",
+      "ils se recevront"
+    ],
+    "futur antérieur": [
+      "je me serai reçu",
+      "tu te seras reçu",
+      "il se sera reçu",
+      "nous nous serons reçus",
+      "vous vous serez reçus",
+      "ils se seront reçus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me reçoive",
+      "que tu te reçoives",
+      "qu'il se reçoive",
+      "que nous nous recevions",
+      "que vous vous receviez",
+      "qu'ils se reçoivent"
+    ],
+    "passé": [
+      "que je me sois reçu",
+      "que tu te sois reçu",
+      "qu'il se soit reçu",
+      "que nous nous soyons reçus",
+      "que vous vous soyez reçus",
+      "qu'ils se soient reçus"
+    ],
+    "imparfait": [
+      "que je me reçusse",
+      "que tu te reçusses",
+      "qu'il se reçût",
+      "que nous nous reçussions",
+      "que vous vous reçussiez",
+      "qu'ils se reçussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse reçu",
+      "que tu te fusses reçu",
+      "qu'il se fût reçu",
+      "que nous nous fussions reçus",
+      "que vous vous fussiez reçus",
+      "qu'ils se fussent reçus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me recevrais",
+      "tu te recevrais",
+      "il se recevrait",
+      "nous nous recevrions",
+      "vous vous recevriez",
+      "ils se recevraient"
+    ],
+    "passé": [
+      "je me serais reçu",
+      "tu te serais reçu",
+      "il se serait reçu",
+      "nous nous serions reçus",
+      "vous vous seriez reçus",
+      "ils se seraient reçus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reçois-toi",
+      "recevons-nous",
+      "recevez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se recevoir"
+    ],
+    "passé": [
+      "s'être reçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se recevant"
+    ],
+    "passé": [
+      "-",
+      "s'étant reçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se recevant"
+    ],
+    "passé": [
+      "en s'étant reçu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'en reviens",
+      "tu t'en reviens",
+      "il s'en revient",
+      "nous nous en revenons",
+      "vous vous en revenez",
+      "ils s'en reviennent"
+    ],
+    "passé composé": [
+      "je m'en suis revenu",
+      "tu t'en es revenu",
+      "il s'en est revenu",
+      "nous nous en sommes revenus",
+      "vous vous en êtes revenus",
+      "ils s'en sont revenus"
+    ],
+    "imparfait": [
+      "je m'en revenais",
+      "tu t'en revenais",
+      "il s'en revenait",
+      "nous nous en revenions",
+      "vous vous en reveniez",
+      "ils s'en revenaient"
+    ],
+    "plus que parfait": [
+      "je m'en étais revenu",
+      "tu t'en étais revenu",
+      "il s'en était revenu",
+      "nous nous en étions revenus",
+      "vous vous en étiez revenus",
+      "ils s'en étaient revenus"
+    ],
+    "passé simple": [
+      "je m'en revins",
+      "tu t'en revins",
+      "il s'en revint",
+      "nous nous en revînmes",
+      "vous vous en revîntes",
+      "ils s'en revinrent"
+    ],
+    "passé antérieur": [
+      "je m'en fus revenu",
+      "tu t'en fus revenu",
+      "il s'en fut revenu",
+      "nous nous en fûmes revenus",
+      "vous vous en fûtes revenus",
+      "ils s'en furent revenus"
+    ],
+    "futur simple": [
+      "je m'en reviendrai",
+      "tu t'en reviendras",
+      "il s'en reviendra",
+      "nous nous en reviendrons",
+      "vous vous en reviendrez",
+      "ils s'en reviendront"
+    ],
+    "futur antérieur": [
+      "je m'en serai revenu",
+      "tu t'en seras revenu",
+      "il s'en sera revenu",
+      "nous nous en serons revenus",
+      "vous vous en serez revenus",
+      "ils s'en seront revenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'en revienne",
+      "que tu t'en reviennes",
+      "qu'il s'en revienne",
+      "que nous nous en revenions",
+      "que vous vous en reveniez",
+      "qu'ils s'en reviennent"
+    ],
+    "passé": [
+      "que je m'en sois revenu",
+      "que tu t'en sois revenu",
+      "qu'il s'en soit revenu",
+      "que nous nous en soyons revenus",
+      "que vous vous en soyez revenus",
+      "qu'ils s'en soient revenus"
+    ],
+    "imparfait": [
+      "que je m'en revinsse",
+      "que tu t'en revinsses",
+      "qu'il s'en revînt",
+      "que nous nous en revinssions",
+      "que vous vous en revinssiez",
+      "qu'ils s'en revinssent"
+    ],
+    "plus que parfait": [
+      "que je m'en fusse revenu",
+      "que tu t'en fusses revenu",
+      "qu'il s'en fût revenu",
+      "que nous nous en fussions revenus",
+      "que vous vous en fussiez revenus",
+      "qu'ils s'en fussent revenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'en reviendrais",
+      "tu t'en reviendrais",
+      "il s'en reviendrait",
+      "nous nous en reviendrions",
+      "vous vous en reviendriez",
+      "ils s'en reviendraient"
+    ],
+    "passé": [
+      "je m'en serais revenu",
+      "tu t'en serais revenu",
+      "il s'en serait revenu",
+      "nous nous en serions revenus",
+      "vous vous en seriez revenus",
+      "ils s'en seraient revenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reviens-t'en",
+      "revenons-nous-en",
+      "revenez-vous-en"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'en revenir"
+    ],
+    "passé": [
+      "s'en être revenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'en revenant"
+    ],
+    "passé": [
+      "-",
+      "s'en étant revenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'en revenant"
+    ],
+    "passé": [
+      "en s'en étant revenu"
+    ]
+  }
+}

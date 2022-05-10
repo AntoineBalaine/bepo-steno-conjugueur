@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me vêts",
+      "tu te vêts",
+      "il se vêt",
+      "nous nous vêtons",
+      "vous vous vêtez",
+      "ils se vêtent"
+    ],
+    "passé composé": [
+      "je me suis vêtu",
+      "tu t'es vêtu",
+      "il s'est vêtu",
+      "nous nous sommes vêtus",
+      "vous vous êtes vêtus",
+      "ils se sont vêtus"
+    ],
+    "imparfait": [
+      "je me vêtais",
+      "tu te vêtais",
+      "il se vêtait",
+      "nous nous vêtions",
+      "vous vous vêtiez",
+      "ils se vêtaient"
+    ],
+    "plus que parfait": [
+      "je m'étais vêtu",
+      "tu t'étais vêtu",
+      "il s'était vêtu",
+      "nous nous étions vêtus",
+      "vous vous étiez vêtus",
+      "ils s'étaient vêtus"
+    ],
+    "passé simple": [
+      "je me vêtis",
+      "tu te vêtis",
+      "il se vêtit",
+      "nous nous vêtîmes",
+      "vous vous vêtîtes",
+      "ils se vêtirent"
+    ],
+    "passé antérieur": [
+      "je me fus vêtu",
+      "tu te fus vêtu",
+      "il se fut vêtu",
+      "nous nous fûmes vêtus",
+      "vous vous fûtes vêtus",
+      "ils se furent vêtus"
+    ],
+    "futur simple": [
+      "je me vêtirai",
+      "tu te vêtiras",
+      "il se vêtira",
+      "nous nous vêtirons",
+      "vous vous vêtirez",
+      "ils se vêtiront"
+    ],
+    "futur antérieur": [
+      "je me serai vêtu",
+      "tu te seras vêtu",
+      "il se sera vêtu",
+      "nous nous serons vêtus",
+      "vous vous serez vêtus",
+      "ils se seront vêtus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me vête",
+      "que tu te vêtes",
+      "qu'il se vête",
+      "que nous nous vêtions",
+      "que vous vous vêtiez",
+      "qu'ils se vêtent"
+    ],
+    "passé": [
+      "que je me sois vêtu",
+      "que tu te sois vêtu",
+      "qu'il se soit vêtu",
+      "que nous nous soyons vêtus",
+      "que vous vous soyez vêtus",
+      "qu'ils se soient vêtus"
+    ],
+    "imparfait": [
+      "que je me vêtisse",
+      "que tu te vêtisses",
+      "qu'il se vêtît",
+      "que nous nous vêtissions",
+      "que vous vous vêtissiez",
+      "qu'ils se vêtissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse vêtu",
+      "que tu te fusses vêtu",
+      "qu'il se fût vêtu",
+      "que nous nous fussions vêtus",
+      "que vous vous fussiez vêtus",
+      "qu'ils se fussent vêtus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me vêtirais",
+      "tu te vêtirais",
+      "il se vêtirait",
+      "nous nous vêtirions",
+      "vous vous vêtiriez",
+      "ils se vêtiraient"
+    ],
+    "passé": [
+      "je me serais vêtu",
+      "tu te serais vêtu",
+      "il se serait vêtu",
+      "nous nous serions vêtus",
+      "vous vous seriez vêtus",
+      "ils se seraient vêtus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vêts-toi",
+      "vêtons-nous",
+      "vêtez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se vêtir"
+    ],
+    "passé": [
+      "s'être vêtu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se vêtant"
+    ],
+    "passé": [
+      "-",
+      "s'étant vêtu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se vêtant"
+    ],
+    "passé": [
+      "en s'étant vêtu"
+    ]
+  }
+}

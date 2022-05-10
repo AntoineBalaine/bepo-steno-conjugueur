@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me ris",
+      "tu te ris",
+      "il se rit",
+      "nous nous rions",
+      "vous vous riez",
+      "ils se rient"
+    ],
+    "passé composé": [
+      "je me suis ri",
+      "tu t'es ri",
+      "il s'est ri",
+      "nous nous sommes ri",
+      "vous vous êtes ri",
+      "ils se sont ri"
+    ],
+    "imparfait": [
+      "je me riais",
+      "tu te riais",
+      "il se riait",
+      "nous nous riions",
+      "vous vous riiez",
+      "ils se riaient"
+    ],
+    "plus que parfait": [
+      "je m'étais ri",
+      "tu t'étais ri",
+      "il s'était ri",
+      "nous nous étions ri",
+      "vous vous étiez ri",
+      "ils s'étaient ri"
+    ],
+    "passé simple": [
+      "je me ris",
+      "tu te ris",
+      "il se rit",
+      "nous nous rîmes",
+      "vous vous rîtes",
+      "ils se rirent"
+    ],
+    "passé antérieur": [
+      "je me fus ri",
+      "tu te fus ri",
+      "il se fut ri",
+      "nous nous fûmes ri",
+      "vous vous fûtes ri",
+      "ils se furent ri"
+    ],
+    "futur simple": [
+      "je me rirai",
+      "tu te riras",
+      "il se rira",
+      "nous nous rirons",
+      "vous vous rirez",
+      "ils se riront"
+    ],
+    "futur antérieur": [
+      "je me serai ri",
+      "tu te seras ri",
+      "il se sera ri",
+      "nous nous serons ri",
+      "vous vous serez ri",
+      "ils se seront ri"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me rie",
+      "que tu te ries",
+      "qu'il se rie",
+      "que nous nous ruons",
+      "que vous vous ruez",
+      "qu'ils se rient"
+    ],
+    "passé": [
+      "que je me sois ri",
+      "que tu te sois ri",
+      "qu'il se soit ri",
+      "que nous nous soyons ri",
+      "que vous vous soyez ri",
+      "qu'ils se soient ri"
+    ],
+    "imparfait": [
+      "que je me risse",
+      "que tu te risses",
+      "qu'il se rît",
+      "que nous nous rissions",
+      "que vous vous rissiez",
+      "qu'ils se rissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse ri",
+      "que tu te fusses ri",
+      "qu'il se fût ri",
+      "que nous nous fussions ri",
+      "que vous vous fussiez ri",
+      "qu'ils se fussent ri"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me rirais",
+      "tu te rirais",
+      "il se rirait",
+      "nous nous ririons",
+      "vous vous ririez",
+      "ils se riraient"
+    ],
+    "passé": [
+      "je me serais ri",
+      "tu te serais ri",
+      "il se serait ri",
+      "nous nous serions ri",
+      "vous vous seriez ri",
+      "ils se seraient ri"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ris-toi",
+      "rions-nous",
+      "riez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se rire"
+    ],
+    "passé": [
+      "s'être ri"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se riant"
+    ],
+    "passé": [
+      "-",
+      "s'étant ri"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se riant"
+    ],
+    "passé": [
+      "en s'étant ri"
+    ]
+  }
+}

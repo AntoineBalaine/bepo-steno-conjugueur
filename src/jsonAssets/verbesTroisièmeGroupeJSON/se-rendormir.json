@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me rendors",
+      "tu te rendors",
+      "il se rendort",
+      "nous nous rendormons",
+      "vous vous rendormez",
+      "ils se rendorment"
+    ],
+    "passé composé": [
+      "je me suis rendormi",
+      "tu t'es rendormi",
+      "il s'est rendormi",
+      "nous nous sommes rendormis",
+      "vous vous êtes rendormis",
+      "ils se sont rendormis"
+    ],
+    "imparfait": [
+      "je me rendormais",
+      "tu te rendormais",
+      "il se rendormait",
+      "nous nous rendormions",
+      "vous vous rendormiez",
+      "ils se rendormaient"
+    ],
+    "plus que parfait": [
+      "je m'étais rendormi",
+      "tu t'étais rendormi",
+      "il s'était rendormi",
+      "nous nous étions rendormis",
+      "vous vous étiez rendormis",
+      "ils s'étaient rendormis"
+    ],
+    "passé simple": [
+      "je me rendormis",
+      "tu te rendormis",
+      "il se rendormit",
+      "nous nous rendormîmes",
+      "vous vous rendormîtes",
+      "ils se rendormirent"
+    ],
+    "passé antérieur": [
+      "je me fus rendormi",
+      "tu te fus rendormi",
+      "il se fut rendormi",
+      "nous nous fûmes rendormis",
+      "vous vous fûtes rendormis",
+      "ils se furent rendormis"
+    ],
+    "futur simple": [
+      "je me rendormirai",
+      "tu te rendormiras",
+      "il se rendormira",
+      "nous nous rendormirons",
+      "vous vous rendormirez",
+      "ils se rendormiront"
+    ],
+    "futur antérieur": [
+      "je me serai rendormi",
+      "tu te seras rendormi",
+      "il se sera rendormi",
+      "nous nous serons rendormis",
+      "vous vous serez rendormis",
+      "ils se seront rendormis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me rendorme",
+      "que tu te rendormes",
+      "qu'il se rendorme",
+      "que nous nous rendormions",
+      "que vous vous rendormiez",
+      "qu'ils se rendorment"
+    ],
+    "passé": [
+      "que je me sois rendormi",
+      "que tu te sois rendormi",
+      "qu'il se soit rendormi",
+      "que nous nous soyons rendormis",
+      "que vous vous soyez rendormis",
+      "qu'ils se soient rendormis"
+    ],
+    "imparfait": [
+      "que je me rendormisse",
+      "que tu te rendormisses",
+      "qu'il se rendormît",
+      "que nous nous rendormissions",
+      "que vous vous rendormissiez",
+      "qu'ils se rendormissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse rendormi",
+      "que tu te fusses rendormi",
+      "qu'il se fût rendormi",
+      "que nous nous fussions rendormis",
+      "que vous vous fussiez rendormis",
+      "qu'ils se fussent rendormis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me rendormirais",
+      "tu te rendormirais",
+      "il se rendormirait",
+      "nous nous rendormirions",
+      "vous vous rendormiriez",
+      "ils se rendormiraient"
+    ],
+    "passé": [
+      "je me serais rendormi",
+      "tu te serais rendormi",
+      "il se serait rendormi",
+      "nous nous serions rendormis",
+      "vous vous seriez rendormis",
+      "ils se seraient rendormis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rendors-toi",
+      "rendormons-nous",
+      "rendormez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se rendormir"
+    ],
+    "passé": [
+      "s'être rendormi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se rendormant"
+    ],
+    "passé": [
+      "-",
+      "s'étant rendormi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se rendormant"
+    ],
+    "passé": [
+      "en s'étant rendormi"
+    ]
+  }
+}

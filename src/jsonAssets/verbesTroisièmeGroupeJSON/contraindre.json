@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je contrains",
+      "tu contrains",
+      "il contraint",
+      "nous contraignons",
+      "vous contraignez",
+      "ils contraignent"
+    ],
+    "passé composé": [
+      "j'ai contraint",
+      "tu as contraint",
+      "il a contraint",
+      "nous avons contraint",
+      "vous avez contraint",
+      "ils ont contraint"
+    ],
+    "imparfait": [
+      "je contraignais",
+      "tu contraignais",
+      "il contraignait",
+      "nous contraignions",
+      "vous contraigniez",
+      "ils contraignaient"
+    ],
+    "plus que parfait": [
+      "j'avais contraint",
+      "tu avais contraint",
+      "il avait contraint",
+      "nous avions contraint",
+      "vous aviez contraint",
+      "ils avaient contraint"
+    ],
+    "passé simple": [
+      "je contraignis",
+      "tu contraignis",
+      "il contraignit",
+      "nous contraignîmes",
+      "vous contraignîtes",
+      "ils contraignirent"
+    ],
+    "passé antérieur": [
+      "j'eus contraint",
+      "tu eus contraint",
+      "il eut contraint",
+      "nous eûmes contraint",
+      "vous eûtes contraint",
+      "ils eurent contraint"
+    ],
+    "futur simple": [
+      "je contraindrai",
+      "tu contraindras",
+      "il contraindra",
+      "nous contraindrons",
+      "vous contraindrez",
+      "ils contraindront"
+    ],
+    "futur antérieur": [
+      "j'aurai contraint",
+      "tu auras contraint",
+      "il aura contraint",
+      "nous aurons contraint",
+      "vous aurez contraint",
+      "ils auront contraint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je contraigne",
+      "que tu contraignes",
+      "qu'il contraigne",
+      "que nous contraignions",
+      "que vous contraigniez",
+      "qu'ils contraignent"
+    ],
+    "passé": [
+      "que j'aie contraint",
+      "que tu aies contraint",
+      "qu'il ait contraint",
+      "que nous ayons contraint",
+      "que vous ayez contraint",
+      "qu'ils aient contraint"
+    ],
+    "imparfait": [
+      "que je contraignisse",
+      "que tu contraignisses",
+      "qu'il contraignît",
+      "que nous contraignissions",
+      "que vous contraignissiez",
+      "qu'ils contraignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse contraint",
+      "que tu eusses contraint",
+      "qu'il eût contraint",
+      "que nous eussions contraint",
+      "que vous eussiez contraint",
+      "qu'ils eussent contraint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je contraindrais",
+      "tu contraindrais",
+      "il contraindrait",
+      "nous contraindrions",
+      "vous contraindriez",
+      "ils contraindraient"
+    ],
+    "passé": [
+      "j'aurais contraint",
+      "tu aurais contraint",
+      "il aurait contraint",
+      "nous aurions contraint",
+      "vous auriez contraint",
+      "ils auraient contraint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contrains",
+      "contraignons",
+      "contraignez"
+    ],
+    "passé": [
+      "aie contraint",
+      "ayons contraint",
+      "ayez contraint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "contraindre"
+    ],
+    "passé": [
+      "avoir contraint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "contraignant"
+    ],
+    "passé": [
+      "contraint",
+      "ayant contraint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en contraignant"
+    ],
+    "passé": [
+      "en ayant contraint"
+    ]
+  }
+}

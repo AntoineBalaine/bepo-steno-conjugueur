@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'accroîs",
+      "tu accroîs",
+      "il accroît",
+      "nous accroissons",
+      "vous accroissez",
+      "ils accroissent"
+    ],
+    "passé composé": [
+      "j'ai accrû",
+      "tu as accrû",
+      "il a accrû",
+      "nous avons accrû",
+      "vous avez accrû",
+      "ils ont accrû"
+    ],
+    "imparfait": [
+      "j'accroissais",
+      "tu accroissais",
+      "il accroissait",
+      "nous accroissions",
+      "vous accroissiez",
+      "ils accroissaient"
+    ],
+    "plus que parfait": [
+      "j'avais accrû",
+      "tu avais accrû",
+      "il avait accrû",
+      "nous avions accrû",
+      "vous aviez accrû",
+      "ils avaient accrû"
+    ],
+    "passé simple": [
+      "j'accrûs",
+      "tu accrûs",
+      "il accrût",
+      "nous accrûmes",
+      "vous accrûtes",
+      "ils accrûrent"
+    ],
+    "passé antérieur": [
+      "j'eus accrû",
+      "tu eus accrû",
+      "il eut accrû",
+      "nous eûmes accrû",
+      "vous eûtes accrû",
+      "ils eurent accrû"
+    ],
+    "futur simple": [
+      "j'accroîtrai",
+      "tu accroîtras",
+      "il accroîtra",
+      "nous accroîtrons",
+      "vous accroîtrez",
+      "ils accroîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai accrû",
+      "tu auras accrû",
+      "il aura accrû",
+      "nous aurons accrû",
+      "vous aurez accrû",
+      "ils auront accrû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'accroisse",
+      "que tu accroisses",
+      "qu'il accroisse",
+      "que nous accroissions",
+      "que vous accroissiez",
+      "qu'ils accroissent"
+    ],
+    "passé": [
+      "que j'aie accrû",
+      "que tu aies accrû",
+      "qu'il ait accrû",
+      "que nous ayons accrû",
+      "que vous ayez accrû",
+      "qu'ils aient accrû"
+    ],
+    "imparfait": [
+      "que j'accrûsse",
+      "que tu accrûsses",
+      "qu'il accrût",
+      "que nous accrûssions",
+      "que vous accrussiez",
+      "qu'ils accrûssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse accrû",
+      "que tu eusses accrû",
+      "qu'il eût accrû",
+      "que nous eussions accrû",
+      "que vous eussiez accrû",
+      "qu'ils eussent accrû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'accroîtrais",
+      "tu accroîtrais",
+      "il accroîtrait",
+      "nous accroîtrions",
+      "vous accroîtriez",
+      "ils accroîtraient"
+    ],
+    "passé": [
+      "j'aurais accrû",
+      "tu aurais accrû",
+      "il aurait accrû",
+      "nous aurions accrû",
+      "vous auriez accrû",
+      "ils auraient accrû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "accroîs",
+      "accroissons",
+      "accroissez"
+    ],
+    "passé": [
+      "aie accrû",
+      "ayons accrû",
+      "ayez accrû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "accroître"
+    ],
+    "passé": [
+      "avoir accrû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "accroissant"
+    ],
+    "passé": [
+      "accrû",
+      "ayant accrû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en accroissant"
+    ],
+    "passé": [
+      "en ayant accrû"
+    ]
+  }
+}

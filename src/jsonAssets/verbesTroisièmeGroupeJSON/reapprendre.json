@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réapprends",
+      "tu réapprends",
+      "il réapprend",
+      "nous réapprenons",
+      "vous réapprenez",
+      "ils réapprennent"
+    ],
+    "passé composé": [
+      "j'ai réappris",
+      "tu as réappris",
+      "il a réappris",
+      "nous avons réappris",
+      "vous avez réappris",
+      "ils ont réappris"
+    ],
+    "imparfait": [
+      "je réapprenais",
+      "tu réapprenais",
+      "il réapprenait",
+      "nous réapprenions",
+      "vous réappreniez",
+      "ils réapprenaient"
+    ],
+    "plus que parfait": [
+      "j'avais réappris",
+      "tu avais réappris",
+      "il avait réappris",
+      "nous avions réappris",
+      "vous aviez réappris",
+      "ils avaient réappris"
+    ],
+    "passé simple": [
+      "je réappris",
+      "tu réappris",
+      "il réapprit",
+      "nous réapprîmes",
+      "vous réapprîtes",
+      "ils réapprirent"
+    ],
+    "passé antérieur": [
+      "j'eus réappris",
+      "tu eus réappris",
+      "il eut réappris",
+      "nous eûmes réappris",
+      "vous eûtes réappris",
+      "ils eurent réappris"
+    ],
+    "futur simple": [
+      "je réapprendrai",
+      "tu réapprendras",
+      "il réapprendra",
+      "nous réapprendrons",
+      "vous réapprendrez",
+      "ils réapprendront"
+    ],
+    "futur antérieur": [
+      "j'aurai réappris",
+      "tu auras réappris",
+      "il aura réappris",
+      "nous aurons réappris",
+      "vous aurez réappris",
+      "ils auront réappris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réapprenne",
+      "que tu réapprennes",
+      "qu'il réapprenne",
+      "que nous réapprenions",
+      "que vous réappreniez",
+      "qu'ils réapprennent"
+    ],
+    "passé": [
+      "que j'aie réappris",
+      "que tu aies réappris",
+      "qu'il ait réappris",
+      "que nous ayons réappris",
+      "que vous ayez réappris",
+      "qu'ils aient réappris"
+    ],
+    "imparfait": [
+      "que je réapprisse",
+      "que tu réapprisses",
+      "qu'il réapprît",
+      "que nous réapprissions",
+      "que vous réapprissiez",
+      "qu'ils réapprissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réappris",
+      "que tu eusses réappris",
+      "qu'il eût réappris",
+      "que nous eussions réappris",
+      "que vous eussiez réappris",
+      "qu'ils eussent réappris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je réapprendrais",
+      "tu réapprendrais",
+      "il réapprendrait",
+      "nous réapprendrions",
+      "vous réapprendriez",
+      "ils réapprendraient"
+    ],
+    "passé": [
+      "j'aurais réappris",
+      "tu aurais réappris",
+      "il aurait réappris",
+      "nous aurions réappris",
+      "vous auriez réappris",
+      "ils auraient réappris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réapprends",
+      "réapprenons",
+      "réapprenez"
+    ],
+    "passé": [
+      "aie réappris",
+      "ayons réappris",
+      "ayez réappris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "réapprendre"
+    ],
+    "passé": [
+      "avoir réappris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "réapprenant"
+    ],
+    "passé": [
+      "réappris",
+      "ayant réappris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en réapprenant"
+    ],
+    "passé": [
+      "en ayant réappris"
+    ]
+  }
+}

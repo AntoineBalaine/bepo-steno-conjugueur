@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me lis",
+      "tu te lis",
+      "il se lit",
+      "nous nous lisons",
+      "vous vous lisez",
+      "ils se lisent"
+    ],
+    "passé composé": [
+      "je me suis lu",
+      "tu t'es lu",
+      "il s'est lu",
+      "nous nous sommes lus",
+      "vous vous êtes lus",
+      "ils se sont lus"
+    ],
+    "imparfait": [
+      "je me lisais",
+      "tu te lisais",
+      "il se lisait",
+      "nous nous lisions",
+      "vous vous lisiez",
+      "ils se lisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais lu",
+      "tu t'étais lu",
+      "il s'était lu",
+      "nous nous étions lus",
+      "vous vous étiez lus",
+      "ils s'étaient lus"
+    ],
+    "passé simple": [
+      "je me lus",
+      "tu te lus",
+      "il se lut",
+      "nous nous lûmes",
+      "vous vous lûtes",
+      "ils se lurent"
+    ],
+    "passé antérieur": [
+      "je me fus lu",
+      "tu te fus lu",
+      "il se fut lu",
+      "nous nous fûmes lus",
+      "vous vous fûtes lus",
+      "ils se furent lus"
+    ],
+    "futur simple": [
+      "je me lirai",
+      "tu te liras",
+      "il se lira",
+      "nous nous lirons",
+      "vous vous lirez",
+      "ils se liront"
+    ],
+    "futur antérieur": [
+      "je me serai lu",
+      "tu te seras lu",
+      "il se sera lu",
+      "nous nous serons lus",
+      "vous vous serez lus",
+      "ils se seront lus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me lise",
+      "que tu te lises",
+      "qu'il se lise",
+      "que nous nous lisions",
+      "que vous vous lisiez",
+      "qu'ils se lisent"
+    ],
+    "passé": [
+      "que je me sois lu",
+      "que tu te sois lu",
+      "qu'il se soit lu",
+      "que nous nous soyons lus",
+      "que vous vous soyez lus",
+      "qu'ils se soient lus"
+    ],
+    "imparfait": [
+      "que je me lusse",
+      "que tu te lusses",
+      "qu'il se lût",
+      "que nous nous lussions",
+      "que vous vous lussiez",
+      "qu'ils se lussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse lu",
+      "que tu te fusses lu",
+      "qu'il se fût lu",
+      "que nous nous fussions lus",
+      "que vous vous fussiez lus",
+      "qu'ils se fussent lus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me lirais",
+      "tu te lirais",
+      "il se lirait",
+      "nous nous lirions",
+      "vous vous liriez",
+      "ils se liraient"
+    ],
+    "passé": [
+      "je me serais lu",
+      "tu te serais lu",
+      "il se serait lu",
+      "nous nous serions lus",
+      "vous vous seriez lus",
+      "ils se seraient lus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "lis-toi",
+      "lisons-nous",
+      "lisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se lire"
+    ],
+    "passé": [
+      "s'être lu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se lisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant lu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se lisant"
+    ],
+    "passé": [
+      "en s'étant lu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'ouvre",
+      "tu ouvres",
+      "il ouvre",
+      "nous ouvrons",
+      "vous ouvrez",
+      "ils ouvrent"
+    ],
+    "passé composé": [
+      "j'ai ouvert",
+      "tu as ouvert",
+      "il a ouvert",
+      "nous avons ouvert",
+      "vous avez ouvert",
+      "ils ont ouvert"
+    ],
+    "imparfait": [
+      "j'ouvrais",
+      "tu ouvrais",
+      "il ouvrait",
+      "nous ouvrions",
+      "vous ouvriez",
+      "ils ouvraient"
+    ],
+    "plus que parfait": [
+      "j'avais ouvert",
+      "tu avais ouvert",
+      "il avait ouvert",
+      "nous avions ouvert",
+      "vous aviez ouvert",
+      "ils avaient ouvert"
+    ],
+    "passé simple": [
+      "j'ouvris",
+      "tu ouvris",
+      "il ouvrit",
+      "nous ouvrîmes",
+      "vous ouvrîtes",
+      "ils ouvrirent"
+    ],
+    "passé antérieur": [
+      "j'eus ouvert",
+      "tu eus ouvert",
+      "il eut ouvert",
+      "nous eûmes ouvert",
+      "vous eûtes ouvert",
+      "ils eurent ouvert"
+    ],
+    "futur simple": [
+      "j'ouvrirai",
+      "tu ouvriras",
+      "il ouvrira",
+      "nous ouvrirons",
+      "vous ouvrirez",
+      "ils ouvriront"
+    ],
+    "futur antérieur": [
+      "j'aurai ouvert",
+      "tu auras ouvert",
+      "il aura ouvert",
+      "nous aurons ouvert",
+      "vous aurez ouvert",
+      "ils auront ouvert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'ouvre",
+      "que tu ouvres",
+      "qu'il ouvre",
+      "que nous ouvrions",
+      "que vous ouvriez",
+      "qu'ils ouvrent"
+    ],
+    "passé": [
+      "que j'aie ouvert",
+      "que tu aies ouvert",
+      "qu'il ait ouvert",
+      "que nous ayons ouvert",
+      "que vous ayez ouvert",
+      "qu'ils aient ouvert"
+    ],
+    "imparfait": [
+      "que j'ouvrisse",
+      "que tu ouvrisses",
+      "qu'il ouvrît",
+      "que nous ouvrissions",
+      "que vous ouvrissiez",
+      "qu'ils ouvrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse ouvert",
+      "que tu eusses ouvert",
+      "qu'il eût ouvert",
+      "que nous eussions ouvert",
+      "que vous eussiez ouvert",
+      "qu'ils eussent ouvert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'ouvrirais",
+      "tu ouvrirais",
+      "il ouvrirait",
+      "nous ouvririons",
+      "vous ouvririez",
+      "ils ouvriraient"
+    ],
+    "passé": [
+      "j'aurais ouvert",
+      "tu aurais ouvert",
+      "il aurait ouvert",
+      "nous aurions ouvert",
+      "vous auriez ouvert",
+      "ils auraient ouvert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ouvre",
+      "ouvrons",
+      "ouvrez"
+    ],
+    "passé": [
+      "aie ouvert",
+      "ayons ouvert",
+      "ayez ouvert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "ouvrir"
+    ],
+    "passé": [
+      "avoir ouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "ouvrant"
+    ],
+    "passé": [
+      "ouvert",
+      "ayant ouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en ouvrant"
+    ],
+    "passé": [
+      "en ayant ouvert"
+    ]
+  }
+}

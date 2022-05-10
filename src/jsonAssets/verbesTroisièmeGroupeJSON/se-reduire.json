@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me réduis",
+      "tu te réduis",
+      "il se réduit",
+      "nous nous réduisons",
+      "vous vous réduisez",
+      "ils se réduisent"
+    ],
+    "passé composé": [
+      "je me suis réduit",
+      "tu t'es réduit",
+      "il s'est réduit",
+      "nous nous sommes réduits",
+      "vous vous êtes réduits",
+      "ils se sont réduits"
+    ],
+    "imparfait": [
+      "je me réduisais",
+      "tu te réduisais",
+      "il se réduisait",
+      "nous nous réduisions",
+      "vous vous réduisiez",
+      "ils se réduisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais réduit",
+      "tu t'étais réduit",
+      "il s'était réduit",
+      "nous nous étions réduits",
+      "vous vous étiez réduits",
+      "ils s'étaient réduits"
+    ],
+    "passé simple": [
+      "je me réduisis",
+      "tu te réduisis",
+      "il se réduisit",
+      "nous nous réduisîmes",
+      "vous vous réduisîtes",
+      "ils se réduisirent"
+    ],
+    "passé antérieur": [
+      "je me fus réduit",
+      "tu te fus réduit",
+      "il se fut réduit",
+      "nous nous fûmes réduits",
+      "vous vous fûtes réduits",
+      "ils se furent réduits"
+    ],
+    "futur simple": [
+      "je me réduirai",
+      "tu te réduiras",
+      "il se réduira",
+      "nous nous réduirons",
+      "vous vous réduirez",
+      "ils se réduiront"
+    ],
+    "futur antérieur": [
+      "je me serai réduit",
+      "tu te seras réduit",
+      "il se sera réduit",
+      "nous nous serons réduits",
+      "vous vous serez réduits",
+      "ils se seront réduits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me réduise",
+      "que tu te réduises",
+      "qu'il se réduise",
+      "que nous nous réduisions",
+      "que vous vous réduisiez",
+      "qu'ils se réduisent"
+    ],
+    "passé": [
+      "que je me sois réduit",
+      "que tu te sois réduit",
+      "qu'il se soit réduit",
+      "que nous nous soyons réduits",
+      "que vous vous soyez réduits",
+      "qu'ils se soient réduits"
+    ],
+    "imparfait": [
+      "que je me réduisisse",
+      "que tu te réduisisses",
+      "qu'il se réduisît",
+      "que nous nous réduisissions",
+      "que vous vous réduisissiez",
+      "qu'ils se réduisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse réduit",
+      "que tu te fusses réduit",
+      "qu'il se fût réduit",
+      "que nous nous fussions réduits",
+      "que vous vous fussiez réduits",
+      "qu'ils se fussent réduits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me réduirais",
+      "tu te réduirais",
+      "il se réduirait",
+      "nous nous réduirions",
+      "vous vous réduiriez",
+      "ils se réduiraient"
+    ],
+    "passé": [
+      "je me serais réduit",
+      "tu te serais réduit",
+      "il se serait réduit",
+      "nous nous serions réduits",
+      "vous vous seriez réduits",
+      "ils se seraient réduits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réduis-toi",
+      "réduisons-nous",
+      "réduisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se réduire"
+    ],
+    "passé": [
+      "s'être réduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se réduisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant réduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se réduisant"
+    ],
+    "passé": [
+      "en s'étant réduit"
+    ]
+  }
+}

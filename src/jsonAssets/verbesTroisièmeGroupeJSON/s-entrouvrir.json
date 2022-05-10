@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entrouvre",
+      "tu t'entrouvres",
+      "il s'entrouvre",
+      "nous nous entrouvrons",
+      "vous vous entrouvrez",
+      "ils s'entrouvrent"
+    ],
+    "passé composé": [
+      "je me suis entrouvert",
+      "tu t'es entrouvert",
+      "il s'est entrouvert",
+      "nous nous sommes entrouverts",
+      "vous vous êtes entrouverts",
+      "ils se sont entrouverts"
+    ],
+    "imparfait": [
+      "je m'entrouvrais",
+      "tu t'entrouvrais",
+      "il s'entrouvrait",
+      "nous nous entrouvrions",
+      "vous vous entrouvriez",
+      "ils s'entrouvraient"
+    ],
+    "plus que parfait": [
+      "je m'étais entrouvert",
+      "tu t'étais entrouvert",
+      "il s'était entrouvert",
+      "nous nous étions entrouverts",
+      "vous vous étiez entrouverts",
+      "ils s'étaient entrouverts"
+    ],
+    "passé simple": [
+      "je m'entrouvris",
+      "tu t'entrouvris",
+      "il s'entrouvrit",
+      "nous nous entrouvrîmes",
+      "vous vous entrouvrîtes",
+      "ils s'entrouvrirent"
+    ],
+    "passé antérieur": [
+      "je me fus entrouvert",
+      "tu te fus entrouvert",
+      "il se fut entrouvert",
+      "nous nous fûmes entrouverts",
+      "vous vous fûtes entrouverts",
+      "ils se furent entrouverts"
+    ],
+    "futur simple": [
+      "je m'entrouvrirai",
+      "tu t'entrouvriras",
+      "il s'entrouvrira",
+      "nous nous entrouvrirons",
+      "vous vous entrouvrirez",
+      "ils s'entrouvriront"
+    ],
+    "futur antérieur": [
+      "je me serai entrouvert",
+      "tu te seras entrouvert",
+      "il se sera entrouvert",
+      "nous nous serons entrouverts",
+      "vous vous serez entrouverts",
+      "ils se seront entrouverts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entrouvre",
+      "que tu t'entrouvres",
+      "qu'il s'entrouvre",
+      "que nous nous entrouvrions",
+      "que vous vous entrouvriez",
+      "qu'ils s'entrouvrent"
+    ],
+    "passé": [
+      "que je me sois entrouvert",
+      "que tu te sois entrouvert",
+      "qu'il se soit entrouvert",
+      "que nous nous soyons entrouverts",
+      "que vous vous soyez entrouverts",
+      "qu'ils se soient entrouverts"
+    ],
+    "imparfait": [
+      "que je m'entrouvrisse",
+      "que tu t'entrouvrisses",
+      "qu'il s'entrouvrît",
+      "que nous nous entrouvrissions",
+      "que vous vous entrouvrissiez",
+      "qu'ils s'entrouvrissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entrouvert",
+      "que tu te fusses entrouvert",
+      "qu'il se fût entrouvert",
+      "que nous nous fussions entrouverts",
+      "que vous vous fussiez entrouverts",
+      "qu'ils se fussent entrouverts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entrouvrirais",
+      "tu t'entrouvrirais",
+      "il s'entrouvrirait",
+      "nous nous entrouvririons",
+      "vous vous entrouvririez",
+      "ils s'entrouvriraient"
+    ],
+    "passé": [
+      "je me serais entrouvert",
+      "tu te serais entrouvert",
+      "il se serait entrouvert",
+      "nous nous serions entrouverts",
+      "vous vous seriez entrouverts",
+      "ils se seraient entrouverts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entrouvre-toi",
+      "entrouvrons-nous",
+      "entrouvrez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entrouvrir"
+    ],
+    "passé": [
+      "s'être entrouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entrouvrant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entrouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entrouvrant"
+    ],
+    "passé": [
+      "en s'étant entrouvert"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me rends",
+      "tu te rends",
+      "il se rend",
+      "nous nous rendons",
+      "vous vous rendez",
+      "ils se rendent"
+    ],
+    "passé composé": [
+      "je me suis rendu",
+      "tu t'es rendu",
+      "il s'est rendu",
+      "nous nous sommes rendus",
+      "vous vous êtes rendus",
+      "ils se sont rendus"
+    ],
+    "imparfait": [
+      "je me rendais",
+      "tu te rendais",
+      "il se rendait",
+      "nous nous rendions",
+      "vous vous rendiez",
+      "ils se rendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais rendu",
+      "tu t'étais rendu",
+      "il s'était rendu",
+      "nous nous étions rendus",
+      "vous vous étiez rendus",
+      "ils s'étaient rendus"
+    ],
+    "passé simple": [
+      "je me rendis",
+      "tu te rendis",
+      "il se rendit",
+      "nous nous rendîmes",
+      "vous vous rendîtes",
+      "ils se rendirent"
+    ],
+    "passé antérieur": [
+      "je me fus rendu",
+      "tu te fus rendu",
+      "il se fut rendu",
+      "nous nous fûmes rendus",
+      "vous vous fûtes rendus",
+      "ils se furent rendus"
+    ],
+    "futur simple": [
+      "je me rendrai",
+      "tu te rendras",
+      "il se rendra",
+      "nous nous rendrons",
+      "vous vous rendrez",
+      "ils se rendront"
+    ],
+    "futur antérieur": [
+      "je me serai rendu",
+      "tu te seras rendu",
+      "il se sera rendu",
+      "nous nous serons rendus",
+      "vous vous serez rendus",
+      "ils se seront rendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me rende",
+      "que tu te rendes",
+      "qu'il se rende",
+      "que nous nous rendions",
+      "que vous vous rendiez",
+      "qu'ils se rendent"
+    ],
+    "passé": [
+      "que je me sois rendu",
+      "que tu te sois rendu",
+      "qu'il se soit rendu",
+      "que nous nous soyons rendus",
+      "que vous vous soyez rendus",
+      "qu'ils se soient rendus"
+    ],
+    "imparfait": [
+      "que je me rendisse",
+      "que tu te rendisses",
+      "qu'il se rendît",
+      "que nous nous rendissions",
+      "que vous vous rendissiez",
+      "qu'ils se rendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse rendu",
+      "que tu te fusses rendu",
+      "qu'il se fût rendu",
+      "que nous nous fussions rendus",
+      "que vous vous fussiez rendus",
+      "qu'ils se fussent rendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me rendrais",
+      "tu te rendrais",
+      "il se rendrait",
+      "nous nous rendrions",
+      "vous vous rendriez",
+      "ils se rendraient"
+    ],
+    "passé": [
+      "je me serais rendu",
+      "tu te serais rendu",
+      "il se serait rendu",
+      "nous nous serions rendus",
+      "vous vous seriez rendus",
+      "ils se seraient rendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rends-toi",
+      "rendons-nous",
+      "rendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se rendre"
+    ],
+    "passé": [
+      "s'être rendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se rendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant rendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se rendant"
+    ],
+    "passé": [
+      "en s'étant rendu"
+    ]
+  }
+}

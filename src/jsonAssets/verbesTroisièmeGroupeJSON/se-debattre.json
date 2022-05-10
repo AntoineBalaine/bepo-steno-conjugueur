@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me débats",
+      "tu te débats",
+      "il se débat",
+      "nous nous débattons",
+      "vous vous débattez",
+      "ils se débattent"
+    ],
+    "passé composé": [
+      "je me suis débattu",
+      "tu t'es débattu",
+      "il s'est débattu",
+      "nous nous sommes débattus",
+      "vous vous êtes débattus",
+      "ils se sont débattus"
+    ],
+    "imparfait": [
+      "je me débattais",
+      "tu te débattais",
+      "il se débattait",
+      "nous nous débattions",
+      "vous vous débattiez",
+      "ils se débattaient"
+    ],
+    "plus que parfait": [
+      "je m'étais débattu",
+      "tu t'étais débattu",
+      "il s'était débattu",
+      "nous nous étions débattus",
+      "vous vous étiez débattus",
+      "ils s'étaient débattus"
+    ],
+    "passé simple": [
+      "je me débattis",
+      "tu te débattis",
+      "il se débattit",
+      "nous nous débattîmes",
+      "vous vous débattîtes",
+      "ils se débattirent"
+    ],
+    "passé antérieur": [
+      "je me fus débattu",
+      "tu te fus débattu",
+      "il se fut débattu",
+      "nous nous fûmes débattus",
+      "vous vous fûtes débattus",
+      "ils se furent débattus"
+    ],
+    "futur simple": [
+      "je me débattrai",
+      "tu te débattras",
+      "il se débattra",
+      "nous nous débattrons",
+      "vous vous débattrez",
+      "ils se débattront"
+    ],
+    "futur antérieur": [
+      "je me serai débattu",
+      "tu te seras débattu",
+      "il se sera débattu",
+      "nous nous serons débattus",
+      "vous vous serez débattus",
+      "ils se seront débattus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me débatte",
+      "que tu te débattes",
+      "qu'il se débatte",
+      "que nous nous débattions",
+      "que vous vous débattiez",
+      "qu'ils se débattent"
+    ],
+    "passé": [
+      "que je me sois débattu",
+      "que tu te sois débattu",
+      "qu'il se soit débattu",
+      "que nous nous soyons débattus",
+      "que vous vous soyez débattus",
+      "qu'ils se soient débattus"
+    ],
+    "imparfait": [
+      "que je me débattisse",
+      "que tu te débattisses",
+      "qu'il se débattît",
+      "que nous nous débattissions",
+      "que vous vous débattissiez",
+      "qu'ils se débattissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse débattu",
+      "que tu te fusses débattu",
+      "qu'il se fût débattu",
+      "que nous nous fussions débattus",
+      "que vous vous fussiez débattus",
+      "qu'ils se fussent débattus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me débattrais",
+      "tu te débattrais",
+      "il se débattrait",
+      "nous nous débattrions",
+      "vous vous débattriez",
+      "ils se débattraient"
+    ],
+    "passé": [
+      "je me serais débattu",
+      "tu te serais débattu",
+      "il se serait débattu",
+      "nous nous serions débattus",
+      "vous vous seriez débattus",
+      "ils se seraient débattus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "débats-toi",
+      "débattons-nous",
+      "débattez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se débattre"
+    ],
+    "passé": [
+      "s'être débattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se débattant"
+    ],
+    "passé": [
+      "-",
+      "s'étant débattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se débattant"
+    ],
+    "passé": [
+      "en s'étant débattu"
+    ]
+  }
+}

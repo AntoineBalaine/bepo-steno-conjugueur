@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je déchois",
+      "tu déchois",
+      "il déchoit",
+      "nous déchoyons",
+      "vous déchoyez",
+      "ils déchoient"
+    ],
+    "passé composé": [
+      "j'ai déchu",
+      "tu as déchu",
+      "il a déchu",
+      "nous avons déchu",
+      "vous avez déchu",
+      "ils ont déchu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais déchu",
+      "tu avais déchu",
+      "il avait déchu",
+      "nous avions déchu",
+      "vous aviez déchu",
+      "ils avaient déchu"
+    ],
+    "passé simple": [
+      "je déchus",
+      "tu déchus",
+      "il déchut",
+      "nous déchûmes",
+      "vous déchûtes",
+      "ils déchurent"
+    ],
+    "passé antérieur": [
+      "j'eus déchu",
+      "tu eus déchu",
+      "il eut déchu",
+      "nous eûmes déchu",
+      "vous eûtes déchu",
+      "ils eurent déchu"
+    ],
+    "futur simple": [
+      "je déchoirai",
+      "tu déchoiras",
+      "il déchoira",
+      "nous déchoirons",
+      "vous déchoirez",
+      "ils déchoiront"
+    ],
+    "futur antérieur": [
+      "j'aurai déchu",
+      "tu auras déchu",
+      "il aura déchu",
+      "nous aurons déchu",
+      "vous aurez déchu",
+      "ils auront déchu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je déchoie",
+      "que tu déchoies",
+      "qu'il déchoie",
+      "que nous déchoyions",
+      "que vous déchoyiez",
+      "qu'ils déchoient"
+    ],
+    "passé": [
+      "que j'aie déchu",
+      "que tu aies déchu",
+      "qu'il ait déchu",
+      "que nous ayons déchu",
+      "que vous ayez déchu",
+      "qu'ils aient déchu"
+    ],
+    "imparfait": [
+      "que je déchusse",
+      "que tu déchusses",
+      "qu'il déchût",
+      "que nous déchussions",
+      "que vous déchussiez",
+      "qu'ils déchussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse déchu",
+      "que tu eusses déchu",
+      "qu'il eût déchu",
+      "que nous eussions déchu",
+      "que vous eussiez déchu",
+      "qu'ils eussent déchu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je déchomis",
+      "tu déchoirais",
+      "il déchoirait",
+      "nous déchoirions",
+      "vous déchoiriez",
+      "ils déchoiraient"
+    ],
+    "passé": [
+      "j'aurais déchu",
+      "tu aurais déchu",
+      "il aurait déchu",
+      "nous aurions déchu",
+      "vous auriez déchu",
+      "ils auraient déchu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie déchu",
+      "ayons déchu",
+      "ayez déchu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "déchoir"
+    ],
+    "passé": [
+      "avoir déchu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "déchu",
+      "ayant déchu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "en ayant déchu"
+    ]
+  }
+}

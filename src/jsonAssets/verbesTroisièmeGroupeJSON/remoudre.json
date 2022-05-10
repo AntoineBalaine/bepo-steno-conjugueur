@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je remouds",
+      "tu remouds",
+      "il remoud",
+      "nous remoulons",
+      "vous remoulez",
+      "ils remoulent"
+    ],
+    "passé composé": [
+      "j'ai remoulu",
+      "tu as remoulu",
+      "il a remoulu",
+      "nous avons remoulu",
+      "vous avez remoulu",
+      "ils ont remoulu"
+    ],
+    "imparfait": [
+      "je remoulais",
+      "tu remoulais",
+      "il remoulait",
+      "nous remoulions",
+      "vous remouliez",
+      "ils remoulaient"
+    ],
+    "plus que parfait": [
+      "j'avais remoulu",
+      "tu avais remoulu",
+      "il avait remoulu",
+      "nous avions remoulu",
+      "vous aviez remoulu",
+      "ils avaient remoulu"
+    ],
+    "passé simple": [
+      "je remoulus",
+      "tu remoulus",
+      "il remoulut",
+      "nous remoulûmes",
+      "vous remoulûtes",
+      "ils remoulurent"
+    ],
+    "passé antérieur": [
+      "j'eus remoulu",
+      "tu eus remoulu",
+      "il eut remoulu",
+      "nous eûmes remoulu",
+      "vous eûtes remoulu",
+      "ils eurent remoulu"
+    ],
+    "futur simple": [
+      "je remoudrai",
+      "tu remoudras",
+      "il remoudra",
+      "nous remoudrons",
+      "vous remoudrez",
+      "ils remoudront"
+    ],
+    "futur antérieur": [
+      "j'aurai remoulu",
+      "tu auras remoulu",
+      "il aura remoulu",
+      "nous aurons remoulu",
+      "vous aurez remoulu",
+      "ils auront remoulu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je remoule",
+      "que tu remoules",
+      "qu'il remoule",
+      "que nous remoulions",
+      "que vous remouliez",
+      "qu'ils remoulent"
+    ],
+    "passé": [
+      "que j'aie remoulu",
+      "que tu aies remoulu",
+      "qu'il ait remoulu",
+      "que nous ayons remoulu",
+      "que vous ayez remoulu",
+      "qu'ils aient remoulu"
+    ],
+    "imparfait": [
+      "que je remoulusse",
+      "que tu remoulusses",
+      "qu'il remoulût",
+      "que nous remoulussions",
+      "que vous remoulussiez",
+      "qu'ils remoulussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse remoulu",
+      "que tu eusses remoulu",
+      "qu'il eût remoulu",
+      "que nous eussions remoulu",
+      "que vous eussiez remoulu",
+      "qu'ils eussent remoulu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je remoudrais",
+      "tu remoudrais",
+      "il remoudrait",
+      "nous remoudrions",
+      "vous remoudriez",
+      "ils remoudraient"
+    ],
+    "passé": [
+      "j'aurais remoulu",
+      "tu aurais remoulu",
+      "il aurait remoulu",
+      "nous aurions remoulu",
+      "vous auriez remoulu",
+      "ils auraient remoulu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "remouds",
+      "remoulons",
+      "remoulez"
+    ],
+    "passé": [
+      "aie remoulu",
+      "ayons remoulu",
+      "ayez remoulu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "remoudre"
+    ],
+    "passé": [
+      "avoir remoulu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "remoulant"
+    ],
+    "passé": [
+      "remoulu",
+      "ayant remoulu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en remoulant"
+    ],
+    "passé": [
+      "en ayant remoulu"
+    ]
+  }
+}

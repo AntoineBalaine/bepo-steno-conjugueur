@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me découvre",
+      "tu te découvres",
+      "il se découvre",
+      "nous nous découvrons",
+      "vous vous découvrez",
+      "ils se découvrent"
+    ],
+    "passé composé": [
+      "je me suis découvert",
+      "tu t'es découvert",
+      "il s'est découvert",
+      "nous nous sommes découverts",
+      "vous vous êtes découverts",
+      "ils se sont découverts"
+    ],
+    "imparfait": [
+      "je me découvrais",
+      "tu te découvrais",
+      "il se découvrait",
+      "nous nous découvrions",
+      "vous vous découvriez",
+      "ils se découvraient"
+    ],
+    "plus que parfait": [
+      "je m'étais découvert",
+      "tu t'étais découvert",
+      "il s'était découvert",
+      "nous nous étions découverts",
+      "vous vous étiez découverts",
+      "ils s'étaient découverts"
+    ],
+    "passé simple": [
+      "je me découvris",
+      "tu te découvris",
+      "il se découvrit",
+      "nous nous découvrîmes",
+      "vous vous découvrîtes",
+      "ils se découvrirent"
+    ],
+    "passé antérieur": [
+      "je me fus découvert",
+      "tu te fus découvert",
+      "il se fut découvert",
+      "nous nous fûmes découverts",
+      "vous vous fûtes découverts",
+      "ils se furent découverts"
+    ],
+    "futur simple": [
+      "je me découvrirai",
+      "tu te découvriras",
+      "il se découvrira",
+      "nous nous découvrirons",
+      "vous vous découvrirez",
+      "ils se découvriront"
+    ],
+    "futur antérieur": [
+      "je me serai découvert",
+      "tu te seras découvert",
+      "il se sera découvert",
+      "nous nous serons découverts",
+      "vous vous serez découverts",
+      "ils se seront découverts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me découvre",
+      "que tu te découvres",
+      "qu'il se découvre",
+      "que nous nous découvrions",
+      "que vous vous découvriez",
+      "qu'ils se découvrent"
+    ],
+    "passé": [
+      "que je me sois découvert",
+      "que tu te sois découvert",
+      "qu'il se soit découvert",
+      "que nous nous soyons découverts",
+      "que vous vous soyez découverts",
+      "qu'ils se soient découverts"
+    ],
+    "imparfait": [
+      "que je me découvrisse",
+      "que tu te découvrisses",
+      "qu'il se découvrît",
+      "que nous nous découvrissions",
+      "que vous vous découvrissiez",
+      "qu'ils se découvrissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse découvert",
+      "que tu te fusses découvert",
+      "qu'il se fût découvert",
+      "que nous nous fussions découverts",
+      "que vous vous fussiez découverts",
+      "qu'ils se fussent découverts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me découvrirais",
+      "tu te découvrirais",
+      "il se découvrirait",
+      "nous nous découvririons",
+      "vous vous découvririez",
+      "ils se découvriraient"
+    ],
+    "passé": [
+      "je me serais découvert",
+      "tu te serais découvert",
+      "il se serait découvert",
+      "nous nous serions découverts",
+      "vous vous seriez découverts",
+      "ils se seraient découverts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "découvre-toi",
+      "découvrons-nous",
+      "découvrez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se découvrir"
+    ],
+    "passé": [
+      "s'être découvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se découvrant"
+    ],
+    "passé": [
+      "-",
+      "s'étant découvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se découvrant"
+    ],
+    "passé": [
+      "en s'étant découvert"
+    ]
+  }
+}

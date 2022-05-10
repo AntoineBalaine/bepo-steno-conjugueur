@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me corresponds",
+      "tu te corresponds",
+      "il se correspond",
+      "nous nous correspondons",
+      "vous vous correspondez",
+      "ils se correspondent"
+    ],
+    "passé composé": [
+      "je me suis correspondu",
+      "tu t'es correspondu",
+      "il s'est correspondu",
+      "nous nous sommes correspondus",
+      "vous vous êtes correspondus",
+      "ils se sont correspondus"
+    ],
+    "imparfait": [
+      "je me correspondais",
+      "tu te correspondais",
+      "il se correspondait",
+      "nous nous correspondions",
+      "vous vous correspondiez",
+      "ils se correspondaient"
+    ],
+    "plus que parfait": [
+      "je m'étais correspondu",
+      "tu t'étais correspondu",
+      "il s'était correspondu",
+      "nous nous étions correspondus",
+      "vous vous étiez correspondus",
+      "ils s'étaient correspondus"
+    ],
+    "passé simple": [
+      "je me correspondis",
+      "tu te correspondis",
+      "il se correspondit",
+      "nous nous correspondîmes",
+      "vous vous correspondîtes",
+      "ils se correspondirent"
+    ],
+    "passé antérieur": [
+      "je me fus correspondu",
+      "tu te fus correspondu",
+      "il se fut correspondu",
+      "nous nous fûmes correspondus",
+      "vous vous fûtes correspondus",
+      "ils se furent correspondus"
+    ],
+    "futur simple": [
+      "je me correspondrai",
+      "tu te correspondras",
+      "il se correspondra",
+      "nous nous correspondrons",
+      "vous vous correspondrez",
+      "ils se correspondront"
+    ],
+    "futur antérieur": [
+      "je me serai correspondu",
+      "tu te seras correspondu",
+      "il se sera correspondu",
+      "nous nous serons correspondus",
+      "vous vous serez correspondus",
+      "ils se seront correspondus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me corresponde",
+      "que tu te correspondes",
+      "qu'il se corresponde",
+      "que nous nous correspondions",
+      "que vous vous correspondiez",
+      "qu'ils se correspondent"
+    ],
+    "passé": [
+      "que je me sois correspondu",
+      "que tu te sois correspondu",
+      "qu'il se soit correspondu",
+      "que nous nous soyons correspondus",
+      "que vous vous soyez correspondus",
+      "qu'ils se soient correspondus"
+    ],
+    "imparfait": [
+      "que je me correspondisse",
+      "que tu te correspondisses",
+      "qu'il se correspondît",
+      "que nous nous correspondissions",
+      "que vous vous correspondissiez",
+      "qu'ils se correspondissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse correspondu",
+      "que tu te fusses correspondu",
+      "qu'il se fût correspondu",
+      "que nous nous fussions correspondus",
+      "que vous vous fussiez correspondus",
+      "qu'ils se fussent correspondus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me correspondrais",
+      "tu te correspondrais",
+      "il se correspondrait",
+      "nous nous correspondrions",
+      "vous vous correspondriez",
+      "ils se correspondraient"
+    ],
+    "passé": [
+      "je me serais correspondu",
+      "tu te serais correspondu",
+      "il se serait correspondu",
+      "nous nous serions correspondus",
+      "vous vous seriez correspondus",
+      "ils se seraient correspondus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "corresponds-toi",
+      "correspondons-nous",
+      "correspondez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se correspondre"
+    ],
+    "passé": [
+      "s'être correspondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se correspondant"
+    ],
+    "passé": [
+      "-",
+      "s'étant correspondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se correspondant"
+    ],
+    "passé": [
+      "en s'étant correspondu"
+    ]
+  }
+}

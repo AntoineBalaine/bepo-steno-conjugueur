@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je contrebats",
+      "tu contrebats",
+      "il contrebat",
+      "nous contrebattons",
+      "vous contrebattez",
+      "ils contrebattent"
+    ],
+    "passé composé": [
+      "j'ai contrebattu",
+      "tu as contrebattu",
+      "il a contrebattu",
+      "nous avons contrebattu",
+      "vous avez contrebattu",
+      "ils ont contrebattu"
+    ],
+    "imparfait": [
+      "je contrebattais",
+      "tu contrebattais",
+      "il contrebattait",
+      "nous contrebattions",
+      "vous contrebattiez",
+      "ils contrebattaient"
+    ],
+    "plus que parfait": [
+      "j'avais contrebattu",
+      "tu avais contrebattu",
+      "il avait contrebattu",
+      "nous avions contrebattu",
+      "vous aviez contrebattu",
+      "ils avaient contrebattu"
+    ],
+    "passé simple": [
+      "je contrebattis",
+      "tu contrebattis",
+      "il contrebattit",
+      "nous contrebattîmes",
+      "vous contrebattîtes",
+      "ils contrebattirent"
+    ],
+    "passé antérieur": [
+      "j'eus contrebattu",
+      "tu eus contrebattu",
+      "il eut contrebattu",
+      "nous eûmes contrebattu",
+      "vous eûtes contrebattu",
+      "ils eurent contrebattu"
+    ],
+    "futur simple": [
+      "je contrebattrai",
+      "tu contrebattras",
+      "il contrebattra",
+      "nous contrebattrons",
+      "vous contrebattrez",
+      "ils contrebattront"
+    ],
+    "futur antérieur": [
+      "j'aurai contrebattu",
+      "tu auras contrebattu",
+      "il aura contrebattu",
+      "nous aurons contrebattu",
+      "vous aurez contrebattu",
+      "ils auront contrebattu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je contrebatte",
+      "que tu contrebattes",
+      "qu'il contrebatte",
+      "que nous contrebattions",
+      "que vous contrebattiez",
+      "qu'ils contrebattent"
+    ],
+    "passé": [
+      "que j'aie contrebattu",
+      "que tu aies contrebattu",
+      "qu'il ait contrebattu",
+      "que nous ayons contrebattu",
+      "que vous ayez contrebattu",
+      "qu'ils aient contrebattu"
+    ],
+    "imparfait": [
+      "que je contrebattisse",
+      "que tu contrebattisses",
+      "qu'il contrebattît",
+      "que nous contrebattissions",
+      "que vous contrebattissiez",
+      "qu'ils contrebattissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse contrebattu",
+      "que tu eusses contrebattu",
+      "qu'il eût contrebattu",
+      "que nous eussions contrebattu",
+      "que vous eussiez contrebattu",
+      "qu'ils eussent contrebattu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je contrebattrais",
+      "tu contrebattrais",
+      "il contrebattrait",
+      "nous contrebattrions",
+      "vous contrebattriez",
+      "ils contrebattraient"
+    ],
+    "passé": [
+      "j'aurais contrebattu",
+      "tu aurais contrebattu",
+      "il aurait contrebattu",
+      "nous aurions contrebattu",
+      "vous auriez contrebattu",
+      "ils auraient contrebattu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contrebats",
+      "contrebattons",
+      "contrebattez"
+    ],
+    "passé": [
+      "aie contrebattu",
+      "ayons contrebattu",
+      "ayez contrebattu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "contrebattre"
+    ],
+    "passé": [
+      "avoir contrebattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "contrebattant"
+    ],
+    "passé": [
+      "contrebattu",
+      "ayant contrebattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en contrebattant"
+    ],
+    "passé": [
+      "en ayant contrebattu"
+    ]
+  }
+}

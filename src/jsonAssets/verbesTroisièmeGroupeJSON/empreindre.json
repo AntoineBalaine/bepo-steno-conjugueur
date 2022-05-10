@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'empreins",
+      "tu empreins",
+      "il empreint",
+      "nous empreignons",
+      "vous empreignez",
+      "ils empreignent"
+    ],
+    "passé composé": [
+      "j'ai empreint",
+      "tu as empreint",
+      "il a empreint",
+      "nous avons empreint",
+      "vous avez empreint",
+      "ils ont empreint"
+    ],
+    "imparfait": [
+      "j'empreignais",
+      "tu empreignais",
+      "il empreignait",
+      "nous empreignions",
+      "vous empreigniez",
+      "ils empreignaient"
+    ],
+    "plus que parfait": [
+      "j'avais empreint",
+      "tu avais empreint",
+      "il avait empreint",
+      "nous avions empreint",
+      "vous aviez empreint",
+      "ils avaient empreint"
+    ],
+    "passé simple": [
+      "j'empreignis",
+      "tu empreignis",
+      "il empreignit",
+      "nous empreignîmes",
+      "vous empreignîtes",
+      "ils empreignirent"
+    ],
+    "passé antérieur": [
+      "j'eus empreint",
+      "tu eus empreint",
+      "il eut empreint",
+      "nous eûmes empreint",
+      "vous eûtes empreint",
+      "ils eurent empreint"
+    ],
+    "futur simple": [
+      "j'empreindrai",
+      "tu empreindras",
+      "il empreindra",
+      "nous empreindrons",
+      "vous empreindrez",
+      "ils empreindront"
+    ],
+    "futur antérieur": [
+      "j'aurai empreint",
+      "tu auras empreint",
+      "il aura empreint",
+      "nous aurons empreint",
+      "vous aurez empreint",
+      "ils auront empreint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'empreigne",
+      "que tu empreignes",
+      "qu'il empreigne",
+      "que nous empreignions",
+      "que vous empreigniez",
+      "qu'ils empreignent"
+    ],
+    "passé": [
+      "que j'aie empreint",
+      "que tu aies empreint",
+      "qu'il ait empreint",
+      "que nous ayons empreint",
+      "que vous ayez empreint",
+      "qu'ils aient empreint"
+    ],
+    "imparfait": [
+      "que j'empreignisse",
+      "que tu empreignisses",
+      "qu'il empreignît",
+      "que nous empreignissions",
+      "que vous empreignissiez",
+      "qu'ils empreignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse empreint",
+      "que tu eusses empreint",
+      "qu'il eût empreint",
+      "que nous eussions empreint",
+      "que vous eussiez empreint",
+      "qu'ils eussent empreint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'empreindrais",
+      "tu empreindrais",
+      "il empreindrait",
+      "nous empreindrions",
+      "vous empreindriez",
+      "ils empreindraient"
+    ],
+    "passé": [
+      "j'aurais empreint",
+      "tu aurais empreint",
+      "il aurait empreint",
+      "nous aurions empreint",
+      "vous auriez empreint",
+      "ils auraient empreint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "empreins",
+      "empreignons",
+      "empreignez"
+    ],
+    "passé": [
+      "aie empreint",
+      "ayons empreint",
+      "ayez empreint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "empreindre"
+    ],
+    "passé": [
+      "avoir empreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "empreignant"
+    ],
+    "passé": [
+      "empreint",
+      "ayant empreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en empreignant"
+    ],
+    "passé": [
+      "en ayant empreint"
+    ]
+  }
+}

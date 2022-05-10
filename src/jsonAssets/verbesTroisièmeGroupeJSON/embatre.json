@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'embas",
+      "tu embas",
+      "il emba",
+      "nous embatons",
+      "vous embatez",
+      "ils embatent"
+    ],
+    "passé composé": [
+      "j'ai embatu",
+      "tu as embatu",
+      "il a embatu",
+      "nous avons embatu",
+      "vous avez embatu",
+      "ils ont embatu"
+    ],
+    "imparfait": [
+      "j'embatais",
+      "tu embatais",
+      "il embatait",
+      "nous embations",
+      "vous embatiez",
+      "ils embataient"
+    ],
+    "plus que parfait": [
+      "j'avais embatu",
+      "tu avais embatu",
+      "il avait embatu",
+      "nous avions embatu",
+      "vous aviez embatu",
+      "ils avaient embatu"
+    ],
+    "passé simple": [
+      "j'embatis",
+      "tu embatis",
+      "il embatit",
+      "nous embatîmes",
+      "vous embatîtes",
+      "ils embatirent"
+    ],
+    "passé antérieur": [
+      "j'eus embatu",
+      "tu eus embatu",
+      "il eut embatu",
+      "nous eûmes embatu",
+      "vous eûtes embatu",
+      "ils eurent embatu"
+    ],
+    "futur simple": [
+      "j'embatrai",
+      "tu embatras",
+      "il embatra",
+      "nous embatrons",
+      "vous embatrez",
+      "ils embatront"
+    ],
+    "futur antérieur": [
+      "j'aurai embatu",
+      "tu auras embatu",
+      "il aura embatu",
+      "nous aurons embatu",
+      "vous aurez embatu",
+      "ils auront embatu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'embate",
+      "que tu embates",
+      "qu'il embate",
+      "que nous embations",
+      "que vous embatiez",
+      "qu'ils embatent"
+    ],
+    "passé": [
+      "que j'aie embatu",
+      "que tu aies embatu",
+      "qu'il ait embatu",
+      "que nous ayons embatu",
+      "que vous ayez embatu",
+      "qu'ils aient embatu"
+    ],
+    "imparfait": [
+      "que j'embatisse",
+      "que tu embatisses",
+      "qu'il embatît",
+      "que nous embatissions",
+      "que vous embatissiez",
+      "qu'ils embatissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse embatu",
+      "que tu eusses embatu",
+      "qu'il eût embatu",
+      "que nous eussions embatu",
+      "que vous eussiez embatu",
+      "qu'ils eussent embatu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'embatrais",
+      "tu embatrais",
+      "il embatrait",
+      "nous embatrions",
+      "vous embatriez",
+      "ils embatraient"
+    ],
+    "passé": [
+      "j'aurais embatu",
+      "tu aurais embatu",
+      "il aurait embatu",
+      "nous aurions embatu",
+      "vous auriez embatu",
+      "ils auraient embatu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "embas",
+      "embatons",
+      "embatez"
+    ],
+    "passé": [
+      "aie embatu",
+      "ayons embatu",
+      "ayez embatu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "embatre"
+    ],
+    "passé": [
+      "avoir embatu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "embatant"
+    ],
+    "passé": [
+      "embatu",
+      "ayant embatu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en embatant"
+    ],
+    "passé": [
+      "en ayant embatu"
+    ]
+  }
+}

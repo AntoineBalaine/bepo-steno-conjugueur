@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je fous",
+      "tu fous",
+      "il fout",
+      "nous foutons",
+      "vous foutez",
+      "ils foutent"
+    ],
+    "passé composé": [
+      "j'ai foutu",
+      "tu as foutu",
+      "il a foutu",
+      "nous avons foutu",
+      "vous avez foutu",
+      "ils ont foutu"
+    ],
+    "imparfait": [
+      "je foutais",
+      "tu foutais",
+      "il foutait",
+      "nous foutions",
+      "vous foutiez",
+      "ils foutaient"
+    ],
+    "plus que parfait": [
+      "j'avais foutu",
+      "tu avais foutu",
+      "il avait foutu",
+      "nous avions foutu",
+      "vous aviez foutu",
+      "ils avaient foutu"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "je foutrai",
+      "tu foutras",
+      "il foutra",
+      "nous foutrons",
+      "vous foutrez",
+      "ils foutront"
+    ],
+    "futur antérieur": [
+      "j'aurai foutu",
+      "tu auras foutu",
+      "il aura foutu",
+      "nous aurons foutu",
+      "vous aurez foutu",
+      "ils auront foutu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je foute",
+      "que tu foutes",
+      "qu'il foute",
+      "que nous foutions",
+      "que vous foutiez",
+      "qu'ils foutent"
+    ],
+    "passé": [
+      "que j'aie foutu",
+      "que tu aies foutu",
+      "qu'il ait foutu",
+      "que nous ayons foutu",
+      "que vous ayez foutu",
+      "qu'ils aient foutu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je foutrais",
+      "tu foutrais",
+      "il foutrait",
+      "nous foutrions",
+      "vous foutriez",
+      "ils foutraient"
+    ],
+    "passé": [
+      "j'aurais foutu",
+      "tu aurais foutu",
+      "il aurait foutu",
+      "nous aurions foutu",
+      "vous auriez foutu",
+      "ils auraient foutu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fous",
+      "foutons",
+      "foutez"
+    ],
+    "passé": [
+      "aie foutu",
+      "ayons foutu",
+      "ayez foutu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "foutre"
+    ],
+    "passé": [
+      "avoir foutu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "foutant"
+    ],
+    "passé": [
+      "foutu",
+      "ayant foutu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en foutant"
+    ],
+    "passé": [
+      "en ayant foutu"
+    ]
+  }
+}

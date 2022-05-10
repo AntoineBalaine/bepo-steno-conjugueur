@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je récris",
+      "tu récris",
+      "il récrit",
+      "nous récrivons",
+      "vous récrivez",
+      "ils récrivent"
+    ],
+    "passé composé": [
+      "j'ai récrit",
+      "tu as récrit",
+      "il a récrit",
+      "nous avons récrit",
+      "vous avez récrit",
+      "ils ont récrit"
+    ],
+    "imparfait": [
+      "je récrivais",
+      "tu récrivais",
+      "il récrivait",
+      "nous récrivions",
+      "vous récriviez",
+      "ils récrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais récrit",
+      "tu avais récrit",
+      "il avait récrit",
+      "nous avions récrit",
+      "vous aviez récrit",
+      "ils avaient récrit"
+    ],
+    "passé simple": [
+      "je récrivis",
+      "tu récrivis",
+      "il récrivit",
+      "nous récrivîmes",
+      "vous récrivîtes",
+      "ils récrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus récrit",
+      "tu eus récrit",
+      "il eut récrit",
+      "nous eûmes récrit",
+      "vous eûtes récrit",
+      "ils eurent récrit"
+    ],
+    "futur simple": [
+      "je récrirai",
+      "tu récriras",
+      "il récrira",
+      "nous récrirons",
+      "vous récrirez",
+      "ils récriront"
+    ],
+    "futur antérieur": [
+      "j'aurai récrit",
+      "tu auras récrit",
+      "il aura récrit",
+      "nous aurons récrit",
+      "vous aurez récrit",
+      "ils auront récrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je récrive",
+      "que tu récrives",
+      "qu'il récrive",
+      "que nous récrivions",
+      "que vous récriviez",
+      "qu'ils récrivent"
+    ],
+    "passé": [
+      "que j'aie récrit",
+      "que tu aies récrit",
+      "qu'il ait récrit",
+      "que nous ayons récrit",
+      "que vous ayez récrit",
+      "qu'ils aient récrit"
+    ],
+    "imparfait": [
+      "que je récrivisse",
+      "que tu récrivisses",
+      "qu'il récrivît",
+      "que nous récrivissions",
+      "que vous récrivissiez",
+      "qu'ils récrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse récrit",
+      "que tu eusses récrit",
+      "qu'il eût récrit",
+      "que nous eussions récrit",
+      "que vous eussiez récrit",
+      "qu'ils eussent récrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je récrirais",
+      "tu récrirais",
+      "il récrirait",
+      "nous récririons",
+      "vous récririez",
+      "ils récriraient"
+    ],
+    "passé": [
+      "j'aurais récrit",
+      "tu aurais récrit",
+      "il aurait récrit",
+      "nous aurions récrit",
+      "vous auriez récrit",
+      "ils auraient récrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "récris",
+      "récrivons",
+      "récrivez"
+    ],
+    "passé": [
+      "aie récrit",
+      "ayons récrit",
+      "ayez récrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "récrire"
+    ],
+    "passé": [
+      "avoir récrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "récrivant"
+    ],
+    "passé": [
+      "récrit",
+      "ayant récrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en récrivant"
+    ],
+    "passé": [
+      "en ayant récrit"
+    ]
+  }
+}

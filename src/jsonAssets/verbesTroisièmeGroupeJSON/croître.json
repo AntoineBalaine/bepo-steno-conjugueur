@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je croîs",
+      "tu croîs",
+      "il croît",
+      "nous croissons",
+      "vous croissez",
+      "ils croissent"
+    ],
+    "passé composé": [
+      "j'ai crû",
+      "tu as crû",
+      "il a crû",
+      "nous avons crû",
+      "vous avez crû",
+      "ils ont crû"
+    ],
+    "imparfait": [
+      "je croissais",
+      "tu croissais",
+      "il croissait",
+      "nous croissions",
+      "vous croissiez",
+      "ils croissaient"
+    ],
+    "plus que parfait": [
+      "j'avais crû",
+      "tu avais crû",
+      "il avait crû",
+      "nous avions crû",
+      "vous aviez crû",
+      "ils avaient crû"
+    ],
+    "passé simple": [
+      "je crûs",
+      "tu crûs",
+      "il crût",
+      "nous crûmes",
+      "vous crûtes",
+      "ils crûrent"
+    ],
+    "passé antérieur": [
+      "j'eus crû",
+      "tu eus crû",
+      "il eut crû",
+      "nous eûmes crû",
+      "vous eûtes crû",
+      "ils eurent crû"
+    ],
+    "futur simple": [
+      "je croîtrai",
+      "tu croîtras",
+      "il croîtra",
+      "nous croîtrons",
+      "vous croîtrez",
+      "ils croîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai crû",
+      "tu auras crû",
+      "il aura crû",
+      "nous aurons crû",
+      "vous aurez crû",
+      "ils auront crû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je croisse",
+      "que tu croisses",
+      "qu'il croisse",
+      "que nous croissions",
+      "que vous croissiez",
+      "qu'ils croissent"
+    ],
+    "passé": [
+      "que j'aie crû",
+      "que tu aies crû",
+      "qu'il ait crû",
+      "que nous ayons crû",
+      "que vous ayez crû",
+      "qu'ils aient crû"
+    ],
+    "imparfait": [
+      "que je crûsse",
+      "que tu crûsses",
+      "qu'il crût",
+      "que nous crûssions",
+      "que vous crussiez",
+      "qu'ils crûssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse crû",
+      "que tu eusses crû",
+      "qu'il eût crû",
+      "que nous eussions crû",
+      "que vous eussiez crû",
+      "qu'ils eussent crû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je croîtrais",
+      "tu croîtrais",
+      "il croîtrait",
+      "nous croîtrions",
+      "vous croîtriez",
+      "ils croîtraient"
+    ],
+    "passé": [
+      "j'aurais crû",
+      "tu aurais crû",
+      "il aurait crû",
+      "nous aurions crû",
+      "vous auriez crû",
+      "ils auraient crû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "croîs",
+      "croissons",
+      "croissez"
+    ],
+    "passé": [
+      "aie crû",
+      "ayons crû",
+      "ayez crû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "croître"
+    ],
+    "passé": [
+      "avoir crû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "croissant"
+    ],
+    "passé": [
+      "crû",
+      "ayant crû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en croissant"
+    ],
+    "passé": [
+      "en ayant crû"
+    ]
+  }
+}

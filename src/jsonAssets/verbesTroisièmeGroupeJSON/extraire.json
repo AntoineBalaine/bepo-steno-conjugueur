@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'extrais",
+      "tu extrais",
+      "il extrait",
+      "nous extrayons",
+      "vous extrayez",
+      "ils extraient"
+    ],
+    "passé composé": [
+      "j'ai extrait",
+      "tu as extrait",
+      "il a extrait",
+      "nous avons extrait",
+      "vous avez extrait",
+      "ils ont extrait"
+    ],
+    "imparfait": [
+      "j'extrayais",
+      "tu extrayais",
+      "il extrayait",
+      "nous extrayions",
+      "vous extrayiez",
+      "ils extrayaient"
+    ],
+    "plus que parfait": [
+      "j'avais extrait",
+      "tu avais extrait",
+      "il avait extrait",
+      "nous avions extrait",
+      "vous aviez extrait",
+      "ils avaient extrait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus extrait",
+      "tu eus extrait",
+      "il eut extrait",
+      "nous eûmes extrait",
+      "vous eûtes extrait",
+      "ils eurent extrait"
+    ],
+    "futur simple": [
+      "j'extrairai",
+      "tu extrairas",
+      "il extraira",
+      "nous extrairons",
+      "vous extrairez",
+      "ils extrairont"
+    ],
+    "futur antérieur": [
+      "j'aurai extrait",
+      "tu auras extrait",
+      "il aura extrait",
+      "nous aurons extrait",
+      "vous aurez extrait",
+      "ils auront extrait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'extraie",
+      "que tu extraies",
+      "qu'il extraie",
+      "que nous extrayions",
+      "que vous extrayiez",
+      "qu'ils extraient"
+    ],
+    "passé": [
+      "que j'aie extrait",
+      "que tu aies extrait",
+      "qu'il ait extrait",
+      "que nous ayons extrait",
+      "que vous ayez extrait",
+      "qu'ils aient extrait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse extrait",
+      "que tu eusses extrait",
+      "qu'il eût extrait",
+      "que nous eussions extrait",
+      "que vous eussiez extrait",
+      "qu'ils eussent extrait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'extrairais",
+      "tu extrairais",
+      "il extrairait",
+      "nous extrairions",
+      "vous extrairiez",
+      "ils extrairaient"
+    ],
+    "passé": [
+      "j'aurais extrait",
+      "tu aurais extrait",
+      "il aurait extrait",
+      "nous aurions extrait",
+      "vous auriez extrait",
+      "ils auraient extrait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "extrais",
+      "extrayons",
+      "extrayez"
+    ],
+    "passé": [
+      "aie extrait",
+      "ayons extrait",
+      "ayez extrait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "extraire"
+    ],
+    "passé": [
+      "avoir extrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "extrayant"
+    ],
+    "passé": [
+      "extrait",
+      "ayant extrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en extrayant"
+    ],
+    "passé": [
+      "en ayant extrait"
+    ]
+  }
+}

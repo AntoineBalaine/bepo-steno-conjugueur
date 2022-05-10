@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je pressens",
+      "tu pressens",
+      "il pressent",
+      "nous pressentons",
+      "vous pressentez",
+      "ils pressentent"
+    ],
+    "passé composé": [
+      "j'ai pressenti",
+      "tu as pressenti",
+      "il a pressenti",
+      "nous avons pressenti",
+      "vous avez pressenti",
+      "ils ont pressenti"
+    ],
+    "imparfait": [
+      "je pressentais",
+      "tu pressentais",
+      "il pressentait",
+      "nous pressentions",
+      "vous pressentiez",
+      "ils pressentaient"
+    ],
+    "plus que parfait": [
+      "j'avais pressenti",
+      "tu avais pressenti",
+      "il avait pressenti",
+      "nous avions pressenti",
+      "vous aviez pressenti",
+      "ils avaient pressenti"
+    ],
+    "passé simple": [
+      "je pressentis",
+      "tu pressentis",
+      "il pressentit",
+      "nous pressentîmes",
+      "vous pressentîtes",
+      "ils pressentirent"
+    ],
+    "passé antérieur": [
+      "j'eus pressenti",
+      "tu eus pressenti",
+      "il eut pressenti",
+      "nous eûmes pressenti",
+      "vous eûtes pressenti",
+      "ils eurent pressenti"
+    ],
+    "futur simple": [
+      "je pressentirai",
+      "tu pressentiras",
+      "il pressentira",
+      "nous pressentirons",
+      "vous pressentirez",
+      "ils pressentiront"
+    ],
+    "futur antérieur": [
+      "j'aurai pressenti",
+      "tu auras pressenti",
+      "il aura pressenti",
+      "nous aurons pressenti",
+      "vous aurez pressenti",
+      "ils auront pressenti"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je pressente",
+      "que tu pressentes",
+      "qu'il pressente",
+      "que nous pressentions",
+      "que vous pressentiez",
+      "qu'ils pressentent"
+    ],
+    "passé": [
+      "que j'aie pressenti",
+      "que tu aies pressenti",
+      "qu'il ait pressenti",
+      "que nous ayons pressenti",
+      "que vous ayez pressenti",
+      "qu'ils aient pressenti"
+    ],
+    "imparfait": [
+      "que je pressentisse",
+      "que tu pressentisses",
+      "qu'il pressentît",
+      "que nous pressentissions",
+      "que vous pressentissiez",
+      "qu'ils pressentissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse pressenti",
+      "que tu eusses pressenti",
+      "qu'il eût pressenti",
+      "que nous eussions pressenti",
+      "que vous eussiez pressenti",
+      "qu'ils eussent pressenti"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je pressentirais",
+      "tu pressentirais",
+      "il pressentirait",
+      "nous pressentirions",
+      "vous pressentiriez",
+      "ils pressentiraient"
+    ],
+    "passé": [
+      "j'aurais pressenti",
+      "tu aurais pressenti",
+      "il aurait pressenti",
+      "nous aurions pressenti",
+      "vous auriez pressenti",
+      "ils auraient pressenti"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "pressens",
+      "pressentons",
+      "pressentez"
+    ],
+    "passé": [
+      "aie pressenti",
+      "ayons pressenti",
+      "ayez pressenti"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "pressentir"
+    ],
+    "passé": [
+      "avoir pressenti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "pressentant"
+    ],
+    "passé": [
+      "pressenti",
+      "ayant pressenti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en pressentant"
+    ],
+    "passé": [
+      "en ayant pressenti"
+    ]
+  }
+}

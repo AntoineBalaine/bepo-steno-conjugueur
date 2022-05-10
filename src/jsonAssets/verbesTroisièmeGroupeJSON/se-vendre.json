@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me vends",
+      "tu te vends",
+      "il se vend",
+      "nous nous vendons",
+      "vous vous vendez",
+      "ils se vendent"
+    ],
+    "passé composé": [
+      "je me suis vendu",
+      "tu t'es vendu",
+      "il s'est vendu",
+      "nous nous sommes vendus",
+      "vous vous êtes vendus",
+      "ils se sont vendus"
+    ],
+    "imparfait": [
+      "je me vendais",
+      "tu te vendais",
+      "il se vendait",
+      "nous nous vendions",
+      "vous vous vendiez",
+      "ils se vendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais vendu",
+      "tu t'étais vendu",
+      "il s'était vendu",
+      "nous nous étions vendus",
+      "vous vous étiez vendus",
+      "ils s'étaient vendus"
+    ],
+    "passé simple": [
+      "je me vendis",
+      "tu te vendis",
+      "il se vendit",
+      "nous nous vendîmes",
+      "vous vous vendîtes",
+      "ils se vendirent"
+    ],
+    "passé antérieur": [
+      "je me fus vendu",
+      "tu te fus vendu",
+      "il se fut vendu",
+      "nous nous fûmes vendus",
+      "vous vous fûtes vendus",
+      "ils se furent vendus"
+    ],
+    "futur simple": [
+      "je me vendrai",
+      "tu te vendras",
+      "il se vendra",
+      "nous nous vendrons",
+      "vous vous vendrez",
+      "ils se vendront"
+    ],
+    "futur antérieur": [
+      "je me serai vendu",
+      "tu te seras vendu",
+      "il se sera vendu",
+      "nous nous serons vendus",
+      "vous vous serez vendus",
+      "ils se seront vendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me vende",
+      "que tu te vendes",
+      "qu'il se vende",
+      "que nous nous vendions",
+      "que vous vous vendiez",
+      "qu'ils se vendent"
+    ],
+    "passé": [
+      "que je me sois vendu",
+      "que tu te sois vendu",
+      "qu'il se soit vendu",
+      "que nous nous soyons vendus",
+      "que vous vous soyez vendus",
+      "qu'ils se soient vendus"
+    ],
+    "imparfait": [
+      "que je me vendisse",
+      "que tu te vendisses",
+      "qu'il se vendît",
+      "que nous nous vendissions",
+      "que vous vous vendissiez",
+      "qu'ils se vendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse vendu",
+      "que tu te fusses vendu",
+      "qu'il se fût vendu",
+      "que nous nous fussions vendus",
+      "que vous vous fussiez vendus",
+      "qu'ils se fussent vendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me vendrais",
+      "tu te vendrais",
+      "il se vendrait",
+      "nous nous vendrions",
+      "vous vous vendriez",
+      "ils se vendraient"
+    ],
+    "passé": [
+      "je me serais vendu",
+      "tu te serais vendu",
+      "il se serait vendu",
+      "nous nous serions vendus",
+      "vous vous seriez vendus",
+      "ils se seraient vendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vends-toi",
+      "vendons-nous",
+      "vendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se vendre"
+    ],
+    "passé": [
+      "s'être vendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se vendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant vendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se vendant"
+    ],
+    "passé": [
+      "en s'étant vendu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je survis",
+      "tu survis",
+      "il survit",
+      "nous survivons",
+      "vous survivez",
+      "ils survivent"
+    ],
+    "passé composé": [
+      "j'ai survécu",
+      "tu as survécu",
+      "il a survécu",
+      "nous avons survécu",
+      "vous avez survécu",
+      "ils ont survécu"
+    ],
+    "imparfait": [
+      "je survivais",
+      "tu survivais",
+      "il survivait",
+      "nous survivions",
+      "vous surviviez",
+      "ils survivaient"
+    ],
+    "plus que parfait": [
+      "j'avais survécu",
+      "tu avais survécu",
+      "il avait survécu",
+      "nous avions survécu",
+      "vous aviez survécu",
+      "ils avaient survécu"
+    ],
+    "passé simple": [
+      "je survécus",
+      "tu survécus",
+      "il survécut",
+      "nous survécûmes",
+      "vous survécûtes",
+      "ils survécurent"
+    ],
+    "passé antérieur": [
+      "j'eus survécu",
+      "tu eus survécu",
+      "il eut survécu",
+      "nous eûmes survécu",
+      "vous eûtes survécu",
+      "ils eurent survécu"
+    ],
+    "futur simple": [
+      "je survivrai",
+      "tu survivras",
+      "il survivra",
+      "nous survivrons",
+      "vous survivrez",
+      "ils survivront"
+    ],
+    "futur antérieur": [
+      "j'aurai survécu",
+      "tu auras survécu",
+      "il aura survécu",
+      "nous aurons survécu",
+      "vous aurez survécu",
+      "ils auront survécu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je survive",
+      "que tu survives",
+      "qu'il survive",
+      "que nous survivions",
+      "que vous surviviez",
+      "qu'ils survivent"
+    ],
+    "passé": [
+      "que j'aie survécu",
+      "que tu aies survécu",
+      "qu'il ait survécu",
+      "que nous ayons survécu",
+      "que vous ayez survécu",
+      "qu'ils aient survécu"
+    ],
+    "imparfait": [
+      "que je survécusse",
+      "que tu survécusses",
+      "qu'il survécût",
+      "que nous survécussions",
+      "que vous survécussiez",
+      "qu'ils survécussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse survécu",
+      "que tu eusses survécu",
+      "qu'il eût survécu",
+      "que nous eussions survécu",
+      "que vous eussiez survécu",
+      "qu'ils eussent survécu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je survivrais",
+      "tu survivrais",
+      "il survivrait",
+      "nous survivrions",
+      "vous survivriez",
+      "ils survivraient"
+    ],
+    "passé": [
+      "j'aurais survécu",
+      "tu aurais survécu",
+      "il aurait survécu",
+      "nous aurions survécu",
+      "vous auriez survécu",
+      "ils auraient survécu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "survis",
+      "survivons",
+      "survivez"
+    ],
+    "passé": [
+      "aie survécu",
+      "ayons survécu",
+      "ayez survécu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "survivre"
+    ],
+    "passé": [
+      "avoir survécu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "survivant"
+    ],
+    "passé": [
+      "survécu",
+      "ayant survécu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en survivant"
+    ],
+    "passé": [
+      "en ayant survécu"
+    ]
+  }
+}

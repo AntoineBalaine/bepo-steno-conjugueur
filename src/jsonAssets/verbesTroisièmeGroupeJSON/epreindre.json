@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'épreins",
+      "tu épreins",
+      "il épreint",
+      "nous épreignons",
+      "vous épreignez",
+      "ils épreignent"
+    ],
+    "passé composé": [
+      "j'ai épreint",
+      "tu as épreint",
+      "il a épreint",
+      "nous avons épreint",
+      "vous avez épreint",
+      "ils ont épreint"
+    ],
+    "imparfait": [
+      "j'épreignais",
+      "tu épreignais",
+      "il épreignait",
+      "nous épreignions",
+      "vous épreigniez",
+      "ils épreignaient"
+    ],
+    "plus que parfait": [
+      "j'avais épreint",
+      "tu avais épreint",
+      "il avait épreint",
+      "nous avions épreint",
+      "vous aviez épreint",
+      "ils avaient épreint"
+    ],
+    "passé simple": [
+      "j'épreignis",
+      "tu épreignis",
+      "il épreignit",
+      "nous épreignîmes",
+      "vous épreignîtes",
+      "ils épreignirent"
+    ],
+    "passé antérieur": [
+      "j'eus épreint",
+      "tu eus épreint",
+      "il eut épreint",
+      "nous eûmes épreint",
+      "vous eûtes épreint",
+      "ils eurent épreint"
+    ],
+    "futur simple": [
+      "j'épreindrai",
+      "tu épreindras",
+      "il épreindra",
+      "nous épreindrons",
+      "vous épreindrez",
+      "ils épreindront"
+    ],
+    "futur antérieur": [
+      "j'aurai épreint",
+      "tu auras épreint",
+      "il aura épreint",
+      "nous aurons épreint",
+      "vous aurez épreint",
+      "ils auront épreint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'épreigne",
+      "que tu épreignes",
+      "qu'il épreigne",
+      "que nous épreignions",
+      "que vous épreigniez",
+      "qu'ils épreignent"
+    ],
+    "passé": [
+      "que j'aie épreint",
+      "que tu aies épreint",
+      "qu'il ait épreint",
+      "que nous ayons épreint",
+      "que vous ayez épreint",
+      "qu'ils aient épreint"
+    ],
+    "imparfait": [
+      "que j'épreignisse",
+      "que tu épreignisses",
+      "qu'il épreignît",
+      "que nous épreignissions",
+      "que vous épreignissiez",
+      "qu'ils épreignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse épreint",
+      "que tu eusses épreint",
+      "qu'il eût épreint",
+      "que nous eussions épreint",
+      "que vous eussiez épreint",
+      "qu'ils eussent épreint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'épreindrais",
+      "tu épreindrais",
+      "il épreindrait",
+      "nous épreindrions",
+      "vous épreindriez",
+      "ils épreindraient"
+    ],
+    "passé": [
+      "j'aurais épreint",
+      "tu aurais épreint",
+      "il aurait épreint",
+      "nous aurions épreint",
+      "vous auriez épreint",
+      "ils auraient épreint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "épreins",
+      "épreignons",
+      "épreignez"
+    ],
+    "passé": [
+      "aie épreint",
+      "ayons épreint",
+      "ayez épreint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "épreindre"
+    ],
+    "passé": [
+      "avoir épreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "épreignant"
+    ],
+    "passé": [
+      "épreint",
+      "ayant épreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en épreignant"
+    ],
+    "passé": [
+      "en ayant épreint"
+    ]
+  }
+}

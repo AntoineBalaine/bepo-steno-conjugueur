@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je décommets",
+      "tu décommets",
+      "il décommet",
+      "nous décommettons",
+      "vous décommettez",
+      "ils décommettent"
+    ],
+    "passé composé": [
+      "j'ai décommis",
+      "tu as décommis",
+      "il a décommis",
+      "nous avons décommis",
+      "vous avez décommis",
+      "ils ont décommis"
+    ],
+    "imparfait": [
+      "je décommettais",
+      "tu décommettais",
+      "il décommettait",
+      "nous décommettions",
+      "vous décommettiez",
+      "ils décommettaient"
+    ],
+    "plus que parfait": [
+      "j'avais décommis",
+      "tu avais décommis",
+      "il avait décommis",
+      "nous avions décommis",
+      "vous aviez décommis",
+      "ils avaient décommis"
+    ],
+    "passé simple": [
+      "je décommis",
+      "tu décommis",
+      "il décommit",
+      "nous décommîmes",
+      "vous décommîtes",
+      "ils décommirent"
+    ],
+    "passé antérieur": [
+      "j'eus décommis",
+      "tu eus décommis",
+      "il eut décommis",
+      "nous eûmes décommis",
+      "vous eûtes décommis",
+      "ils eurent décommis"
+    ],
+    "futur simple": [
+      "je décommettrai",
+      "tu décommettras",
+      "il décommettra",
+      "nous décommettrons",
+      "vous décommettrez",
+      "ils décommettront"
+    ],
+    "futur antérieur": [
+      "j'aurai décommis",
+      "tu auras décommis",
+      "il aura décommis",
+      "nous aurons décommis",
+      "vous aurez décommis",
+      "ils auront décommis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je décommette",
+      "que tu décommettes",
+      "qu'il décommette",
+      "que nous décommettions",
+      "que vous décommettiez",
+      "qu'ils décommettent"
+    ],
+    "passé": [
+      "que j'aie décommis",
+      "que tu aies décommis",
+      "qu'il ait décommis",
+      "que nous ayons décommis",
+      "que vous ayez décommis",
+      "qu'ils aient décommis"
+    ],
+    "imparfait": [
+      "que je décommisse",
+      "que tu décommisses",
+      "qu'il décommît",
+      "que nous décommissions",
+      "que vous décommissiez",
+      "qu'ils décommissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse décommis",
+      "que tu eusses décommis",
+      "qu'il eût décommis",
+      "que nous eussions décommis",
+      "que vous eussiez décommis",
+      "qu'ils eussent décommis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je décommettrais",
+      "tu décommettrais",
+      "il décommettrait",
+      "nous décommettrions",
+      "vous décommettriez",
+      "ils décommettraient"
+    ],
+    "passé": [
+      "j'aurais décommis",
+      "tu aurais décommis",
+      "il aurait décommis",
+      "nous aurions décommis",
+      "vous auriez décommis",
+      "ils auraient décommis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "décommets",
+      "décommettons",
+      "décommettez"
+    ],
+    "passé": [
+      "aie décommis",
+      "ayons décommis",
+      "ayez décommis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "décommettre"
+    ],
+    "passé": [
+      "avoir décommis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "décommettant"
+    ],
+    "passé": [
+      "décommis",
+      "ayant décommis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en décommettant"
+    ],
+    "passé": [
+      "en ayant décommis"
+    ]
+  }
+}

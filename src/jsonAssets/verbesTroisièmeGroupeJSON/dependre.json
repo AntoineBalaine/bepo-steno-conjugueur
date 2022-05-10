@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dépends",
+      "tu dépends",
+      "il dépend",
+      "nous dépendons",
+      "vous dépendez",
+      "ils dépendent"
+    ],
+    "passé composé": [
+      "j'ai dépendu",
+      "tu as dépendu",
+      "il a dépendu",
+      "nous avons dépendu",
+      "vous avez dépendu",
+      "ils ont dépendu"
+    ],
+    "imparfait": [
+      "je dépendais",
+      "tu dépendais",
+      "il dépendait",
+      "nous dépendions",
+      "vous dépendiez",
+      "ils dépendaient"
+    ],
+    "plus que parfait": [
+      "j'avais dépendu",
+      "tu avais dépendu",
+      "il avait dépendu",
+      "nous avions dépendu",
+      "vous aviez dépendu",
+      "ils avaient dépendu"
+    ],
+    "passé simple": [
+      "je dépendis",
+      "tu dépendis",
+      "il dépendit",
+      "nous dépendîmes",
+      "vous dépendîtes",
+      "ils dépendirent"
+    ],
+    "passé antérieur": [
+      "j'eus dépendu",
+      "tu eus dépendu",
+      "il eut dépendu",
+      "nous eûmes dépendu",
+      "vous eûtes dépendu",
+      "ils eurent dépendu"
+    ],
+    "futur simple": [
+      "je dépendrai",
+      "tu dépendras",
+      "il dépendra",
+      "nous dépendrons",
+      "vous dépendrez",
+      "ils dépendront"
+    ],
+    "futur antérieur": [
+      "j'aurai dépendu",
+      "tu auras dépendu",
+      "il aura dépendu",
+      "nous aurons dépendu",
+      "vous aurez dépendu",
+      "ils auront dépendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je dépende",
+      "que tu dépendes",
+      "qu'il dépende",
+      "que nous dépendions",
+      "que vous dépendiez",
+      "qu'ils dépendent"
+    ],
+    "passé": [
+      "que j'aie dépendu",
+      "que tu aies dépendu",
+      "qu'il ait dépendu",
+      "que nous ayons dépendu",
+      "que vous ayez dépendu",
+      "qu'ils aient dépendu"
+    ],
+    "imparfait": [
+      "que je dépendisse",
+      "que tu dépendisses",
+      "qu'il dépendît",
+      "que nous dépendissions",
+      "que vous dépendissiez",
+      "qu'ils dépendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse dépendu",
+      "que tu eusses dépendu",
+      "qu'il eût dépendu",
+      "que nous eussions dépendu",
+      "que vous eussiez dépendu",
+      "qu'ils eussent dépendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je dépendrais",
+      "tu dépendrais",
+      "il dépendrait",
+      "nous dépendrions",
+      "vous dépendriez",
+      "ils dépendraient"
+    ],
+    "passé": [
+      "j'aurais dépendu",
+      "tu aurais dépendu",
+      "il aurait dépendu",
+      "nous aurions dépendu",
+      "vous auriez dépendu",
+      "ils auraient dépendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dépends",
+      "dépendons",
+      "dépendez"
+    ],
+    "passé": [
+      "aie dépendu",
+      "ayons dépendu",
+      "ayez dépendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "dépendre"
+    ],
+    "passé": [
+      "avoir dépendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "dépendant"
+    ],
+    "passé": [
+      "dépendu",
+      "ayant dépendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en dépendant"
+    ],
+    "passé": [
+      "en ayant dépendu"
+    ]
+  }
+}

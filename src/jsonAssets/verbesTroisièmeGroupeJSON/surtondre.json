@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je surtonds",
+      "tu surtonds",
+      "il surtond",
+      "nous surtondons",
+      "vous surtondez",
+      "ils surtondent"
+    ],
+    "passé composé": [
+      "j'ai surtondu",
+      "tu as surtondu",
+      "il a surtondu",
+      "nous avons surtondu",
+      "vous avez surtondu",
+      "ils ont surtondu"
+    ],
+    "imparfait": [
+      "je surtondais",
+      "tu surtondais",
+      "il surtondait",
+      "nous surtondions",
+      "vous surtondiez",
+      "ils surtondaient"
+    ],
+    "plus que parfait": [
+      "j'avais surtondu",
+      "tu avais surtondu",
+      "il avait surtondu",
+      "nous avions surtondu",
+      "vous aviez surtondu",
+      "ils avaient surtondu"
+    ],
+    "passé simple": [
+      "je surtondis",
+      "tu surtondis",
+      "il surtondit",
+      "nous surtondîmes",
+      "vous surtondîtes",
+      "ils surtondirent"
+    ],
+    "passé antérieur": [
+      "j'eus surtondu",
+      "tu eus surtondu",
+      "il eut surtondu",
+      "nous eûmes surtondu",
+      "vous eûtes surtondu",
+      "ils eurent surtondu"
+    ],
+    "futur simple": [
+      "je surtondrai",
+      "tu surtondras",
+      "il surtondra",
+      "nous surtondrons",
+      "vous surtondrez",
+      "ils surtondront"
+    ],
+    "futur antérieur": [
+      "j'aurai surtondu",
+      "tu auras surtondu",
+      "il aura surtondu",
+      "nous aurons surtondu",
+      "vous aurez surtondu",
+      "ils auront surtondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je surtonde",
+      "que tu surtondes",
+      "qu'il surtonde",
+      "que nous surtondions",
+      "que vous surtondiez",
+      "qu'ils surtondent"
+    ],
+    "passé": [
+      "que j'aie surtondu",
+      "que tu aies surtondu",
+      "qu'il ait surtondu",
+      "que nous ayons surtondu",
+      "que vous ayez surtondu",
+      "qu'ils aient surtondu"
+    ],
+    "imparfait": [
+      "que je surtondisse",
+      "que tu surtondisses",
+      "qu'il surtondît",
+      "que nous surtondissions",
+      "que vous surtondissiez",
+      "qu'ils surtondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse surtondu",
+      "que tu eusses surtondu",
+      "qu'il eût surtondu",
+      "que nous eussions surtondu",
+      "que vous eussiez surtondu",
+      "qu'ils eussent surtondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je surtondrais",
+      "tu surtondrais",
+      "il surtondrait",
+      "nous surtondrions",
+      "vous surtondriez",
+      "ils surtondraient"
+    ],
+    "passé": [
+      "j'aurais surtondu",
+      "tu aurais surtondu",
+      "il aurait surtondu",
+      "nous aurions surtondu",
+      "vous auriez surtondu",
+      "ils auraient surtondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "surtonds",
+      "surtondons",
+      "surtondez"
+    ],
+    "passé": [
+      "aie surtondu",
+      "ayons surtondu",
+      "ayez surtondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "surtondre"
+    ],
+    "passé": [
+      "avoir surtondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "surtondant"
+    ],
+    "passé": [
+      "surtondu",
+      "ayant surtondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en surtondant"
+    ],
+    "passé": [
+      "en ayant surtondu"
+    ]
+  }
+}

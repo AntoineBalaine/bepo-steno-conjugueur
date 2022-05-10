@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'appartiens",
+      "tu t'appartiens",
+      "il s'appartient",
+      "nous nous appartenons",
+      "vous vous appartenez",
+      "ils s'appartiennent"
+    ],
+    "passé composé": [
+      "je me suis appartenu",
+      "tu t'es appartenu",
+      "il s'est appartenu",
+      "nous nous sommes appartenus",
+      "vous vous êtes appartenus",
+      "ils se sont appartenus"
+    ],
+    "imparfait": [
+      "je m'appartenais",
+      "tu t'appartenais",
+      "il s'appartenait",
+      "nous nous appartenions",
+      "vous vous apparteniez",
+      "ils s'appartenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais appartenu",
+      "tu t'étais appartenu",
+      "il s'était appartenu",
+      "nous nous étions appartenus",
+      "vous vous étiez appartenus",
+      "ils s'étaient appartenus"
+    ],
+    "passé simple": [
+      "je m'appartins",
+      "tu t'appartins",
+      "il s'appartint",
+      "nous nous appartînmes",
+      "vous vous appartîntes",
+      "ils s'appartinrent"
+    ],
+    "passé antérieur": [
+      "je me fus appartenu",
+      "tu te fus appartenu",
+      "il se fut appartenu",
+      "nous nous fûmes appartenus",
+      "vous vous fûtes appartenus",
+      "ils se furent appartenus"
+    ],
+    "futur simple": [
+      "je m'appartiendrai",
+      "tu t'appartiendras",
+      "il s'appartiendra",
+      "nous nous appartiendrons",
+      "vous vous appartiendrez",
+      "ils s'appartiendront"
+    ],
+    "futur antérieur": [
+      "je me serai appartenu",
+      "tu te seras appartenu",
+      "il se sera appartenu",
+      "nous nous serons appartenus",
+      "vous vous serez appartenus",
+      "ils se seront appartenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'appartienne",
+      "que tu t'appartiennes",
+      "qu'il s'appartienne",
+      "que nous nous appartenions",
+      "que vous vous apparteniez",
+      "qu'ils s'appartiennent"
+    ],
+    "passé": [
+      "que je me sois appartenu",
+      "que tu te sois appartenu",
+      "qu'il se soit appartenu",
+      "que nous nous soyons appartenus",
+      "que vous vous soyez appartenus",
+      "qu'ils se soient appartenus"
+    ],
+    "imparfait": [
+      "que je m'appartinsse",
+      "que tu t'appartinsses",
+      "qu'il s'appartînt",
+      "que nous nous appartinssions",
+      "que vous vous appartinssiez",
+      "qu'ils s'appartinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse appartenu",
+      "que tu te fusses appartenu",
+      "qu'il se fût appartenu",
+      "que nous nous fussions appartenus",
+      "que vous vous fussiez appartenus",
+      "qu'ils se fussent appartenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'appartiendrais",
+      "tu t'appartiendrais",
+      "il s'appartiendrait",
+      "nous nous appartiendrions",
+      "vous vous appartiendriez",
+      "ils s'appartiendraient"
+    ],
+    "passé": [
+      "je me serais appartenu",
+      "tu te serais appartenu",
+      "il se serait appartenu",
+      "nous nous serions appartenus",
+      "vous vous seriez appartenus",
+      "ils se seraient appartenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "appartiens-toi",
+      "appartenons-nous",
+      "appartenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'appartenir"
+    ],
+    "passé": [
+      "s'être appartenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'appartenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant appartenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'appartenant"
+    ],
+    "passé": [
+      "en s'étant appartenu"
+    ]
+  }
+}

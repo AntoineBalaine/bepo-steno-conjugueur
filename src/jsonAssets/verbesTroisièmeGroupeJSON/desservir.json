@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dessers",
+      "tu dessers",
+      "il dessert",
+      "nous desservons",
+      "vous desservez",
+      "ils desservent"
+    ],
+    "passé composé": [
+      "j'ai desservi",
+      "tu as desservi",
+      "il a desservi",
+      "nous avons desservi",
+      "vous avez desservi",
+      "ils ont desservi"
+    ],
+    "imparfait": [
+      "je desservais",
+      "tu desservais",
+      "il desservait",
+      "nous desservions",
+      "vous desserviez",
+      "ils desservaient"
+    ],
+    "plus que parfait": [
+      "j'avais desservi",
+      "tu avais desservi",
+      "il avait desservi",
+      "nous avions desservi",
+      "vous aviez desservi",
+      "ils avaient desservi"
+    ],
+    "passé simple": [
+      "je desservis",
+      "tu desservis",
+      "il desservit",
+      "nous desservîmes",
+      "vous desservîtes",
+      "ils desservirent"
+    ],
+    "passé antérieur": [
+      "j'eus desservi",
+      "tu eus desservi",
+      "il eut desservi",
+      "nous eûmes desservi",
+      "vous eûtes desservi",
+      "ils eurent desservi"
+    ],
+    "futur simple": [
+      "je desservirai",
+      "tu desserviras",
+      "il desservira",
+      "nous desservirons",
+      "vous desservirez",
+      "ils desserviront"
+    ],
+    "futur antérieur": [
+      "j'aurai desservi",
+      "tu auras desservi",
+      "il aura desservi",
+      "nous aurons desservi",
+      "vous aurez desservi",
+      "ils auront desservi"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je desserve",
+      "que tu desserves",
+      "qu'il desserve",
+      "que nous desservions",
+      "que vous desserviez",
+      "qu'ils desservent"
+    ],
+    "passé": [
+      "que j'aie desservi",
+      "que tu aies desservi",
+      "qu'il ait desservi",
+      "que nous ayons desservi",
+      "que vous ayez desservi",
+      "qu'ils aient desservi"
+    ],
+    "imparfait": [
+      "que je desservisse",
+      "que tu desservisses",
+      "qu'il desservît",
+      "que nous desservissions",
+      "que vous desservissiez",
+      "qu'ils desservissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse desservi",
+      "que tu eusses desservi",
+      "qu'il eût desservi",
+      "que nous eussions desservi",
+      "que vous eussiez desservi",
+      "qu'ils eussent desservi"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je desservirais",
+      "tu desservirais",
+      "il desservirait",
+      "nous desservirions",
+      "vous desserviriez",
+      "ils desserviraient"
+    ],
+    "passé": [
+      "j'aurais desservi",
+      "tu aurais desservi",
+      "il aurait desservi",
+      "nous aurions desservi",
+      "vous auriez desservi",
+      "ils auraient desservi"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dessers",
+      "desservons",
+      "desservez"
+    ],
+    "passé": [
+      "aie desservi",
+      "ayons desservi",
+      "ayez desservi"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "desservir"
+    ],
+    "passé": [
+      "avoir desservi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "desservant"
+    ],
+    "passé": [
+      "desservi",
+      "ayant desservi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en desservant"
+    ],
+    "passé": [
+      "en ayant desservi"
+    ]
+  }
+}

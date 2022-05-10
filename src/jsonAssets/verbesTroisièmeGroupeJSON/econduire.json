@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'éconduis",
+      "tu éconduis",
+      "il éconduit",
+      "nous éconduisons",
+      "vous éconduisez",
+      "ils éconduisent"
+    ],
+    "passé composé": [
+      "j'ai éconduit",
+      "tu as éconduit",
+      "il a éconduit",
+      "nous avons éconduit",
+      "vous avez éconduit",
+      "ils ont éconduit"
+    ],
+    "imparfait": [
+      "j'éconduisais",
+      "tu éconduisais",
+      "il éconduisait",
+      "nous éconduisions",
+      "vous éconduisiez",
+      "ils éconduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais éconduit",
+      "tu avais éconduit",
+      "il avait éconduit",
+      "nous avions éconduit",
+      "vous aviez éconduit",
+      "ils avaient éconduit"
+    ],
+    "passé simple": [
+      "j'éconduisis",
+      "tu éconduisis",
+      "il éconduisit",
+      "nous éconduisîmes",
+      "vous éconduisîtes",
+      "ils éconduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus éconduit",
+      "tu eus éconduit",
+      "il eut éconduit",
+      "nous eûmes éconduit",
+      "vous eûtes éconduit",
+      "ils eurent éconduit"
+    ],
+    "futur simple": [
+      "j'éconduirai",
+      "tu éconduiras",
+      "il éconduira",
+      "nous éconduirons",
+      "vous éconduirez",
+      "ils éconduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai éconduit",
+      "tu auras éconduit",
+      "il aura éconduit",
+      "nous aurons éconduit",
+      "vous aurez éconduit",
+      "ils auront éconduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'éconduise",
+      "que tu éconduises",
+      "qu'il éconduise",
+      "que nous éconduisions",
+      "que vous éconduisiez",
+      "qu'ils éconduisent"
+    ],
+    "passé": [
+      "que j'aie éconduit",
+      "que tu aies éconduit",
+      "qu'il ait éconduit",
+      "que nous ayons éconduit",
+      "que vous ayez éconduit",
+      "qu'ils aient éconduit"
+    ],
+    "imparfait": [
+      "que j'éconduisisse",
+      "que tu éconduisisses",
+      "qu'il éconduisît",
+      "que nous éconduisissions",
+      "que vous éconduisissiez",
+      "qu'ils éconduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse éconduit",
+      "que tu eusses éconduit",
+      "qu'il eût éconduit",
+      "que nous eussions éconduit",
+      "que vous eussiez éconduit",
+      "qu'ils eussent éconduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'éconduirais",
+      "tu éconduirais",
+      "il éconduirait",
+      "nous éconduirions",
+      "vous éconduiriez",
+      "ils éconduiraient"
+    ],
+    "passé": [
+      "j'aurais éconduit",
+      "tu aurais éconduit",
+      "il aurait éconduit",
+      "nous aurions éconduit",
+      "vous auriez éconduit",
+      "ils auraient éconduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "éconduis",
+      "éconduisons",
+      "éconduisez"
+    ],
+    "passé": [
+      "aie éconduit",
+      "ayons éconduit",
+      "ayez éconduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "éconduire"
+    ],
+    "passé": [
+      "avoir éconduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "éconduisant"
+    ],
+    "passé": [
+      "éconduit",
+      "ayant éconduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en éconduisant"
+    ],
+    "passé": [
+      "en ayant éconduit"
+    ]
+  }
+}

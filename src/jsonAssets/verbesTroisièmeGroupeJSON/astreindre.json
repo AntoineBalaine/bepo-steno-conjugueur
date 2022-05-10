@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'astreins",
+      "tu astreins",
+      "il astreint",
+      "nous astreignons",
+      "vous astreignez",
+      "ils astreignent"
+    ],
+    "passé composé": [
+      "j'ai astreint",
+      "tu as astreint",
+      "il a astreint",
+      "nous avons astreint",
+      "vous avez astreint",
+      "ils ont astreint"
+    ],
+    "imparfait": [
+      "j'astreignais",
+      "tu astreignais",
+      "il astreignait",
+      "nous astreignions",
+      "vous astreigniez",
+      "ils astreignaient"
+    ],
+    "plus que parfait": [
+      "j'avais astreint",
+      "tu avais astreint",
+      "il avait astreint",
+      "nous avions astreint",
+      "vous aviez astreint",
+      "ils avaient astreint"
+    ],
+    "passé simple": [
+      "j'astreignis",
+      "tu astreignis",
+      "il astreignit",
+      "nous astreignîmes",
+      "vous astreignîtes",
+      "ils astreignirent"
+    ],
+    "passé antérieur": [
+      "j'eus astreint",
+      "tu eus astreint",
+      "il eut astreint",
+      "nous eûmes astreint",
+      "vous eûtes astreint",
+      "ils eurent astreint"
+    ],
+    "futur simple": [
+      "j'astreindrai",
+      "tu astreindras",
+      "il astreindra",
+      "nous astreindrons",
+      "vous astreindrez",
+      "ils astreindront"
+    ],
+    "futur antérieur": [
+      "j'aurai astreint",
+      "tu auras astreint",
+      "il aura astreint",
+      "nous aurons astreint",
+      "vous aurez astreint",
+      "ils auront astreint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'astreigne",
+      "que tu astreignes",
+      "qu'il astreigne",
+      "que nous astreignions",
+      "que vous astreigniez",
+      "qu'ils astreignent"
+    ],
+    "passé": [
+      "que j'aie astreint",
+      "que tu aies astreint",
+      "qu'il ait astreint",
+      "que nous ayons astreint",
+      "que vous ayez astreint",
+      "qu'ils aient astreint"
+    ],
+    "imparfait": [
+      "que j'astreignisse",
+      "que tu astreignisses",
+      "qu'il astreignît",
+      "que nous astreignissions",
+      "que vous astreignissiez",
+      "qu'ils astreignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse astreint",
+      "que tu eusses astreint",
+      "qu'il eût astreint",
+      "que nous eussions astreint",
+      "que vous eussiez astreint",
+      "qu'ils eussent astreint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'astreindrais",
+      "tu astreindrais",
+      "il astreindrait",
+      "nous astreindrions",
+      "vous astreindriez",
+      "ils astreindraient"
+    ],
+    "passé": [
+      "j'aurais astreint",
+      "tu aurais astreint",
+      "il aurait astreint",
+      "nous aurions astreint",
+      "vous auriez astreint",
+      "ils auraient astreint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "astreins",
+      "astreignons",
+      "astreignez"
+    ],
+    "passé": [
+      "aie astreint",
+      "ayons astreint",
+      "ayez astreint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "astreindre"
+    ],
+    "passé": [
+      "avoir astreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "astreignant"
+    ],
+    "passé": [
+      "astreint",
+      "ayant astreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en astreignant"
+    ],
+    "passé": [
+      "en ayant astreint"
+    ]
+  }
+}

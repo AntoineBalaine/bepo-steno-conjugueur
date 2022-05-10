@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'abstrais",
+      "tu t'abstrais",
+      "il s'abstrait",
+      "nous nous abstrayons",
+      "vous vous abstrayez",
+      "ils s'abstraient"
+    ],
+    "passé composé": [
+      "je me suis abstrait",
+      "tu t'es abstrait",
+      "il s'est abstrait",
+      "nous nous sommes abstraits",
+      "vous vous êtes abstraits",
+      "ils se sont abstraits"
+    ],
+    "imparfait": [
+      "je m'abstrayais",
+      "tu t'abstrayais",
+      "il s'abstrayait",
+      "nous nous abstrayions",
+      "vous vous abstrayiez",
+      "ils s'abstrayaient"
+    ],
+    "plus que parfait": [
+      "je m'étais abstrait",
+      "tu t'étais abstrait",
+      "il s'était abstrait",
+      "nous nous étions abstraits",
+      "vous vous étiez abstraits",
+      "ils s'étaient abstraits"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "je me fus abstrait",
+      "tu te fus abstrait",
+      "il se fut abstrait",
+      "nous nous fûmes abstraits",
+      "vous vous fûtes abstraits",
+      "ils se furent abstraits"
+    ],
+    "futur simple": [
+      "je m'abstrairai",
+      "tu t'abstrairas",
+      "il s'abstraira",
+      "nous nous abstrairons",
+      "vous vous abstrairez",
+      "ils s'abstrairont"
+    ],
+    "futur antérieur": [
+      "je me serai abstrait",
+      "tu te seras abstrait",
+      "il se sera abstrait",
+      "nous nous serons abstraits",
+      "vous vous serez abstraits",
+      "ils se seront abstraits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'abstraie",
+      "que tu t'abstraies",
+      "qu'il s'abstraie",
+      "que nous nous abstrayions",
+      "que vous vous abstrayiez",
+      "qu'ils s'abstraient"
+    ],
+    "passé": [
+      "que je me sois abstrait",
+      "que tu te sois abstrait",
+      "qu'il se soit abstrait",
+      "que nous nous soyons abstraits",
+      "que vous vous soyez abstraits",
+      "qu'ils se soient abstraits"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que je me fusse abstrait",
+      "que tu te fusses abstrait",
+      "qu'il se fût abstrait",
+      "que nous nous fussions abstraits",
+      "que vous vous fussiez abstraits",
+      "qu'ils se fussent abstraits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'abstrairais",
+      "tu t'abstrairais",
+      "il s'abstrairait",
+      "nous nous abstrairions",
+      "vous vous abstrairiez",
+      "ils s'abstrairaient"
+    ],
+    "passé": [
+      "je me serais abstrait",
+      "tu te serais abstrait",
+      "il se serait abstrait",
+      "nous nous serions abstraits",
+      "vous vous seriez abstraits",
+      "ils se seraient abstraits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "abstrais-toi",
+      "abstrayons-nous",
+      "abstrayez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'abstraire"
+    ],
+    "passé": [
+      "s'être abstrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'abstrayant"
+    ],
+    "passé": [
+      "-",
+      "s'étant abstrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'abstrayant"
+    ],
+    "passé": [
+      "en s'étant abstrait"
+    ]
+  }
+}

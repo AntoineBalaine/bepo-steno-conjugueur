@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'interdis",
+      "tu interdis",
+      "il interdit",
+      "nous interdisons",
+      "vous interdites",
+      "ils interdisent"
+    ],
+    "passé composé": [
+      "j'ai interdit",
+      "tu as interdit",
+      "il a interdit",
+      "nous avons interdit",
+      "vous avez interdit",
+      "ils ont interdit"
+    ],
+    "imparfait": [
+      "j'interdisais",
+      "tu interdisais",
+      "il interdisait",
+      "nous interdisions",
+      "vous interdisiez",
+      "ils interdisaient"
+    ],
+    "plus que parfait": [
+      "j'avais interdit",
+      "tu avais interdit",
+      "il avait interdit",
+      "nous avions interdit",
+      "vous aviez interdit",
+      "ils avaient interdit"
+    ],
+    "passé simple": [
+      "j'interdis",
+      "tu interdis",
+      "il interdit",
+      "nous interdîmes",
+      "vous interdîtes",
+      "ils interdirent"
+    ],
+    "passé antérieur": [
+      "j'eus interdit",
+      "tu eus interdit",
+      "il eut interdit",
+      "nous eûmes interdit",
+      "vous eûtes interdit",
+      "ils eurent interdit"
+    ],
+    "futur simple": [
+      "j'interdirai",
+      "tu interdiras",
+      "il interdira",
+      "nous interdirons",
+      "vous interdirez",
+      "ils interdiront"
+    ],
+    "futur antérieur": [
+      "j'aurai interdit",
+      "tu auras interdit",
+      "il aura interdit",
+      "nous aurons interdit",
+      "vous aurez interdit",
+      "ils auront interdit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'interdise",
+      "que tu interdises",
+      "qu'il interdise",
+      "que nous interdisions",
+      "que vous interdisiez",
+      "qu'ils interdisent"
+    ],
+    "passé": [
+      "que j'aie interdit",
+      "que tu aies interdit",
+      "qu'il ait interdit",
+      "que nous ayons interdit",
+      "que vous ayez interdit",
+      "qu'ils aient interdit"
+    ],
+    "imparfait": [
+      "que j'interdisse",
+      "que tu interdisses",
+      "qu'il interdît",
+      "que nous interdissions",
+      "que vous interdissiez",
+      "qu'ils interdissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse interdit",
+      "que tu eusses interdit",
+      "qu'il eût interdit",
+      "que nous eussions interdit",
+      "que vous eussiez interdit",
+      "qu'ils eussent interdit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'interdirais",
+      "tu interdirais",
+      "il interdirait",
+      "nous interdirions",
+      "vous interdiriez",
+      "ils interdiraient"
+    ],
+    "passé": [
+      "j'aurais interdit",
+      "tu aurais interdit",
+      "il aurait interdit",
+      "nous aurions interdit",
+      "vous auriez interdit",
+      "ils auraient interdit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "interdis",
+      "interdisons",
+      "interdites"
+    ],
+    "passé": [
+      "aie interdit",
+      "ayons interdit",
+      "ayez interdit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "interdire"
+    ],
+    "passé": [
+      "avoir interdit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "interdisant"
+    ],
+    "passé": [
+      "interdit",
+      "ayant interdit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en interdisant"
+    ],
+    "passé": [
+      "en ayant interdit"
+    ]
+  }
+}

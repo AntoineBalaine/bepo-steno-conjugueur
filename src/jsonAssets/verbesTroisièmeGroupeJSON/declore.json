@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je déclos",
+      "tu déclos",
+      "il déclôt",
+      "-",
+      "-",
+      "ils déclosent"
+    ],
+    "passé composé": [
+      "j'ai déclos",
+      "tu as déclos",
+      "il a déclos",
+      "nous avons déclos",
+      "vous avez déclos",
+      "ils ont déclos"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais déclos",
+      "tu avais déclos",
+      "il avait déclos",
+      "nous avions déclos",
+      "vous aviez déclos",
+      "ils avaient déclos"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus déclos",
+      "tu eus déclos",
+      "il eut déclos",
+      "nous eûmes déclos",
+      "vous eûtes déclos",
+      "ils eurent déclos"
+    ],
+    "futur simple": [
+      "je déclorai",
+      "tu décloras",
+      "il déclora",
+      "nous déclorons",
+      "vous déclorez",
+      "ils décloront"
+    ],
+    "futur antérieur": [
+      "j'aurai déclos",
+      "tu auras déclos",
+      "il aura déclos",
+      "nous aurons déclos",
+      "vous aurez déclos",
+      "ils auront déclos"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je déclose",
+      "que tu décloses",
+      "qu'il déclose",
+      "que nous déclosions",
+      "que vous déclosiez",
+      "qu'ils déclosent"
+    ],
+    "passé": [
+      "que j'aie déclos",
+      "que tu aies déclos",
+      "qu'il ait déclos",
+      "que nous ayons déclos",
+      "que vous ayez déclos",
+      "qu'ils aient déclos"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse déclos",
+      "que tu eusses déclos",
+      "qu'il eût déclos",
+      "que nous eussions déclos",
+      "que vous eussiez déclos",
+      "qu'ils eussent déclos"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je déclorais",
+      "tu déclorais",
+      "il déclorait",
+      "nous déclorions",
+      "vous décloriez",
+      "ils décloraient"
+    ],
+    "passé": [
+      "j'aurais déclos",
+      "tu aurais déclos",
+      "il aurait déclos",
+      "nous aurions déclos",
+      "vous auriez déclos",
+      "ils auraient déclos"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déclos",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie déclos",
+      "ayons déclos",
+      "ayez déclos"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "déclore"
+    ],
+    "passé": [
+      "avoir déclos"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "déclosant"
+    ],
+    "passé": [
+      "déclos",
+      "ayant déclos"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en déclosant"
+    ],
+    "passé": [
+      "en ayant déclos"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "je revaudrai",
+      "tu revaudras",
+      "il revaudra",
+      "nous revaudrons",
+      "vous revaudrez",
+      "ils revaudront"
+    ],
+    "futur antérieur": [
+      "j'aurai revalu",
+      "tu auras revalu",
+      "il aura revalu",
+      "nous aurons revalu",
+      "vous aurez revalu",
+      "ils auront revalu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je revaudrais",
+      "tu revaudrais",
+      "il revaudrait",
+      "nous revaudrions",
+      "vous revaudriez",
+      "ils revaudraient"
+    ],
+    "passé": [
+      "j'aurais revalu",
+      "tu aurais revalu",
+      "il aurait revalu",
+      "nous aurions revalu",
+      "vous auriez revalu",
+      "ils auraient revalu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "revaloir"
+    ],
+    "passé": [
+      "avoir revalu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "revalant"
+    ],
+    "passé": [
+      "revalu",
+      "ayant revalu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en revalant"
+    ],
+    "passé": [
+      "en ayant revalu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me vaincs",
+      "tu te vaincs",
+      "il se vainc",
+      "nous nous vainquons",
+      "vous vous vainquez",
+      "ils se vainquent"
+    ],
+    "passé composé": [
+      "je me suis vaincu",
+      "tu t'es vaincu",
+      "il s'est vaincu",
+      "nous nous sommes vaincus",
+      "vous vous êtes vaincus",
+      "ils se sont vaincus"
+    ],
+    "imparfait": [
+      "je me vainquais",
+      "tu te vainquais",
+      "il se vainquait",
+      "nous nous vainquions",
+      "vous vous vainquiez",
+      "ils se vainquaient"
+    ],
+    "plus que parfait": [
+      "je m'étais vaincu",
+      "tu t'étais vaincu",
+      "il s'était vaincu",
+      "nous nous étions vaincus",
+      "vous vous étiez vaincus",
+      "ils s'étaient vaincus"
+    ],
+    "passé simple": [
+      "je me vainquis",
+      "tu te vainquis",
+      "il se vainquit",
+      "nous nous vainquîmes",
+      "vous vous vainquîtes",
+      "ils se vainquirent"
+    ],
+    "passé antérieur": [
+      "je me fus vaincu",
+      "tu te fus vaincu",
+      "il se fut vaincu",
+      "nous nous fûmes vaincus",
+      "vous vous fûtes vaincus",
+      "ils se furent vaincus"
+    ],
+    "futur simple": [
+      "je me vaincrai",
+      "tu te vaincras",
+      "il se vaincra",
+      "nous nous vaincrons",
+      "vous vous vaincrez",
+      "ils se vaincront"
+    ],
+    "futur antérieur": [
+      "je me serai vaincu",
+      "tu te seras vaincu",
+      "il se sera vaincu",
+      "nous nous serons vaincus",
+      "vous vous serez vaincus",
+      "ils se seront vaincus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me vainque",
+      "que tu te vainques",
+      "qu'il se vainque",
+      "que nous nous vainquions",
+      "que vous vous vainquiez",
+      "qu'ils se vainquent"
+    ],
+    "passé": [
+      "que je me sois vaincu",
+      "que tu te sois vaincu",
+      "qu'il se soit vaincu",
+      "que nous nous soyons vaincus",
+      "que vous vous soyez vaincus",
+      "qu'ils se soient vaincus"
+    ],
+    "imparfait": [
+      "que je me vainquisse",
+      "que tu te vainquisses",
+      "qu'il se vainquît",
+      "que nous nous vainquissions",
+      "que vous vous vainquissiez",
+      "qu'ils se vainquissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse vaincu",
+      "que tu te fusses vaincu",
+      "qu'il se fût vaincu",
+      "que nous nous fussions vaincus",
+      "que vous vous fussiez vaincus",
+      "qu'ils se fussent vaincus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me vaincrais",
+      "tu te vaincrais",
+      "il se vaincrait",
+      "nous nous vaincrions",
+      "vous vous vaincriez",
+      "ils se vaincraient"
+    ],
+    "passé": [
+      "je me serais vaincu",
+      "tu te serais vaincu",
+      "il se serait vaincu",
+      "nous nous serions vaincus",
+      "vous vous seriez vaincus",
+      "ils se seraient vaincus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vaincs-toi",
+      "vainquons-nous",
+      "vainquez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se vaincre"
+    ],
+    "passé": [
+      "s'être vaincu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se vainquant"
+    ],
+    "passé": [
+      "-",
+      "s'étant vaincu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se vainquant"
+    ],
+    "passé": [
+      "en s'étant vaincu"
+    ]
+  }
+}

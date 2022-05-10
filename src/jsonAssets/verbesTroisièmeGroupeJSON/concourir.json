@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je concours",
+      "tu concours",
+      "il concourt",
+      "nous concourons",
+      "vous concourez",
+      "ils concourent"
+    ],
+    "passé composé": [
+      "j'ai concouru",
+      "tu as concouru",
+      "il a concouru",
+      "nous avons concouru",
+      "vous avez concouru",
+      "ils ont concouru"
+    ],
+    "imparfait": [
+      "je concourais",
+      "tu concourais",
+      "il concourait",
+      "nous concourions",
+      "vous concouriez",
+      "ils concouraient"
+    ],
+    "plus que parfait": [
+      "j'avais concouru",
+      "tu avais concouru",
+      "il avait concouru",
+      "nous avions concouru",
+      "vous aviez concouru",
+      "ils avaient concouru"
+    ],
+    "passé simple": [
+      "je concourus",
+      "tu concourus",
+      "il concourut",
+      "nous concourûmes",
+      "vous concourûtes",
+      "ils concoururent"
+    ],
+    "passé antérieur": [
+      "j'eus concouru",
+      "tu eus concouru",
+      "il eut concouru",
+      "nous eûmes concouru",
+      "vous eûtes concouru",
+      "ils eurent concouru"
+    ],
+    "futur simple": [
+      "je concourrai",
+      "tu concourras",
+      "il concourra",
+      "nous concourrons",
+      "vous concourrez",
+      "ils concourront"
+    ],
+    "futur antérieur": [
+      "j'aurai concouru",
+      "tu auras concouru",
+      "il aura concouru",
+      "nous aurons concouru",
+      "vous aurez concouru",
+      "ils auront concouru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je concoure",
+      "que tu concoures",
+      "qu'il concoure",
+      "que nous concourions",
+      "que vous concouriez",
+      "qu'ils concourent"
+    ],
+    "passé": [
+      "que j'aie concouru",
+      "que tu aies concouru",
+      "qu'il ait concouru",
+      "que nous ayons concouru",
+      "que vous ayez concouru",
+      "qu'ils aient concouru"
+    ],
+    "imparfait": [
+      "que je concourusse",
+      "que tu concourusses",
+      "qu'il concourût",
+      "que nous concourussions",
+      "que vous concourussiez",
+      "qu'ils concourussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse concouru",
+      "que tu eusses concouru",
+      "qu'il eût concouru",
+      "que nous eussions concouru",
+      "que vous eussiez concouru",
+      "qu'ils eussent concouru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je concourrais",
+      "tu concourrais",
+      "il concourrait",
+      "nous concourrions",
+      "vous concourriez",
+      "ils concourraient"
+    ],
+    "passé": [
+      "j'aurais concouru",
+      "tu aurais concouru",
+      "il aurait concouru",
+      "nous aurions concouru",
+      "vous auriez concouru",
+      "ils auraient concouru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "concours",
+      "concourons",
+      "concourez"
+    ],
+    "passé": [
+      "aie concouru",
+      "ayons concouru",
+      "ayez concouru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "concourir"
+    ],
+    "passé": [
+      "avoir concouru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "concourant"
+    ],
+    "passé": [
+      "concouru",
+      "ayant concouru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en concourant"
+    ],
+    "passé": [
+      "en ayant concouru"
+    ]
+  }
+}

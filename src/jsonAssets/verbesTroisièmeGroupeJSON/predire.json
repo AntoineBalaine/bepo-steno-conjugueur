@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je prédis",
+      "tu prédis",
+      "il prédit",
+      "nous prédisons",
+      "vous prédites",
+      "ils prédisent"
+    ],
+    "passé composé": [
+      "j'ai prédit",
+      "tu as prédit",
+      "il a prédit",
+      "nous avons prédit",
+      "vous avez prédit",
+      "ils ont prédit"
+    ],
+    "imparfait": [
+      "je prédisais",
+      "tu prédisais",
+      "il prédisait",
+      "nous prédisions",
+      "vous prédisiez",
+      "ils prédisaient"
+    ],
+    "plus que parfait": [
+      "j'avais prédit",
+      "tu avais prédit",
+      "il avait prédit",
+      "nous avions prédit",
+      "vous aviez prédit",
+      "ils avaient prédit"
+    ],
+    "passé simple": [
+      "je prédis",
+      "tu prédis",
+      "il prédit",
+      "nous prédîmes",
+      "vous prédîtes",
+      "ils prédirent"
+    ],
+    "passé antérieur": [
+      "j'eus prédit",
+      "tu eus prédit",
+      "il eut prédit",
+      "nous eûmes prédit",
+      "vous eûtes prédit",
+      "ils eurent prédit"
+    ],
+    "futur simple": [
+      "je prédirai",
+      "tu prédiras",
+      "il prédira",
+      "nous prédirons",
+      "vous prédirez",
+      "ils prédiront"
+    ],
+    "futur antérieur": [
+      "j'aurai prédit",
+      "tu auras prédit",
+      "il aura prédit",
+      "nous aurons prédit",
+      "vous aurez prédit",
+      "ils auront prédit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je prédise",
+      "que tu prédises",
+      "qu'il prédise",
+      "que nous prédisions",
+      "que vous prédisiez",
+      "qu'ils prédisent"
+    ],
+    "passé": [
+      "que j'aie prédit",
+      "que tu aies prédit",
+      "qu'il ait prédit",
+      "que nous ayons prédit",
+      "que vous ayez prédit",
+      "qu'ils aient prédit"
+    ],
+    "imparfait": [
+      "que je prédisse",
+      "que tu prédisses",
+      "qu'il prédît",
+      "que nous prédissions",
+      "que vous prédissiez",
+      "qu'ils prédissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse prédit",
+      "que tu eusses prédit",
+      "qu'il eût prédit",
+      "que nous eussions prédit",
+      "que vous eussiez prédit",
+      "qu'ils eussent prédit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je prédirais",
+      "tu prédirais",
+      "il prédirait",
+      "nous prédirions",
+      "vous prédiriez",
+      "ils prédiraient"
+    ],
+    "passé": [
+      "j'aurais prédit",
+      "tu aurais prédit",
+      "il aurait prédit",
+      "nous aurions prédit",
+      "vous auriez prédit",
+      "ils auraient prédit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prédis",
+      "prédisons",
+      "prédites"
+    ],
+    "passé": [
+      "aie prédit",
+      "ayons prédit",
+      "ayez prédit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "prédire"
+    ],
+    "passé": [
+      "avoir prédit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "prédisant"
+    ],
+    "passé": [
+      "prédit",
+      "ayant prédit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en prédisant"
+    ],
+    "passé": [
+      "en ayant prédit"
+    ]
+  }
+}

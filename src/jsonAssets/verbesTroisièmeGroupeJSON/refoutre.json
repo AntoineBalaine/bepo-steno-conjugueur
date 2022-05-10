@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je refous",
+      "tu refous",
+      "il refout",
+      "nous refoutons",
+      "vous refoutez",
+      "ils refoutent"
+    ],
+    "passé composé": [
+      "j'ai refoutu",
+      "tu as refoutu",
+      "il a refoutu",
+      "nous avons refoutu",
+      "vous avez refoutu",
+      "ils ont refoutu"
+    ],
+    "imparfait": [
+      "je refoutais",
+      "tu refoutais",
+      "il refoutait",
+      "nous refoutions",
+      "vous refoutiez",
+      "ils refoutaient"
+    ],
+    "plus que parfait": [
+      "j'avais refoutu",
+      "tu avais refoutu",
+      "il avait refoutu",
+      "nous avions refoutu",
+      "vous aviez refoutu",
+      "ils avaient refoutu"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "je refoutrai",
+      "tu refoutras",
+      "il refoutra",
+      "nous refoutrons",
+      "vous refoutrez",
+      "ils refoutront"
+    ],
+    "futur antérieur": [
+      "j'aurai refoutu",
+      "tu auras refoutu",
+      "il aura refoutu",
+      "nous aurons refoutu",
+      "vous aurez refoutu",
+      "ils auront refoutu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je refoute",
+      "que tu refoutes",
+      "qu'il refoute",
+      "que nous refoutions",
+      "que vous refoutiez",
+      "qu'ils refoutent"
+    ],
+    "passé": [
+      "que j'aie refoutu",
+      "que tu aies refoutu",
+      "qu'il ait refoutu",
+      "que nous ayons refoutu",
+      "que vous ayez refoutu",
+      "qu'ils aient refoutu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je refoutrais",
+      "tu refoutrais",
+      "il refoutrait",
+      "nous refoutrions",
+      "vous refoutriez",
+      "ils refoutraient"
+    ],
+    "passé": [
+      "j'aurais refoutu",
+      "tu aurais refoutu",
+      "il aurait refoutu",
+      "nous aurions refoutu",
+      "vous auriez refoutu",
+      "ils auraient refoutu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "refous",
+      "refoutons",
+      "refoutez"
+    ],
+    "passé": [
+      "aie refoutu",
+      "ayons refoutu",
+      "ayez refoutu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "refoutre"
+    ],
+    "passé": [
+      "avoir refoutu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "refoutant"
+    ],
+    "passé": [
+      "refoutu",
+      "ayant refoutu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en refoutant"
+    ],
+    "passé": [
+      "en ayant refoutu"
+    ]
+  }
+}

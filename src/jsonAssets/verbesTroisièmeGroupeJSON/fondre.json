@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je fonds",
+      "tu fonds",
+      "il fond",
+      "nous fondons",
+      "vous fondez",
+      "ils fondent"
+    ],
+    "passé composé": [
+      "j'ai fondu",
+      "tu as fondu",
+      "il a fondu",
+      "nous avons fondu",
+      "vous avez fondu",
+      "ils ont fondu"
+    ],
+    "imparfait": [
+      "je fondais",
+      "tu fondais",
+      "il fondait",
+      "nous fondions",
+      "vous fondiez",
+      "ils fondaient"
+    ],
+    "plus que parfait": [
+      "j'avais fondu",
+      "tu avais fondu",
+      "il avait fondu",
+      "nous avions fondu",
+      "vous aviez fondu",
+      "ils avaient fondu"
+    ],
+    "passé simple": [
+      "je fondis",
+      "tu fondis",
+      "il fondit",
+      "nous fondîmes",
+      "vous fondîtes",
+      "ils fondirent"
+    ],
+    "passé antérieur": [
+      "j'eus fondu",
+      "tu eus fondu",
+      "il eut fondu",
+      "nous eûmes fondu",
+      "vous eûtes fondu",
+      "ils eurent fondu"
+    ],
+    "futur simple": [
+      "je fondrai",
+      "tu fondras",
+      "il fondra",
+      "nous fondrons",
+      "vous fondrez",
+      "ils fondront"
+    ],
+    "futur antérieur": [
+      "j'aurai fondu",
+      "tu auras fondu",
+      "il aura fondu",
+      "nous aurons fondu",
+      "vous aurez fondu",
+      "ils auront fondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je fonde",
+      "que tu fondes",
+      "qu'il fonde",
+      "que nous fondions",
+      "que vous fondiez",
+      "qu'ils fondent"
+    ],
+    "passé": [
+      "que j'aie fondu",
+      "que tu aies fondu",
+      "qu'il ait fondu",
+      "que nous ayons fondu",
+      "que vous ayez fondu",
+      "qu'ils aient fondu"
+    ],
+    "imparfait": [
+      "que je fondisse",
+      "que tu fondisses",
+      "qu'il fondît",
+      "que nous fondissions",
+      "que vous fondissiez",
+      "qu'ils fondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse fondu",
+      "que tu eusses fondu",
+      "qu'il eût fondu",
+      "que nous eussions fondu",
+      "que vous eussiez fondu",
+      "qu'ils eussent fondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je fondrais",
+      "tu fondrais",
+      "il fondrait",
+      "nous fondrions",
+      "vous fondriez",
+      "ils fondraient"
+    ],
+    "passé": [
+      "j'aurais fondu",
+      "tu aurais fondu",
+      "il aurait fondu",
+      "nous aurions fondu",
+      "vous auriez fondu",
+      "ils auraient fondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fonds",
+      "fondons",
+      "fondez"
+    ],
+    "passé": [
+      "aie fondu",
+      "ayons fondu",
+      "ayez fondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "fondre"
+    ],
+    "passé": [
+      "avoir fondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "fondant"
+    ],
+    "passé": [
+      "fondu",
+      "ayant fondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en fondant"
+    ],
+    "passé": [
+      "en ayant fondu"
+    ]
+  }
+}

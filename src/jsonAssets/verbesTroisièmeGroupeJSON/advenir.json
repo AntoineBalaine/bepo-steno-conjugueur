@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il advient",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "il est advenu",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il advenait",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "il était advenu",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "il advint",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "il fut advenu",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il adviendra",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "il sera advenu",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "qu'il advienne",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "qu'il soit advenu",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "qu'il advînt",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "qu'il fût advenu",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "il adviendrait",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "il serait advenu",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "advenir"
+    ],
+    "passé": [
+      "être advenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "advenant"
+    ],
+    "passé": [
+      "advenu",
+      "étant advenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "-"
+    ]
+  }
+}

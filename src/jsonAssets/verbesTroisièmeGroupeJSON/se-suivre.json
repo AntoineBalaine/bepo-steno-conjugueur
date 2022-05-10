@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me suis",
+      "tu te suis",
+      "il se suit",
+      "nous nous suivons",
+      "vous vous suivez",
+      "ils se suivent"
+    ],
+    "passé composé": [
+      "je me suis suivi",
+      "tu t'es suivi",
+      "il s'est suivi",
+      "nous nous sommes suivis",
+      "vous vous êtes suivis",
+      "ils se sont suivis"
+    ],
+    "imparfait": [
+      "je me suivais",
+      "tu te suivais",
+      "il se suivait",
+      "nous nous suivions",
+      "vous vous suiviez",
+      "ils se suivaient"
+    ],
+    "plus que parfait": [
+      "je m'étais suivi",
+      "tu t'étais suivi",
+      "il s'était suivi",
+      "nous nous étions suivis",
+      "vous vous étiez suivis",
+      "ils s'étaient suivis"
+    ],
+    "passé simple": [
+      "je me suivis",
+      "tu te suivis",
+      "il se suivit",
+      "nous nous suivîmes",
+      "vous vous suivîtes",
+      "ils se suivirent"
+    ],
+    "passé antérieur": [
+      "je me fus suivi",
+      "tu te fus suivi",
+      "il se fut suivi",
+      "nous nous fûmes suivis",
+      "vous vous fûtes suivis",
+      "ils se furent suivis"
+    ],
+    "futur simple": [
+      "je me suivrai",
+      "tu te suivras",
+      "il se suivra",
+      "nous nous suivrons",
+      "vous vous suivrez",
+      "ils se suivront"
+    ],
+    "futur antérieur": [
+      "je me serai suivi",
+      "tu te seras suivi",
+      "il se sera suivi",
+      "nous nous serons suivis",
+      "vous vous serez suivis",
+      "ils se seront suivis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me suive",
+      "que tu te suives",
+      "qu'il se suive",
+      "que nous nous suivions",
+      "que vous vous suiviez",
+      "qu'ils se suivent"
+    ],
+    "passé": [
+      "que je me sois suivi",
+      "que tu te sois suivi",
+      "qu'il se soit suivi",
+      "que nous nous soyons suivis",
+      "que vous vous soyez suivis",
+      "qu'ils se soient suivis"
+    ],
+    "imparfait": [
+      "que je me suivisse",
+      "que tu te suivisses",
+      "qu'il se suivît",
+      "que nous nous suivissions",
+      "que vous vous suivissiez",
+      "qu'ils se suivissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse suivi",
+      "que tu te fusses suivi",
+      "qu'il se fût suivi",
+      "que nous nous fussions suivis",
+      "que vous vous fussiez suivis",
+      "qu'ils se fussent suivis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me suivrais",
+      "tu te suivrais",
+      "il se suivrait",
+      "nous nous suivrions",
+      "vous vous suivriez",
+      "ils se suivraient"
+    ],
+    "passé": [
+      "je me serais suivi",
+      "tu te serais suivi",
+      "il se serait suivi",
+      "nous nous serions suivis",
+      "vous vous seriez suivis",
+      "ils se seraient suivis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "suis-toi",
+      "suivons-nous",
+      "suivez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se suivre"
+    ],
+    "passé": [
+      "s'être suivi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se suivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant suivi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se suivant"
+    ],
+    "passé": [
+      "en s'étant suivi"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me conçois",
+      "tu te conçois",
+      "il se conçoit",
+      "nous nous concevons",
+      "vous vous concevez",
+      "ils se conçoivent"
+    ],
+    "passé composé": [
+      "je me suis conçu",
+      "tu t'es conçu",
+      "il s'est conçu",
+      "nous nous sommes conçus",
+      "vous vous êtes conçus",
+      "ils se sont conçus"
+    ],
+    "imparfait": [
+      "je me concevais",
+      "tu te concevais",
+      "il se concevait",
+      "nous nous concevions",
+      "vous vous conceviez",
+      "ils se concevaient"
+    ],
+    "plus que parfait": [
+      "je m'étais conçu",
+      "tu t'étais conçu",
+      "il s'était conçu",
+      "nous nous étions conçus",
+      "vous vous étiez conçus",
+      "ils s'étaient conçus"
+    ],
+    "passé simple": [
+      "je me conçus",
+      "tu te conçus",
+      "il se conçut",
+      "nous nous conçûmes",
+      "vous vous conçûtes",
+      "ils se conçurent"
+    ],
+    "passé antérieur": [
+      "je me fus conçu",
+      "tu te fus conçu",
+      "il se fut conçu",
+      "nous nous fûmes conçus",
+      "vous vous fûtes conçus",
+      "ils se furent conçus"
+    ],
+    "futur simple": [
+      "je me concevrai",
+      "tu te concevras",
+      "il se concevra",
+      "nous nous concevrons",
+      "vous vous concevrez",
+      "ils se concevront"
+    ],
+    "futur antérieur": [
+      "je me serai conçu",
+      "tu te seras conçu",
+      "il se sera conçu",
+      "nous nous serons conçus",
+      "vous vous serez conçus",
+      "ils se seront conçus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me conçoive",
+      "que tu te conçoives",
+      "qu'il se conçoive",
+      "que nous nous concevions",
+      "que vous vous conceviez",
+      "qu'ils se conçoivent"
+    ],
+    "passé": [
+      "que je me sois conçu",
+      "que tu te sois conçu",
+      "qu'il se soit conçu",
+      "que nous nous soyons conçus",
+      "que vous vous soyez conçus",
+      "qu'ils se soient conçus"
+    ],
+    "imparfait": [
+      "que je me conçusse",
+      "que tu te conçusses",
+      "qu'il se conçût",
+      "que nous nous conçussions",
+      "que vous vous conçussiez",
+      "qu'ils se conçussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse conçu",
+      "que tu te fusses conçu",
+      "qu'il se fût conçu",
+      "que nous nous fussions conçus",
+      "que vous vous fussiez conçus",
+      "qu'ils se fussent conçus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me concevrais",
+      "tu te concevrais",
+      "il se concevrait",
+      "nous nous concevrions",
+      "vous vous concevriez",
+      "ils se concevraient"
+    ],
+    "passé": [
+      "je me serais conçu",
+      "tu te serais conçu",
+      "il se serait conçu",
+      "nous nous serions conçus",
+      "vous vous seriez conçus",
+      "ils se seraient conçus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conçois-toi",
+      "concevons-nous",
+      "concevez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se concevoir"
+    ],
+    "passé": [
+      "s'être conçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se concevant"
+    ],
+    "passé": [
+      "-",
+      "s'étant conçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se concevant"
+    ],
+    "passé": [
+      "en s'étant conçu"
+    ]
+  }
+}

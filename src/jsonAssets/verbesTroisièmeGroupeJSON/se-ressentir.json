@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me ressens",
+      "tu te ressens",
+      "il se ressent",
+      "nous nous ressentons",
+      "vous vous ressentez",
+      "ils se ressentent"
+    ],
+    "passé composé": [
+      "je me suis ressenti",
+      "tu t'es ressenti",
+      "il s'est ressenti",
+      "nous nous sommes ressentis",
+      "vous vous êtes ressentis",
+      "ils se sont ressentis"
+    ],
+    "imparfait": [
+      "je me ressentais",
+      "tu te ressentais",
+      "il se ressentait",
+      "nous nous ressentions",
+      "vous vous ressentiez",
+      "ils se ressentaient"
+    ],
+    "plus que parfait": [
+      "je m'étais ressenti",
+      "tu t'étais ressenti",
+      "il s'était ressenti",
+      "nous nous étions ressentis",
+      "vous vous étiez ressentis",
+      "ils s'étaient ressentis"
+    ],
+    "passé simple": [
+      "je me ressentis",
+      "tu te ressentis",
+      "il se ressentit",
+      "nous nous ressentîmes",
+      "vous vous ressentîtes",
+      "ils se ressentirent"
+    ],
+    "passé antérieur": [
+      "je me fus ressenti",
+      "tu te fus ressenti",
+      "il se fut ressenti",
+      "nous nous fûmes ressentis",
+      "vous vous fûtes ressentis",
+      "ils se furent ressentis"
+    ],
+    "futur simple": [
+      "je me ressentirai",
+      "tu te ressentiras",
+      "il se ressentira",
+      "nous nous ressentirons",
+      "vous vous ressentirez",
+      "ils se ressentiront"
+    ],
+    "futur antérieur": [
+      "je me serai ressenti",
+      "tu te seras ressenti",
+      "il se sera ressenti",
+      "nous nous serons ressentis",
+      "vous vous serez ressentis",
+      "ils se seront ressentis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me ressente",
+      "que tu te ressentes",
+      "qu'il se ressente",
+      "que nous nous ressentions",
+      "que vous vous ressentiez",
+      "qu'ils se ressentent"
+    ],
+    "passé": [
+      "que je me sois ressenti",
+      "que tu te sois ressenti",
+      "qu'il se soit ressenti",
+      "que nous nous soyons ressentis",
+      "que vous vous soyez ressentis",
+      "qu'ils se soient ressentis"
+    ],
+    "imparfait": [
+      "que je me ressentisse",
+      "que tu te ressentisses",
+      "qu'il se ressentît",
+      "que nous nous ressentissions",
+      "que vous vous ressentissiez",
+      "qu'ils se ressentissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse ressenti",
+      "que tu te fusses ressenti",
+      "qu'il se fût ressenti",
+      "que nous nous fussions ressentis",
+      "que vous vous fussiez ressentis",
+      "qu'ils se fussent ressentis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me ressentirais",
+      "tu te ressentirais",
+      "il se ressentirait",
+      "nous nous ressentirions",
+      "vous vous ressentiriez",
+      "ils se ressentiraient"
+    ],
+    "passé": [
+      "je me serais ressenti",
+      "tu te serais ressenti",
+      "il se serait ressenti",
+      "nous nous serions ressentis",
+      "vous vous seriez ressentis",
+      "ils se seraient ressentis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ressens-toi",
+      "ressentons-nous",
+      "ressentez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se ressentir"
+    ],
+    "passé": [
+      "s'être ressenti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se ressentant"
+    ],
+    "passé": [
+      "-",
+      "s'étant ressenti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se ressentant"
+    ],
+    "passé": [
+      "en s'étant ressenti"
+    ]
+  }
+}

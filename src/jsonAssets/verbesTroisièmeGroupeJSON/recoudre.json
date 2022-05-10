@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je recouds",
+      "tu recouds",
+      "il recoud",
+      "nous recousons",
+      "vous recousez",
+      "ils recousent"
+    ],
+    "passé composé": [
+      "j'ai recousu",
+      "tu as recousu",
+      "il a recousu",
+      "nous avons recousu",
+      "vous avez recousu",
+      "ils ont recousu"
+    ],
+    "imparfait": [
+      "je recousais",
+      "tu recousais",
+      "il recousait",
+      "nous recousions",
+      "vous recousiez",
+      "ils recousaient"
+    ],
+    "plus que parfait": [
+      "j'avais recousu",
+      "tu avais recousu",
+      "il avait recousu",
+      "nous avions recousu",
+      "vous aviez recousu",
+      "ils avaient recousu"
+    ],
+    "passé simple": [
+      "je recousis",
+      "tu recousis",
+      "il recousit",
+      "nous recousîmes",
+      "vous recousîtes",
+      "ils recousirent"
+    ],
+    "passé antérieur": [
+      "j'eus recousu",
+      "tu eus recousu",
+      "il eut recousu",
+      "nous eûmes recousu",
+      "vous eûtes recousu",
+      "ils eurent recousu"
+    ],
+    "futur simple": [
+      "je recoudrai",
+      "tu recoudras",
+      "il recoudra",
+      "nous recoudrons",
+      "vous recoudrez",
+      "ils recoudront"
+    ],
+    "futur antérieur": [
+      "j'aurai recousu",
+      "tu auras recousu",
+      "il aura recousu",
+      "nous aurons recousu",
+      "vous aurez recousu",
+      "ils auront recousu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je recouse",
+      "que tu recouses",
+      "qu'il recouse",
+      "que nous recousions",
+      "que vous recousiez",
+      "qu'ils recousent"
+    ],
+    "passé": [
+      "que j'aie recousu",
+      "que tu aies recousu",
+      "qu'il ait recousu",
+      "que nous ayons recousu",
+      "que vous ayez recousu",
+      "qu'ils aient recousu"
+    ],
+    "imparfait": [
+      "que je recousisse",
+      "que tu recousisses",
+      "qu'il recousît",
+      "que nous recousissions",
+      "que vous recousissiez",
+      "qu'ils recousissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse recousu",
+      "que tu eusses recousu",
+      "qu'il eût recousu",
+      "que nous eussions recousu",
+      "que vous eussiez recousu",
+      "qu'ils eussent recousu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je recoudrais",
+      "tu recoudrais",
+      "il recoudrait",
+      "nous recoudrions",
+      "vous recoudriez",
+      "ils recoudraient"
+    ],
+    "passé": [
+      "j'aurais recousu",
+      "tu aurais recousu",
+      "il aurait recousu",
+      "nous aurions recousu",
+      "vous auriez recousu",
+      "ils auraient recousu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recouds",
+      "recousons",
+      "recousez"
+    ],
+    "passé": [
+      "aie recousu",
+      "ayons recousu",
+      "ayez recousu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "recoudre"
+    ],
+    "passé": [
+      "avoir recousu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "recousant"
+    ],
+    "passé": [
+      "recousu",
+      "ayant recousu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en recousant"
+    ],
+    "passé": [
+      "en ayant recousu"
+    ]
+  }
+}

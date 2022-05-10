@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'enclos",
+      "tu enclos",
+      "il enclôt",
+      "-",
+      "-",
+      "ils enclosent"
+    ],
+    "passé composé": [
+      "j'ai enclos",
+      "tu as enclos",
+      "il a enclos",
+      "nous avons enclos",
+      "vous avez enclos",
+      "ils ont enclos"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais enclos",
+      "tu avais enclos",
+      "il avait enclos",
+      "nous avions enclos",
+      "vous aviez enclos",
+      "ils avaient enclos"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus enclos",
+      "tu eus enclos",
+      "il eut enclos",
+      "nous eûmes enclos",
+      "vous eûtes enclos",
+      "ils eurent enclos"
+    ],
+    "futur simple": [
+      "j'enclorai",
+      "tu encloras",
+      "il enclora",
+      "nous enclorons",
+      "vous enclorez",
+      "ils encloront"
+    ],
+    "futur antérieur": [
+      "j'aurai enclos",
+      "tu auras enclos",
+      "il aura enclos",
+      "nous aurons enclos",
+      "vous aurez enclos",
+      "ils auront enclos"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'enclose",
+      "que tu encloses",
+      "qu'il enclose",
+      "que nous enclosions",
+      "que vous enclosiez",
+      "qu'ils enclosent"
+    ],
+    "passé": [
+      "que j'aie enclos",
+      "que tu aies enclos",
+      "qu'il ait enclos",
+      "que nous ayons enclos",
+      "que vous ayez enclos",
+      "qu'ils aient enclos"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse enclos",
+      "que tu eusses enclos",
+      "qu'il eût enclos",
+      "que nous eussions enclos",
+      "que vous eussiez enclos",
+      "qu'ils eussent enclos"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'enclorais",
+      "tu enclorais",
+      "il enclorait",
+      "nous enclorions",
+      "vous encloriez",
+      "ils encloraient"
+    ],
+    "passé": [
+      "j'aurais enclos",
+      "tu aurais enclos",
+      "il aurait enclos",
+      "nous aurions enclos",
+      "vous auriez enclos",
+      "ils auraient enclos"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "enclos",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie enclos",
+      "ayons enclos",
+      "ayez enclos"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "enclore"
+    ],
+    "passé": [
+      "avoir enclos"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "enclosant"
+    ],
+    "passé": [
+      "enclos",
+      "ayant enclos"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en enclosant"
+    ],
+    "passé": [
+      "en ayant enclos"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je fends",
+      "tu fends",
+      "il fend",
+      "nous fendons",
+      "vous fendez",
+      "ils fendent"
+    ],
+    "passé composé": [
+      "j'ai fendu",
+      "tu as fendu",
+      "il a fendu",
+      "nous avons fendu",
+      "vous avez fendu",
+      "ils ont fendu"
+    ],
+    "imparfait": [
+      "je fendais",
+      "tu fendais",
+      "il fendait",
+      "nous fendions",
+      "vous fendiez",
+      "ils fendaient"
+    ],
+    "plus que parfait": [
+      "j'avais fendu",
+      "tu avais fendu",
+      "il avait fendu",
+      "nous avions fendu",
+      "vous aviez fendu",
+      "ils avaient fendu"
+    ],
+    "passé simple": [
+      "je fendis",
+      "tu fendis",
+      "il fendit",
+      "nous fendîmes",
+      "vous fendîtes",
+      "ils fendirent"
+    ],
+    "passé antérieur": [
+      "j'eus fendu",
+      "tu eus fendu",
+      "il eut fendu",
+      "nous eûmes fendu",
+      "vous eûtes fendu",
+      "ils eurent fendu"
+    ],
+    "futur simple": [
+      "je fendrai",
+      "tu fendras",
+      "il fendra",
+      "nous fendrons",
+      "vous fendrez",
+      "ils fendront"
+    ],
+    "futur antérieur": [
+      "j'aurai fendu",
+      "tu auras fendu",
+      "il aura fendu",
+      "nous aurons fendu",
+      "vous aurez fendu",
+      "ils auront fendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je fende",
+      "que tu fendes",
+      "qu'il fende",
+      "que nous fendions",
+      "que vous fendiez",
+      "qu'ils fendent"
+    ],
+    "passé": [
+      "que j'aie fendu",
+      "que tu aies fendu",
+      "qu'il ait fendu",
+      "que nous ayons fendu",
+      "que vous ayez fendu",
+      "qu'ils aient fendu"
+    ],
+    "imparfait": [
+      "que je fendisse",
+      "que tu fendisses",
+      "qu'il fendît",
+      "que nous fendissions",
+      "que vous fendissiez",
+      "qu'ils fendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse fendu",
+      "que tu eusses fendu",
+      "qu'il eût fendu",
+      "que nous eussions fendu",
+      "que vous eussiez fendu",
+      "qu'ils eussent fendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je fendrais",
+      "tu fendrais",
+      "il fendrait",
+      "nous fendrions",
+      "vous fendriez",
+      "ils fendraient"
+    ],
+    "passé": [
+      "j'aurais fendu",
+      "tu aurais fendu",
+      "il aurait fendu",
+      "nous aurions fendu",
+      "vous auriez fendu",
+      "ils auraient fendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fends",
+      "fendons",
+      "fendez"
+    ],
+    "passé": [
+      "aie fendu",
+      "ayons fendu",
+      "ayez fendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "fendre"
+    ],
+    "passé": [
+      "avoir fendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "fendant"
+    ],
+    "passé": [
+      "fendu",
+      "ayant fendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en fendant"
+    ],
+    "passé": [
+      "en ayant fendu"
+    ]
+  }
+}

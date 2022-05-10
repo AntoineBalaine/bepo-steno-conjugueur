@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'inclus",
+      "tu t'inclus",
+      "il s'inclut",
+      "nous nous incluons",
+      "vous vous incluez",
+      "ils s'incluent"
+    ],
+    "passé composé": [
+      "je me suis inclus",
+      "tu t'es inclus",
+      "il s'est inclus",
+      "nous nous sommes inclus",
+      "vous vous êtes inclus",
+      "ils se sont inclus"
+    ],
+    "imparfait": [
+      "je m'incluais",
+      "tu t'incluais",
+      "il s'incluait",
+      "nous nous incluions",
+      "vous vous incluiez",
+      "ils s'incluaient"
+    ],
+    "plus que parfait": [
+      "je m'étais inclus",
+      "tu t'étais inclus",
+      "il s'était inclus",
+      "nous nous étions inclus",
+      "vous vous étiez inclus",
+      "ils s'étaient inclus"
+    ],
+    "passé simple": [
+      "je m'inclus",
+      "tu t'inclus",
+      "il s'inclut",
+      "nous nous inclûmes",
+      "vous vous inclûtes",
+      "ils s'inclurent"
+    ],
+    "passé antérieur": [
+      "je me fus inclus",
+      "tu te fus inclus",
+      "il se fut inclus",
+      "nous nous fûmes inclus",
+      "vous vous fûtes inclus",
+      "ils se furent inclus"
+    ],
+    "futur simple": [
+      "je m'inclurai",
+      "tu t'incluras",
+      "il s'inclura",
+      "nous nous inclurons",
+      "vous vous inclurez",
+      "ils s'incluront"
+    ],
+    "futur antérieur": [
+      "je me serai inclus",
+      "tu te seras inclus",
+      "il se sera inclus",
+      "nous nous serons inclus",
+      "vous vous serez inclus",
+      "ils se seront inclus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'inclue",
+      "que tu t'inclues",
+      "qu'il s'inclue",
+      "que nous nous incluions",
+      "que vous vous incluiez",
+      "qu'ils s'incluent"
+    ],
+    "passé": [
+      "que je me sois inclus",
+      "que tu te sois inclus",
+      "qu'il se soit inclus",
+      "que nous nous soyons inclus",
+      "que vous vous soyez inclus",
+      "qu'ils se soient inclus"
+    ],
+    "imparfait": [
+      "que je m'inclusse",
+      "que tu t'inclusses",
+      "qu'il s'inclût",
+      "que nous nous inclussions",
+      "que vous vous inclussiez",
+      "qu'ils s'inclussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse inclus",
+      "que tu te fusses inclus",
+      "qu'il se fût inclus",
+      "que nous nous fussions inclus",
+      "que vous vous fussiez inclus",
+      "qu'ils se fussent inclus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'inclurais",
+      "tu t'inclurais",
+      "il s'inclurait",
+      "nous nous inclurions",
+      "vous vous incluriez",
+      "ils s'incluraient"
+    ],
+    "passé": [
+      "je me serais inclus",
+      "tu te serais inclus",
+      "il se serait inclus",
+      "nous nous serions inclus",
+      "vous vous seriez inclus",
+      "ils se seraient inclus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "inclus-toi",
+      "incluons-nous",
+      "incluez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'inclure"
+    ],
+    "passé": [
+      "s'être inclus"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'incluant"
+    ],
+    "passé": [
+      "-",
+      "s'étant inclus"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'incluant"
+    ],
+    "passé": [
+      "en s'étant inclus"
+    ]
+  }
+}

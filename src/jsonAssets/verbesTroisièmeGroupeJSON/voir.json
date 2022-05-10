@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je vois",
+      "tu vois",
+      "il voit",
+      "nous voyons",
+      "vous voyez",
+      "ils voient"
+    ],
+    "passé composé": [
+      "j'ai vu",
+      "tu as vu",
+      "il a vu",
+      "nous avons vu",
+      "vous avez vu",
+      "ils ont vu"
+    ],
+    "imparfait": [
+      "je voyais",
+      "tu voyais",
+      "il voyait",
+      "nous voyions",
+      "vous voyiez",
+      "ils voyaient"
+    ],
+    "plus que parfait": [
+      "j'avais vu",
+      "tu avais vu",
+      "il avait vu",
+      "nous avions vu",
+      "vous aviez vu",
+      "ils avaient vu"
+    ],
+    "passé simple": [
+      "je vis",
+      "tu vis",
+      "il vit",
+      "nous vîmes",
+      "vous vîtes",
+      "ils virent"
+    ],
+    "passé antérieur": [
+      "j'eus vu",
+      "tu eus vu",
+      "il eut vu",
+      "nous eûmes vu",
+      "vous eûtes vu",
+      "ils eurent vu"
+    ],
+    "futur simple": [
+      "je verrai",
+      "tu verras",
+      "il verra",
+      "nous verrons",
+      "vous verrez",
+      "ils verront"
+    ],
+    "futur antérieur": [
+      "j'aurai vu",
+      "tu auras vu",
+      "il aura vu",
+      "nous aurons vu",
+      "vous aurez vu",
+      "ils auront vu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je voie",
+      "que tu voies",
+      "qu'il voie",
+      "que nous voyions",
+      "que vous voyiez",
+      "qu'ils voient"
+    ],
+    "passé": [
+      "que j'aie vu",
+      "que tu aies vu",
+      "qu'il ait vu",
+      "que nous ayons vu",
+      "que vous ayez vu",
+      "qu'ils aient vu"
+    ],
+    "imparfait": [
+      "que je visse",
+      "que tu visses",
+      "qu'il vît",
+      "que nous vissions",
+      "que vous vissiez",
+      "qu'ils vissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse vu",
+      "que tu eusses vu",
+      "qu'il eût vu",
+      "que nous eussions vu",
+      "que vous eussiez vu",
+      "qu'ils eussent vu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je verrais",
+      "tu verrais",
+      "il verrait",
+      "nous verrions",
+      "vous verriez",
+      "ils verraient"
+    ],
+    "passé": [
+      "j'aurais vu",
+      "tu aurais vu",
+      "il aurait vu",
+      "nous aurions vu",
+      "vous auriez vu",
+      "ils auraient vu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vois",
+      "voyons",
+      "voyez"
+    ],
+    "passé": [
+      "aie vu",
+      "ayons vu",
+      "ayez vu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "voir"
+    ],
+    "passé": [
+      "avoir vu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "voyant"
+    ],
+    "passé": [
+      "vu",
+      "ayant vu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en voyant"
+    ],
+    "passé": [
+      "en ayant vu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je surproduis",
+      "tu surproduis",
+      "il surproduit",
+      "nous surproduisons",
+      "vous surproduisez",
+      "ils surproduisent"
+    ],
+    "passé composé": [
+      "j'ai surproduit",
+      "tu as surproduit",
+      "il a surproduit",
+      "nous avons surproduit",
+      "vous avez surproduit",
+      "ils ont surproduit"
+    ],
+    "imparfait": [
+      "je surproduisais",
+      "tu surproduisais",
+      "il surproduisait",
+      "nous surproduisions",
+      "vous surproduisiez",
+      "ils surproduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais surproduit",
+      "tu avais surproduit",
+      "il avait surproduit",
+      "nous avions surproduit",
+      "vous aviez surproduit",
+      "ils avaient surproduit"
+    ],
+    "passé simple": [
+      "je surproduisis",
+      "tu surproduisis",
+      "il surproduisit",
+      "nous surproduisîmes",
+      "vous surproduisîtes",
+      "ils surproduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus surproduit",
+      "tu eus surproduit",
+      "il eut surproduit",
+      "nous eûmes surproduit",
+      "vous eûtes surproduit",
+      "ils eurent surproduit"
+    ],
+    "futur simple": [
+      "je surproduirai",
+      "tu surproduiras",
+      "il surproduira",
+      "nous surproduirons",
+      "vous surproduirez",
+      "ils surproduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai surproduit",
+      "tu auras surproduit",
+      "il aura surproduit",
+      "nous aurons surproduit",
+      "vous aurez surproduit",
+      "ils auront surproduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je surproduise",
+      "que tu surproduises",
+      "qu'il surproduise",
+      "que nous surproduisions",
+      "que vous surproduisiez",
+      "qu'ils surproduisent"
+    ],
+    "passé": [
+      "que j'aie surproduit",
+      "que tu aies surproduit",
+      "qu'il ait surproduit",
+      "que nous ayons surproduit",
+      "que vous ayez surproduit",
+      "qu'ils aient surproduit"
+    ],
+    "imparfait": [
+      "que je surproduisisse",
+      "que tu surproduisisses",
+      "qu'il surproduisît",
+      "que nous surproduisissions",
+      "que vous surproduisissiez",
+      "qu'ils surproduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse surproduit",
+      "que tu eusses surproduit",
+      "qu'il eût surproduit",
+      "que nous eussions surproduit",
+      "que vous eussiez surproduit",
+      "qu'ils eussent surproduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je surproduirais",
+      "tu surproduirais",
+      "il surproduirait",
+      "nous surproduirions",
+      "vous surproduiriez",
+      "ils surproduiraient"
+    ],
+    "passé": [
+      "j'aurais surproduit",
+      "tu aurais surproduit",
+      "il aurait surproduit",
+      "nous aurions surproduit",
+      "vous auriez surproduit",
+      "ils auraient surproduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "surproduis",
+      "surproduisons",
+      "surproduisez"
+    ],
+    "passé": [
+      "aie surproduit",
+      "ayons surproduit",
+      "ayez surproduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "surproduire"
+    ],
+    "passé": [
+      "avoir surproduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "surproduisant"
+    ],
+    "passé": [
+      "surproduit",
+      "ayant surproduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en surproduisant"
+    ],
+    "passé": [
+      "en ayant surproduit"
+    ]
+  }
+}

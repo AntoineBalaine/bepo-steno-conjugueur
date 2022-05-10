@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je geins",
+      "tu geins",
+      "il geint",
+      "nous geignons",
+      "vous geignez",
+      "ils geignent"
+    ],
+    "passé composé": [
+      "j'ai geint",
+      "tu as geint",
+      "il a geint",
+      "nous avons geint",
+      "vous avez geint",
+      "ils ont geint"
+    ],
+    "imparfait": [
+      "je geignais",
+      "tu geignais",
+      "il geignait",
+      "nous geignions",
+      "vous geigniez",
+      "ils geignaient"
+    ],
+    "plus que parfait": [
+      "j'avais geint",
+      "tu avais geint",
+      "il avait geint",
+      "nous avions geint",
+      "vous aviez geint",
+      "ils avaient geint"
+    ],
+    "passé simple": [
+      "je geignis",
+      "tu geignis",
+      "il geignit",
+      "nous geignîmes",
+      "vous geignîtes",
+      "ils geignirent"
+    ],
+    "passé antérieur": [
+      "j'eus geint",
+      "tu eus geint",
+      "il eut geint",
+      "nous eûmes geint",
+      "vous eûtes geint",
+      "ils eurent geint"
+    ],
+    "futur simple": [
+      "je geindrai",
+      "tu geindras",
+      "il geindra",
+      "nous geindrons",
+      "vous geindrez",
+      "ils geindront"
+    ],
+    "futur antérieur": [
+      "j'aurai geint",
+      "tu auras geint",
+      "il aura geint",
+      "nous aurons geint",
+      "vous aurez geint",
+      "ils auront geint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je geigne",
+      "que tu geignes",
+      "qu'il geigne",
+      "que nous geignions",
+      "que vous geigniez",
+      "qu'ils geignent"
+    ],
+    "passé": [
+      "que j'aie geint",
+      "que tu aies geint",
+      "qu'il ait geint",
+      "que nous ayons geint",
+      "que vous ayez geint",
+      "qu'ils aient geint"
+    ],
+    "imparfait": [
+      "que je geignisse",
+      "que tu geignisses",
+      "qu'il geignît",
+      "que nous geignissions",
+      "que vous geignissiez",
+      "qu'ils geignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse geint",
+      "que tu eusses geint",
+      "qu'il eût geint",
+      "que nous eussions geint",
+      "que vous eussiez geint",
+      "qu'ils eussent geint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je geindrais",
+      "tu geindrais",
+      "il geindrait",
+      "nous geindrions",
+      "vous geindriez",
+      "ils geindraient"
+    ],
+    "passé": [
+      "j'aurais geint",
+      "tu aurais geint",
+      "il aurait geint",
+      "nous aurions geint",
+      "vous auriez geint",
+      "ils auraient geint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "geins",
+      "geignons",
+      "geignez"
+    ],
+    "passé": [
+      "aie geint",
+      "ayons geint",
+      "ayez geint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "geindre"
+    ],
+    "passé": [
+      "avoir geint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "geignant"
+    ],
+    "passé": [
+      "geint",
+      "ayant geint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en geignant"
+    ],
+    "passé": [
+      "en ayant geint"
+    ]
+  }
+}

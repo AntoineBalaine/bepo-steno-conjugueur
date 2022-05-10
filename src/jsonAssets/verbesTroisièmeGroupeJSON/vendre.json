@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je vends",
+      "tu vends",
+      "il vend",
+      "nous vendons",
+      "vous vendez",
+      "ils vendent"
+    ],
+    "passé composé": [
+      "j'ai vendu",
+      "tu as vendu",
+      "il a vendu",
+      "nous avons vendu",
+      "vous avez vendu",
+      "ils ont vendu"
+    ],
+    "imparfait": [
+      "je vendais",
+      "tu vendais",
+      "il vendait",
+      "nous vendions",
+      "vous vendiez",
+      "ils vendaient"
+    ],
+    "plus que parfait": [
+      "j'avais vendu",
+      "tu avais vendu",
+      "il avait vendu",
+      "nous avions vendu",
+      "vous aviez vendu",
+      "ils avaient vendu"
+    ],
+    "passé simple": [
+      "je vendis",
+      "tu vendis",
+      "il vendit",
+      "nous vendîmes",
+      "vous vendîtes",
+      "ils vendirent"
+    ],
+    "passé antérieur": [
+      "j'eus vendu",
+      "tu eus vendu",
+      "il eut vendu",
+      "nous eûmes vendu",
+      "vous eûtes vendu",
+      "ils eurent vendu"
+    ],
+    "futur simple": [
+      "je vendrai",
+      "tu vendras",
+      "il vendra",
+      "nous vendrons",
+      "vous vendrez",
+      "ils vendront"
+    ],
+    "futur antérieur": [
+      "j'aurai vendu",
+      "tu auras vendu",
+      "il aura vendu",
+      "nous aurons vendu",
+      "vous aurez vendu",
+      "ils auront vendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je vende",
+      "que tu vendes",
+      "qu'il vende",
+      "que nous vendions",
+      "que vous vendiez",
+      "qu'ils vendent"
+    ],
+    "passé": [
+      "que j'aie vendu",
+      "que tu aies vendu",
+      "qu'il ait vendu",
+      "que nous ayons vendu",
+      "que vous ayez vendu",
+      "qu'ils aient vendu"
+    ],
+    "imparfait": [
+      "que je vendisse",
+      "que tu vendisses",
+      "qu'il vendît",
+      "que nous vendissions",
+      "que vous vendissiez",
+      "qu'ils vendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse vendu",
+      "que tu eusses vendu",
+      "qu'il eût vendu",
+      "que nous eussions vendu",
+      "que vous eussiez vendu",
+      "qu'ils eussent vendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je vendrais",
+      "tu vendrais",
+      "il vendrait",
+      "nous vendrions",
+      "vous vendriez",
+      "ils vendraient"
+    ],
+    "passé": [
+      "j'aurais vendu",
+      "tu aurais vendu",
+      "il aurait vendu",
+      "nous aurions vendu",
+      "vous auriez vendu",
+      "ils auraient vendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vends",
+      "vendons",
+      "vendez"
+    ],
+    "passé": [
+      "aie vendu",
+      "ayons vendu",
+      "ayez vendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "vendre"
+    ],
+    "passé": [
+      "avoir vendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "vendant"
+    ],
+    "passé": [
+      "vendu",
+      "ayant vendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en vendant"
+    ],
+    "passé": [
+      "en ayant vendu"
+    ]
+  }
+}

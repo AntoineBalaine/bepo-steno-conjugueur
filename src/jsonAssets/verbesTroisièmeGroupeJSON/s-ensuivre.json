@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il s'ensuit",
+      "-",
+      "-",
+      "ils s'ensuivent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "il s'est ensuivi",
+      "-",
+      "-",
+      "ils se sont ensuivis"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il s'ensuivait",
+      "-",
+      "-",
+      "ils s'ensuivaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "il s'était ensuivi",
+      "-",
+      "-",
+      "ils s'étaient ensuivis"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "il s'ensuivit",
+      "-",
+      "-",
+      "ils s'ensuivirent"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "il se fut ensuivi",
+      "-",
+      "-",
+      "ils se furent ensuivis"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il s'ensuivra",
+      "-",
+      "-",
+      "ils s'ensuivront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "il se sera ensuivi",
+      "-",
+      "-",
+      "ils se seront ensuivis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "qu'il s'ensuive",
+      "-",
+      "-",
+      "qu'ils s'ensuivent"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "qu'il se soit ensuivi",
+      "-",
+      "-",
+      "qu'ils se soient ensuivis"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "qu'il s'ensuivît",
+      "-",
+      "-",
+      "qu'ils s'ensuivissent"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "qu'il se fût ensuivi",
+      "-",
+      "-",
+      "qu'ils se fussent ensuivis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "il s'ensuivrait",
+      "-",
+      "-",
+      "ils s'ensuivraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "il se serait ensuivi",
+      "-",
+      "-",
+      "ils se seraient ensuivis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'ensuivre"
+    ],
+    "passé": [
+      "s'être ensuivi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'ensuivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant ensuivi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'ensuivant"
+    ],
+    "passé": [
+      "en s'étant ensuivi"
+    ]
+  }
+}

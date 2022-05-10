@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je ressors",
+      "tu ressors",
+      "il ressort",
+      "nous ressortons",
+      "vous ressortez",
+      "ils ressortent"
+    ],
+    "passé composé": [
+      "j'ai ressorti",
+      "tu as ressorti",
+      "il a ressorti",
+      "nous avons ressorti",
+      "vous avez ressorti",
+      "ils ont ressorti"
+    ],
+    "imparfait": [
+      "je ressortais",
+      "tu ressortais",
+      "il ressortait",
+      "nous ressortions",
+      "vous ressortiez",
+      "ils ressortaient"
+    ],
+    "plus que parfait": [
+      "j'avais ressorti",
+      "tu avais ressorti",
+      "il avait ressorti",
+      "nous avions ressorti",
+      "vous aviez ressorti",
+      "ils avaient ressorti"
+    ],
+    "passé simple": [
+      "je ressortis",
+      "tu ressortis",
+      "il ressortit",
+      "nous ressortîmes",
+      "vous ressortîtes",
+      "ils ressortirent"
+    ],
+    "passé antérieur": [
+      "j'eus ressorti",
+      "tu eus ressorti",
+      "il eut ressorti",
+      "nous eûmes ressorti",
+      "vous eûtes ressorti",
+      "ils eurent ressorti"
+    ],
+    "futur simple": [
+      "je ressortirai",
+      "tu ressortiras",
+      "il ressortira",
+      "nous ressortirons",
+      "vous ressortirez",
+      "ils ressortiront"
+    ],
+    "futur antérieur": [
+      "j'aurai ressorti",
+      "tu auras ressorti",
+      "il aura ressorti",
+      "nous aurons ressorti",
+      "vous aurez ressorti",
+      "ils auront ressorti"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je ressorte",
+      "que tu ressortes",
+      "qu'il ressorte",
+      "que nous ressortions",
+      "que vous ressortiez",
+      "qu'ils ressortent"
+    ],
+    "passé": [
+      "que j'aie ressorti",
+      "que tu aies ressorti",
+      "qu'il ait ressorti",
+      "que nous ayons ressorti",
+      "que vous ayez ressorti",
+      "qu'ils aient ressorti"
+    ],
+    "imparfait": [
+      "que je ressortisse",
+      "que tu ressortisses",
+      "qu'il ressortît",
+      "que nous ressortissions",
+      "que vous ressortissiez",
+      "qu'ils ressortissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse ressorti",
+      "que tu eusses ressorti",
+      "qu'il eût ressorti",
+      "que nous eussions ressorti",
+      "que vous eussiez ressorti",
+      "qu'ils eussent ressorti"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je ressortirais",
+      "tu ressortirais",
+      "il ressortirait",
+      "nous ressortirions",
+      "vous ressortiriez",
+      "ils ressortiraient"
+    ],
+    "passé": [
+      "j'aurais ressorti",
+      "tu aurais ressorti",
+      "il aurait ressorti",
+      "nous aurions ressorti",
+      "vous auriez ressorti",
+      "ils auraient ressorti"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ressors",
+      "ressortons",
+      "ressortez"
+    ],
+    "passé": [
+      "aie ressorti",
+      "ayons ressorti",
+      "ayez ressorti"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "ressortir"
+    ],
+    "passé": [
+      "avoir ressorti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "ressortant"
+    ],
+    "passé": [
+      "ressorti",
+      "ayant ressorti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en ressortant"
+    ],
+    "passé": [
+      "en ayant ressorti"
+    ]
+  }
+}

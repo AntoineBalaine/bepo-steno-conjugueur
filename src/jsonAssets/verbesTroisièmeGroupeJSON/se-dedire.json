@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me dédis",
+      "tu te dédis",
+      "il se dédit",
+      "nous nous dédisons",
+      "vous vous dédites",
+      "ils se dédisent"
+    ],
+    "passé composé": [
+      "je me suis dédit",
+      "tu t'es dédit",
+      "il s'est dédit",
+      "nous nous sommes dédits",
+      "vous vous êtes dédits",
+      "ils se sont dédits"
+    ],
+    "imparfait": [
+      "je me dédisais",
+      "tu te dédisais",
+      "il se dédisait",
+      "nous nous dédisions",
+      "vous vous dédisiez",
+      "ils se dédisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais dédit",
+      "tu t'étais dédit",
+      "il s'était dédit",
+      "nous nous étions dédits",
+      "vous vous étiez dédits",
+      "ils s'étaient dédits"
+    ],
+    "passé simple": [
+      "je me dédis",
+      "tu te dédis",
+      "il se dédit",
+      "nous nous dédîmes",
+      "vous vous dédîtes",
+      "ils se dédirent"
+    ],
+    "passé antérieur": [
+      "je me fus dédit",
+      "tu te fus dédit",
+      "il se fut dédit",
+      "nous nous fûmes dédits",
+      "vous vous fûtes dédits",
+      "ils se furent dédits"
+    ],
+    "futur simple": [
+      "je me dédirai",
+      "tu te dédiras",
+      "il se dédira",
+      "nous nous dédirons",
+      "vous vous dédirez",
+      "ils se dédiront"
+    ],
+    "futur antérieur": [
+      "je me serai dédit",
+      "tu te seras dédit",
+      "il se sera dédit",
+      "nous nous serons dédits",
+      "vous vous serez dédits",
+      "ils se seront dédits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me dédise",
+      "que tu te dédises",
+      "qu'il se dédise",
+      "que nous nous dédisions",
+      "que vous vous dédisiez",
+      "qu'ils se dédisent"
+    ],
+    "passé": [
+      "que je me sois dédit",
+      "que tu te sois dédit",
+      "qu'il se soit dédit",
+      "que nous nous soyons dédits",
+      "que vous vous soyez dédits",
+      "qu'ils se soient dédits"
+    ],
+    "imparfait": [
+      "que je me dédisse",
+      "que tu te dédisses",
+      "qu'il se dédît",
+      "que nous nous dédissions",
+      "que vous vous dédissiez",
+      "qu'ils se dédissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse dédit",
+      "que tu te fusses dédit",
+      "qu'il se fût dédit",
+      "que nous nous fussions dédits",
+      "que vous vous fussiez dédits",
+      "qu'ils se fussent dédits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me dédirais",
+      "tu te dédirais",
+      "il se dédirait",
+      "nous nous dédirions",
+      "vous vous dédiriez",
+      "ils se dédiraient"
+    ],
+    "passé": [
+      "je me serais dédit",
+      "tu te serais dédit",
+      "il se serait dédit",
+      "nous nous serions dédits",
+      "vous vous seriez dédits",
+      "ils se seraient dédits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dédis-toi",
+      "dédisons-nous",
+      "dédites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se dédire"
+    ],
+    "passé": [
+      "s'être dédit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se dédisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant dédit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se dédisant"
+    ],
+    "passé": [
+      "en s'étant dédit"
+    ]
+  }
+}

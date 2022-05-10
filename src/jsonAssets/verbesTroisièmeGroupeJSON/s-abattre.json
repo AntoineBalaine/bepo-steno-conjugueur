@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'abats",
+      "tu t'abats",
+      "il s'abat",
+      "nous nous abattons",
+      "vous vous abattez",
+      "ils s'abattent"
+    ],
+    "passé composé": [
+      "je me suis abattu",
+      "tu t'es abattu",
+      "il s'est abattu",
+      "nous nous sommes abattus",
+      "vous vous êtes abattus",
+      "ils se sont abattus"
+    ],
+    "imparfait": [
+      "je m'abattais",
+      "tu t'abattais",
+      "il s'abattait",
+      "nous nous abattions",
+      "vous vous abattiez",
+      "ils s'abattaient"
+    ],
+    "plus que parfait": [
+      "je m'étais abattu",
+      "tu t'étais abattu",
+      "il s'était abattu",
+      "nous nous étions abattus",
+      "vous vous étiez abattus",
+      "ils s'étaient abattus"
+    ],
+    "passé simple": [
+      "je m'abattis",
+      "tu t'abattis",
+      "il s'abattit",
+      "nous nous abattîmes",
+      "vous vous abattîtes",
+      "ils s'abattirent"
+    ],
+    "passé antérieur": [
+      "je me fus abattu",
+      "tu te fus abattu",
+      "il se fut abattu",
+      "nous nous fûmes abattus",
+      "vous vous fûtes abattus",
+      "ils se furent abattus"
+    ],
+    "futur simple": [
+      "je m'abattrai",
+      "tu t'abattras",
+      "il s'abattra",
+      "nous nous abattrons",
+      "vous vous abattrez",
+      "ils s'abattront"
+    ],
+    "futur antérieur": [
+      "je me serai abattu",
+      "tu te seras abattu",
+      "il se sera abattu",
+      "nous nous serons abattus",
+      "vous vous serez abattus",
+      "ils se seront abattus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'abatte",
+      "que tu t'abattes",
+      "qu'il s'abatte",
+      "que nous nous abattions",
+      "que vous vous abattiez",
+      "qu'ils s'abattent"
+    ],
+    "passé": [
+      "que je me sois abattu",
+      "que tu te sois abattu",
+      "qu'il se soit abattu",
+      "que nous nous soyons abattus",
+      "que vous vous soyez abattus",
+      "qu'ils se soient abattus"
+    ],
+    "imparfait": [
+      "que je m'abattisse",
+      "que tu t'abattisses",
+      "qu'il s'abattît",
+      "que nous nous abattissions",
+      "que vous vous abattissiez",
+      "qu'ils s'abattissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse abattu",
+      "que tu te fusses abattu",
+      "qu'il se fût abattu",
+      "que nous nous fussions abattus",
+      "que vous vous fussiez abattus",
+      "qu'ils se fussent abattus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'abattrais",
+      "tu t'abattrais",
+      "il s'abattrait",
+      "nous nous abattrions",
+      "vous vous abattriez",
+      "ils s'abattraient"
+    ],
+    "passé": [
+      "je me serais abattu",
+      "tu te serais abattu",
+      "il se serait abattu",
+      "nous nous serions abattus",
+      "vous vous seriez abattus",
+      "ils se seraient abattus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "abats-toi",
+      "abattons-nous",
+      "abattez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'abattre"
+    ],
+    "passé": [
+      "s'être abattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'abattant"
+    ],
+    "passé": [
+      "-",
+      "s'étant abattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'abattant"
+    ],
+    "passé": [
+      "en s'étant abattu"
+    ]
+  }
+}

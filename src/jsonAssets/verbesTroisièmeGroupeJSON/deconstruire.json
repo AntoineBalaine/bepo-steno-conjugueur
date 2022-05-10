@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je déconstruis",
+      "tu déconstruis",
+      "il déconstruit",
+      "nous déconstruisons",
+      "vous déconstruisez",
+      "ils déconstruisent"
+    ],
+    "passé composé": [
+      "j'ai déconstruit",
+      "tu as déconstruit",
+      "il a déconstruit",
+      "nous avons déconstruit",
+      "vous avez déconstruit",
+      "ils ont déconstruit"
+    ],
+    "imparfait": [
+      "je déconstruisais",
+      "tu déconstruisais",
+      "il déconstruisait",
+      "nous déconstruisions",
+      "vous déconstruisiez",
+      "ils déconstruisaient"
+    ],
+    "plus que parfait": [
+      "j'avais déconstruit",
+      "tu avais déconstruit",
+      "il avait déconstruit",
+      "nous avions déconstruit",
+      "vous aviez déconstruit",
+      "ils avaient déconstruit"
+    ],
+    "passé simple": [
+      "je déconstruisis",
+      "tu déconstruisis",
+      "il déconstruisit",
+      "nous déconstruisîmes",
+      "vous déconstruisîtes",
+      "ils déconstruisirent"
+    ],
+    "passé antérieur": [
+      "j'eus déconstruit",
+      "tu eus déconstruit",
+      "il eut déconstruit",
+      "nous eûmes déconstruit",
+      "vous eûtes déconstruit",
+      "ils eurent déconstruit"
+    ],
+    "futur simple": [
+      "je déconstruirai",
+      "tu déconstruiras",
+      "il déconstruira",
+      "nous déconstruirons",
+      "vous déconstruirez",
+      "ils déconstruiront"
+    ],
+    "futur antérieur": [
+      "j'aurai déconstruit",
+      "tu auras déconstruit",
+      "il aura déconstruit",
+      "nous aurons déconstruit",
+      "vous aurez déconstruit",
+      "ils auront déconstruit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je déconstruise",
+      "que tu déconstruises",
+      "qu'il déconstruise",
+      "que nous déconstruisions",
+      "que vous déconstruisiez",
+      "qu'ils déconstruisent"
+    ],
+    "passé": [
+      "que j'aie déconstruit",
+      "que tu aies déconstruit",
+      "qu'il ait déconstruit",
+      "que nous ayons déconstruit",
+      "que vous ayez déconstruit",
+      "qu'ils aient déconstruit"
+    ],
+    "imparfait": [
+      "que je déconstruisisse",
+      "que tu déconstruisisses",
+      "qu'il déconstruisît",
+      "que nous déconstruisissions",
+      "que vous déconstruisissiez",
+      "qu'ils déconstruisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse déconstruit",
+      "que tu eusses déconstruit",
+      "qu'il eût déconstruit",
+      "que nous eussions déconstruit",
+      "que vous eussiez déconstruit",
+      "qu'ils eussent déconstruit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je déconstruirais",
+      "tu déconstruirais",
+      "il déconstruirait",
+      "nous déconstruirions",
+      "vous déconstruiriez",
+      "ils déconstruiraient"
+    ],
+    "passé": [
+      "j'aurais déconstruit",
+      "tu aurais déconstruit",
+      "il aurait déconstruit",
+      "nous aurions déconstruit",
+      "vous auriez déconstruit",
+      "ils auraient déconstruit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déconstruis",
+      "déconstruisons",
+      "déconstruisez"
+    ],
+    "passé": [
+      "aie déconstruit",
+      "ayons déconstruit",
+      "ayez déconstruit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "déconstruire"
+    ],
+    "passé": [
+      "avoir déconstruit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "déconstruisant"
+    ],
+    "passé": [
+      "déconstruit",
+      "ayant déconstruit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en déconstruisant"
+    ],
+    "passé": [
+      "en ayant déconstruit"
+    ]
+  }
+}

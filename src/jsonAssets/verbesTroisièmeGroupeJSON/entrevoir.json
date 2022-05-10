@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'entrevois",
+      "tu entrevois",
+      "il entrevoit",
+      "nous entrevoyons",
+      "vous entrevoyez",
+      "ils entrevoient"
+    ],
+    "passé composé": [
+      "j'ai entrevu",
+      "tu as entrevu",
+      "il a entrevu",
+      "nous avons entrevu",
+      "vous avez entrevu",
+      "ils ont entrevu"
+    ],
+    "imparfait": [
+      "j'entrevoyais",
+      "tu entrevoyais",
+      "il entrevoyait",
+      "nous entrevoyions",
+      "vous entrevoyiez",
+      "ils entrevoyaient"
+    ],
+    "plus que parfait": [
+      "j'avais entrevu",
+      "tu avais entrevu",
+      "il avait entrevu",
+      "nous avions entrevu",
+      "vous aviez entrevu",
+      "ils avaient entrevu"
+    ],
+    "passé simple": [
+      "j'entrevis",
+      "tu entrevis",
+      "il entrevit",
+      "nous entrevîmes",
+      "vous entrevîtes",
+      "ils entrevirent"
+    ],
+    "passé antérieur": [
+      "j'eus entrevu",
+      "tu eus entrevu",
+      "il eut entrevu",
+      "nous eûmes entrevu",
+      "vous eûtes entrevu",
+      "ils eurent entrevu"
+    ],
+    "futur simple": [
+      "j'entreverrai",
+      "tu entreverras",
+      "il entreverra",
+      "nous entreverrons",
+      "vous entreverrez",
+      "ils entreverront"
+    ],
+    "futur antérieur": [
+      "j'aurai entrevu",
+      "tu auras entrevu",
+      "il aura entrevu",
+      "nous aurons entrevu",
+      "vous aurez entrevu",
+      "ils auront entrevu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'entrevoie",
+      "que tu entrevoies",
+      "qu'il entrevoie",
+      "que nous entrevoyions",
+      "que vous entrevoyiez",
+      "qu'ils entrevoient"
+    ],
+    "passé": [
+      "que j'aie entrevu",
+      "que tu aies entrevu",
+      "qu'il ait entrevu",
+      "que nous ayons entrevu",
+      "que vous ayez entrevu",
+      "qu'ils aient entrevu"
+    ],
+    "imparfait": [
+      "que j'entrevisse",
+      "que tu entrevisses",
+      "qu'il entrevît",
+      "que nous entrevissions",
+      "que vous entrevissiez",
+      "qu'ils entrevissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse entrevu",
+      "que tu eusses entrevu",
+      "qu'il eût entrevu",
+      "que nous eussions entrevu",
+      "que vous eussiez entrevu",
+      "qu'ils eussent entrevu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'entreverrais",
+      "tu entreverrais",
+      "il entreverrait",
+      "nous entreverrions",
+      "vous entreverriez",
+      "ils entreverraient"
+    ],
+    "passé": [
+      "j'aurais entrevu",
+      "tu aurais entrevu",
+      "il aurait entrevu",
+      "nous aurions entrevu",
+      "vous auriez entrevu",
+      "ils auraient entrevu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entrevois",
+      "entrevoyons",
+      "entrevoyez"
+    ],
+    "passé": [
+      "aie entrevu",
+      "ayons entrevu",
+      "ayez entrevu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "entrevoir"
+    ],
+    "passé": [
+      "avoir entrevu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "entrevoyant"
+    ],
+    "passé": [
+      "entrevu",
+      "ayant entrevu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en entrevoyant"
+    ],
+    "passé": [
+      "en ayant entrevu"
+    ]
+  }
+}

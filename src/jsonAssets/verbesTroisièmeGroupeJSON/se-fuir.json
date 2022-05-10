@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me fuis",
+      "tu te fuis",
+      "il se fuit",
+      "nous nous fuyons",
+      "vous vous fuyez",
+      "ils se fuient"
+    ],
+    "passé composé": [
+      "je me suis fui",
+      "tu t'es fui",
+      "il s'est fui",
+      "nous nous sommes fuis",
+      "vous vous êtes fuis",
+      "ils se sont fuis"
+    ],
+    "imparfait": [
+      "je me fuyais",
+      "tu te fuyais",
+      "il se fuyait",
+      "nous nous fuyions",
+      "vous vous fuyiez",
+      "ils se fuyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais fui",
+      "tu t'étais fui",
+      "il s'était fui",
+      "nous nous étions fuis",
+      "vous vous étiez fuis",
+      "ils s'étaient fuis"
+    ],
+    "passé simple": [
+      "je me fuis",
+      "tu te fuis",
+      "il se fuit",
+      "nous nous fuîmes",
+      "vous vous fuîtes",
+      "ils se fuirent"
+    ],
+    "passé antérieur": [
+      "je me fus fui",
+      "tu te fus fui",
+      "il se fut fui",
+      "nous nous fûmes fuis",
+      "vous vous fûtes fuis",
+      "ils se furent fuis"
+    ],
+    "futur simple": [
+      "je me fuirai",
+      "tu te fuiras",
+      "il se fuira",
+      "nous nous fuirons",
+      "vous vous fuirez",
+      "ils se fuiront"
+    ],
+    "futur antérieur": [
+      "je me serai fui",
+      "tu te seras fui",
+      "il se sera fui",
+      "nous nous serons fuis",
+      "vous vous serez fuis",
+      "ils se seront fuis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me fuie",
+      "que tu te fuies",
+      "qu'il se fuie",
+      "que nous nous fuyions",
+      "que vous vous fuyiez",
+      "qu'ils se fuient"
+    ],
+    "passé": [
+      "que je me sois fui",
+      "que tu te sois fui",
+      "qu'il se soit fui",
+      "que nous nous soyons fuis",
+      "que vous vous soyez fuis",
+      "qu'ils se soient fuis"
+    ],
+    "imparfait": [
+      "que je me fuisse",
+      "que tu te fuisses",
+      "qu'il se fuît",
+      "que nous nous fuissions",
+      "que vous vous fuissiez",
+      "qu'ils se fuissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse fui",
+      "que tu te fusses fui",
+      "qu'il se fût fui",
+      "que nous nous fussions fuis",
+      "que vous vous fussiez fuis",
+      "qu'ils se fussent fuis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me fuirais",
+      "tu te fuirais",
+      "il se fuirait",
+      "nous nous fuirions",
+      "vous vous fuiriez",
+      "ils se fuiraient"
+    ],
+    "passé": [
+      "je me serais fui",
+      "tu te serais fui",
+      "il se serait fui",
+      "nous nous serions fuis",
+      "vous vous seriez fuis",
+      "ils se seraient fuis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fuis-toi",
+      "fuyons-nous",
+      "fuyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se fuir"
+    ],
+    "passé": [
+      "s'être fui"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se fuyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant fui"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se fuyant"
+    ],
+    "passé": [
+      "en s'étant fui"
+    ]
+  }
+}

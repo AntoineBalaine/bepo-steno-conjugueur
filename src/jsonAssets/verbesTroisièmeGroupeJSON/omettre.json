@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'omets",
+      "tu omets",
+      "il omet",
+      "nous omettons",
+      "vous omettez",
+      "ils omettent"
+    ],
+    "passé composé": [
+      "j'ai omis",
+      "tu as omis",
+      "il a omis",
+      "nous avons omis",
+      "vous avez omis",
+      "ils ont omis"
+    ],
+    "imparfait": [
+      "j'omettais",
+      "tu omettais",
+      "il omettait",
+      "nous omettions",
+      "vous omettiez",
+      "ils omettaient"
+    ],
+    "plus que parfait": [
+      "j'avais omis",
+      "tu avais omis",
+      "il avait omis",
+      "nous avions omis",
+      "vous aviez omis",
+      "ils avaient omis"
+    ],
+    "passé simple": [
+      "j'omis",
+      "tu omis",
+      "il omit",
+      "nous omîmes",
+      "vous omîtes",
+      "ils omirent"
+    ],
+    "passé antérieur": [
+      "j'eus omis",
+      "tu eus omis",
+      "il eut omis",
+      "nous eûmes omis",
+      "vous eûtes omis",
+      "ils eurent omis"
+    ],
+    "futur simple": [
+      "j'omettrai",
+      "tu omettras",
+      "il omettra",
+      "nous omettrons",
+      "vous omettrez",
+      "ils omettront"
+    ],
+    "futur antérieur": [
+      "j'aurai omis",
+      "tu auras omis",
+      "il aura omis",
+      "nous aurons omis",
+      "vous aurez omis",
+      "ils auront omis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'omette",
+      "que tu omettes",
+      "qu'il omette",
+      "que nous omettions",
+      "que vous omettiez",
+      "qu'ils omettent"
+    ],
+    "passé": [
+      "que j'aie omis",
+      "que tu aies omis",
+      "qu'il ait omis",
+      "que nous ayons omis",
+      "que vous ayez omis",
+      "qu'ils aient omis"
+    ],
+    "imparfait": [
+      "que j'omisse",
+      "que tu omisses",
+      "qu'il omît",
+      "que nous omissions",
+      "que vous omissiez",
+      "qu'ils omissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse omis",
+      "que tu eusses omis",
+      "qu'il eût omis",
+      "que nous eussions omis",
+      "que vous eussiez omis",
+      "qu'ils eussent omis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'omettrais",
+      "tu omettrais",
+      "il omettrait",
+      "nous omettrions",
+      "vous omettriez",
+      "ils omettraient"
+    ],
+    "passé": [
+      "j'aurais omis",
+      "tu aurais omis",
+      "il aurait omis",
+      "nous aurions omis",
+      "vous auriez omis",
+      "ils auraient omis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "omets",
+      "omettons",
+      "omettez"
+    ],
+    "passé": [
+      "aie omis",
+      "ayons omis",
+      "ayez omis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "omettre"
+    ],
+    "passé": [
+      "avoir omis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "omettant"
+    ],
+    "passé": [
+      "omis",
+      "ayant omis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en omettant"
+    ],
+    "passé": [
+      "en ayant omis"
+    ]
+  }
+}

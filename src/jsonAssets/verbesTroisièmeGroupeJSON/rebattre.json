@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rebats",
+      "tu rebats",
+      "il rebat",
+      "nous rebattons",
+      "vous rebattez",
+      "ils rebattent"
+    ],
+    "passé composé": [
+      "j'ai rebattu",
+      "tu as rebattu",
+      "il a rebattu",
+      "nous avons rebattu",
+      "vous avez rebattu",
+      "ils ont rebattu"
+    ],
+    "imparfait": [
+      "je rebattais",
+      "tu rebattais",
+      "il rebattait",
+      "nous rebattions",
+      "vous rebattiez",
+      "ils rebattaient"
+    ],
+    "plus que parfait": [
+      "j'avais rebattu",
+      "tu avais rebattu",
+      "il avait rebattu",
+      "nous avions rebattu",
+      "vous aviez rebattu",
+      "ils avaient rebattu"
+    ],
+    "passé simple": [
+      "je rebattis",
+      "tu rebattis",
+      "il rebattit",
+      "nous rebattîmes",
+      "vous rebattîtes",
+      "ils rebattirent"
+    ],
+    "passé antérieur": [
+      "j'eus rebattu",
+      "tu eus rebattu",
+      "il eut rebattu",
+      "nous eûmes rebattu",
+      "vous eûtes rebattu",
+      "ils eurent rebattu"
+    ],
+    "futur simple": [
+      "je rebattrai",
+      "tu rebattras",
+      "il rebattra",
+      "nous rebattrons",
+      "vous rebattrez",
+      "ils rebattront"
+    ],
+    "futur antérieur": [
+      "j'aurai rebattu",
+      "tu auras rebattu",
+      "il aura rebattu",
+      "nous aurons rebattu",
+      "vous aurez rebattu",
+      "ils auront rebattu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rebatte",
+      "que tu rebattes",
+      "qu'il rebatte",
+      "que nous rebattions",
+      "que vous rebattiez",
+      "qu'ils rebattent"
+    ],
+    "passé": [
+      "que j'aie rebattu",
+      "que tu aies rebattu",
+      "qu'il ait rebattu",
+      "que nous ayons rebattu",
+      "que vous ayez rebattu",
+      "qu'ils aient rebattu"
+    ],
+    "imparfait": [
+      "que je rebattisse",
+      "que tu rebattisses",
+      "qu'il rebattît",
+      "que nous rebattissions",
+      "que vous rebattissiez",
+      "qu'ils rebattissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rebattu",
+      "que tu eusses rebattu",
+      "qu'il eût rebattu",
+      "que nous eussions rebattu",
+      "que vous eussiez rebattu",
+      "qu'ils eussent rebattu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rebattrais",
+      "tu rebattrais",
+      "il rebattrait",
+      "nous rebattrions",
+      "vous rebattriez",
+      "ils rebattraient"
+    ],
+    "passé": [
+      "j'aurais rebattu",
+      "tu aurais rebattu",
+      "il aurait rebattu",
+      "nous aurions rebattu",
+      "vous auriez rebattu",
+      "ils auraient rebattu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rebats",
+      "rebattons",
+      "rebattez"
+    ],
+    "passé": [
+      "aie rebattu",
+      "ayons rebattu",
+      "ayez rebattu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rebattre"
+    ],
+    "passé": [
+      "avoir rebattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rebattant"
+    ],
+    "passé": [
+      "rebattu",
+      "ayant rebattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rebattant"
+    ],
+    "passé": [
+      "en ayant rebattu"
+    ]
+  }
+}

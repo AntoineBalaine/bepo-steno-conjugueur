@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je compromets",
+      "tu compromets",
+      "il compromet",
+      "nous compromettons",
+      "vous compromettez",
+      "ils compromettent"
+    ],
+    "passé composé": [
+      "j'ai compromis",
+      "tu as compromis",
+      "il a compromis",
+      "nous avons compromis",
+      "vous avez compromis",
+      "ils ont compromis"
+    ],
+    "imparfait": [
+      "je compromettais",
+      "tu compromettais",
+      "il compromettait",
+      "nous compromettions",
+      "vous compromettiez",
+      "ils compromettaient"
+    ],
+    "plus que parfait": [
+      "j'avais compromis",
+      "tu avais compromis",
+      "il avait compromis",
+      "nous avions compromis",
+      "vous aviez compromis",
+      "ils avaient compromis"
+    ],
+    "passé simple": [
+      "je compromis",
+      "tu compromis",
+      "il compromit",
+      "nous compromîmes",
+      "vous compromîtes",
+      "ils compromirent"
+    ],
+    "passé antérieur": [
+      "j'eus compromis",
+      "tu eus compromis",
+      "il eut compromis",
+      "nous eûmes compromis",
+      "vous eûtes compromis",
+      "ils eurent compromis"
+    ],
+    "futur simple": [
+      "je compromettrai",
+      "tu compromettras",
+      "il compromettra",
+      "nous compromettrons",
+      "vous compromettrez",
+      "ils compromettront"
+    ],
+    "futur antérieur": [
+      "j'aurai compromis",
+      "tu auras compromis",
+      "il aura compromis",
+      "nous aurons compromis",
+      "vous aurez compromis",
+      "ils auront compromis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je compromette",
+      "que tu compromettes",
+      "qu'il compromette",
+      "que nous compromettions",
+      "que vous compromettiez",
+      "qu'ils compromettent"
+    ],
+    "passé": [
+      "que j'aie compromis",
+      "que tu aies compromis",
+      "qu'il ait compromis",
+      "que nous ayons compromis",
+      "que vous ayez compromis",
+      "qu'ils aient compromis"
+    ],
+    "imparfait": [
+      "que je compromisse",
+      "que tu compromisses",
+      "qu'il compromît",
+      "que nous compromissions",
+      "que vous compromissiez",
+      "qu'ils compromissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse compromis",
+      "que tu eusses compromis",
+      "qu'il eût compromis",
+      "que nous eussions compromis",
+      "que vous eussiez compromis",
+      "qu'ils eussent compromis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je compromettrais",
+      "tu compromettrais",
+      "il compromettrait",
+      "nous compromettrions",
+      "vous compromettriez",
+      "ils compromettraient"
+    ],
+    "passé": [
+      "j'aurais compromis",
+      "tu aurais compromis",
+      "il aurait compromis",
+      "nous aurions compromis",
+      "vous auriez compromis",
+      "ils auraient compromis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "compromets",
+      "compromettons",
+      "compromettez"
+    ],
+    "passé": [
+      "aie compromis",
+      "ayons compromis",
+      "ayez compromis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "compromettre"
+    ],
+    "passé": [
+      "avoir compromis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "compromettant"
+    ],
+    "passé": [
+      "compromis",
+      "ayant compromis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en compromettant"
+    ],
+    "passé": [
+      "en ayant compromis"
+    ]
+  }
+}

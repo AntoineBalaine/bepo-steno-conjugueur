@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entrenuis",
+      "tu t'entrenuis",
+      "il s'entrenuit",
+      "nous nous entrenuisons",
+      "vous vous entrenuisez",
+      "ils s'entrenuisent"
+    ],
+    "passé composé": [
+      "je me suis entrenuit",
+      "tu t'es entrenuit",
+      "il s'est entrenuit",
+      "nous nous sommes entrenuits",
+      "vous vous êtes entrenuits",
+      "ils se sont entrenuits"
+    ],
+    "imparfait": [
+      "je m'entrenuisais",
+      "tu t'entrenuisais",
+      "il s'entrenuisait",
+      "nous nous entrenuisions",
+      "vous vous entrenuisiez",
+      "ils s'entrenuisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entrenuit",
+      "tu t'étais entrenuit",
+      "il s'était entrenuit",
+      "nous nous étions entrenuits",
+      "vous vous étiez entrenuits",
+      "ils s'étaient entrenuits"
+    ],
+    "passé simple": [
+      "je m'entrenuisis",
+      "tu t'entrenuisis",
+      "il s'entrenuisit",
+      "nous nous entrenuisîmes",
+      "vous vous entrenuisîtes",
+      "ils s'entrenuisirent"
+    ],
+    "passé antérieur": [
+      "je me fus entrenuit",
+      "tu te fus entrenuit",
+      "il se fut entrenuit",
+      "nous nous fûmes entrenuits",
+      "vous vous fûtes entrenuits",
+      "ils se furent entrenuits"
+    ],
+    "futur simple": [
+      "je m'entrenuirai",
+      "tu t'entrenuiras",
+      "il s'entrenuira",
+      "nous nous entrenuirons",
+      "vous vous entrenuirez",
+      "ils s'entrenuiront"
+    ],
+    "futur antérieur": [
+      "je me serai entrenuit",
+      "tu te seras entrenuit",
+      "il se sera entrenuit",
+      "nous nous serons entrenuits",
+      "vous vous serez entrenuits",
+      "ils se seront entrenuits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entrenuise",
+      "que tu t'entrenuises",
+      "qu'il s'entrenuise",
+      "que nous nous entrenuisions",
+      "que vous vous entrenuisiez",
+      "qu'ils s'entrenuisent"
+    ],
+    "passé": [
+      "que je me sois entrenuit",
+      "que tu te sois entrenuit",
+      "qu'il se soit entrenuit",
+      "que nous nous soyons entrenuits",
+      "que vous vous soyez entrenuits",
+      "qu'ils se soient entrenuits"
+    ],
+    "imparfait": [
+      "que je m'entrenuisisse",
+      "que tu t'entrenuisisses",
+      "qu'il s'entrenuisît",
+      "que nous nous entrenuisissions",
+      "que vous vous entrenuisissiez",
+      "qu'ils s'entrenuisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entrenuit",
+      "que tu te fusses entrenuit",
+      "qu'il se fût entrenuit",
+      "que nous nous fussions entrenuits",
+      "que vous vous fussiez entrenuits",
+      "qu'ils se fussent entrenuits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entrenuirais",
+      "tu t'entrenuirais",
+      "il s'entrenuirait",
+      "nous nous entrenuirions",
+      "vous vous entrenuiriez",
+      "ils s'entrenuiraient"
+    ],
+    "passé": [
+      "je me serais entrenuit",
+      "tu te serais entrenuit",
+      "il se serait entrenuit",
+      "nous nous serions entrenuits",
+      "vous vous seriez entrenuits",
+      "ils se seraient entrenuits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entrenuis-toi",
+      "entrenuisons-nous",
+      "entrenuisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entrenuire"
+    ],
+    "passé": [
+      "s'être entrenuit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entrenuisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entrenuit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entrenuisant"
+    ],
+    "passé": [
+      "en s'étant entrenuit"
+    ]
+  }
+}

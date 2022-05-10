@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me circonscris",
+      "tu te circonscris",
+      "il se circonscrit",
+      "nous nous circonscrivons",
+      "vous vous circonscrivez",
+      "ils se circonscrivent"
+    ],
+    "passé composé": [
+      "je me suis circonscrit",
+      "tu t'es circonscrit",
+      "il s'est circonscrit",
+      "nous nous sommes circonscrits",
+      "vous vous êtes circonscrits",
+      "ils se sont circonscrits"
+    ],
+    "imparfait": [
+      "je me circonscrivais",
+      "tu te circonscrivais",
+      "il se circonscrivait",
+      "nous nous circonscrivions",
+      "vous vous circonscriviez",
+      "ils se circonscrivaient"
+    ],
+    "plus que parfait": [
+      "je m'étais circonscrit",
+      "tu t'étais circonscrit",
+      "il s'était circonscrit",
+      "nous nous étions circonscrits",
+      "vous vous étiez circonscrits",
+      "ils s'étaient circonscrits"
+    ],
+    "passé simple": [
+      "je me circonscrivis",
+      "tu te circonscrivis",
+      "il se circonscrivit",
+      "nous nous circonscrivîmes",
+      "vous vous circonscrivîtes",
+      "ils se circonscrivirent"
+    ],
+    "passé antérieur": [
+      "je me fus circonscrit",
+      "tu te fus circonscrit",
+      "il se fut circonscrit",
+      "nous nous fûmes circonscrits",
+      "vous vous fûtes circonscrits",
+      "ils se furent circonscrits"
+    ],
+    "futur simple": [
+      "je me circonscrirai",
+      "tu te circonscriras",
+      "il se circonscrira",
+      "nous nous circonscrirons",
+      "vous vous circonscrirez",
+      "ils se circonscriront"
+    ],
+    "futur antérieur": [
+      "je me serai circonscrit",
+      "tu te seras circonscrit",
+      "il se sera circonscrit",
+      "nous nous serons circonscrits",
+      "vous vous serez circonscrits",
+      "ils se seront circonscrits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me circonscrive",
+      "que tu te circonscrives",
+      "qu'il se circonscrive",
+      "que nous nous circonscrivions",
+      "que vous vous circonscriviez",
+      "qu'ils se circonscrivent"
+    ],
+    "passé": [
+      "que je me sois circonscrit",
+      "que tu te sois circonscrit",
+      "qu'il se soit circonscrit",
+      "que nous nous soyons circonscrits",
+      "que vous vous soyez circonscrits",
+      "qu'ils se soient circonscrits"
+    ],
+    "imparfait": [
+      "que je me circonscrivisse",
+      "que tu te circonscrivisses",
+      "qu'il se circonscrivît",
+      "que nous nous circonscrivissions",
+      "que vous vous circonscrivissiez",
+      "qu'ils se circonscrivissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse circonscrit",
+      "que tu te fusses circonscrit",
+      "qu'il se fût circonscrit",
+      "que nous nous fussions circonscrits",
+      "que vous vous fussiez circonscrits",
+      "qu'ils se fussent circonscrits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me circonscrirais",
+      "tu te circonscrirais",
+      "il se circonscrirait",
+      "nous nous circonscririons",
+      "vous vous circonscririez",
+      "ils se circonscriraient"
+    ],
+    "passé": [
+      "je me serais circonscrit",
+      "tu te serais circonscrit",
+      "il se serait circonscrit",
+      "nous nous serions circonscrits",
+      "vous vous seriez circonscrits",
+      "ils se seraient circonscrits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "circonscris-toi",
+      "circonscrivons-nous",
+      "circonscrivez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se circonscrire"
+    ],
+    "passé": [
+      "s'être circonscrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se circonscrivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant circonscrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se circonscrivant"
+    ],
+    "passé": [
+      "en s'étant circonscrit"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je détords",
+      "tu détords",
+      "il détord",
+      "nous détordons",
+      "vous détordez",
+      "ils détordent"
+    ],
+    "passé composé": [
+      "j'ai détordu",
+      "tu as détordu",
+      "il a détordu",
+      "nous avons détordu",
+      "vous avez détordu",
+      "ils ont détordu"
+    ],
+    "imparfait": [
+      "je détordais",
+      "tu détordais",
+      "il détordait",
+      "nous détordions",
+      "vous détordiez",
+      "ils détordaient"
+    ],
+    "plus que parfait": [
+      "j'avais détordu",
+      "tu avais détordu",
+      "il avait détordu",
+      "nous avions détordu",
+      "vous aviez détordu",
+      "ils avaient détordu"
+    ],
+    "passé simple": [
+      "je détordis",
+      "tu détordis",
+      "il détordit",
+      "nous détordîmes",
+      "vous détordîtes",
+      "ils détordirent"
+    ],
+    "passé antérieur": [
+      "j'eus détordu",
+      "tu eus détordu",
+      "il eut détordu",
+      "nous eûmes détordu",
+      "vous eûtes détordu",
+      "ils eurent détordu"
+    ],
+    "futur simple": [
+      "je détordrai",
+      "tu détordras",
+      "il détordra",
+      "nous détordrons",
+      "vous détordrez",
+      "ils détordront"
+    ],
+    "futur antérieur": [
+      "j'aurai détordu",
+      "tu auras détordu",
+      "il aura détordu",
+      "nous aurons détordu",
+      "vous aurez détordu",
+      "ils auront détordu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je détorde",
+      "que tu détordes",
+      "qu'il détorde",
+      "que nous détordions",
+      "que vous détordiez",
+      "qu'ils détordent"
+    ],
+    "passé": [
+      "que j'aie détordu",
+      "que tu aies détordu",
+      "qu'il ait détordu",
+      "que nous ayons détordu",
+      "que vous ayez détordu",
+      "qu'ils aient détordu"
+    ],
+    "imparfait": [
+      "que je détordisse",
+      "que tu détordisses",
+      "qu'il détordît",
+      "que nous détordissions",
+      "que vous détordissiez",
+      "qu'ils détordissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse détordu",
+      "que tu eusses détordu",
+      "qu'il eût détordu",
+      "que nous eussions détordu",
+      "que vous eussiez détordu",
+      "qu'ils eussent détordu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je détordrais",
+      "tu détordrais",
+      "il détordrait",
+      "nous détordrions",
+      "vous détordriez",
+      "ils détordraient"
+    ],
+    "passé": [
+      "j'aurais détordu",
+      "tu aurais détordu",
+      "il aurait détordu",
+      "nous aurions détordu",
+      "vous auriez détordu",
+      "ils auraient détordu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "détords",
+      "détordons",
+      "détordez"
+    ],
+    "passé": [
+      "aie détordu",
+      "ayons détordu",
+      "ayez détordu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "détordre"
+    ],
+    "passé": [
+      "avoir détordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "détordant"
+    ],
+    "passé": [
+      "détordu",
+      "ayant détordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en détordant"
+    ],
+    "passé": [
+      "en ayant détordu"
+    ]
+  }
+}

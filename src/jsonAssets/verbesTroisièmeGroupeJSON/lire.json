@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je lis",
+      "tu lis",
+      "il lit",
+      "nous lisons",
+      "vous lisez",
+      "ils lisent"
+    ],
+    "passé composé": [
+      "j'ai lu",
+      "tu as lu",
+      "il a lu",
+      "nous avons lu",
+      "vous avez lu",
+      "ils ont lu"
+    ],
+    "imparfait": [
+      "je lisais",
+      "tu lisais",
+      "il lisait",
+      "nous lisions",
+      "vous lisiez",
+      "ils lisaient"
+    ],
+    "plus que parfait": [
+      "j'avais lu",
+      "tu avais lu",
+      "il avait lu",
+      "nous avions lu",
+      "vous aviez lu",
+      "ils avaient lu"
+    ],
+    "passé simple": [
+      "je lus",
+      "tu lus",
+      "il lut",
+      "nous lûmes",
+      "vous lûtes",
+      "ils lurent"
+    ],
+    "passé antérieur": [
+      "j'eus lu",
+      "tu eus lu",
+      "il eut lu",
+      "nous eûmes lu",
+      "vous eûtes lu",
+      "ils eurent lu"
+    ],
+    "futur simple": [
+      "je lirai",
+      "tu liras",
+      "il lira",
+      "nous lirons",
+      "vous lirez",
+      "ils liront"
+    ],
+    "futur antérieur": [
+      "j'aurai lu",
+      "tu auras lu",
+      "il aura lu",
+      "nous aurons lu",
+      "vous aurez lu",
+      "ils auront lu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je lise",
+      "que tu lises",
+      "qu'il lise",
+      "que nous lisions",
+      "que vous lisiez",
+      "qu'ils lisent"
+    ],
+    "passé": [
+      "que j'aie lu",
+      "que tu aies lu",
+      "qu'il ait lu",
+      "que nous ayons lu",
+      "que vous ayez lu",
+      "qu'ils aient lu"
+    ],
+    "imparfait": [
+      "que je lusse",
+      "que tu lusses",
+      "qu'il lût",
+      "que nous lussions",
+      "que vous lussiez",
+      "qu'ils lussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse lu",
+      "que tu eusses lu",
+      "qu'il eût lu",
+      "que nous eussions lu",
+      "que vous eussiez lu",
+      "qu'ils eussent lu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je lirais",
+      "tu lirais",
+      "il lirait",
+      "nous lirions",
+      "vous liriez",
+      "ils liraient"
+    ],
+    "passé": [
+      "j'aurais lu",
+      "tu aurais lu",
+      "il aurait lu",
+      "nous aurions lu",
+      "vous auriez lu",
+      "ils auraient lu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "lis",
+      "lisons",
+      "lisez"
+    ],
+    "passé": [
+      "aie lu",
+      "ayons lu",
+      "ayez lu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "lire"
+    ],
+    "passé": [
+      "avoir lu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "lisant"
+    ],
+    "passé": [
+      "lu",
+      "ayant lu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en lisant"
+    ],
+    "passé": [
+      "en ayant lu"
+    ]
+  }
+}

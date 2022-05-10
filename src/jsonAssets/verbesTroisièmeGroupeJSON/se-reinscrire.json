@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me réinscris",
+      "tu te réinscris",
+      "il se réinscrit",
+      "nous nous réinscrivons",
+      "vous vous réinscrivez",
+      "ils se réinscrivent"
+    ],
+    "passé composé": [
+      "je me suis réinscrit",
+      "tu t'es réinscrit",
+      "il s'est réinscrit",
+      "nous nous sommes réinscrits",
+      "vous vous êtes réinscrits",
+      "ils se sont réinscrits"
+    ],
+    "imparfait": [
+      "je me réinscrivais",
+      "tu te réinscrivais",
+      "il se réinscrivait",
+      "nous nous réinscrivions",
+      "vous vous réinscriviez",
+      "ils se réinscrivaient"
+    ],
+    "plus que parfait": [
+      "je m'étais réinscrit",
+      "tu t'étais réinscrit",
+      "il s'était réinscrit",
+      "nous nous étions réinscrits",
+      "vous vous étiez réinscrits",
+      "ils s'étaient réinscrits"
+    ],
+    "passé simple": [
+      "je me réinscrivis",
+      "tu te réinscrivis",
+      "il se réinscrivit",
+      "nous nous réinscrivîmes",
+      "vous vous réinscrivîtes",
+      "ils se réinscrivirent"
+    ],
+    "passé antérieur": [
+      "je me fus réinscrit",
+      "tu te fus réinscrit",
+      "il se fut réinscrit",
+      "nous nous fûmes réinscrits",
+      "vous vous fûtes réinscrits",
+      "ils se furent réinscrits"
+    ],
+    "futur simple": [
+      "je me réinscrirai",
+      "tu te réinscriras",
+      "il se réinscrira",
+      "nous nous réinscrirons",
+      "vous vous réinscrirez",
+      "ils se réinscriront"
+    ],
+    "futur antérieur": [
+      "je me serai réinscrit",
+      "tu te seras réinscrit",
+      "il se sera réinscrit",
+      "nous nous serons réinscrits",
+      "vous vous serez réinscrits",
+      "ils se seront réinscrits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me réinscrive",
+      "que tu te réinscrives",
+      "qu'il se réinscrive",
+      "que nous nous réinscrivions",
+      "que vous vous réinscriviez",
+      "qu'ils se réinscrivent"
+    ],
+    "passé": [
+      "que je me sois réinscrit",
+      "que tu te sois réinscrit",
+      "qu'il se soit réinscrit",
+      "que nous nous soyons réinscrits",
+      "que vous vous soyez réinscrits",
+      "qu'ils se soient réinscrits"
+    ],
+    "imparfait": [
+      "que je me réinscrivisse",
+      "que tu te réinscrivisses",
+      "qu'il se réinscrivît",
+      "que nous nous réinscrivissions",
+      "que vous vous réinscrivissiez",
+      "qu'ils se réinscrivissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse réinscrit",
+      "que tu te fusses réinscrit",
+      "qu'il se fût réinscrit",
+      "que nous nous fussions réinscrits",
+      "que vous vous fussiez réinscrits",
+      "qu'ils se fussent réinscrits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me réinscrirais",
+      "tu te réinscrirais",
+      "il se réinscrirait",
+      "nous nous réinscririons",
+      "vous vous réinscririez",
+      "ils se réinscriraient"
+    ],
+    "passé": [
+      "je me serais réinscrit",
+      "tu te serais réinscrit",
+      "il se serait réinscrit",
+      "nous nous serions réinscrits",
+      "vous vous seriez réinscrits",
+      "ils se seraient réinscrits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réinscris-toi",
+      "réinscrivons-nous",
+      "réinscrivez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se réinscrire"
+    ],
+    "passé": [
+      "s'être réinscrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se réinscrivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant réinscrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se réinscrivant"
+    ],
+    "passé": [
+      "en s'étant réinscrit"
+    ]
+  }
+}

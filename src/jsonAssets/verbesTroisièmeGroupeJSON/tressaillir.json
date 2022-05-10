@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je tressaille",
+      "tu tressailles",
+      "il tressaille",
+      "nous tressaillons",
+      "vous tressaillez",
+      "ils tressaillent"
+    ],
+    "passé composé": [
+      "j'ai tressailli",
+      "tu as tressailli",
+      "il a tressailli",
+      "nous avons tressailli",
+      "vous avez tressailli",
+      "ils ont tressailli"
+    ],
+    "imparfait": [
+      "je tressaillais",
+      "tu tressaillais",
+      "il tressaillait",
+      "nous tressaillions",
+      "vous tressailliez",
+      "ils tressaillaient"
+    ],
+    "plus que parfait": [
+      "j'avais tressailli",
+      "tu avais tressailli",
+      "il avait tressailli",
+      "nous avions tressailli",
+      "vous aviez tressailli",
+      "ils avaient tressailli"
+    ],
+    "passé simple": [
+      "je tressaillis",
+      "tu tressaillis",
+      "il tressaillit",
+      "nous tressaillîmes",
+      "vous tressaillîtes",
+      "ils tressaillirent"
+    ],
+    "passé antérieur": [
+      "j'eus tressailli",
+      "tu eus tressailli",
+      "il eut tressailli",
+      "nous eûmes tressailli",
+      "vous eûtes tressailli",
+      "ils eurent tressailli"
+    ],
+    "futur simple": [
+      "je tressaillirai",
+      "tu tressailliras",
+      "il tressaillira",
+      "nous tressaillirons",
+      "vous tressaillirez",
+      "ils tressailliront"
+    ],
+    "futur antérieur": [
+      "j'aurai tressailli",
+      "tu auras tressailli",
+      "il aura tressailli",
+      "nous aurons tressailli",
+      "vous aurez tressailli",
+      "ils auront tressailli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je tressaille",
+      "que tu tressailles",
+      "qu'il tressaille",
+      "que nous tressaillions",
+      "que vous tressailliez",
+      "qu'ils tressaillent"
+    ],
+    "passé": [
+      "que j'aie tressailli",
+      "que tu aies tressailli",
+      "qu'il ait tressailli",
+      "que nous ayons tressailli",
+      "que vous ayez tressailli",
+      "qu'ils aient tressailli"
+    ],
+    "imparfait": [
+      "que je tressaillisse",
+      "que tu tressaillisses",
+      "qu'il tressaillît",
+      "que nous tressaillissions",
+      "que vous tressaillissiez",
+      "qu'ils tressaillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse tressailli",
+      "que tu eusses tressailli",
+      "qu'il eût tressailli",
+      "que nous eussions tressailli",
+      "que vous eussiez tressailli",
+      "qu'ils eussent tressailli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je tressaillirais",
+      "tu tressaillirais",
+      "il tressaillirait",
+      "nous tressaillirions",
+      "vous tressailliriez",
+      "ils tressailliraient"
+    ],
+    "passé": [
+      "j'aurais tressailli",
+      "tu aurais tressailli",
+      "il aurait tressailli",
+      "nous aurions tressailli",
+      "vous auriez tressailli",
+      "ils auraient tressailli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tressaille",
+      "tressaillons",
+      "tressaillez"
+    ],
+    "passé": [
+      "aie tressailli",
+      "ayons tressailli",
+      "ayez tressailli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "tressaillir"
+    ],
+    "passé": [
+      "avoir tressailli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "tressaillant"
+    ],
+    "passé": [
+      "tressailli",
+      "ayant tressailli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en tressaillant"
+    ],
+    "passé": [
+      "en ayant tressailli"
+    ]
+  }
+}

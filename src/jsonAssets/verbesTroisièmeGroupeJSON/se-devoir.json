@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me dois",
+      "tu te dois",
+      "il se doit",
+      "nous nous devons",
+      "vous vous devez",
+      "ils se doivent"
+    ],
+    "passé composé": [
+      "je me suis dû",
+      "tu t'es dû",
+      "il s'est dû",
+      "nous nous sommes dûs",
+      "vous vous êtes dûs",
+      "ils se sont dûs"
+    ],
+    "imparfait": [
+      "je me devais",
+      "tu te devais",
+      "il se devait",
+      "nous nous devions",
+      "vous vous deviez",
+      "ils se devaient"
+    ],
+    "plus que parfait": [
+      "je m'étais dû",
+      "tu t'étais dû",
+      "il s'était dû",
+      "nous nous étions dûs",
+      "vous vous étiez dûs",
+      "ils s'étaient dûs"
+    ],
+    "passé simple": [
+      "je me dus",
+      "tu te dus",
+      "il se dut",
+      "nous nous dûmes",
+      "vous vous dûtes",
+      "ils se durent"
+    ],
+    "passé antérieur": [
+      "je me fus dû",
+      "tu te fus dû",
+      "il se fut dû",
+      "nous nous fûmes dûs",
+      "vous vous fûtes dûs",
+      "ils se furent dûs"
+    ],
+    "futur simple": [
+      "je me devrai",
+      "tu te devras",
+      "il se devra",
+      "nous nous devrons",
+      "vous vous devrez",
+      "ils se devront"
+    ],
+    "futur antérieur": [
+      "je me serai dû",
+      "tu te seras dû",
+      "il se sera dû",
+      "nous nous serons dûs",
+      "vous vous serez dûs",
+      "ils se seront dûs"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me doive",
+      "que tu te doives",
+      "qu'il se doive",
+      "que nous nous devions",
+      "que vous vous deviez",
+      "qu'ils se doivent"
+    ],
+    "passé": [
+      "que je me sois dû",
+      "que tu te sois dû",
+      "qu'il se soit dû",
+      "que nous nous soyons dûs",
+      "que vous vous soyez dûs",
+      "qu'ils se soient dûs"
+    ],
+    "imparfait": [
+      "que je me dusse",
+      "que tu te dusses",
+      "qu'il se dût",
+      "que nous nous dussions",
+      "que vous vous dussiez",
+      "qu'ils se dussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse dû",
+      "que tu te fusses dû",
+      "qu'il se fût dû",
+      "que nous nous fussions dûs",
+      "que vous vous fussiez dûs",
+      "qu'ils se fussent dûs"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me devrais",
+      "tu te devrais",
+      "il se devrait",
+      "nous nous devrions",
+      "vous vous devriez",
+      "ils se devraient"
+    ],
+    "passé": [
+      "je me serais dû",
+      "tu te serais dû",
+      "il se serait dû",
+      "nous nous serions dûs",
+      "vous vous seriez dûs",
+      "ils se seraient dûs"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dois-toi",
+      "devons-nous",
+      "devez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se devoir"
+    ],
+    "passé": [
+      "s'être dû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se devant"
+    ],
+    "passé": [
+      "-",
+      "s'étant dû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se devant"
+    ],
+    "passé": [
+      "en s'étant dû"
+    ]
+  }
+}

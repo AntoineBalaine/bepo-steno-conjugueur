@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je ressens",
+      "tu ressens",
+      "il ressent",
+      "nous ressentons",
+      "vous ressentez",
+      "ils ressentent"
+    ],
+    "passé composé": [
+      "j'ai ressenti",
+      "tu as ressenti",
+      "il a ressenti",
+      "nous avons ressenti",
+      "vous avez ressenti",
+      "ils ont ressenti"
+    ],
+    "imparfait": [
+      "je ressentais",
+      "tu ressentais",
+      "il ressentait",
+      "nous ressentions",
+      "vous ressentiez",
+      "ils ressentaient"
+    ],
+    "plus que parfait": [
+      "j'avais ressenti",
+      "tu avais ressenti",
+      "il avait ressenti",
+      "nous avions ressenti",
+      "vous aviez ressenti",
+      "ils avaient ressenti"
+    ],
+    "passé simple": [
+      "je ressentis",
+      "tu ressentis",
+      "il ressentit",
+      "nous ressentîmes",
+      "vous ressentîtes",
+      "ils ressentirent"
+    ],
+    "passé antérieur": [
+      "j'eus ressenti",
+      "tu eus ressenti",
+      "il eut ressenti",
+      "nous eûmes ressenti",
+      "vous eûtes ressenti",
+      "ils eurent ressenti"
+    ],
+    "futur simple": [
+      "je ressentirai",
+      "tu ressentiras",
+      "il ressentira",
+      "nous ressentirons",
+      "vous ressentirez",
+      "ils ressentiront"
+    ],
+    "futur antérieur": [
+      "j'aurai ressenti",
+      "tu auras ressenti",
+      "il aura ressenti",
+      "nous aurons ressenti",
+      "vous aurez ressenti",
+      "ils auront ressenti"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je ressente",
+      "que tu ressentes",
+      "qu'il ressente",
+      "que nous ressentions",
+      "que vous ressentiez",
+      "qu'ils ressentent"
+    ],
+    "passé": [
+      "que j'aie ressenti",
+      "que tu aies ressenti",
+      "qu'il ait ressenti",
+      "que nous ayons ressenti",
+      "que vous ayez ressenti",
+      "qu'ils aient ressenti"
+    ],
+    "imparfait": [
+      "que je ressentisse",
+      "que tu ressentisses",
+      "qu'il ressentît",
+      "que nous ressentissions",
+      "que vous ressentissiez",
+      "qu'ils ressentissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse ressenti",
+      "que tu eusses ressenti",
+      "qu'il eût ressenti",
+      "que nous eussions ressenti",
+      "que vous eussiez ressenti",
+      "qu'ils eussent ressenti"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je ressentirais",
+      "tu ressentirais",
+      "il ressentirait",
+      "nous ressentirions",
+      "vous ressentiriez",
+      "ils ressentiraient"
+    ],
+    "passé": [
+      "j'aurais ressenti",
+      "tu aurais ressenti",
+      "il aurait ressenti",
+      "nous aurions ressenti",
+      "vous auriez ressenti",
+      "ils auraient ressenti"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ressens",
+      "ressentons",
+      "ressentez"
+    ],
+    "passé": [
+      "aie ressenti",
+      "ayons ressenti",
+      "ayez ressenti"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "ressentir"
+    ],
+    "passé": [
+      "avoir ressenti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "ressentant"
+    ],
+    "passé": [
+      "ressenti",
+      "ayant ressenti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en ressentant"
+    ],
+    "passé": [
+      "en ayant ressenti"
+    ]
+  }
+}

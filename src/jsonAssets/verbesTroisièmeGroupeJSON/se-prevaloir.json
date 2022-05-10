@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me prévaux",
+      "tu te prévaux",
+      "il se prévaut",
+      "nous nous prévalons",
+      "vous vous prévalez",
+      "ils se prévalent"
+    ],
+    "passé composé": [
+      "je me suis prévalu",
+      "tu t'es prévalu",
+      "il s'est prévalu",
+      "nous nous sommes prévalus",
+      "vous vous êtes prévalus",
+      "ils se sont prévalus"
+    ],
+    "imparfait": [
+      "je me prévalais",
+      "tu te prévalais",
+      "il se prévalait",
+      "nous nous prévalions",
+      "vous vous prévaliez",
+      "ils se prévalaient"
+    ],
+    "plus que parfait": [
+      "je m'étais prévalu",
+      "tu t'étais prévalu",
+      "il s'était prévalu",
+      "nous nous étions prévalus",
+      "vous vous étiez prévalus",
+      "ils s'étaient prévalus"
+    ],
+    "passé simple": [
+      "je me prévalus",
+      "tu te prévalus",
+      "il se prévalut",
+      "nous nous prévalûmes",
+      "vous vous prévalûtes",
+      "ils se prévalurent"
+    ],
+    "passé antérieur": [
+      "je me fus prévalu",
+      "tu te fus prévalu",
+      "il se fut prévalu",
+      "nous nous fûmes prévalus",
+      "vous vous fûtes prévalus",
+      "ils se furent prévalus"
+    ],
+    "futur simple": [
+      "je me prévaudrai",
+      "tu te prévaudras",
+      "il se prévaudra",
+      "nous nous prévaudrons",
+      "vous vous prévaudrez",
+      "ils se prévaudront"
+    ],
+    "futur antérieur": [
+      "je me serai prévalu",
+      "tu te seras prévalu",
+      "il se sera prévalu",
+      "nous nous serons prévalus",
+      "vous vous serez prévalus",
+      "ils se seront prévalus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me prévaille",
+      "que tu te prévailles",
+      "qu'il se prévaille",
+      "que nous nous prévalions",
+      "que vous vous prévaliez",
+      "qu'ils se prévaillent"
+    ],
+    "passé": [
+      "que je me sois prévalu",
+      "que tu te sois prévalu",
+      "qu'il se soit prévalu",
+      "que nous nous soyons prévalus",
+      "que vous vous soyez prévalus",
+      "qu'ils se soient prévalus"
+    ],
+    "imparfait": [
+      "que je me prévalusse",
+      "que tu te prévalusses",
+      "qu'il se prévalût",
+      "que nous nous prévalussions",
+      "que vous vous prévalussiez",
+      "qu'ils se prévalussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse prévalu",
+      "que tu te fusses prévalu",
+      "qu'il se fût prévalu",
+      "que nous nous fussions prévalus",
+      "que vous vous fussiez prévalus",
+      "qu'ils se fussent prévalus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me prévaudrais",
+      "tu te prévaudrais",
+      "il se prévaudrait",
+      "nous nous prévaudrions",
+      "vous vous prévaudriez",
+      "ils se prévaudraient"
+    ],
+    "passé": [
+      "je me serais prévalu",
+      "tu te serais prévalu",
+      "il se serait prévalu",
+      "nous nous serions prévalus",
+      "vous vous seriez prévalus",
+      "ils se seraient prévalus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prévaux-toi",
+      "prévalons-nous",
+      "prévalez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se prévaloir"
+    ],
+    "passé": [
+      "s'être prévalu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se prévalant"
+    ],
+    "passé": [
+      "-",
+      "s'étant prévalu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se prévalant"
+    ],
+    "passé": [
+      "en s'étant prévalu"
+    ]
+  }
+}

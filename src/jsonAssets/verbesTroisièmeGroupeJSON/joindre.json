@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je joins",
+      "tu joins",
+      "il joint",
+      "nous joignons",
+      "vous joignez",
+      "ils joignent"
+    ],
+    "passé composé": [
+      "j'ai joint",
+      "tu as joint",
+      "il a joint",
+      "nous avons joint",
+      "vous avez joint",
+      "ils ont joint"
+    ],
+    "imparfait": [
+      "je joignais",
+      "tu joignais",
+      "il joignait",
+      "nous joignions",
+      "vous joigniez",
+      "ils joignaient"
+    ],
+    "plus que parfait": [
+      "j'avais joint",
+      "tu avais joint",
+      "il avait joint",
+      "nous avions joint",
+      "vous aviez joint",
+      "ils avaient joint"
+    ],
+    "passé simple": [
+      "je joignis",
+      "tu joignis",
+      "il joignit",
+      "nous joignîmes",
+      "vous joignîtes",
+      "ils joignirent"
+    ],
+    "passé antérieur": [
+      "j'eus joint",
+      "tu eus joint",
+      "il eut joint",
+      "nous eûmes joint",
+      "vous eûtes joint",
+      "ils eurent joint"
+    ],
+    "futur simple": [
+      "je joindrai",
+      "tu joindras",
+      "il joindra",
+      "nous joindrons",
+      "vous joindrez",
+      "ils joindront"
+    ],
+    "futur antérieur": [
+      "j'aurai joint",
+      "tu auras joint",
+      "il aura joint",
+      "nous aurons joint",
+      "vous aurez joint",
+      "ils auront joint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je joigne",
+      "que tu joignes",
+      "qu'il joigne",
+      "que nous joignions",
+      "que vous joigniez",
+      "qu'ils joignent"
+    ],
+    "passé": [
+      "que j'aie joint",
+      "que tu aies joint",
+      "qu'il ait joint",
+      "que nous ayons joint",
+      "que vous ayez joint",
+      "qu'ils aient joint"
+    ],
+    "imparfait": [
+      "que je joignisse",
+      "que tu joignisses",
+      "qu'il joignît",
+      "que nous joignissions",
+      "que vous joignissiez",
+      "qu'ils joignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse joint",
+      "que tu eusses joint",
+      "qu'il eût joint",
+      "que nous eussions joint",
+      "que vous eussiez joint",
+      "qu'ils eussent joint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je joindrais",
+      "tu joindrais",
+      "il joindrait",
+      "nous joindrions",
+      "vous joindriez",
+      "ils joindraient"
+    ],
+    "passé": [
+      "j'aurais joint",
+      "tu aurais joint",
+      "il aurait joint",
+      "nous aurions joint",
+      "vous auriez joint",
+      "ils auraient joint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "joins",
+      "joignons",
+      "joignez"
+    ],
+    "passé": [
+      "aie joint",
+      "ayons joint",
+      "ayez joint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "joindre"
+    ],
+    "passé": [
+      "avoir joint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "joignant"
+    ],
+    "passé": [
+      "joint",
+      "ayant joint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en joignant"
+    ],
+    "passé": [
+      "en ayant joint"
+    ]
+  }
+}

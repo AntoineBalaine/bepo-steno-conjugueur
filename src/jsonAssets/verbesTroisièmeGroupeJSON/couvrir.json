@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je couvre",
+      "tu couvres",
+      "il couvre",
+      "nous couvrons",
+      "vous couvrez",
+      "ils couvrent"
+    ],
+    "passé composé": [
+      "j'ai couvert",
+      "tu as couvert",
+      "il a couvert",
+      "nous avons couvert",
+      "vous avez couvert",
+      "ils ont couvert"
+    ],
+    "imparfait": [
+      "je couvrais",
+      "tu couvrais",
+      "il couvrait",
+      "nous couvrions",
+      "vous couvriez",
+      "ils couvraient"
+    ],
+    "plus que parfait": [
+      "j'avais couvert",
+      "tu avais couvert",
+      "il avait couvert",
+      "nous avions couvert",
+      "vous aviez couvert",
+      "ils avaient couvert"
+    ],
+    "passé simple": [
+      "je couvris",
+      "tu couvris",
+      "il couvrit",
+      "nous couvrîmes",
+      "vous couvrîtes",
+      "ils couvrirent"
+    ],
+    "passé antérieur": [
+      "j'eus couvert",
+      "tu eus couvert",
+      "il eut couvert",
+      "nous eûmes couvert",
+      "vous eûtes couvert",
+      "ils eurent couvert"
+    ],
+    "futur simple": [
+      "je couvrirai",
+      "tu couvriras",
+      "il couvrira",
+      "nous couvrirons",
+      "vous couvrirez",
+      "ils couvriront"
+    ],
+    "futur antérieur": [
+      "j'aurai couvert",
+      "tu auras couvert",
+      "il aura couvert",
+      "nous aurons couvert",
+      "vous aurez couvert",
+      "ils auront couvert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je couvre",
+      "que tu couvres",
+      "qu'il couvre",
+      "que nous couvrions",
+      "que vous couvriez",
+      "qu'ils couvrent"
+    ],
+    "passé": [
+      "que j'aie couvert",
+      "que tu aies couvert",
+      "qu'il ait couvert",
+      "que nous ayons couvert",
+      "que vous ayez couvert",
+      "qu'ils aient couvert"
+    ],
+    "imparfait": [
+      "que je couvrisse",
+      "que tu couvrisses",
+      "qu'il couvrît",
+      "que nous couvrissions",
+      "que vous couvrissiez",
+      "qu'ils couvrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse couvert",
+      "que tu eusses couvert",
+      "qu'il eût couvert",
+      "que nous eussions couvert",
+      "que vous eussiez couvert",
+      "qu'ils eussent couvert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je couvrirais",
+      "tu couvrirais",
+      "il couvrirait",
+      "nous couvririons",
+      "vous couvririez",
+      "ils couvriraient"
+    ],
+    "passé": [
+      "j'aurais couvert",
+      "tu aurais couvert",
+      "il aurait couvert",
+      "nous aurions couvert",
+      "vous auriez couvert",
+      "ils auraient couvert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "couvre",
+      "couvrons",
+      "couvrez"
+    ],
+    "passé": [
+      "aie couvert",
+      "ayons couvert",
+      "ayez couvert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "couvrir"
+    ],
+    "passé": [
+      "avoir couvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "couvrant"
+    ],
+    "passé": [
+      "couvert",
+      "ayant couvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en couvrant"
+    ],
+    "passé": [
+      "en ayant couvert"
+    ]
+  }
+}

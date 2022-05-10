@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me promets",
+      "tu te promets",
+      "il se promet",
+      "nous nous promettons",
+      "vous vous promettez",
+      "ils se promettent"
+    ],
+    "passé composé": [
+      "je me suis promis",
+      "tu t'es promis",
+      "il s'est promis",
+      "nous nous sommes promis",
+      "vous vous êtes promis",
+      "ils se sont promis"
+    ],
+    "imparfait": [
+      "je me promettais",
+      "tu te promettais",
+      "il se promettait",
+      "nous nous promettions",
+      "vous vous promettiez",
+      "ils se promettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais promis",
+      "tu t'étais promis",
+      "il s'était promis",
+      "nous nous étions promis",
+      "vous vous étiez promis",
+      "ils s'étaient promis"
+    ],
+    "passé simple": [
+      "je me promis",
+      "tu te promis",
+      "il se promit",
+      "nous nous promîmes",
+      "vous vous promîtes",
+      "ils se promirent"
+    ],
+    "passé antérieur": [
+      "je me fus promis",
+      "tu te fus promis",
+      "il se fut promis",
+      "nous nous fûmes promis",
+      "vous vous fûtes promis",
+      "ils se furent promis"
+    ],
+    "futur simple": [
+      "je me promettrai",
+      "tu te promettras",
+      "il se promettra",
+      "nous nous promettrons",
+      "vous vous promettrez",
+      "ils se promettront"
+    ],
+    "futur antérieur": [
+      "je me serai promis",
+      "tu te seras promis",
+      "il se sera promis",
+      "nous nous serons promis",
+      "vous vous serez promis",
+      "ils se seront promis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me promette",
+      "que tu te promettes",
+      "qu'il se promette",
+      "que nous nous promettions",
+      "que vous vous promettiez",
+      "qu'ils se promettent"
+    ],
+    "passé": [
+      "que je me sois promis",
+      "que tu te sois promis",
+      "qu'il se soit promis",
+      "que nous nous soyons promis",
+      "que vous vous soyez promis",
+      "qu'ils se soient promis"
+    ],
+    "imparfait": [
+      "que je me promisse",
+      "que tu te promisses",
+      "qu'il se promît",
+      "que nous nous promissions",
+      "que vous vous promissiez",
+      "qu'ils se promissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse promis",
+      "que tu te fusses promis",
+      "qu'il se fût promis",
+      "que nous nous fussions promis",
+      "que vous vous fussiez promis",
+      "qu'ils se fussent promis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me promettrais",
+      "tu te promettrais",
+      "il se promettrait",
+      "nous nous promettrions",
+      "vous vous promettriez",
+      "ils se promettraient"
+    ],
+    "passé": [
+      "je me serais promis",
+      "tu te serais promis",
+      "il se serait promis",
+      "nous nous serions promis",
+      "vous vous seriez promis",
+      "ils se seraient promis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "promets-toi",
+      "promettons-nous",
+      "promettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se promettre"
+    ],
+    "passé": [
+      "s'être promis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se promettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant promis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se promettant"
+    ],
+    "passé": [
+      "en s'étant promis"
+    ]
+  }
+}

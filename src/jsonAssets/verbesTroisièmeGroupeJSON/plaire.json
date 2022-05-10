@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je plais",
+      "tu plais",
+      "il plaît",
+      "nous plaisons",
+      "vous plaisez",
+      "ils plaisent"
+    ],
+    "passé composé": [
+      "j'ai plu",
+      "tu as plu",
+      "il a plu",
+      "nous avons plu",
+      "vous avez plu",
+      "ils ont plu"
+    ],
+    "imparfait": [
+      "je plaisais",
+      "tu plaisais",
+      "il plaisait",
+      "nous plaisions",
+      "vous plaisiez",
+      "ils plaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais plu",
+      "tu avais plu",
+      "il avait plu",
+      "nous avions plu",
+      "vous aviez plu",
+      "ils avaient plu"
+    ],
+    "passé simple": [
+      "je plus",
+      "tu plus",
+      "il plut",
+      "nous plûmes",
+      "vous plûtes",
+      "ils plurent"
+    ],
+    "passé antérieur": [
+      "j'eus plu",
+      "tu eus plu",
+      "il eut plu",
+      "nous eûmes plu",
+      "vous eûtes plu",
+      "ils eurent plu"
+    ],
+    "futur simple": [
+      "je plairai",
+      "tu plairas",
+      "il plaira",
+      "nous plairons",
+      "vous plairez",
+      "ils plairont"
+    ],
+    "futur antérieur": [
+      "j'aurai plu",
+      "tu auras plu",
+      "il aura plu",
+      "nous aurons plu",
+      "vous aurez plu",
+      "ils auront plu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je plaise",
+      "que tu plaises",
+      "qu'il plaise",
+      "que nous plaisions",
+      "que vous plaisiez",
+      "qu'ils plaisent"
+    ],
+    "passé": [
+      "que j'aie plu",
+      "que tu aies plu",
+      "qu'il ait plu",
+      "que nous ayons plu",
+      "que vous ayez plu",
+      "qu'ils aient plu"
+    ],
+    "imparfait": [
+      "que je plusse",
+      "que tu plusses",
+      "qu'il plût",
+      "que nous plussions",
+      "que vous plussiez",
+      "qu'ils plussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse plu",
+      "que tu eusses plu",
+      "qu'il eût plu",
+      "que nous eussions plu",
+      "que vous eussiez plu",
+      "qu'ils eussent plu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je plairais",
+      "tu plairais",
+      "il plairait",
+      "nous plairions",
+      "vous plairiez",
+      "ils plairaient"
+    ],
+    "passé": [
+      "j'aurais plu",
+      "tu aurais plu",
+      "il aurait plu",
+      "nous aurions plu",
+      "vous auriez plu",
+      "ils auraient plu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "plais",
+      "plaisons",
+      "plaisez"
+    ],
+    "passé": [
+      "aie plu",
+      "ayons plu",
+      "ayez plu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "plaire"
+    ],
+    "passé": [
+      "avoir plu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "plaisant"
+    ],
+    "passé": [
+      "plu",
+      "ayant plu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en plaisant"
+    ],
+    "passé": [
+      "en ayant plu"
+    ]
+  }
+}

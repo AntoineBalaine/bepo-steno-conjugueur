@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'abstrais",
+      "tu abstrais",
+      "il abstrait",
+      "nous abstrayons",
+      "vous abstrayez",
+      "ils abstraient"
+    ],
+    "passé composé": [
+      "j'ai abstrait",
+      "tu as abstrait",
+      "il a abstrait",
+      "nous avons abstrait",
+      "vous avez abstrait",
+      "ils ont abstrait"
+    ],
+    "imparfait": [
+      "j'abstrayais",
+      "tu abstrayais",
+      "il abstrayait",
+      "nous abstrayions",
+      "vous abstrayiez",
+      "ils abstrayaient"
+    ],
+    "plus que parfait": [
+      "j'avais abstrait",
+      "tu avais abstrait",
+      "il avait abstrait",
+      "nous avions abstrait",
+      "vous aviez abstrait",
+      "ils avaient abstrait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus abstrait",
+      "tu eus abstrait",
+      "il eut abstrait",
+      "nous eûmes abstrait",
+      "vous eûtes abstrait",
+      "ils eurent abstrait"
+    ],
+    "futur simple": [
+      "j'abstrairai",
+      "tu abstrairas",
+      "il abstraira",
+      "nous abstrairons",
+      "vous abstrairez",
+      "ils abstrairont"
+    ],
+    "futur antérieur": [
+      "j'aurai abstrait",
+      "tu auras abstrait",
+      "il aura abstrait",
+      "nous aurons abstrait",
+      "vous aurez abstrait",
+      "ils auront abstrait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'abstraie",
+      "que tu abstraies",
+      "qu'il abstraie",
+      "que nous abstrayions",
+      "que vous abstrayiez",
+      "qu'ils abstraient"
+    ],
+    "passé": [
+      "que j'aie abstrait",
+      "que tu aies abstrait",
+      "qu'il ait abstrait",
+      "que nous ayons abstrait",
+      "que vous ayez abstrait",
+      "qu'ils aient abstrait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse abstrait",
+      "que tu eusses abstrait",
+      "qu'il eût abstrait",
+      "que nous eussions abstrait",
+      "que vous eussiez abstrait",
+      "qu'ils eussent abstrait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'abstrairais",
+      "tu abstrairais",
+      "il abstrairait",
+      "nous abstrairions",
+      "vous abstrairiez",
+      "ils abstrairaient"
+    ],
+    "passé": [
+      "j'aurais abstrait",
+      "tu aurais abstrait",
+      "il aurait abstrait",
+      "nous aurions abstrait",
+      "vous auriez abstrait",
+      "ils auraient abstrait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "abstrais",
+      "abstrayons",
+      "abstrayez"
+    ],
+    "passé": [
+      "aie abstrait",
+      "ayons abstrait",
+      "ayez abstrait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "abstraire"
+    ],
+    "passé": [
+      "avoir abstrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "abstrayant"
+    ],
+    "passé": [
+      "abstrait",
+      "ayant abstrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en abstrayant"
+    ],
+    "passé": [
+      "en ayant abstrait"
+    ]
+  }
+}

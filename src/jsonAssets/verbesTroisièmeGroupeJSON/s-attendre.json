@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'attends",
+      "tu t'attends",
+      "il s'attend",
+      "nous nous attendons",
+      "vous vous attendez",
+      "ils s'attendent"
+    ],
+    "passé composé": [
+      "je me suis attendu",
+      "tu t'es attendu",
+      "il s'est attendu",
+      "nous nous sommes attendus",
+      "vous vous êtes attendus",
+      "ils se sont attendus"
+    ],
+    "imparfait": [
+      "je m'attendais",
+      "tu t'attendais",
+      "il s'attendait",
+      "nous nous attendions",
+      "vous vous attendiez",
+      "ils s'attendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais attendu",
+      "tu t'étais attendu",
+      "il s'était attendu",
+      "nous nous étions attendus",
+      "vous vous étiez attendus",
+      "ils s'étaient attendus"
+    ],
+    "passé simple": [
+      "je m'attendis",
+      "tu t'attendis",
+      "il s'attendit",
+      "nous nous attendîmes",
+      "vous vous attendîtes",
+      "ils s'attendirent"
+    ],
+    "passé antérieur": [
+      "je me fus attendu",
+      "tu te fus attendu",
+      "il se fut attendu",
+      "nous nous fûmes attendus",
+      "vous vous fûtes attendus",
+      "ils se furent attendus"
+    ],
+    "futur simple": [
+      "je m'attendrai",
+      "tu t'attendras",
+      "il s'attendra",
+      "nous nous attendrons",
+      "vous vous attendrez",
+      "ils s'attendront"
+    ],
+    "futur antérieur": [
+      "je me serai attendu",
+      "tu te seras attendu",
+      "il se sera attendu",
+      "nous nous serons attendus",
+      "vous vous serez attendus",
+      "ils se seront attendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'attende",
+      "que tu t'attendes",
+      "qu'il s'attende",
+      "que nous nous attendions",
+      "que vous vous attendiez",
+      "qu'ils s'attendent"
+    ],
+    "passé": [
+      "que je me sois attendu",
+      "que tu te sois attendu",
+      "qu'il se soit attendu",
+      "que nous nous soyons attendus",
+      "que vous vous soyez attendus",
+      "qu'ils se soient attendus"
+    ],
+    "imparfait": [
+      "que je m'attendisse",
+      "que tu t'attendisses",
+      "qu'il s'attendît",
+      "que nous nous attendissions",
+      "que vous vous attendissiez",
+      "qu'ils s'attendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse attendu",
+      "que tu te fusses attendu",
+      "qu'il se fût attendu",
+      "que nous nous fussions attendus",
+      "que vous vous fussiez attendus",
+      "qu'ils se fussent attendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'attendrais",
+      "tu t'attendrais",
+      "il s'attendrait",
+      "nous nous attendrions",
+      "vous vous attendriez",
+      "ils s'attendraient"
+    ],
+    "passé": [
+      "je me serais attendu",
+      "tu te serais attendu",
+      "il se serait attendu",
+      "nous nous serions attendus",
+      "vous vous seriez attendus",
+      "ils se seraient attendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "attends-toi",
+      "attendons-nous",
+      "attendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'attendre"
+    ],
+    "passé": [
+      "s'être attendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'attendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant attendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'attendant"
+    ],
+    "passé": [
+      "en s'étant attendu"
+    ]
+  }
+}

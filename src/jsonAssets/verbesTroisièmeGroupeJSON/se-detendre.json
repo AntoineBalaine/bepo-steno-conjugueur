@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me détends",
+      "tu te détends",
+      "il se détend",
+      "nous nous détendons",
+      "vous vous détendez",
+      "ils se détendent"
+    ],
+    "passé composé": [
+      "je me suis détendu",
+      "tu t'es détendu",
+      "il s'est détendu",
+      "nous nous sommes détendus",
+      "vous vous êtes détendus",
+      "ils se sont détendus"
+    ],
+    "imparfait": [
+      "je me détendais",
+      "tu te détendais",
+      "il se détendait",
+      "nous nous détendions",
+      "vous vous détendiez",
+      "ils se détendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais détendu",
+      "tu t'étais détendu",
+      "il s'était détendu",
+      "nous nous étions détendus",
+      "vous vous étiez détendus",
+      "ils s'étaient détendus"
+    ],
+    "passé simple": [
+      "je me détendis",
+      "tu te détendis",
+      "il se détendit",
+      "nous nous détendîmes",
+      "vous vous détendîtes",
+      "ils se détendirent"
+    ],
+    "passé antérieur": [
+      "je me fus détendu",
+      "tu te fus détendu",
+      "il se fut détendu",
+      "nous nous fûmes détendus",
+      "vous vous fûtes détendus",
+      "ils se furent détendus"
+    ],
+    "futur simple": [
+      "je me détendrai",
+      "tu te détendras",
+      "il se détendra",
+      "nous nous détendrons",
+      "vous vous détendrez",
+      "ils se détendront"
+    ],
+    "futur antérieur": [
+      "je me serai détendu",
+      "tu te seras détendu",
+      "il se sera détendu",
+      "nous nous serons détendus",
+      "vous vous serez détendus",
+      "ils se seront détendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me détende",
+      "que tu te détendes",
+      "qu'il se détende",
+      "que nous nous détendions",
+      "que vous vous détendiez",
+      "qu'ils se détendent"
+    ],
+    "passé": [
+      "que je me sois détendu",
+      "que tu te sois détendu",
+      "qu'il se soit détendu",
+      "que nous nous soyons détendus",
+      "que vous vous soyez détendus",
+      "qu'ils se soient détendus"
+    ],
+    "imparfait": [
+      "que je me détendisse",
+      "que tu te détendisses",
+      "qu'il se détendît",
+      "que nous nous détendissions",
+      "que vous vous détendissiez",
+      "qu'ils se détendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse détendu",
+      "que tu te fusses détendu",
+      "qu'il se fût détendu",
+      "que nous nous fussions détendus",
+      "que vous vous fussiez détendus",
+      "qu'ils se fussent détendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me détendrais",
+      "tu te détendrais",
+      "il se détendrait",
+      "nous nous détendrions",
+      "vous vous détendriez",
+      "ils se détendraient"
+    ],
+    "passé": [
+      "je me serais détendu",
+      "tu te serais détendu",
+      "il se serait détendu",
+      "nous nous serions détendus",
+      "vous vous seriez détendus",
+      "ils se seraient détendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "détends-toi",
+      "détendons-nous",
+      "détendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se détendre"
+    ],
+    "passé": [
+      "s'être détendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se détendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant détendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se détendant"
+    ],
+    "passé": [
+      "en s'étant détendu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'éteins",
+      "tu éteins",
+      "il éteint",
+      "nous éteignons",
+      "vous éteignez",
+      "ils éteignent"
+    ],
+    "passé composé": [
+      "j'ai éteint",
+      "tu as éteint",
+      "il a éteint",
+      "nous avons éteint",
+      "vous avez éteint",
+      "ils ont éteint"
+    ],
+    "imparfait": [
+      "j'éteignais",
+      "tu éteignais",
+      "il éteignait",
+      "nous éteignions",
+      "vous éteigniez",
+      "ils éteignaient"
+    ],
+    "plus que parfait": [
+      "j'avais éteint",
+      "tu avais éteint",
+      "il avait éteint",
+      "nous avions éteint",
+      "vous aviez éteint",
+      "ils avaient éteint"
+    ],
+    "passé simple": [
+      "j'éteignis",
+      "tu éteignis",
+      "il éteignit",
+      "nous éteignîmes",
+      "vous éteignîtes",
+      "ils éteignirent"
+    ],
+    "passé antérieur": [
+      "j'eus éteint",
+      "tu eus éteint",
+      "il eut éteint",
+      "nous eûmes éteint",
+      "vous eûtes éteint",
+      "ils eurent éteint"
+    ],
+    "futur simple": [
+      "j'éteindrai",
+      "tu éteindras",
+      "il éteindra",
+      "nous éteindrons",
+      "vous éteindrez",
+      "ils éteindront"
+    ],
+    "futur antérieur": [
+      "j'aurai éteint",
+      "tu auras éteint",
+      "il aura éteint",
+      "nous aurons éteint",
+      "vous aurez éteint",
+      "ils auront éteint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'éteigne",
+      "que tu éteignes",
+      "qu'il éteigne",
+      "que nous éteignions",
+      "que vous éteigniez",
+      "qu'ils éteignent"
+    ],
+    "passé": [
+      "que j'aie éteint",
+      "que tu aies éteint",
+      "qu'il ait éteint",
+      "que nous ayons éteint",
+      "que vous ayez éteint",
+      "qu'ils aient éteint"
+    ],
+    "imparfait": [
+      "que j'éteignisse",
+      "que tu éteignisses",
+      "qu'il éteignît",
+      "que nous éteignissions",
+      "que vous éteignissiez",
+      "qu'ils éteignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse éteint",
+      "que tu eusses éteint",
+      "qu'il eût éteint",
+      "que nous eussions éteint",
+      "que vous eussiez éteint",
+      "qu'ils eussent éteint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'éteindrais",
+      "tu éteindrais",
+      "il éteindrait",
+      "nous éteindrions",
+      "vous éteindriez",
+      "ils éteindraient"
+    ],
+    "passé": [
+      "j'aurais éteint",
+      "tu aurais éteint",
+      "il aurait éteint",
+      "nous aurions éteint",
+      "vous auriez éteint",
+      "ils auraient éteint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "éteins",
+      "éteignons",
+      "éteignez"
+    ],
+    "passé": [
+      "aie éteint",
+      "ayons éteint",
+      "ayez éteint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "éteindre"
+    ],
+    "passé": [
+      "avoir éteint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "éteignant"
+    ],
+    "passé": [
+      "éteint",
+      "ayant éteint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en éteignant"
+    ],
+    "passé": [
+      "en ayant éteint"
+    ]
+  }
+}

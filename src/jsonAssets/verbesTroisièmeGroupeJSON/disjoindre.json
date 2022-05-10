@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je disjoins",
+      "tu disjoins",
+      "il disjoint",
+      "nous disjoignons",
+      "vous disjoignez",
+      "ils disjoignent"
+    ],
+    "passé composé": [
+      "j'ai disjoint",
+      "tu as disjoint",
+      "il a disjoint",
+      "nous avons disjoint",
+      "vous avez disjoint",
+      "ils ont disjoint"
+    ],
+    "imparfait": [
+      "je disjoignais",
+      "tu disjoignais",
+      "il disjoignait",
+      "nous disjoignions",
+      "vous disjoigniez",
+      "ils disjoignaient"
+    ],
+    "plus que parfait": [
+      "j'avais disjoint",
+      "tu avais disjoint",
+      "il avait disjoint",
+      "nous avions disjoint",
+      "vous aviez disjoint",
+      "ils avaient disjoint"
+    ],
+    "passé simple": [
+      "je disjoignis",
+      "tu disjoignis",
+      "il disjoignit",
+      "nous disjoignîmes",
+      "vous disjoignîtes",
+      "ils disjoignirent"
+    ],
+    "passé antérieur": [
+      "j'eus disjoint",
+      "tu eus disjoint",
+      "il eut disjoint",
+      "nous eûmes disjoint",
+      "vous eûtes disjoint",
+      "ils eurent disjoint"
+    ],
+    "futur simple": [
+      "je disjoindrai",
+      "tu disjoindras",
+      "il disjoindra",
+      "nous disjoindrons",
+      "vous disjoindrez",
+      "ils disjoindront"
+    ],
+    "futur antérieur": [
+      "j'aurai disjoint",
+      "tu auras disjoint",
+      "il aura disjoint",
+      "nous aurons disjoint",
+      "vous aurez disjoint",
+      "ils auront disjoint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je disjoigne",
+      "que tu disjoignes",
+      "qu'il disjoigne",
+      "que nous disjoignions",
+      "que vous disjoigniez",
+      "qu'ils disjoignent"
+    ],
+    "passé": [
+      "que j'aie disjoint",
+      "que tu aies disjoint",
+      "qu'il ait disjoint",
+      "que nous ayons disjoint",
+      "que vous ayez disjoint",
+      "qu'ils aient disjoint"
+    ],
+    "imparfait": [
+      "que je disjoignisse",
+      "que tu disjoignisses",
+      "qu'il disjoignît",
+      "que nous disjoignissions",
+      "que vous disjoignissiez",
+      "qu'ils disjoignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse disjoint",
+      "que tu eusses disjoint",
+      "qu'il eût disjoint",
+      "que nous eussions disjoint",
+      "que vous eussiez disjoint",
+      "qu'ils eussent disjoint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je disjoindrais",
+      "tu disjoindrais",
+      "il disjoindrait",
+      "nous disjoindrions",
+      "vous disjoindriez",
+      "ils disjoindraient"
+    ],
+    "passé": [
+      "j'aurais disjoint",
+      "tu aurais disjoint",
+      "il aurait disjoint",
+      "nous aurions disjoint",
+      "vous auriez disjoint",
+      "ils auraient disjoint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "disjoins",
+      "disjoignons",
+      "disjoignez"
+    ],
+    "passé": [
+      "aie disjoint",
+      "ayons disjoint",
+      "ayez disjoint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "disjoindre"
+    ],
+    "passé": [
+      "avoir disjoint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "disjoignant"
+    ],
+    "passé": [
+      "disjoint",
+      "ayant disjoint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en disjoignant"
+    ],
+    "passé": [
+      "en ayant disjoint"
+    ]
+  }
+}

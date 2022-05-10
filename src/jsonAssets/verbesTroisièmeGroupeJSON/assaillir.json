@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'assaille",
+      "tu assailles",
+      "il assaille",
+      "nous assaillons",
+      "vous assaillez",
+      "ils assaillent"
+    ],
+    "passé composé": [
+      "j'ai assailli",
+      "tu as assailli",
+      "il a assailli",
+      "nous avons assailli",
+      "vous avez assailli",
+      "ils ont assailli"
+    ],
+    "imparfait": [
+      "j'assaillais",
+      "tu assaillais",
+      "il assaillait",
+      "nous assaillions",
+      "vous assailliez",
+      "ils assaillaient"
+    ],
+    "plus que parfait": [
+      "j'avais assailli",
+      "tu avais assailli",
+      "il avait assailli",
+      "nous avions assailli",
+      "vous aviez assailli",
+      "ils avaient assailli"
+    ],
+    "passé simple": [
+      "j'assaillis",
+      "tu assaillis",
+      "il assaillit",
+      "nous assaillîmes",
+      "vous assaillîtes",
+      "ils assaillirent"
+    ],
+    "passé antérieur": [
+      "j'eus assailli",
+      "tu eus assailli",
+      "il eut assailli",
+      "nous eûmes assailli",
+      "vous eûtes assailli",
+      "ils eurent assailli"
+    ],
+    "futur simple": [
+      "j'assaillirai",
+      "tu assailliras",
+      "il assaillira",
+      "nous assaillirons",
+      "vous assaillirez",
+      "ils assailliront"
+    ],
+    "futur antérieur": [
+      "j'aurai assailli",
+      "tu auras assailli",
+      "il aura assailli",
+      "nous aurons assailli",
+      "vous aurez assailli",
+      "ils auront assailli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'assaille",
+      "que tu assailles",
+      "qu'il assaille",
+      "que nous assaillions",
+      "que vous assailliez",
+      "qu'ils assaillent"
+    ],
+    "passé": [
+      "que j'aie assailli",
+      "que tu aies assailli",
+      "qu'il ait assailli",
+      "que nous ayons assailli",
+      "que vous ayez assailli",
+      "qu'ils aient assailli"
+    ],
+    "imparfait": [
+      "que j'assaillisse",
+      "que tu assaillisses",
+      "qu'il assaillît",
+      "que nous assaillissions",
+      "que vous assaillissiez",
+      "qu'ils assaillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse assailli",
+      "que tu eusses assailli",
+      "qu'il eût assailli",
+      "que nous eussions assailli",
+      "que vous eussiez assailli",
+      "qu'ils eussent assailli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'assaillirais",
+      "tu assaillirais",
+      "il assaillirait",
+      "nous assaillirions",
+      "vous assailliriez",
+      "ils assailliraient"
+    ],
+    "passé": [
+      "j'aurais assailli",
+      "tu aurais assailli",
+      "il aurait assailli",
+      "nous aurions assailli",
+      "vous auriez assailli",
+      "ils auraient assailli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "assaille",
+      "assaillons",
+      "assaillez"
+    ],
+    "passé": [
+      "aie assailli",
+      "ayons assailli",
+      "ayez assailli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "assaillir"
+    ],
+    "passé": [
+      "avoir assailli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "assaillant"
+    ],
+    "passé": [
+      "assailli",
+      "ayant assailli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en assaillant"
+    ],
+    "passé": [
+      "en ayant assailli"
+    ]
+  }
+}

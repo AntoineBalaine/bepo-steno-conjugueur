@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'entrouvre",
+      "tu entrouvres",
+      "il entrouvre",
+      "nous entrouvrons",
+      "vous entrouvrez",
+      "ils entrouvrent"
+    ],
+    "passé composé": [
+      "j'ai entrouvert",
+      "tu as entrouvert",
+      "il a entrouvert",
+      "nous avons entrouvert",
+      "vous avez entrouvert",
+      "ils ont entrouvert"
+    ],
+    "imparfait": [
+      "j'entrouvrais",
+      "tu entrouvrais",
+      "il entrouvrait",
+      "nous entrouvrions",
+      "vous entrouvriez",
+      "ils entrouvraient"
+    ],
+    "plus que parfait": [
+      "j'avais entrouvert",
+      "tu avais entrouvert",
+      "il avait entrouvert",
+      "nous avions entrouvert",
+      "vous aviez entrouvert",
+      "ils avaient entrouvert"
+    ],
+    "passé simple": [
+      "j'entrouvris",
+      "tu entrouvris",
+      "il entrouvrit",
+      "nous entrouvrîmes",
+      "vous entrouvrîtes",
+      "ils entrouvrirent"
+    ],
+    "passé antérieur": [
+      "j'eus entrouvert",
+      "tu eus entrouvert",
+      "il eut entrouvert",
+      "nous eûmes entrouvert",
+      "vous eûtes entrouvert",
+      "ils eurent entrouvert"
+    ],
+    "futur simple": [
+      "j'entrouvrirai",
+      "tu entrouvriras",
+      "il entrouvrira",
+      "nous entrouvrirons",
+      "vous entrouvrirez",
+      "ils entrouvriront"
+    ],
+    "futur antérieur": [
+      "j'aurai entrouvert",
+      "tu auras entrouvert",
+      "il aura entrouvert",
+      "nous aurons entrouvert",
+      "vous aurez entrouvert",
+      "ils auront entrouvert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'entrouvre",
+      "que tu entrouvres",
+      "qu'il entrouvre",
+      "que nous entrouvrions",
+      "que vous entrouvriez",
+      "qu'ils entrouvrent"
+    ],
+    "passé": [
+      "que j'aie entrouvert",
+      "que tu aies entrouvert",
+      "qu'il ait entrouvert",
+      "que nous ayons entrouvert",
+      "que vous ayez entrouvert",
+      "qu'ils aient entrouvert"
+    ],
+    "imparfait": [
+      "que j'entrouvrisse",
+      "que tu entrouvrisses",
+      "qu'il entrouvrît",
+      "que nous entrouvrissions",
+      "que vous entrouvrissiez",
+      "qu'ils entrouvrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse entrouvert",
+      "que tu eusses entrouvert",
+      "qu'il eût entrouvert",
+      "que nous eussions entrouvert",
+      "que vous eussiez entrouvert",
+      "qu'ils eussent entrouvert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'entrouvrirais",
+      "tu entrouvrirais",
+      "il entrouvrirait",
+      "nous entrouvririons",
+      "vous entrouvririez",
+      "ils entrouvriraient"
+    ],
+    "passé": [
+      "j'aurais entrouvert",
+      "tu aurais entrouvert",
+      "il aurait entrouvert",
+      "nous aurions entrouvert",
+      "vous auriez entrouvert",
+      "ils auraient entrouvert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entrouvre",
+      "entrouvrons",
+      "entrouvrez"
+    ],
+    "passé": [
+      "aie entrouvert",
+      "ayons entrouvert",
+      "ayez entrouvert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "entrouvrir"
+    ],
+    "passé": [
+      "avoir entrouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "entrouvrant"
+    ],
+    "passé": [
+      "entrouvert",
+      "ayant entrouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en entrouvrant"
+    ],
+    "passé": [
+      "en ayant entrouvert"
+    ]
+  }
+}

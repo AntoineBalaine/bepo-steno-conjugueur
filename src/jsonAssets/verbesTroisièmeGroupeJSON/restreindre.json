@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je restreins",
+      "tu restreins",
+      "il restreint",
+      "nous restreignons",
+      "vous restreignez",
+      "ils restreignent"
+    ],
+    "passé composé": [
+      "j'ai restreint",
+      "tu as restreint",
+      "il a restreint",
+      "nous avons restreint",
+      "vous avez restreint",
+      "ils ont restreint"
+    ],
+    "imparfait": [
+      "je restreignais",
+      "tu restreignais",
+      "il restreignait",
+      "nous restreignions",
+      "vous restreigniez",
+      "ils restreignaient"
+    ],
+    "plus que parfait": [
+      "j'avais restreint",
+      "tu avais restreint",
+      "il avait restreint",
+      "nous avions restreint",
+      "vous aviez restreint",
+      "ils avaient restreint"
+    ],
+    "passé simple": [
+      "je restreignis",
+      "tu restreignis",
+      "il restreignit",
+      "nous restreignîmes",
+      "vous restreignîtes",
+      "ils restreignirent"
+    ],
+    "passé antérieur": [
+      "j'eus restreint",
+      "tu eus restreint",
+      "il eut restreint",
+      "nous eûmes restreint",
+      "vous eûtes restreint",
+      "ils eurent restreint"
+    ],
+    "futur simple": [
+      "je restreindrai",
+      "tu restreindras",
+      "il restreindra",
+      "nous restreindrons",
+      "vous restreindrez",
+      "ils restreindront"
+    ],
+    "futur antérieur": [
+      "j'aurai restreint",
+      "tu auras restreint",
+      "il aura restreint",
+      "nous aurons restreint",
+      "vous aurez restreint",
+      "ils auront restreint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je restreigne",
+      "que tu restreignes",
+      "qu'il restreigne",
+      "que nous restreignions",
+      "que vous restreigniez",
+      "qu'ils restreignent"
+    ],
+    "passé": [
+      "que j'aie restreint",
+      "que tu aies restreint",
+      "qu'il ait restreint",
+      "que nous ayons restreint",
+      "que vous ayez restreint",
+      "qu'ils aient restreint"
+    ],
+    "imparfait": [
+      "que je restreignisse",
+      "que tu restreignisses",
+      "qu'il restreignît",
+      "que nous restreignissions",
+      "que vous restreignissiez",
+      "qu'ils restreignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse restreint",
+      "que tu eusses restreint",
+      "qu'il eût restreint",
+      "que nous eussions restreint",
+      "que vous eussiez restreint",
+      "qu'ils eussent restreint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je restreindrais",
+      "tu restreindrais",
+      "il restreindrait",
+      "nous restreindrions",
+      "vous restreindriez",
+      "ils restreindraient"
+    ],
+    "passé": [
+      "j'aurais restreint",
+      "tu aurais restreint",
+      "il aurait restreint",
+      "nous aurions restreint",
+      "vous auriez restreint",
+      "ils auraient restreint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "restreins",
+      "restreignons",
+      "restreignez"
+    ],
+    "passé": [
+      "aie restreint",
+      "ayons restreint",
+      "ayez restreint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "restreindre"
+    ],
+    "passé": [
+      "avoir restreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "restreignant"
+    ],
+    "passé": [
+      "restreint",
+      "ayant restreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en restreignant"
+    ],
+    "passé": [
+      "en ayant restreint"
+    ]
+  }
+}

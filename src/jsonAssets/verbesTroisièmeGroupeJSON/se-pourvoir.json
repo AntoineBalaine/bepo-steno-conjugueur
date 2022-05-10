@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me pourvois",
+      "tu te pourvois",
+      "il se pourvoit",
+      "nous nous pourvoyons",
+      "vous vous pourvoyez",
+      "ils se pourvoient"
+    ],
+    "passé composé": [
+      "je me suis pourvu",
+      "tu t'es pourvu",
+      "il s'est pourvu",
+      "nous nous sommes pourvus",
+      "vous vous êtes pourvus",
+      "ils se sont pourvus"
+    ],
+    "imparfait": [
+      "je me pourvoyais",
+      "tu te pourvoyais",
+      "il se pourvoyait",
+      "nous nous pourvoyions",
+      "vous vous pourvoyiez",
+      "ils se pourvoyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais pourvu",
+      "tu t'étais pourvu",
+      "il s'était pourvu",
+      "nous nous étions pourvus",
+      "vous vous étiez pourvus",
+      "ils s'étaient pourvus"
+    ],
+    "passé simple": [
+      "je me pourvus",
+      "tu te pourvus",
+      "il se pourvut",
+      "nous nous pourvûmes",
+      "vous vous pourvûtes",
+      "ils se pourvurent"
+    ],
+    "passé antérieur": [
+      "je me fus pourvu",
+      "tu te fus pourvu",
+      "il se fut pourvu",
+      "nous nous fûmes pourvus",
+      "vous vous fûtes pourvus",
+      "ils se furent pourvus"
+    ],
+    "futur simple": [
+      "je me pourvoirai",
+      "tu te pourvoiras",
+      "il se pourvoira",
+      "nous nous pourvoirons",
+      "vous vous pourvoirez",
+      "ils se pourvoiront"
+    ],
+    "futur antérieur": [
+      "je me serai pourvu",
+      "tu te seras pourvu",
+      "il se sera pourvu",
+      "nous nous serons pourvus",
+      "vous vous serez pourvus",
+      "ils se seront pourvus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me pourvoie",
+      "que tu te pourvoies",
+      "qu'il se pourvoie",
+      "que nous nous pourvoyions",
+      "que vous vous pourvoyiez",
+      "qu'ils se pourvoient"
+    ],
+    "passé": [
+      "que je me sois pourvu",
+      "que tu te sois pourvu",
+      "qu'il se soit pourvu",
+      "que nous nous soyons pourvus",
+      "que vous vous soyez pourvus",
+      "qu'ils se soient pourvus"
+    ],
+    "imparfait": [
+      "que je me pourvusse",
+      "que tu te pourvusses",
+      "qu'il se pourvût",
+      "que nous nous pourvussions",
+      "que vous vous pourvussiez",
+      "qu'ils se pourvussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse pourvu",
+      "que tu te fusses pourvu",
+      "qu'il se fût pourvu",
+      "que nous nous fussions pourvus",
+      "que vous vous fussiez pourvus",
+      "qu'ils se fussent pourvus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me pourvoirais",
+      "tu te pourvoirais",
+      "il se pourvoirait",
+      "nous nous pourvoirions",
+      "vous vous pourvoiriez",
+      "ils se pourvoiraient"
+    ],
+    "passé": [
+      "je me serais pourvu",
+      "tu te serais pourvu",
+      "il se serait pourvu",
+      "nous nous serions pourvus",
+      "vous vous seriez pourvus",
+      "ils se seraient pourvus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "pourvois-toi",
+      "pourvoyons-nous",
+      "pourvoyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se pourvoir"
+    ],
+    "passé": [
+      "s'être pourvu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se pourvoyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant pourvu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se pourvoyant"
+    ],
+    "passé": [
+      "en s'étant pourvu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je perçois",
+      "tu perçois",
+      "il perçoit",
+      "nous percevons",
+      "vous percevez",
+      "ils perçoivent"
+    ],
+    "passé composé": [
+      "j'ai perçu",
+      "tu as perçu",
+      "il a perçu",
+      "nous avons perçu",
+      "vous avez perçu",
+      "ils ont perçu"
+    ],
+    "imparfait": [
+      "je percevais",
+      "tu percevais",
+      "il percevait",
+      "nous percevions",
+      "vous perceviez",
+      "ils percevaient"
+    ],
+    "plus que parfait": [
+      "j'avais perçu",
+      "tu avais perçu",
+      "il avait perçu",
+      "nous avions perçu",
+      "vous aviez perçu",
+      "ils avaient perçu"
+    ],
+    "passé simple": [
+      "je perçus",
+      "tu perçus",
+      "il perçut",
+      "nous perçûmes",
+      "vous perçûtes",
+      "ils perçurent"
+    ],
+    "passé antérieur": [
+      "j'eus perçu",
+      "tu eus perçu",
+      "il eut perçu",
+      "nous eûmes perçu",
+      "vous eûtes perçu",
+      "ils eurent perçu"
+    ],
+    "futur simple": [
+      "je percevrai",
+      "tu percevras",
+      "il percevra",
+      "nous percevrons",
+      "vous percevrez",
+      "ils percevront"
+    ],
+    "futur antérieur": [
+      "j'aurai perçu",
+      "tu auras perçu",
+      "il aura perçu",
+      "nous aurons perçu",
+      "vous aurez perçu",
+      "ils auront perçu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je perçoive",
+      "que tu perçoives",
+      "qu'il perçoive",
+      "que nous percevions",
+      "que vous perceviez",
+      "qu'ils perçoivent"
+    ],
+    "passé": [
+      "que j'aie perçu",
+      "que tu aies perçu",
+      "qu'il ait perçu",
+      "que nous ayons perçu",
+      "que vous ayez perçu",
+      "qu'ils aient perçu"
+    ],
+    "imparfait": [
+      "que je perçusse",
+      "que tu perçusses",
+      "qu'il perçût",
+      "que nous perçussions",
+      "que vous perçussiez",
+      "qu'ils perçussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse perçu",
+      "que tu eusses perçu",
+      "qu'il eût perçu",
+      "que nous eussions perçu",
+      "que vous eussiez perçu",
+      "qu'ils eussent perçu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je percevrais",
+      "tu percevrais",
+      "il percevrait",
+      "nous percevrions",
+      "vous percevriez",
+      "ils percevraient"
+    ],
+    "passé": [
+      "j'aurais perçu",
+      "tu aurais perçu",
+      "il aurait perçu",
+      "nous aurions perçu",
+      "vous auriez perçu",
+      "ils auraient perçu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "perçois",
+      "percevons",
+      "percevez"
+    ],
+    "passé": [
+      "aie perçu",
+      "ayons perçu",
+      "ayez perçu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "percevoir"
+    ],
+    "passé": [
+      "avoir perçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "percevant"
+    ],
+    "passé": [
+      "perçu",
+      "ayant perçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en percevant"
+    ],
+    "passé": [
+      "en ayant perçu"
+    ]
+  }
+}

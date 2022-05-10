@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je remets",
+      "tu remets",
+      "il remet",
+      "nous remettons",
+      "vous remettez",
+      "ils remettent"
+    ],
+    "passé composé": [
+      "j'ai remis",
+      "tu as remis",
+      "il a remis",
+      "nous avons remis",
+      "vous avez remis",
+      "ils ont remis"
+    ],
+    "imparfait": [
+      "je remettais",
+      "tu remettais",
+      "il remettait",
+      "nous remettions",
+      "vous remettiez",
+      "ils remettaient"
+    ],
+    "plus que parfait": [
+      "j'avais remis",
+      "tu avais remis",
+      "il avait remis",
+      "nous avions remis",
+      "vous aviez remis",
+      "ils avaient remis"
+    ],
+    "passé simple": [
+      "je remis",
+      "tu remis",
+      "il remit",
+      "nous remîmes",
+      "vous remîtes",
+      "ils remirent"
+    ],
+    "passé antérieur": [
+      "j'eus remis",
+      "tu eus remis",
+      "il eut remis",
+      "nous eûmes remis",
+      "vous eûtes remis",
+      "ils eurent remis"
+    ],
+    "futur simple": [
+      "je remettrai",
+      "tu remettras",
+      "il remettra",
+      "nous remettrons",
+      "vous remettrez",
+      "ils remettront"
+    ],
+    "futur antérieur": [
+      "j'aurai remis",
+      "tu auras remis",
+      "il aura remis",
+      "nous aurons remis",
+      "vous aurez remis",
+      "ils auront remis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je remette",
+      "que tu remettes",
+      "qu'il remette",
+      "que nous remettions",
+      "que vous remettiez",
+      "qu'ils remettent"
+    ],
+    "passé": [
+      "que j'aie remis",
+      "que tu aies remis",
+      "qu'il ait remis",
+      "que nous ayons remis",
+      "que vous ayez remis",
+      "qu'ils aient remis"
+    ],
+    "imparfait": [
+      "que je remisse",
+      "que tu remisses",
+      "qu'il remît",
+      "que nous remissions",
+      "que vous remissiez",
+      "qu'ils remissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse remis",
+      "que tu eusses remis",
+      "qu'il eût remis",
+      "que nous eussions remis",
+      "que vous eussiez remis",
+      "qu'ils eussent remis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je remettrais",
+      "tu remettrais",
+      "il remettrait",
+      "nous remettrions",
+      "vous remettriez",
+      "ils remettraient"
+    ],
+    "passé": [
+      "j'aurais remis",
+      "tu aurais remis",
+      "il aurait remis",
+      "nous aurions remis",
+      "vous auriez remis",
+      "ils auraient remis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "remets",
+      "remettons",
+      "remettez"
+    ],
+    "passé": [
+      "aie remis",
+      "ayons remis",
+      "ayez remis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "remettre"
+    ],
+    "passé": [
+      "avoir remis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "remettant"
+    ],
+    "passé": [
+      "remis",
+      "ayant remis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en remettant"
+    ],
+    "passé": [
+      "en ayant remis"
+    ]
+  }
+}

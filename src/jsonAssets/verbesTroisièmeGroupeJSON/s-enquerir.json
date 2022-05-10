@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'enquiers",
+      "tu t'enquiers",
+      "il s'enquiert",
+      "nous nous enquérons",
+      "vous vous enquérez",
+      "ils s'enquièrent"
+    ],
+    "passé composé": [
+      "je me suis enquis",
+      "tu t'es enquis",
+      "il s'est enquis",
+      "nous nous sommes enquis",
+      "vous vous êtes enquis",
+      "ils se sont enquis"
+    ],
+    "imparfait": [
+      "je m'enquérais",
+      "tu t'enquérais",
+      "il s'enquérait",
+      "nous nous enquérions",
+      "vous vous enquériez",
+      "ils s'enquéraient"
+    ],
+    "plus que parfait": [
+      "je m'étais enquis",
+      "tu t'étais enquis",
+      "il s'était enquis",
+      "nous nous étions enquis",
+      "vous vous étiez enquis",
+      "ils s'étaient enquis"
+    ],
+    "passé simple": [
+      "je m'enquis",
+      "tu t'enquis",
+      "il s'enquit",
+      "nous nous enquîmes",
+      "vous vous enquîtes",
+      "ils s'enquirent"
+    ],
+    "passé antérieur": [
+      "je me fus enquis",
+      "tu te fus enquis",
+      "il se fut enquis",
+      "nous nous fûmes enquis",
+      "vous vous fûtes enquis",
+      "ils se furent enquis"
+    ],
+    "futur simple": [
+      "je m'enquerrai",
+      "tu t'enquerras",
+      "il s'enquerra",
+      "nous nous enquerrons",
+      "vous vous enquerrez",
+      "ils s'enquerront"
+    ],
+    "futur antérieur": [
+      "je me serai enquis",
+      "tu te seras enquis",
+      "il se sera enquis",
+      "nous nous serons enquis",
+      "vous vous serez enquis",
+      "ils se seront enquis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'enquière",
+      "que tu t'enquières",
+      "qu'il s'enquière",
+      "que nous nous enquérions",
+      "que vous vous enquériez",
+      "qu'ils s'enquièrent"
+    ],
+    "passé": [
+      "que je me sois enquis",
+      "que tu te sois enquis",
+      "qu'il se soit enquis",
+      "que nous nous soyons enquis",
+      "que vous vous soyez enquis",
+      "qu'ils se soient enquis"
+    ],
+    "imparfait": [
+      "que je m'enquisse",
+      "que tu t'enquisses",
+      "qu'il s'enquît",
+      "que nous nous enquissions",
+      "que vous vous enquissiez",
+      "qu'ils s'enquissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse enquis",
+      "que tu te fusses enquis",
+      "qu'il se fût enquis",
+      "que nous nous fussions enquis",
+      "que vous vous fussiez enquis",
+      "qu'ils se fussent enquis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'enquerrais",
+      "tu t'enquerrais",
+      "il s'enquerrait",
+      "nous nous enquerrions",
+      "vous vous enquerriez",
+      "ils s'enquerraient"
+    ],
+    "passé": [
+      "je me serais enquis",
+      "tu te serais enquis",
+      "il se serait enquis",
+      "nous nous serions enquis",
+      "vous vous seriez enquis",
+      "ils se seraient enquis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "enquiers-toi",
+      "enquérons-nous",
+      "enquérez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'enquérir"
+    ],
+    "passé": [
+      "s'être enquis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'enquérant"
+    ],
+    "passé": [
+      "-",
+      "s'étant enquis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'enquérant"
+    ],
+    "passé": [
+      "en s'étant enquis"
+    ]
+  }
+}

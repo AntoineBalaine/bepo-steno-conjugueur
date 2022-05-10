@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je coproduis",
+      "tu coproduis",
+      "il coproduit",
+      "nous coproduisons",
+      "vous coproduisez",
+      "ils coproduisent"
+    ],
+    "passé composé": [
+      "j'ai coproduit",
+      "tu as coproduit",
+      "il a coproduit",
+      "nous avons coproduit",
+      "vous avez coproduit",
+      "ils ont coproduit"
+    ],
+    "imparfait": [
+      "je coproduisais",
+      "tu coproduisais",
+      "il coproduisait",
+      "nous coproduisions",
+      "vous coproduisiez",
+      "ils coproduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais coproduit",
+      "tu avais coproduit",
+      "il avait coproduit",
+      "nous avions coproduit",
+      "vous aviez coproduit",
+      "ils avaient coproduit"
+    ],
+    "passé simple": [
+      "je coproduisis",
+      "tu coproduisis",
+      "il coproduisit",
+      "nous coproduisîmes",
+      "vous coproduisîtes",
+      "ils coproduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus coproduit",
+      "tu eus coproduit",
+      "il eut coproduit",
+      "nous eûmes coproduit",
+      "vous eûtes coproduit",
+      "ils eurent coproduit"
+    ],
+    "futur simple": [
+      "je coproduirai",
+      "tu coproduiras",
+      "il coproduira",
+      "nous coproduirons",
+      "vous coproduirez",
+      "ils coproduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai coproduit",
+      "tu auras coproduit",
+      "il aura coproduit",
+      "nous aurons coproduit",
+      "vous aurez coproduit",
+      "ils auront coproduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je coproduise",
+      "que tu coproduises",
+      "qu'il coproduise",
+      "que nous coproduisions",
+      "que vous coproduisiez",
+      "qu'ils coproduisent"
+    ],
+    "passé": [
+      "que j'aie coproduit",
+      "que tu aies coproduit",
+      "qu'il ait coproduit",
+      "que nous ayons coproduit",
+      "que vous ayez coproduit",
+      "qu'ils aient coproduit"
+    ],
+    "imparfait": [
+      "que je coproduisisse",
+      "que tu coproduisisses",
+      "qu'il coproduisît",
+      "que nous coproduisissions",
+      "que vous coproduisissiez",
+      "qu'ils coproduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse coproduit",
+      "que tu eusses coproduit",
+      "qu'il eût coproduit",
+      "que nous eussions coproduit",
+      "que vous eussiez coproduit",
+      "qu'ils eussent coproduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je coproduirais",
+      "tu coproduirais",
+      "il coproduirait",
+      "nous coproduirions",
+      "vous coproduiriez",
+      "ils coproduiraient"
+    ],
+    "passé": [
+      "j'aurais coproduit",
+      "tu aurais coproduit",
+      "il aurait coproduit",
+      "nous aurions coproduit",
+      "vous auriez coproduit",
+      "ils auraient coproduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "coproduis",
+      "coproduisons",
+      "coproduisez"
+    ],
+    "passé": [
+      "aie coproduit",
+      "ayons coproduit",
+      "ayez coproduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "coproduire"
+    ],
+    "passé": [
+      "avoir coproduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "coproduisant"
+    ],
+    "passé": [
+      "coproduit",
+      "ayant coproduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en coproduisant"
+    ],
+    "passé": [
+      "en ayant coproduit"
+    ]
+  }
+}

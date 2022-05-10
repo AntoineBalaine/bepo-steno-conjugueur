@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'acquiers",
+      "tu t'acquiers",
+      "il s'acquiert",
+      "nous nous acquérons",
+      "vous vous acquérez",
+      "ils s'acquièrent"
+    ],
+    "passé composé": [
+      "je me suis acquis",
+      "tu t'es acquis",
+      "il s'est acquis",
+      "nous nous sommes acquis",
+      "vous vous êtes acquis",
+      "ils se sont acquis"
+    ],
+    "imparfait": [
+      "je m'acquérais",
+      "tu t'acquérais",
+      "il s'acquérait",
+      "nous nous acquérions",
+      "vous vous acquériez",
+      "ils s'acquéraient"
+    ],
+    "plus que parfait": [
+      "je m'étais acquis",
+      "tu t'étais acquis",
+      "il s'était acquis",
+      "nous nous étions acquis",
+      "vous vous étiez acquis",
+      "ils s'étaient acquis"
+    ],
+    "passé simple": [
+      "je m'acquis",
+      "tu t'acquis",
+      "il s'acquit",
+      "nous nous acquîmes",
+      "vous vous acquîtes",
+      "ils s'acquirent"
+    ],
+    "passé antérieur": [
+      "je me fus acquis",
+      "tu te fus acquis",
+      "il se fut acquis",
+      "nous nous fûmes acquis",
+      "vous vous fûtes acquis",
+      "ils se furent acquis"
+    ],
+    "futur simple": [
+      "je m'acquerrai",
+      "tu t'acquerras",
+      "il s'acquerra",
+      "nous nous acquerrons",
+      "vous vous acquerrez",
+      "ils s'acquerront"
+    ],
+    "futur antérieur": [
+      "je me serai acquis",
+      "tu te seras acquis",
+      "il se sera acquis",
+      "nous nous serons acquis",
+      "vous vous serez acquis",
+      "ils se seront acquis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'acquière",
+      "que tu t'acquières",
+      "qu'il s'acquière",
+      "que nous nous acquérions",
+      "que vous vous acquériez",
+      "qu'ils s'acquièrent"
+    ],
+    "passé": [
+      "que je me sois acquis",
+      "que tu te sois acquis",
+      "qu'il se soit acquis",
+      "que nous nous soyons acquis",
+      "que vous vous soyez acquis",
+      "qu'ils se soient acquis"
+    ],
+    "imparfait": [
+      "que je m'acquisse",
+      "que tu t'acquisses",
+      "qu'il s'acquît",
+      "que nous nous acquissions",
+      "que vous vous acquissiez",
+      "qu'ils s'acquissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse acquis",
+      "que tu te fusses acquis",
+      "qu'il se fût acquis",
+      "que nous nous fussions acquis",
+      "que vous vous fussiez acquis",
+      "qu'ils se fussent acquis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'acquerrais",
+      "tu t'acquerrais",
+      "il s'acquerrait",
+      "nous nous acquerrions",
+      "vous vous acquerriez",
+      "ils s'acquerraient"
+    ],
+    "passé": [
+      "je me serais acquis",
+      "tu te serais acquis",
+      "il se serait acquis",
+      "nous nous serions acquis",
+      "vous vous seriez acquis",
+      "ils se seraient acquis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "acquiers-toi",
+      "acquérons-nous",
+      "acquérez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'acquérir"
+    ],
+    "passé": [
+      "s'être acquis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'acquérant"
+    ],
+    "passé": [
+      "-",
+      "s'étant acquis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'acquérant"
+    ],
+    "passé": [
+      "en s'étant acquis"
+    ]
+  }
+}

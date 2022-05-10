@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je huis",
+      "tu huis",
+      "il huit",
+      "nous huissons",
+      "vous huissez",
+      "ils huissent"
+    ],
+    "passé composé": [
+      "j'ai hui",
+      "tu as hui",
+      "il a hui",
+      "nous avons hui",
+      "vous avez hui",
+      "ils ont hui"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais hui",
+      "tu avais hui",
+      "il avait hui",
+      "nous avions hui",
+      "vous aviez hui",
+      "ils avaient hui"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus hui",
+      "tu eus hui",
+      "il eut hui",
+      "nous eûmes hui",
+      "vous eûtes hui",
+      "ils eurent hui"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur antérieur": [
+      "j'aurai hui",
+      "tu auras hui",
+      "il aura hui",
+      "nous aurons hui",
+      "vous aurez hui",
+      "ils auront hui"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "que j'aie hui",
+      "que tu aies hui",
+      "qu'il ait hui",
+      "que nous ayons hui",
+      "que vous ayez hui",
+      "qu'ils aient hui"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse hui",
+      "que tu eusses hui",
+      "qu'il eût hui",
+      "que nous eussions hui",
+      "que vous eussiez hui",
+      "qu'ils eussent hui"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "j'aurais hui",
+      "tu aurais hui",
+      "il aurait hui",
+      "nous aurions hui",
+      "vous auriez hui",
+      "ils auraient hui"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie hui",
+      "ayons hui",
+      "ayez hui"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "huir"
+    ],
+    "passé": [
+      "avoir hui"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "huissant"
+    ],
+    "passé": [
+      "hui",
+      "ayant hui"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en huissant"
+    ],
+    "passé": [
+      "en ayant hui"
+    ]
+  }
+}

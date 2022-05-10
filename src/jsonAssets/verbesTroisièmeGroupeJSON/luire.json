@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je luis",
+      "tu luis",
+      "il luit",
+      "nous luisons",
+      "vous luisez",
+      "ils luisent"
+    ],
+    "passé composé": [
+      "j'ai luit",
+      "tu as luit",
+      "il a luit",
+      "nous avons luit",
+      "vous avez luit",
+      "ils ont luit"
+    ],
+    "imparfait": [
+      "je luisais",
+      "tu luisais",
+      "il luisait",
+      "nous luisions",
+      "vous luisiez",
+      "ils luisaient"
+    ],
+    "plus que parfait": [
+      "j'avais luit",
+      "tu avais luit",
+      "il avait luit",
+      "nous avions luit",
+      "vous aviez luit",
+      "ils avaient luit"
+    ],
+    "passé simple": [
+      "je luisis",
+      "tu luisis",
+      "il luisit",
+      "nous luisîmes",
+      "vous luisîtes",
+      "ils luisirent"
+    ],
+    "passé antérieur": [
+      "j'eus luit",
+      "tu eus luit",
+      "il eut luit",
+      "nous eûmes luit",
+      "vous eûtes luit",
+      "ils eurent luit"
+    ],
+    "futur simple": [
+      "je luirai",
+      "tu luiras",
+      "il luira",
+      "nous luirons",
+      "vous luirez",
+      "ils luiront"
+    ],
+    "futur antérieur": [
+      "j'aurai luit",
+      "tu auras luit",
+      "il aura luit",
+      "nous aurons luit",
+      "vous aurez luit",
+      "ils auront luit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je luise",
+      "que tu luises",
+      "qu'il luise",
+      "que nous luisions",
+      "que vous luisiez",
+      "qu'ils luisent"
+    ],
+    "passé": [
+      "que j'aie luit",
+      "que tu aies luit",
+      "qu'il ait luit",
+      "que nous ayons luit",
+      "que vous ayez luit",
+      "qu'ils aient luit"
+    ],
+    "imparfait": [
+      "que je luisisse",
+      "que tu luisisses",
+      "qu'il luisît",
+      "que nous luisissions",
+      "que vous luisissiez",
+      "qu'ils luisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse luit",
+      "que tu eusses luit",
+      "qu'il eût luit",
+      "que nous eussions luit",
+      "que vous eussiez luit",
+      "qu'ils eussent luit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je luirais",
+      "tu luirais",
+      "il luirait",
+      "nous luirions",
+      "vous luiriez",
+      "ils luiraient"
+    ],
+    "passé": [
+      "j'aurais luit",
+      "tu aurais luit",
+      "il aurait luit",
+      "nous aurions luit",
+      "vous auriez luit",
+      "ils auraient luit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "luis",
+      "luisons",
+      "luisez"
+    ],
+    "passé": [
+      "aie luit",
+      "ayons luit",
+      "ayez luit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "luire"
+    ],
+    "passé": [
+      "avoir luit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "luisant"
+    ],
+    "passé": [
+      "luit",
+      "ayant luit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en luisant"
+    ],
+    "passé": [
+      "en ayant luit"
+    ]
+  }
+}

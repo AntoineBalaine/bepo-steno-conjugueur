@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je conclus",
+      "tu conclus",
+      "il conclut",
+      "nous concluons",
+      "vous concluez",
+      "ils concluent"
+    ],
+    "passé composé": [
+      "j'ai conclu",
+      "tu as conclu",
+      "il a conclu",
+      "nous avons conclu",
+      "vous avez conclu",
+      "ils ont conclu"
+    ],
+    "imparfait": [
+      "je concluais",
+      "tu concluais",
+      "il concluait",
+      "nous concluions",
+      "vous concluiez",
+      "ils concluaient"
+    ],
+    "plus que parfait": [
+      "j'avais conclu",
+      "tu avais conclu",
+      "il avait conclu",
+      "nous avions conclu",
+      "vous aviez conclu",
+      "ils avaient conclu"
+    ],
+    "passé simple": [
+      "je conclus",
+      "tu conclus",
+      "il conclut",
+      "nous conclûmes",
+      "vous conclûtes",
+      "ils conclurent"
+    ],
+    "passé antérieur": [
+      "j'eus conclu",
+      "tu eus conclu",
+      "il eut conclu",
+      "nous eûmes conclu",
+      "vous eûtes conclu",
+      "ils eurent conclu"
+    ],
+    "futur simple": [
+      "je conclurai",
+      "tu concluras",
+      "il conclura",
+      "nous conclurons",
+      "vous conclurez",
+      "ils concluront"
+    ],
+    "futur antérieur": [
+      "j'aurai conclu",
+      "tu auras conclu",
+      "il aura conclu",
+      "nous aurons conclu",
+      "vous aurez conclu",
+      "ils auront conclu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je conclue",
+      "que tu conclues",
+      "qu'il conclue",
+      "que nous concluions",
+      "que vous concluiez",
+      "qu'ils concluent"
+    ],
+    "passé": [
+      "que j'aie conclu",
+      "que tu aies conclu",
+      "qu'il ait conclu",
+      "que nous ayons conclu",
+      "que vous ayez conclu",
+      "qu'ils aient conclu"
+    ],
+    "imparfait": [
+      "que je conclusse",
+      "que tu conclusses",
+      "qu'il conclût",
+      "que nous conclussions",
+      "que vous conclussiez",
+      "qu'ils conclussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse conclu",
+      "que tu eusses conclu",
+      "qu'il eût conclu",
+      "que nous eussions conclu",
+      "que vous eussiez conclu",
+      "qu'ils eussent conclu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je conclurais",
+      "tu conclurais",
+      "il conclurait",
+      "nous conclurions",
+      "vous concluriez",
+      "ils concluraient"
+    ],
+    "passé": [
+      "j'aurais conclu",
+      "tu aurais conclu",
+      "il aurait conclu",
+      "nous aurions conclu",
+      "vous auriez conclu",
+      "ils auraient conclu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conclus",
+      "concluons",
+      "concluez"
+    ],
+    "passé": [
+      "aie conclu",
+      "ayons conclu",
+      "ayez conclu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "conclure"
+    ],
+    "passé": [
+      "avoir conclu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "concluant"
+    ],
+    "passé": [
+      "conclu",
+      "ayant conclu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en concluant"
+    ],
+    "passé": [
+      "en ayant conclu"
+    ]
+  }
+}

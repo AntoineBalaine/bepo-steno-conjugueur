@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me bois",
+      "tu te bois",
+      "il se boit",
+      "nous nous buvons",
+      "vous vous buvez",
+      "ils se boivent"
+    ],
+    "passé composé": [
+      "je me suis bu",
+      "tu t'es bu",
+      "il s'est bu",
+      "nous nous sommes bus",
+      "vous vous êtes bus",
+      "ils se sont bus"
+    ],
+    "imparfait": [
+      "je me buvais",
+      "tu te buvais",
+      "il se buvait",
+      "nous nous buvions",
+      "vous vous buviez",
+      "ils se buvaient"
+    ],
+    "plus que parfait": [
+      "je m'étais bu",
+      "tu t'étais bu",
+      "il s'était bu",
+      "nous nous étions bus",
+      "vous vous étiez bus",
+      "ils s'étaient bus"
+    ],
+    "passé simple": [
+      "je me bus",
+      "tu te bus",
+      "il se but",
+      "nous nous bûmes",
+      "vous vous bûtes",
+      "ils se burent"
+    ],
+    "passé antérieur": [
+      "je me fus bu",
+      "tu te fus bu",
+      "il se fut bu",
+      "nous nous fûmes bus",
+      "vous vous fûtes bus",
+      "ils se furent bus"
+    ],
+    "futur simple": [
+      "je me boirai",
+      "tu te boiras",
+      "il se boira",
+      "nous nous boirons",
+      "vous vous boirez",
+      "ils se boiront"
+    ],
+    "futur antérieur": [
+      "je me serai bu",
+      "tu te seras bu",
+      "il se sera bu",
+      "nous nous serons bus",
+      "vous vous serez bus",
+      "ils se seront bus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me boive",
+      "que tu te boives",
+      "qu'il se boive",
+      "que nous nous buvions",
+      "que vous vous buviez",
+      "qu'ils se boivent"
+    ],
+    "passé": [
+      "que je me sois bu",
+      "que tu te sois bu",
+      "qu'il se soit bu",
+      "que nous nous soyons bus",
+      "que vous vous soyez bus",
+      "qu'ils se soient bus"
+    ],
+    "imparfait": [
+      "que je me busse",
+      "que tu te busses",
+      "qu'il se bût",
+      "que nous nous bussions",
+      "que vous vous bussiez",
+      "qu'ils se bussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse bu",
+      "que tu te fusses bu",
+      "qu'il se fût bu",
+      "que nous nous fussions bus",
+      "que vous vous fussiez bus",
+      "qu'ils se fussent bus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me boirais",
+      "tu te boirais",
+      "il se boirait",
+      "nous nous boirions",
+      "vous vous boiriez",
+      "ils se boiraient"
+    ],
+    "passé": [
+      "je me serais bu",
+      "tu te serais bu",
+      "il se serait bu",
+      "nous nous serions bus",
+      "vous vous seriez bus",
+      "ils se seraient bus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "bois-toi",
+      "buvons-nous",
+      "buvez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se boire"
+    ],
+    "passé": [
+      "s'être bu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se buvant"
+    ],
+    "passé": [
+      "-",
+      "s'étant bu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se buvant"
+    ],
+    "passé": [
+      "en s'étant bu"
+    ]
+  }
+}

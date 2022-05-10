@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je disconviens",
+      "tu disconviens",
+      "il disconvient",
+      "nous disconvenons",
+      "vous disconvenez",
+      "ils disconviennent"
+    ],
+    "passé composé": [
+      "j'ai disconvenu",
+      "tu as disconvenu",
+      "il a disconvenu",
+      "nous avons disconvenu",
+      "vous avez disconvenu",
+      "ils ont disconvenu"
+    ],
+    "imparfait": [
+      "je disconvenais",
+      "tu disconvenais",
+      "il disconvenait",
+      "nous disconvenions",
+      "vous disconveniez",
+      "ils disconvenaient"
+    ],
+    "plus que parfait": [
+      "j'avais disconvenu",
+      "tu avais disconvenu",
+      "il avait disconvenu",
+      "nous avions disconvenu",
+      "vous aviez disconvenu",
+      "ils avaient disconvenu"
+    ],
+    "passé simple": [
+      "je disconvins",
+      "tu disconvins",
+      "il disconvint",
+      "nous disconvînmes",
+      "vous disconvîntes",
+      "ils disconvinrent"
+    ],
+    "passé antérieur": [
+      "j'eus disconvenu",
+      "tu eus disconvenu",
+      "il eut disconvenu",
+      "nous eûmes disconvenu",
+      "vous eûtes disconvenu",
+      "ils eurent disconvenu"
+    ],
+    "futur simple": [
+      "je disconviendrai",
+      "tu disconviendras",
+      "il disconviendra",
+      "nous disconviendrons",
+      "vous disconviendrez",
+      "ils disconviendront"
+    ],
+    "futur antérieur": [
+      "j'aurai disconvenu",
+      "tu auras disconvenu",
+      "il aura disconvenu",
+      "nous aurons disconvenu",
+      "vous aurez disconvenu",
+      "ils auront disconvenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je disconvienne",
+      "que tu disconviennes",
+      "qu'il disconvienne",
+      "que nous disconvenions",
+      "que vous disconveniez",
+      "qu'ils disconviennent"
+    ],
+    "passé": [
+      "que j'aie disconvenu",
+      "que tu aies disconvenu",
+      "qu'il ait disconvenu",
+      "que nous ayons disconvenu",
+      "que vous ayez disconvenu",
+      "qu'ils aient disconvenu"
+    ],
+    "imparfait": [
+      "que je disconvinsse",
+      "que tu disconvinsses",
+      "qu'il disconvînt",
+      "que nous disconvinssions",
+      "que vous disconvinssiez",
+      "qu'ils disconvinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse disconvenu",
+      "que tu eusses disconvenu",
+      "qu'il eût disconvenu",
+      "que nous eussions disconvenu",
+      "que vous eussiez disconvenu",
+      "qu'ils eussent disconvenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je disconviendrais",
+      "tu disconviendrais",
+      "il disconviendrait",
+      "nous disconviendrions",
+      "vous disconviendriez",
+      "ils disconviendraient"
+    ],
+    "passé": [
+      "j'aurais disconvenu",
+      "tu aurais disconvenu",
+      "il aurait disconvenu",
+      "nous aurions disconvenu",
+      "vous auriez disconvenu",
+      "ils auraient disconvenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "disconviens",
+      "disconvenons",
+      "disconvenez"
+    ],
+    "passé": [
+      "aie disconvenu",
+      "ayons disconvenu",
+      "ayez disconvenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "disconvenir"
+    ],
+    "passé": [
+      "avoir disconvenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "disconvenant"
+    ],
+    "passé": [
+      "disconvenu",
+      "ayant disconvenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en disconvenant"
+    ],
+    "passé": [
+      "en ayant disconvenu"
+    ]
+  }
+}

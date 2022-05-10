@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'accroîs",
+      "tu t'accroîs",
+      "il s'accroît",
+      "nous nous accroissons",
+      "vous vous accroissez",
+      "ils s'accroissent"
+    ],
+    "passé composé": [
+      "je me suis accrû",
+      "tu t'es accrû",
+      "il s'est accrû",
+      "nous nous sommes accrûs",
+      "vous vous êtes accrûs",
+      "ils se sont accrûs"
+    ],
+    "imparfait": [
+      "je m'accroissais",
+      "tu t'accroissais",
+      "il s'accroissait",
+      "nous nous accroissions",
+      "vous vous accroissiez",
+      "ils s'accroissaient"
+    ],
+    "plus que parfait": [
+      "je m'étais accrû",
+      "tu t'étais accrû",
+      "il s'était accrû",
+      "nous nous étions accrûs",
+      "vous vous étiez accrûs",
+      "ils s'étaient accrûs"
+    ],
+    "passé simple": [
+      "je m'accrûs",
+      "tu t'accrûs",
+      "il s'accrût",
+      "nous nous accrûmes",
+      "vous vous accrûtes",
+      "ils s'accrûrent"
+    ],
+    "passé antérieur": [
+      "je me fus accrû",
+      "tu te fus accrû",
+      "il se fut accrû",
+      "nous nous fûmes accrûs",
+      "vous vous fûtes accrûs",
+      "ils se furent accrûs"
+    ],
+    "futur simple": [
+      "je m'accroîtrai",
+      "tu t'accroîtras",
+      "il s'accroîtra",
+      "nous nous accroîtrons",
+      "vous vous accroîtrez",
+      "ils s'accroîtront"
+    ],
+    "futur antérieur": [
+      "je me serai accrû",
+      "tu te seras accrû",
+      "il se sera accrû",
+      "nous nous serons accrûs",
+      "vous vous serez accrûs",
+      "ils se seront accrûs"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'accroisse",
+      "que tu t'accroisses",
+      "qu'il s'accroisse",
+      "que nous nous accroissions",
+      "que vous vous accroissiez",
+      "qu'ils s'accroissent"
+    ],
+    "passé": [
+      "que je me sois accrû",
+      "que tu te sois accrû",
+      "qu'il se soit accrû",
+      "que nous nous soyons accrûs",
+      "que vous vous soyez accrûs",
+      "qu'ils se soient accrûs"
+    ],
+    "imparfait": [
+      "que je m'accrûsse",
+      "que tu t'accrûsses",
+      "qu'il s'accrût",
+      "que nous nous accrûssions",
+      "que vous vous accrussiez",
+      "qu'ils s'accrûssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse accrû",
+      "que tu te fusses accrû",
+      "qu'il se fût accrû",
+      "que nous nous fussions accrûs",
+      "que vous vous fussiez accrûs",
+      "qu'ils se fussent accrûs"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'accroîtrais",
+      "tu t'accroîtrais",
+      "il s'accroîtrait",
+      "nous nous accroîtrions",
+      "vous vous accroîtriez",
+      "ils s'accroîtraient"
+    ],
+    "passé": [
+      "je me serais accrû",
+      "tu te serais accrû",
+      "il se serait accrû",
+      "nous nous serions accrûs",
+      "vous vous seriez accrûs",
+      "ils se seraient accrûs"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "accroîs-toi",
+      "accroissons-nous",
+      "accroissez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'accroître"
+    ],
+    "passé": [
+      "s'être accrû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'accroissant"
+    ],
+    "passé": [
+      "-",
+      "s'étant accrû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'accroissant"
+    ],
+    "passé": [
+      "en s'étant accrû"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je construis",
+      "tu construis",
+      "il construit",
+      "nous construisons",
+      "vous construisez",
+      "ils construisent"
+    ],
+    "passé composé": [
+      "j'ai construit",
+      "tu as construit",
+      "il a construit",
+      "nous avons construit",
+      "vous avez construit",
+      "ils ont construit"
+    ],
+    "imparfait": [
+      "je construisais",
+      "tu construisais",
+      "il construisait",
+      "nous construisions",
+      "vous construisiez",
+      "ils construisaient"
+    ],
+    "plus que parfait": [
+      "j'avais construit",
+      "tu avais construit",
+      "il avait construit",
+      "nous avions construit",
+      "vous aviez construit",
+      "ils avaient construit"
+    ],
+    "passé simple": [
+      "je construisis",
+      "tu construisis",
+      "il construisit",
+      "nous construisîmes",
+      "vous construisîtes",
+      "ils construisirent"
+    ],
+    "passé antérieur": [
+      "j'eus construit",
+      "tu eus construit",
+      "il eut construit",
+      "nous eûmes construit",
+      "vous eûtes construit",
+      "ils eurent construit"
+    ],
+    "futur simple": [
+      "je construirai",
+      "tu construiras",
+      "il construira",
+      "nous construirons",
+      "vous construirez",
+      "ils construiront"
+    ],
+    "futur antérieur": [
+      "j'aurai construit",
+      "tu auras construit",
+      "il aura construit",
+      "nous aurons construit",
+      "vous aurez construit",
+      "ils auront construit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je construise",
+      "que tu construises",
+      "qu'il construise",
+      "que nous construisions",
+      "que vous construisiez",
+      "qu'ils construisent"
+    ],
+    "passé": [
+      "que j'aie construit",
+      "que tu aies construit",
+      "qu'il ait construit",
+      "que nous ayons construit",
+      "que vous ayez construit",
+      "qu'ils aient construit"
+    ],
+    "imparfait": [
+      "que je construisisse",
+      "que tu construisisses",
+      "qu'il construisît",
+      "que nous construisissions",
+      "que vous construisissiez",
+      "qu'ils construisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse construit",
+      "que tu eusses construit",
+      "qu'il eût construit",
+      "que nous eussions construit",
+      "que vous eussiez construit",
+      "qu'ils eussent construit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je construirais",
+      "tu construirais",
+      "il construirait",
+      "nous construirions",
+      "vous construiriez",
+      "ils construiraient"
+    ],
+    "passé": [
+      "j'aurais construit",
+      "tu aurais construit",
+      "il aurait construit",
+      "nous aurions construit",
+      "vous auriez construit",
+      "ils auraient construit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "construis",
+      "construisons",
+      "construisez"
+    ],
+    "passé": [
+      "aie construit",
+      "ayons construit",
+      "ayez construit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "construire"
+    ],
+    "passé": [
+      "avoir construit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "construisant"
+    ],
+    "passé": [
+      "construit",
+      "ayant construit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en construisant"
+    ],
+    "passé": [
+      "en ayant construit"
+    ]
+  }
+}

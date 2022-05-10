@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je connais",
+      "tu connais",
+      "il connaît",
+      "nous connaissons",
+      "vous connaissez",
+      "ils connaissent"
+    ],
+    "passé composé": [
+      "j'ai connu",
+      "tu as connu",
+      "il a connu",
+      "nous avons connu",
+      "vous avez connu",
+      "ils ont connu"
+    ],
+    "imparfait": [
+      "je connaissais",
+      "tu connaissais",
+      "il connaissait",
+      "nous connaissions",
+      "vous connaissiez",
+      "ils connaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais connu",
+      "tu avais connu",
+      "il avait connu",
+      "nous avions connu",
+      "vous aviez connu",
+      "ils avaient connu"
+    ],
+    "passé simple": [
+      "je connus",
+      "tu connus",
+      "il connut",
+      "nous connûmes",
+      "vous connûtes",
+      "ils connurent"
+    ],
+    "passé antérieur": [
+      "j'eus connu",
+      "tu eus connu",
+      "il eut connu",
+      "nous eûmes connu",
+      "vous eûtes connu",
+      "ils eurent connu"
+    ],
+    "futur simple": [
+      "je connaîtrai",
+      "tu connaîtras",
+      "il connaîtra",
+      "nous connaîtrons",
+      "vous connaîtrez",
+      "ils connaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai connu",
+      "tu auras connu",
+      "il aura connu",
+      "nous aurons connu",
+      "vous aurez connu",
+      "ils auront connu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je connaisse",
+      "que tu connaisses",
+      "qu'il connaisse",
+      "que nous connaissions",
+      "que vous connaissiez",
+      "qu'ils connaissent"
+    ],
+    "passé": [
+      "que j'aie connu",
+      "que tu aies connu",
+      "qu'il ait connu",
+      "que nous ayons connu",
+      "que vous ayez connu",
+      "qu'ils aient connu"
+    ],
+    "imparfait": [
+      "que je connusse",
+      "que tu connusses",
+      "qu'il connût",
+      "que nous connussions",
+      "que vous connussiez",
+      "qu'ils connussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse connu",
+      "que tu eusses connu",
+      "qu'il eût connu",
+      "que nous eussions connu",
+      "que vous eussiez connu",
+      "qu'ils eussent connu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je connaîtrais",
+      "tu connaîtrais",
+      "il connaîtrait",
+      "nous connaîtrions",
+      "vous connaîtriez",
+      "ils connaîtraient"
+    ],
+    "passé": [
+      "j'aurais connu",
+      "tu aurais connu",
+      "il aurait connu",
+      "nous aurions connu",
+      "vous auriez connu",
+      "ils auraient connu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "connais",
+      "connaissons",
+      "connaissez"
+    ],
+    "passé": [
+      "aie connu",
+      "ayons connu",
+      "ayez connu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "connaître"
+    ],
+    "passé": [
+      "avoir connu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "connaissant"
+    ],
+    "passé": [
+      "connu",
+      "ayant connu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en connaissant"
+    ],
+    "passé": [
+      "en ayant connu"
+    ]
+  }
+}

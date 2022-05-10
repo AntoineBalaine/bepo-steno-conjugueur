@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je recouvre",
+      "tu recouvres",
+      "il recouvre",
+      "nous recouvrons",
+      "vous recouvrez",
+      "ils recouvrent"
+    ],
+    "passé composé": [
+      "j'ai recouvert",
+      "tu as recouvert",
+      "il a recouvert",
+      "nous avons recouvert",
+      "vous avez recouvert",
+      "ils ont recouvert"
+    ],
+    "imparfait": [
+      "je recouvrais",
+      "tu recouvrais",
+      "il recouvrait",
+      "nous recouvrions",
+      "vous recouvriez",
+      "ils recouvraient"
+    ],
+    "plus que parfait": [
+      "j'avais recouvert",
+      "tu avais recouvert",
+      "il avait recouvert",
+      "nous avions recouvert",
+      "vous aviez recouvert",
+      "ils avaient recouvert"
+    ],
+    "passé simple": [
+      "je recouvris",
+      "tu recouvris",
+      "il recouvrit",
+      "nous recouvrîmes",
+      "vous recouvrîtes",
+      "ils recouvrirent"
+    ],
+    "passé antérieur": [
+      "j'eus recouvert",
+      "tu eus recouvert",
+      "il eut recouvert",
+      "nous eûmes recouvert",
+      "vous eûtes recouvert",
+      "ils eurent recouvert"
+    ],
+    "futur simple": [
+      "je recouvrirai",
+      "tu recouvriras",
+      "il recouvrira",
+      "nous recouvrirons",
+      "vous recouvrirez",
+      "ils recouvriront"
+    ],
+    "futur antérieur": [
+      "j'aurai recouvert",
+      "tu auras recouvert",
+      "il aura recouvert",
+      "nous aurons recouvert",
+      "vous aurez recouvert",
+      "ils auront recouvert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je recouvre",
+      "que tu recouvres",
+      "qu'il recouvre",
+      "que nous recouvrions",
+      "que vous recouvriez",
+      "qu'ils recouvrent"
+    ],
+    "passé": [
+      "que j'aie recouvert",
+      "que tu aies recouvert",
+      "qu'il ait recouvert",
+      "que nous ayons recouvert",
+      "que vous ayez recouvert",
+      "qu'ils aient recouvert"
+    ],
+    "imparfait": [
+      "que je recouvrisse",
+      "que tu recouvrisses",
+      "qu'il recouvrît",
+      "que nous recouvrissions",
+      "que vous recouvrissiez",
+      "qu'ils recouvrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse recouvert",
+      "que tu eusses recouvert",
+      "qu'il eût recouvert",
+      "que nous eussions recouvert",
+      "que vous eussiez recouvert",
+      "qu'ils eussent recouvert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je recouvrirais",
+      "tu recouvrirais",
+      "il recouvrirait",
+      "nous recouvririons",
+      "vous recouvririez",
+      "ils recouvriraient"
+    ],
+    "passé": [
+      "j'aurais recouvert",
+      "tu aurais recouvert",
+      "il aurait recouvert",
+      "nous aurions recouvert",
+      "vous auriez recouvert",
+      "ils auraient recouvert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recouvre",
+      "recouvrons",
+      "recouvrez"
+    ],
+    "passé": [
+      "aie recouvert",
+      "ayons recouvert",
+      "ayez recouvert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "recouvrir"
+    ],
+    "passé": [
+      "avoir recouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "recouvrant"
+    ],
+    "passé": [
+      "recouvert",
+      "ayant recouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en recouvrant"
+    ],
+    "passé": [
+      "en ayant recouvert"
+    ]
+  }
+}

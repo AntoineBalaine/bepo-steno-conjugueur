@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'entreprends",
+      "tu entreprends",
+      "il entreprend",
+      "nous entreprenons",
+      "vous entreprenez",
+      "ils entreprennent"
+    ],
+    "passé composé": [
+      "j'ai entrepris",
+      "tu as entrepris",
+      "il a entrepris",
+      "nous avons entrepris",
+      "vous avez entrepris",
+      "ils ont entrepris"
+    ],
+    "imparfait": [
+      "j'entreprenais",
+      "tu entreprenais",
+      "il entreprenait",
+      "nous entreprenions",
+      "vous entrepreniez",
+      "ils entreprenaient"
+    ],
+    "plus que parfait": [
+      "j'avais entrepris",
+      "tu avais entrepris",
+      "il avait entrepris",
+      "nous avions entrepris",
+      "vous aviez entrepris",
+      "ils avaient entrepris"
+    ],
+    "passé simple": [
+      "j'entrepris",
+      "tu entrepris",
+      "il entreprit",
+      "nous entreprîmes",
+      "vous entreprîtes",
+      "ils entreprirent"
+    ],
+    "passé antérieur": [
+      "j'eus entrepris",
+      "tu eus entrepris",
+      "il eut entrepris",
+      "nous eûmes entrepris",
+      "vous eûtes entrepris",
+      "ils eurent entrepris"
+    ],
+    "futur simple": [
+      "j'entreprendrai",
+      "tu entreprendras",
+      "il entreprendra",
+      "nous entreprendrons",
+      "vous entreprendrez",
+      "ils entreprendront"
+    ],
+    "futur antérieur": [
+      "j'aurai entrepris",
+      "tu auras entrepris",
+      "il aura entrepris",
+      "nous aurons entrepris",
+      "vous aurez entrepris",
+      "ils auront entrepris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'entreprenne",
+      "que tu entreprennes",
+      "qu'il entreprenne",
+      "que nous entreprenions",
+      "que vous entrepreniez",
+      "qu'ils entreprennent"
+    ],
+    "passé": [
+      "que j'aie entrepris",
+      "que tu aies entrepris",
+      "qu'il ait entrepris",
+      "que nous ayons entrepris",
+      "que vous ayez entrepris",
+      "qu'ils aient entrepris"
+    ],
+    "imparfait": [
+      "que j'entreprisse",
+      "que tu entreprisses",
+      "qu'il entreprît",
+      "que nous entreprissions",
+      "que vous entreprissiez",
+      "qu'ils entreprissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse entrepris",
+      "que tu eusses entrepris",
+      "qu'il eût entrepris",
+      "que nous eussions entrepris",
+      "que vous eussiez entrepris",
+      "qu'ils eussent entrepris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'entreprendrais",
+      "tu entreprendrais",
+      "il entreprendrait",
+      "nous entreprendrions",
+      "vous entreprendriez",
+      "ils entreprendraient"
+    ],
+    "passé": [
+      "j'aurais entrepris",
+      "tu aurais entrepris",
+      "il aurait entrepris",
+      "nous aurions entrepris",
+      "vous auriez entrepris",
+      "ils auraient entrepris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entreprends",
+      "entreprenons",
+      "entreprenez"
+    ],
+    "passé": [
+      "aie entrepris",
+      "ayons entrepris",
+      "ayez entrepris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "entreprendre"
+    ],
+    "passé": [
+      "avoir entrepris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "entreprenant"
+    ],
+    "passé": [
+      "entrepris",
+      "ayant entrepris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en entreprenant"
+    ],
+    "passé": [
+      "en ayant entrepris"
+    ]
+  }
+}

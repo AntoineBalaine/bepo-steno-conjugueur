@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'enduis",
+      "tu enduis",
+      "il enduit",
+      "nous enduisons",
+      "vous enduisez",
+      "ils enduisent"
+    ],
+    "passé composé": [
+      "j'ai enduit",
+      "tu as enduit",
+      "il a enduit",
+      "nous avons enduit",
+      "vous avez enduit",
+      "ils ont enduit"
+    ],
+    "imparfait": [
+      "j'enduisais",
+      "tu enduisais",
+      "il enduisait",
+      "nous enduisions",
+      "vous enduisiez",
+      "ils enduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais enduit",
+      "tu avais enduit",
+      "il avait enduit",
+      "nous avions enduit",
+      "vous aviez enduit",
+      "ils avaient enduit"
+    ],
+    "passé simple": [
+      "j'enduisis",
+      "tu enduisis",
+      "il enduisit",
+      "nous enduisîmes",
+      "vous enduisîtes",
+      "ils enduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus enduit",
+      "tu eus enduit",
+      "il eut enduit",
+      "nous eûmes enduit",
+      "vous eûtes enduit",
+      "ils eurent enduit"
+    ],
+    "futur simple": [
+      "j'enduirai",
+      "tu enduiras",
+      "il enduira",
+      "nous enduirons",
+      "vous enduirez",
+      "ils enduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai enduit",
+      "tu auras enduit",
+      "il aura enduit",
+      "nous aurons enduit",
+      "vous aurez enduit",
+      "ils auront enduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'enduise",
+      "que tu enduises",
+      "qu'il enduise",
+      "que nous enduisions",
+      "que vous enduisiez",
+      "qu'ils enduisent"
+    ],
+    "passé": [
+      "que j'aie enduit",
+      "que tu aies enduit",
+      "qu'il ait enduit",
+      "que nous ayons enduit",
+      "que vous ayez enduit",
+      "qu'ils aient enduit"
+    ],
+    "imparfait": [
+      "que j'enduisisse",
+      "que tu enduisisses",
+      "qu'il enduisît",
+      "que nous enduisissions",
+      "que vous enduisissiez",
+      "qu'ils enduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse enduit",
+      "que tu eusses enduit",
+      "qu'il eût enduit",
+      "que nous eussions enduit",
+      "que vous eussiez enduit",
+      "qu'ils eussent enduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'enduirais",
+      "tu enduirais",
+      "il enduirait",
+      "nous enduirions",
+      "vous enduiriez",
+      "ils enduiraient"
+    ],
+    "passé": [
+      "j'aurais enduit",
+      "tu aurais enduit",
+      "il aurait enduit",
+      "nous aurions enduit",
+      "vous auriez enduit",
+      "ils auraient enduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "enduis",
+      "enduisons",
+      "enduisez"
+    ],
+    "passé": [
+      "aie enduit",
+      "ayons enduit",
+      "ayez enduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "enduire"
+    ],
+    "passé": [
+      "avoir enduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "enduisant"
+    ],
+    "passé": [
+      "enduit",
+      "ayant enduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en enduisant"
+    ],
+    "passé": [
+      "en ayant enduit"
+    ]
+  }
+}

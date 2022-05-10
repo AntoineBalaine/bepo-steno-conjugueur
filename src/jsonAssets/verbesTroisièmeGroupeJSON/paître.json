@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je pais",
+      "tu pais",
+      "il paît",
+      "nous paissons",
+      "vous paissez",
+      "ils paissent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "je paissais",
+      "tu paissais",
+      "il paissait",
+      "nous paissions",
+      "vous paissiez",
+      "ils paissaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "je paîtrai",
+      "tu paîtras",
+      "il paîtra",
+      "nous paîtrons",
+      "vous paîtrez",
+      "ils paîtront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je paisse",
+      "que tu paisses",
+      "qu'il paisse",
+      "que nous paissions",
+      "que vous paissiez",
+      "qu'ils paissent"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je paîtrais",
+      "tu paîtrais",
+      "il paîtrait",
+      "nous paîtrions",
+      "vous paîtriez",
+      "ils paîtraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "pais",
+      "paissons",
+      "paissez"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "paître"
+    ],
+    "passé": [
+      "-"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "paissant"
+    ],
+    "passé": [
+      "-",
+      "-"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en paissant"
+    ],
+    "passé": [
+      "-"
+    ]
+  }
+}

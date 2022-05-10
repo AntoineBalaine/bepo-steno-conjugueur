@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il échoit",
+      "-",
+      "-",
+      "ils échoient"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "il a échu",
+      "-",
+      "-",
+      "ils ont échu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il échoyait",
+      "-",
+      "-",
+      "ils échoyaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "il avait échu",
+      "-",
+      "-",
+      "ils avaient échu"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "il échut",
+      "-",
+      "-",
+      "ils échurent"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "il eut échu",
+      "-",
+      "-",
+      "ils eurent échu"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il échoira",
+      "-",
+      "-",
+      "ils échoiront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "il aura échu",
+      "-",
+      "-",
+      "ils auront échu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "qu'il échoie",
+      "-",
+      "-",
+      "qu'ils échoient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "qu'il ait échu",
+      "-",
+      "-",
+      "qu'ils aient échu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "qu'il échût",
+      "-",
+      "-",
+      "qu'ils échussent"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "qu'il eût échu",
+      "-",
+      "-",
+      "qu'ils eussent échu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "il échoirait",
+      "-",
+      "-",
+      "ils échoiraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "il aurait échu",
+      "-",
+      "-",
+      "ils auraient échu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "échoir"
+    ],
+    "passé": [
+      "avoir échu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "échéant"
+    ],
+    "passé": [
+      "échu",
+      "ayant échu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en échéant"
+    ],
+    "passé": [
+      "en ayant échu"
+    ]
+  }
+}

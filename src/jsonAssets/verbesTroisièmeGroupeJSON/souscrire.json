@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je souscris",
+      "tu souscris",
+      "il souscrit",
+      "nous souscrivons",
+      "vous souscrivez",
+      "ils souscrivent"
+    ],
+    "passé composé": [
+      "j'ai souscrit",
+      "tu as souscrit",
+      "il a souscrit",
+      "nous avons souscrit",
+      "vous avez souscrit",
+      "ils ont souscrit"
+    ],
+    "imparfait": [
+      "je souscrivais",
+      "tu souscrivais",
+      "il souscrivait",
+      "nous souscrivions",
+      "vous souscriviez",
+      "ils souscrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais souscrit",
+      "tu avais souscrit",
+      "il avait souscrit",
+      "nous avions souscrit",
+      "vous aviez souscrit",
+      "ils avaient souscrit"
+    ],
+    "passé simple": [
+      "je souscrivis",
+      "tu souscrivis",
+      "il souscrivit",
+      "nous souscrivîmes",
+      "vous souscrivîtes",
+      "ils souscrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus souscrit",
+      "tu eus souscrit",
+      "il eut souscrit",
+      "nous eûmes souscrit",
+      "vous eûtes souscrit",
+      "ils eurent souscrit"
+    ],
+    "futur simple": [
+      "je souscrirai",
+      "tu souscriras",
+      "il souscrira",
+      "nous souscrirons",
+      "vous souscrirez",
+      "ils souscriront"
+    ],
+    "futur antérieur": [
+      "j'aurai souscrit",
+      "tu auras souscrit",
+      "il aura souscrit",
+      "nous aurons souscrit",
+      "vous aurez souscrit",
+      "ils auront souscrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je souscrive",
+      "que tu souscrives",
+      "qu'il souscrive",
+      "que nous souscrivions",
+      "que vous souscriviez",
+      "qu'ils souscrivent"
+    ],
+    "passé": [
+      "que j'aie souscrit",
+      "que tu aies souscrit",
+      "qu'il ait souscrit",
+      "que nous ayons souscrit",
+      "que vous ayez souscrit",
+      "qu'ils aient souscrit"
+    ],
+    "imparfait": [
+      "que je souscrivisse",
+      "que tu souscrivisses",
+      "qu'il souscrivît",
+      "que nous souscrivissions",
+      "que vous souscrivissiez",
+      "qu'ils souscrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse souscrit",
+      "que tu eusses souscrit",
+      "qu'il eût souscrit",
+      "que nous eussions souscrit",
+      "que vous eussiez souscrit",
+      "qu'ils eussent souscrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je souscrirais",
+      "tu souscrirais",
+      "il souscrirait",
+      "nous souscririons",
+      "vous souscririez",
+      "ils souscriraient"
+    ],
+    "passé": [
+      "j'aurais souscrit",
+      "tu aurais souscrit",
+      "il aurait souscrit",
+      "nous aurions souscrit",
+      "vous auriez souscrit",
+      "ils auraient souscrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "souscris",
+      "souscrivons",
+      "souscrivez"
+    ],
+    "passé": [
+      "aie souscrit",
+      "ayons souscrit",
+      "ayez souscrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "souscrire"
+    ],
+    "passé": [
+      "avoir souscrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "souscrivant"
+    ],
+    "passé": [
+      "souscrit",
+      "ayant souscrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en souscrivant"
+    ],
+    "passé": [
+      "en ayant souscrit"
+    ]
+  }
+}

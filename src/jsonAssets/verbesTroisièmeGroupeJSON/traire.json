@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je trais",
+      "tu trais",
+      "il trait",
+      "nous trayons",
+      "vous trayez",
+      "ils traient"
+    ],
+    "passé composé": [
+      "j'ai trait",
+      "tu as trait",
+      "il a trait",
+      "nous avons trait",
+      "vous avez trait",
+      "ils ont trait"
+    ],
+    "imparfait": [
+      "je trayais",
+      "tu trayais",
+      "il trayait",
+      "nous trayions",
+      "vous trayiez",
+      "ils trayaient"
+    ],
+    "plus que parfait": [
+      "j'avais trait",
+      "tu avais trait",
+      "il avait trait",
+      "nous avions trait",
+      "vous aviez trait",
+      "ils avaient trait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus trait",
+      "tu eus trait",
+      "il eut trait",
+      "nous eûmes trait",
+      "vous eûtes trait",
+      "ils eurent trait"
+    ],
+    "futur simple": [
+      "je trairai",
+      "tu trairas",
+      "il traira",
+      "nous trairons",
+      "vous trairez",
+      "ils trairont"
+    ],
+    "futur antérieur": [
+      "j'aurai trait",
+      "tu auras trait",
+      "il aura trait",
+      "nous aurons trait",
+      "vous aurez trait",
+      "ils auront trait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je traie",
+      "que tu traies",
+      "qu'il traie",
+      "que nous trayions",
+      "que vous trayiez",
+      "qu'ils traient"
+    ],
+    "passé": [
+      "que j'aie trait",
+      "que tu aies trait",
+      "qu'il ait trait",
+      "que nous ayons trait",
+      "que vous ayez trait",
+      "qu'ils aient trait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse trait",
+      "que tu eusses trait",
+      "qu'il eût trait",
+      "que nous eussions trait",
+      "que vous eussiez trait",
+      "qu'ils eussent trait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je trairais",
+      "tu trairais",
+      "il trairait",
+      "nous trairions",
+      "vous trairiez",
+      "ils trairaient"
+    ],
+    "passé": [
+      "j'aurais trait",
+      "tu aurais trait",
+      "il aurait trait",
+      "nous aurions trait",
+      "vous auriez trait",
+      "ils auraient trait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "trais",
+      "trayons",
+      "trayez"
+    ],
+    "passé": [
+      "aie trait",
+      "ayons trait",
+      "ayez trait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "traire"
+    ],
+    "passé": [
+      "avoir trait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "trayant"
+    ],
+    "passé": [
+      "trait",
+      "ayant trait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en trayant"
+    ],
+    "passé": [
+      "en ayant trait"
+    ]
+  }
+}

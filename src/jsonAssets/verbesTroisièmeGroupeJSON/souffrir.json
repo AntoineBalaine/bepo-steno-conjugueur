@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je souffre",
+      "tu souffres",
+      "il souffre",
+      "nous souffrons",
+      "vous souffrez",
+      "ils souffrent"
+    ],
+    "passé composé": [
+      "j'ai souffert",
+      "tu as souffert",
+      "il a souffert",
+      "nous avons souffert",
+      "vous avez souffert",
+      "ils ont souffert"
+    ],
+    "imparfait": [
+      "je souffrais",
+      "tu souffrais",
+      "il souffrait",
+      "nous souffrions",
+      "vous souffriez",
+      "ils souffraient"
+    ],
+    "plus que parfait": [
+      "j'avais souffert",
+      "tu avais souffert",
+      "il avait souffert",
+      "nous avions souffert",
+      "vous aviez souffert",
+      "ils avaient souffert"
+    ],
+    "passé simple": [
+      "je souffris",
+      "tu souffris",
+      "il souffrit",
+      "nous souffrîmes",
+      "vous souffrîtes",
+      "ils souffrirent"
+    ],
+    "passé antérieur": [
+      "j'eus souffert",
+      "tu eus souffert",
+      "il eut souffert",
+      "nous eûmes souffert",
+      "vous eûtes souffert",
+      "ils eurent souffert"
+    ],
+    "futur simple": [
+      "je souffrirai",
+      "tu souffriras",
+      "il souffrira",
+      "nous souffrirons",
+      "vous souffrirez",
+      "ils souffriront"
+    ],
+    "futur antérieur": [
+      "j'aurai souffert",
+      "tu auras souffert",
+      "il aura souffert",
+      "nous aurons souffert",
+      "vous aurez souffert",
+      "ils auront souffert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je souffre",
+      "que tu souffres",
+      "qu'il souffre",
+      "que nous souffrions",
+      "que vous souffriez",
+      "qu'ils souffrent"
+    ],
+    "passé": [
+      "que j'aie souffert",
+      "que tu aies souffert",
+      "qu'il ait souffert",
+      "que nous ayons souffert",
+      "que vous ayez souffert",
+      "qu'ils aient souffert"
+    ],
+    "imparfait": [
+      "que je souffrisse",
+      "que tu souffrisses",
+      "qu'il souffrît",
+      "que nous souffrissions",
+      "que vous souffrissiez",
+      "qu'ils souffrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse souffert",
+      "que tu eusses souffert",
+      "qu'il eût souffert",
+      "que nous eussions souffert",
+      "que vous eussiez souffert",
+      "qu'ils eussent souffert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je souffrirais",
+      "tu souffrirais",
+      "il souffrirait",
+      "nous souffririons",
+      "vous souffririez",
+      "ils souffriraient"
+    ],
+    "passé": [
+      "j'aurais souffert",
+      "tu aurais souffert",
+      "il aurait souffert",
+      "nous aurions souffert",
+      "vous auriez souffert",
+      "ils auraient souffert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "souffre",
+      "souffrons",
+      "souffrez"
+    ],
+    "passé": [
+      "aie souffert",
+      "ayons souffert",
+      "ayez souffert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "souffrir"
+    ],
+    "passé": [
+      "avoir souffert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "souffrant"
+    ],
+    "passé": [
+      "souffert",
+      "ayant souffert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en souffrant"
+    ],
+    "passé": [
+      "en ayant souffert"
+    ]
+  }
+}

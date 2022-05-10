@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je surfais",
+      "tu surfais",
+      "il surfait",
+      "nous surfaisons",
+      "vous surfaites",
+      "ils surfont"
+    ],
+    "passé composé": [
+      "j'ai surfait",
+      "tu as surfait",
+      "il a surfait",
+      "nous avons surfait",
+      "vous avez surfait",
+      "ils ont surfait"
+    ],
+    "imparfait": [
+      "je surfaisais",
+      "tu surfaisais",
+      "il surfaisait",
+      "nous surfaisions",
+      "vous surfaisiez",
+      "ils surfaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais surfait",
+      "tu avais surfait",
+      "il avait surfait",
+      "nous avions surfait",
+      "vous aviez surfait",
+      "ils avaient surfait"
+    ],
+    "passé simple": [
+      "je surfis",
+      "tu surfis",
+      "il surfit",
+      "nous surfîmes",
+      "vous surfîtes",
+      "ils surfirent"
+    ],
+    "passé antérieur": [
+      "j'eus surfait",
+      "tu eus surfait",
+      "il eut surfait",
+      "nous eûmes surfait",
+      "vous eûtes surfait",
+      "ils eurent surfait"
+    ],
+    "futur simple": [
+      "je surferai",
+      "tu surferas",
+      "il surfera",
+      "nous surferons",
+      "vous surferez",
+      "ils surferont"
+    ],
+    "futur antérieur": [
+      "j'aurai surfait",
+      "tu auras surfait",
+      "il aura surfait",
+      "nous aurons surfait",
+      "vous aurez surfait",
+      "ils auront surfait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je surfasse",
+      "que tu surfasses",
+      "qu'il surfasse",
+      "que nous surfassions",
+      "que vous surfassiez",
+      "qu'ils surfassent"
+    ],
+    "passé": [
+      "que j'aie surfait",
+      "que tu aies surfait",
+      "qu'il ait surfait",
+      "que nous ayons surfait",
+      "que vous ayez surfait",
+      "qu'ils aient surfait"
+    ],
+    "imparfait": [
+      "que je surfisse",
+      "que tu surfisses",
+      "qu'il surfît",
+      "que nous surfissions",
+      "que vous surfissiez",
+      "qu'ils surfissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse surfait",
+      "que tu eusses surfait",
+      "qu'il eût surfait",
+      "que nous eussions surfait",
+      "que vous eussiez surfait",
+      "qu'ils eussent surfait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je surferais",
+      "tu surferais",
+      "il surferait",
+      "nous surferions",
+      "vous surferiez",
+      "ils surferaient"
+    ],
+    "passé": [
+      "j'aurais surfait",
+      "tu aurais surfait",
+      "il aurait surfait",
+      "nous aurions surfait",
+      "vous auriez surfait",
+      "ils auraient surfait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "surfais",
+      "surfaisons",
+      "surfaites"
+    ],
+    "passé": [
+      "aie surfait",
+      "ayons surfait",
+      "ayez surfait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "surfaire"
+    ],
+    "passé": [
+      "avoir surfait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "surfaisant"
+    ],
+    "passé": [
+      "surfait",
+      "ayant surfait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en surfaisant"
+    ],
+    "passé": [
+      "en ayant surfait"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je meus",
+      "tu meus",
+      "il meut",
+      "nous mouvons",
+      "vous mouvez",
+      "ils meuvent"
+    ],
+    "passé composé": [
+      "j'ai mû",
+      "tu as mû",
+      "il a mû",
+      "nous avons mû",
+      "vous avez mû",
+      "ils ont mû"
+    ],
+    "imparfait": [
+      "je mouvais",
+      "tu mouvais",
+      "il mouvait",
+      "nous mouvions",
+      "vous mouviez",
+      "ils mouvaient"
+    ],
+    "plus que parfait": [
+      "j'avais mû",
+      "tu avais mû",
+      "il avait mû",
+      "nous avions mû",
+      "vous aviez mû",
+      "ils avaient mû"
+    ],
+    "passé simple": [
+      "je mus",
+      "tu mus",
+      "il mut",
+      "nous mûmes",
+      "vous mûtes",
+      "ils murent"
+    ],
+    "passé antérieur": [
+      "j'eus mû",
+      "tu eus mû",
+      "il eut mû",
+      "nous eûmes mû",
+      "vous eûtes mû",
+      "ils eurent mû"
+    ],
+    "futur simple": [
+      "je mouvrai",
+      "tu mouvras",
+      "il mouvra",
+      "nous mouvrons",
+      "vous mouvrez",
+      "ils mouvront"
+    ],
+    "futur antérieur": [
+      "j'aurai mû",
+      "tu auras mû",
+      "il aura mû",
+      "nous aurons mû",
+      "vous aurez mû",
+      "ils auront mû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je meuve",
+      "que tu meuves",
+      "qu'il meuve",
+      "que nous mouvions",
+      "que vous mouviez",
+      "qu'ils meuvent"
+    ],
+    "passé": [
+      "que j'aie mû",
+      "que tu aies mû",
+      "qu'il ait mû",
+      "que nous ayons mû",
+      "que vous ayez mû",
+      "qu'ils aient mû"
+    ],
+    "imparfait": [
+      "que je musse",
+      "que tu musses",
+      "qu'il mût",
+      "que nous mussions",
+      "que vous mussiez",
+      "qu'ils mussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse mû",
+      "que tu eusses mû",
+      "qu'il eût mû",
+      "que nous eussions mû",
+      "que vous eussiez mû",
+      "qu'ils eussent mû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je mouvrais",
+      "tu mouvrais",
+      "il mouvrait",
+      "nous mouvrions",
+      "vous mouvriez",
+      "ils mouvraient"
+    ],
+    "passé": [
+      "j'aurais mû",
+      "tu aurais mû",
+      "il aurait mû",
+      "nous aurions mû",
+      "vous auriez mû",
+      "ils auraient mû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "meus",
+      "mouvons",
+      "mouvez"
+    ],
+    "passé": [
+      "aie mû",
+      "ayons mû",
+      "ayez mû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "mouvoir"
+    ],
+    "passé": [
+      "avoir mû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "mouvant"
+    ],
+    "passé": [
+      "mû",
+      "ayant mû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en mouvant"
+    ],
+    "passé": [
+      "en ayant mû"
+    ]
+  }
+}

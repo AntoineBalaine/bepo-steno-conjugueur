@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me morfonds",
+      "tu te morfonds",
+      "il se morfond",
+      "nous nous morfondons",
+      "vous vous morfondez",
+      "ils se morfondent"
+    ],
+    "passé composé": [
+      "je me suis morfondu",
+      "tu t'es morfondu",
+      "il s'est morfondu",
+      "nous nous sommes morfondus",
+      "vous vous êtes morfondus",
+      "ils se sont morfondus"
+    ],
+    "imparfait": [
+      "je me morfondais",
+      "tu te morfondais",
+      "il se morfondait",
+      "nous nous morfondions",
+      "vous vous morfondiez",
+      "ils se morfondaient"
+    ],
+    "plus que parfait": [
+      "je m'étais morfondu",
+      "tu t'étais morfondu",
+      "il s'était morfondu",
+      "nous nous étions morfondus",
+      "vous vous étiez morfondus",
+      "ils s'étaient morfondus"
+    ],
+    "passé simple": [
+      "je me morfondis",
+      "tu te morfondis",
+      "il se morfondit",
+      "nous nous morfondîmes",
+      "vous vous morfondîtes",
+      "ils se morfondirent"
+    ],
+    "passé antérieur": [
+      "je me fus morfondu",
+      "tu te fus morfondu",
+      "il se fut morfondu",
+      "nous nous fûmes morfondus",
+      "vous vous fûtes morfondus",
+      "ils se furent morfondus"
+    ],
+    "futur simple": [
+      "je me morfondrai",
+      "tu te morfondras",
+      "il se morfondra",
+      "nous nous morfondrons",
+      "vous vous morfondrez",
+      "ils se morfondront"
+    ],
+    "futur antérieur": [
+      "je me serai morfondu",
+      "tu te seras morfondu",
+      "il se sera morfondu",
+      "nous nous serons morfondus",
+      "vous vous serez morfondus",
+      "ils se seront morfondus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me morfonde",
+      "que tu te morfondes",
+      "qu'il se morfonde",
+      "que nous nous morfondions",
+      "que vous vous morfondiez",
+      "qu'ils se morfondent"
+    ],
+    "passé": [
+      "que je me sois morfondu",
+      "que tu te sois morfondu",
+      "qu'il se soit morfondu",
+      "que nous nous soyons morfondus",
+      "que vous vous soyez morfondus",
+      "qu'ils se soient morfondus"
+    ],
+    "imparfait": [
+      "que je me morfondisse",
+      "que tu te morfondisses",
+      "qu'il se morfondît",
+      "que nous nous morfondissions",
+      "que vous vous morfondissiez",
+      "qu'ils se morfondissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse morfondu",
+      "que tu te fusses morfondu",
+      "qu'il se fût morfondu",
+      "que nous nous fussions morfondus",
+      "que vous vous fussiez morfondus",
+      "qu'ils se fussent morfondus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me morfondrais",
+      "tu te morfondrais",
+      "il se morfondrait",
+      "nous nous morfondrions",
+      "vous vous morfondriez",
+      "ils se morfondraient"
+    ],
+    "passé": [
+      "je me serais morfondu",
+      "tu te serais morfondu",
+      "il se serait morfondu",
+      "nous nous serions morfondus",
+      "vous vous seriez morfondus",
+      "ils se seraient morfondus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "morfonds-toi",
+      "morfondons-nous",
+      "morfondez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se morfondre"
+    ],
+    "passé": [
+      "s'être morfondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se morfondant"
+    ],
+    "passé": [
+      "-",
+      "s'étant morfondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se morfondant"
+    ],
+    "passé": [
+      "en s'étant morfondu"
+    ]
+  }
+}

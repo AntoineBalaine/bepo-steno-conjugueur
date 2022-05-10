@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'appends",
+      "tu appends",
+      "il append",
+      "nous appendons",
+      "vous appendez",
+      "ils appendent"
+    ],
+    "passé composé": [
+      "j'ai appendu",
+      "tu as appendu",
+      "il a appendu",
+      "nous avons appendu",
+      "vous avez appendu",
+      "ils ont appendu"
+    ],
+    "imparfait": [
+      "j'appendais",
+      "tu appendais",
+      "il appendait",
+      "nous appendions",
+      "vous appendiez",
+      "ils appendaient"
+    ],
+    "plus que parfait": [
+      "j'avais appendu",
+      "tu avais appendu",
+      "il avait appendu",
+      "nous avions appendu",
+      "vous aviez appendu",
+      "ils avaient appendu"
+    ],
+    "passé simple": [
+      "j'appendis",
+      "tu appendis",
+      "il appendit",
+      "nous appendîmes",
+      "vous appendîtes",
+      "ils appendirent"
+    ],
+    "passé antérieur": [
+      "j'eus appendu",
+      "tu eus appendu",
+      "il eut appendu",
+      "nous eûmes appendu",
+      "vous eûtes appendu",
+      "ils eurent appendu"
+    ],
+    "futur simple": [
+      "j'appendrai",
+      "tu appendras",
+      "il appendra",
+      "nous appendrons",
+      "vous appendrez",
+      "ils appendront"
+    ],
+    "futur antérieur": [
+      "j'aurai appendu",
+      "tu auras appendu",
+      "il aura appendu",
+      "nous aurons appendu",
+      "vous aurez appendu",
+      "ils auront appendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'appende",
+      "que tu appendes",
+      "qu'il appende",
+      "que nous appendions",
+      "que vous appendiez",
+      "qu'ils appendent"
+    ],
+    "passé": [
+      "que j'aie appendu",
+      "que tu aies appendu",
+      "qu'il ait appendu",
+      "que nous ayons appendu",
+      "que vous ayez appendu",
+      "qu'ils aient appendu"
+    ],
+    "imparfait": [
+      "que j'appendisse",
+      "que tu appendisses",
+      "qu'il appendît",
+      "que nous appendissions",
+      "que vous appendissiez",
+      "qu'ils appendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse appendu",
+      "que tu eusses appendu",
+      "qu'il eût appendu",
+      "que nous eussions appendu",
+      "que vous eussiez appendu",
+      "qu'ils eussent appendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'appendrais",
+      "tu appendrais",
+      "il appendrait",
+      "nous appendrions",
+      "vous appendriez",
+      "ils appendraient"
+    ],
+    "passé": [
+      "j'aurais appendu",
+      "tu aurais appendu",
+      "il aurait appendu",
+      "nous aurions appendu",
+      "vous auriez appendu",
+      "ils auraient appendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "appends",
+      "appendons",
+      "appendez"
+    ],
+    "passé": [
+      "aie appendu",
+      "ayons appendu",
+      "ayez appendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "appendre"
+    ],
+    "passé": [
+      "avoir appendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "appendant"
+    ],
+    "passé": [
+      "appendu",
+      "ayant appendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en appendant"
+    ],
+    "passé": [
+      "en ayant appendu"
+    ]
+  }
+}

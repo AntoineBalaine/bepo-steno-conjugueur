@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je parfonds",
+      "tu parfonds",
+      "il parfond",
+      "nous parfondons",
+      "vous parfondez",
+      "ils parfondent"
+    ],
+    "passé composé": [
+      "j'ai parfondu",
+      "tu as parfondu",
+      "il a parfondu",
+      "nous avons parfondu",
+      "vous avez parfondu",
+      "ils ont parfondu"
+    ],
+    "imparfait": [
+      "je parfondais",
+      "tu parfondais",
+      "il parfondait",
+      "nous parfondions",
+      "vous parfondiez",
+      "ils parfondaient"
+    ],
+    "plus que parfait": [
+      "j'avais parfondu",
+      "tu avais parfondu",
+      "il avait parfondu",
+      "nous avions parfondu",
+      "vous aviez parfondu",
+      "ils avaient parfondu"
+    ],
+    "passé simple": [
+      "je parfondis",
+      "tu parfondis",
+      "il parfondit",
+      "nous parfondîmes",
+      "vous parfondîtes",
+      "ils parfondirent"
+    ],
+    "passé antérieur": [
+      "j'eus parfondu",
+      "tu eus parfondu",
+      "il eut parfondu",
+      "nous eûmes parfondu",
+      "vous eûtes parfondu",
+      "ils eurent parfondu"
+    ],
+    "futur simple": [
+      "je parfondrai",
+      "tu parfondras",
+      "il parfondra",
+      "nous parfondrons",
+      "vous parfondrez",
+      "ils parfondront"
+    ],
+    "futur antérieur": [
+      "j'aurai parfondu",
+      "tu auras parfondu",
+      "il aura parfondu",
+      "nous aurons parfondu",
+      "vous aurez parfondu",
+      "ils auront parfondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je parfonde",
+      "que tu parfondes",
+      "qu'il parfonde",
+      "que nous parfondions",
+      "que vous parfondiez",
+      "qu'ils parfondent"
+    ],
+    "passé": [
+      "que j'aie parfondu",
+      "que tu aies parfondu",
+      "qu'il ait parfondu",
+      "que nous ayons parfondu",
+      "que vous ayez parfondu",
+      "qu'ils aient parfondu"
+    ],
+    "imparfait": [
+      "que je parfondisse",
+      "que tu parfondisses",
+      "qu'il parfondît",
+      "que nous parfondissions",
+      "que vous parfondissiez",
+      "qu'ils parfondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse parfondu",
+      "que tu eusses parfondu",
+      "qu'il eût parfondu",
+      "que nous eussions parfondu",
+      "que vous eussiez parfondu",
+      "qu'ils eussent parfondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je parfondrais",
+      "tu parfondrais",
+      "il parfondrait",
+      "nous parfondrions",
+      "vous parfondriez",
+      "ils parfondraient"
+    ],
+    "passé": [
+      "j'aurais parfondu",
+      "tu aurais parfondu",
+      "il aurait parfondu",
+      "nous aurions parfondu",
+      "vous auriez parfondu",
+      "ils auraient parfondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "parfonds",
+      "parfondons",
+      "parfondez"
+    ],
+    "passé": [
+      "aie parfondu",
+      "ayons parfondu",
+      "ayez parfondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "parfondre"
+    ],
+    "passé": [
+      "avoir parfondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "parfondant"
+    ],
+    "passé": [
+      "parfondu",
+      "ayant parfondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en parfondant"
+    ],
+    "passé": [
+      "en ayant parfondu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je bats",
+      "tu bats",
+      "il bat",
+      "nous battons",
+      "vous battez",
+      "ils battent"
+    ],
+    "passé composé": [
+      "j'ai battu",
+      "tu as battu",
+      "il a battu",
+      "nous avons battu",
+      "vous avez battu",
+      "ils ont battu"
+    ],
+    "imparfait": [
+      "je battais",
+      "tu battais",
+      "il battait",
+      "nous battions",
+      "vous battiez",
+      "ils battaient"
+    ],
+    "plus que parfait": [
+      "j'avais battu",
+      "tu avais battu",
+      "il avait battu",
+      "nous avions battu",
+      "vous aviez battu",
+      "ils avaient battu"
+    ],
+    "passé simple": [
+      "je battis",
+      "tu battis",
+      "il battit",
+      "nous battîmes",
+      "vous battîtes",
+      "ils battirent"
+    ],
+    "passé antérieur": [
+      "j'eus battu",
+      "tu eus battu",
+      "il eut battu",
+      "nous eûmes battu",
+      "vous eûtes battu",
+      "ils eurent battu"
+    ],
+    "futur simple": [
+      "je battrai",
+      "tu battras",
+      "il battra",
+      "nous battrons",
+      "vous battrez",
+      "ils battront"
+    ],
+    "futur antérieur": [
+      "j'aurai battu",
+      "tu auras battu",
+      "il aura battu",
+      "nous aurons battu",
+      "vous aurez battu",
+      "ils auront battu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je batte",
+      "que tu battes",
+      "qu'il batte",
+      "que nous battions",
+      "que vous battiez",
+      "qu'ils battent"
+    ],
+    "passé": [
+      "que j'aie battu",
+      "que tu aies battu",
+      "qu'il ait battu",
+      "que nous ayons battu",
+      "que vous ayez battu",
+      "qu'ils aient battu"
+    ],
+    "imparfait": [
+      "que je battisse",
+      "que tu battisses",
+      "qu'il battît",
+      "que nous battissions",
+      "que vous battissiez",
+      "qu'ils battissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse battu",
+      "que tu eusses battu",
+      "qu'il eût battu",
+      "que nous eussions battu",
+      "que vous eussiez battu",
+      "qu'ils eussent battu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je battrais",
+      "tu battrais",
+      "il battrait",
+      "nous battrions",
+      "vous battriez",
+      "ils battraient"
+    ],
+    "passé": [
+      "j'aurais battu",
+      "tu aurais battu",
+      "il aurait battu",
+      "nous aurions battu",
+      "vous auriez battu",
+      "ils auraient battu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "bats",
+      "battons",
+      "battez"
+    ],
+    "passé": [
+      "aie battu",
+      "ayons battu",
+      "ayez battu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "battre"
+    ],
+    "passé": [
+      "avoir battu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "battant"
+    ],
+    "passé": [
+      "battu",
+      "ayant battu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en battant"
+    ],
+    "passé": [
+      "en ayant battu"
+    ]
+  }
+}

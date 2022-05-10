@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me fends",
+      "tu te fends",
+      "il se fend",
+      "nous nous fendons",
+      "vous vous fendez",
+      "ils se fendent"
+    ],
+    "passé composé": [
+      "je me suis fendu",
+      "tu t'es fendu",
+      "il s'est fendu",
+      "nous nous sommes fendus",
+      "vous vous êtes fendus",
+      "ils se sont fendus"
+    ],
+    "imparfait": [
+      "je me fendais",
+      "tu te fendais",
+      "il se fendait",
+      "nous nous fendions",
+      "vous vous fendiez",
+      "ils se fendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais fendu",
+      "tu t'étais fendu",
+      "il s'était fendu",
+      "nous nous étions fendus",
+      "vous vous étiez fendus",
+      "ils s'étaient fendus"
+    ],
+    "passé simple": [
+      "je me fendis",
+      "tu te fendis",
+      "il se fendit",
+      "nous nous fendîmes",
+      "vous vous fendîtes",
+      "ils se fendirent"
+    ],
+    "passé antérieur": [
+      "je me fus fendu",
+      "tu te fus fendu",
+      "il se fut fendu",
+      "nous nous fûmes fendus",
+      "vous vous fûtes fendus",
+      "ils se furent fendus"
+    ],
+    "futur simple": [
+      "je me fendrai",
+      "tu te fendras",
+      "il se fendra",
+      "nous nous fendrons",
+      "vous vous fendrez",
+      "ils se fendront"
+    ],
+    "futur antérieur": [
+      "je me serai fendu",
+      "tu te seras fendu",
+      "il se sera fendu",
+      "nous nous serons fendus",
+      "vous vous serez fendus",
+      "ils se seront fendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me fende",
+      "que tu te fendes",
+      "qu'il se fende",
+      "que nous nous fendions",
+      "que vous vous fendiez",
+      "qu'ils se fendent"
+    ],
+    "passé": [
+      "que je me sois fendu",
+      "que tu te sois fendu",
+      "qu'il se soit fendu",
+      "que nous nous soyons fendus",
+      "que vous vous soyez fendus",
+      "qu'ils se soient fendus"
+    ],
+    "imparfait": [
+      "que je me fendisse",
+      "que tu te fendisses",
+      "qu'il se fendît",
+      "que nous nous fendissions",
+      "que vous vous fendissiez",
+      "qu'ils se fendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse fendu",
+      "que tu te fusses fendu",
+      "qu'il se fût fendu",
+      "que nous nous fussions fendus",
+      "que vous vous fussiez fendus",
+      "qu'ils se fussent fendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me fendrais",
+      "tu te fendrais",
+      "il se fendrait",
+      "nous nous fendrions",
+      "vous vous fendriez",
+      "ils se fendraient"
+    ],
+    "passé": [
+      "je me serais fendu",
+      "tu te serais fendu",
+      "il se serait fendu",
+      "nous nous serions fendus",
+      "vous vous seriez fendus",
+      "ils se seraient fendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fends-toi",
+      "fendons-nous",
+      "fendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se fendre"
+    ],
+    "passé": [
+      "s'être fendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se fendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant fendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se fendant"
+    ],
+    "passé": [
+      "en s'étant fendu"
+    ]
+  }
+}

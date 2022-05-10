@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'écris",
+      "tu t'écris",
+      "il s'écrit",
+      "nous nous écrivons",
+      "vous vous écrivez",
+      "ils s'écrivent"
+    ],
+    "passé composé": [
+      "je me suis écrit",
+      "tu t'es écrit",
+      "il s'est écrit",
+      "nous nous sommes écrits",
+      "vous vous êtes écrits",
+      "ils se sont écrits"
+    ],
+    "imparfait": [
+      "je m'écrivais",
+      "tu t'écrivais",
+      "il s'écrivait",
+      "nous nous écrivions",
+      "vous vous écriviez",
+      "ils s'écrivaient"
+    ],
+    "plus que parfait": [
+      "je m'étais écrit",
+      "tu t'étais écrit",
+      "il s'était écrit",
+      "nous nous étions écrits",
+      "vous vous étiez écrits",
+      "ils s'étaient écrits"
+    ],
+    "passé simple": [
+      "je m'écrivis",
+      "tu t'écrivis",
+      "il s'écrivit",
+      "nous nous écrivîmes",
+      "vous vous écrivîtes",
+      "ils s'écrivirent"
+    ],
+    "passé antérieur": [
+      "je me fus écrit",
+      "tu te fus écrit",
+      "il se fut écrit",
+      "nous nous fûmes écrits",
+      "vous vous fûtes écrits",
+      "ils se furent écrits"
+    ],
+    "futur simple": [
+      "je m'écrirai",
+      "tu t'écriras",
+      "il s'écrira",
+      "nous nous écrirons",
+      "vous vous écrirez",
+      "ils s'écriront"
+    ],
+    "futur antérieur": [
+      "je me serai écrit",
+      "tu te seras écrit",
+      "il se sera écrit",
+      "nous nous serons écrits",
+      "vous vous serez écrits",
+      "ils se seront écrits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'écrive",
+      "que tu t'écrives",
+      "qu'il s'écrive",
+      "que nous nous écrivions",
+      "que vous vous écriviez",
+      "qu'ils s'écrivent"
+    ],
+    "passé": [
+      "que je me sois écrit",
+      "que tu te sois écrit",
+      "qu'il se soit écrit",
+      "que nous nous soyons écrits",
+      "que vous vous soyez écrits",
+      "qu'ils se soient écrits"
+    ],
+    "imparfait": [
+      "que je m'écrivisse",
+      "que tu t'écrivisses",
+      "qu'il s'écrivît",
+      "que nous nous écrivissions",
+      "que vous vous écrivissiez",
+      "qu'ils s'écrivissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse écrit",
+      "que tu te fusses écrit",
+      "qu'il se fût écrit",
+      "que nous nous fussions écrits",
+      "que vous vous fussiez écrits",
+      "qu'ils se fussent écrits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'écrirais",
+      "tu t'écrirais",
+      "il s'écrirait",
+      "nous nous écririons",
+      "vous vous écririez",
+      "ils s'écriraient"
+    ],
+    "passé": [
+      "je me serais écrit",
+      "tu te serais écrit",
+      "il se serait écrit",
+      "nous nous serions écrits",
+      "vous vous seriez écrits",
+      "ils se seraient écrits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "écris-toi",
+      "écrivons-nous",
+      "écrivez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'écrire"
+    ],
+    "passé": [
+      "s'être écrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'écrivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant écrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'écrivant"
+    ],
+    "passé": [
+      "en s'étant écrit"
+    ]
+  }
+}

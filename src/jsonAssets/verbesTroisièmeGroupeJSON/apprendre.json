@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'apprends",
+      "tu apprends",
+      "il apprend",
+      "nous apprenons",
+      "vous apprenez",
+      "ils apprennent"
+    ],
+    "passé composé": [
+      "j'ai appris",
+      "tu as appris",
+      "il a appris",
+      "nous avons appris",
+      "vous avez appris",
+      "ils ont appris"
+    ],
+    "imparfait": [
+      "j'apprenais",
+      "tu apprenais",
+      "il apprenait",
+      "nous apprenions",
+      "vous appreniez",
+      "ils apprenaient"
+    ],
+    "plus que parfait": [
+      "j'avais appris",
+      "tu avais appris",
+      "il avait appris",
+      "nous avions appris",
+      "vous aviez appris",
+      "ils avaient appris"
+    ],
+    "passé simple": [
+      "j'appris",
+      "tu appris",
+      "il apprit",
+      "nous apprîmes",
+      "vous apprîtes",
+      "ils apprirent"
+    ],
+    "passé antérieur": [
+      "j'eus appris",
+      "tu eus appris",
+      "il eut appris",
+      "nous eûmes appris",
+      "vous eûtes appris",
+      "ils eurent appris"
+    ],
+    "futur simple": [
+      "j'apprendrai",
+      "tu apprendras",
+      "il apprendra",
+      "nous apprendrons",
+      "vous apprendrez",
+      "ils apprendront"
+    ],
+    "futur antérieur": [
+      "j'aurai appris",
+      "tu auras appris",
+      "il aura appris",
+      "nous aurons appris",
+      "vous aurez appris",
+      "ils auront appris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'apprenne",
+      "que tu apprennes",
+      "qu'il apprenne",
+      "que nous apprenions",
+      "que vous appreniez",
+      "qu'ils apprennent"
+    ],
+    "passé": [
+      "que j'aie appris",
+      "que tu aies appris",
+      "qu'il ait appris",
+      "que nous ayons appris",
+      "que vous ayez appris",
+      "qu'ils aient appris"
+    ],
+    "imparfait": [
+      "que j'apprisse",
+      "que tu apprisses",
+      "qu'il apprît",
+      "que nous apprissions",
+      "que vous apprissiez",
+      "qu'ils apprissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse appris",
+      "que tu eusses appris",
+      "qu'il eût appris",
+      "que nous eussions appris",
+      "que vous eussiez appris",
+      "qu'ils eussent appris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'apprendrais",
+      "tu apprendrais",
+      "il apprendrait",
+      "nous apprendrions",
+      "vous apprendriez",
+      "ils apprendraient"
+    ],
+    "passé": [
+      "j'aurais appris",
+      "tu aurais appris",
+      "il aurait appris",
+      "nous aurions appris",
+      "vous auriez appris",
+      "ils auraient appris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "apprends",
+      "apprenons",
+      "apprenez"
+    ],
+    "passé": [
+      "aie appris",
+      "ayons appris",
+      "ayez appris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "apprendre"
+    ],
+    "passé": [
+      "avoir appris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "apprenant"
+    ],
+    "passé": [
+      "appris",
+      "ayant appris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en apprenant"
+    ],
+    "passé": [
+      "en ayant appris"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réélis",
+      "tu réélis",
+      "il réélit",
+      "nous réélisons",
+      "vous réélisez",
+      "ils réélisent"
+    ],
+    "passé composé": [
+      "j'ai réélu",
+      "tu as réélu",
+      "il a réélu",
+      "nous avons réélu",
+      "vous avez réélu",
+      "ils ont réélu"
+    ],
+    "imparfait": [
+      "je réélisais",
+      "tu réélisais",
+      "il réélisait",
+      "nous réélisions",
+      "vous réélisiez",
+      "ils réélisaient"
+    ],
+    "plus que parfait": [
+      "j'avais réélu",
+      "tu avais réélu",
+      "il avait réélu",
+      "nous avions réélu",
+      "vous aviez réélu",
+      "ils avaient réélu"
+    ],
+    "passé simple": [
+      "je réélus",
+      "tu réélus",
+      "il réélut",
+      "nous réélûmes",
+      "vous réélûtes",
+      "ils réélurent"
+    ],
+    "passé antérieur": [
+      "j'eus réélu",
+      "tu eus réélu",
+      "il eut réélu",
+      "nous eûmes réélu",
+      "vous eûtes réélu",
+      "ils eurent réélu"
+    ],
+    "futur simple": [
+      "je réélirai",
+      "tu rééliras",
+      "il réélira",
+      "nous réélirons",
+      "vous réélirez",
+      "ils rééliront"
+    ],
+    "futur antérieur": [
+      "j'aurai réélu",
+      "tu auras réélu",
+      "il aura réélu",
+      "nous aurons réélu",
+      "vous aurez réélu",
+      "ils auront réélu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réélise",
+      "que tu réélises",
+      "qu'il réélise",
+      "que nous réélisions",
+      "que vous réélisiez",
+      "qu'ils réélisent"
+    ],
+    "passé": [
+      "que j'aie réélu",
+      "que tu aies réélu",
+      "qu'il ait réélu",
+      "que nous ayons réélu",
+      "que vous ayez réélu",
+      "qu'ils aient réélu"
+    ],
+    "imparfait": [
+      "que je réélusse",
+      "que tu réélusses",
+      "qu'il réélût",
+      "que nous réélussions",
+      "que vous réélussiez",
+      "qu'ils réélussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réélu",
+      "que tu eusses réélu",
+      "qu'il eût réélu",
+      "que nous eussions réélu",
+      "que vous eussiez réélu",
+      "qu'ils eussent réélu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je réélirais",
+      "tu réélirais",
+      "il réélirait",
+      "nous réélirions",
+      "vous rééliriez",
+      "ils rééliraient"
+    ],
+    "passé": [
+      "j'aurais réélu",
+      "tu aurais réélu",
+      "il aurait réélu",
+      "nous aurions réélu",
+      "vous auriez réélu",
+      "ils auraient réélu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réélis",
+      "réélisons",
+      "réélisez"
+    ],
+    "passé": [
+      "aie réélu",
+      "ayons réélu",
+      "ayez réélu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "réélire"
+    ],
+    "passé": [
+      "avoir réélu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "réélisant"
+    ],
+    "passé": [
+      "réélu",
+      "ayant réélu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en réélisant"
+    ],
+    "passé": [
+      "en ayant réélu"
+    ]
+  }
+}

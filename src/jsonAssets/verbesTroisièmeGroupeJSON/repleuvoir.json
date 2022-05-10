@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "il repleut",
+      "-",
+      "-",
+      "ils repleuvent"
+    ],
+    "passé composé": [
+      "-",
+      "-",
+      "il a replu",
+      "-",
+      "-",
+      "ils ont replu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "il repleuvait",
+      "-",
+      "-",
+      "ils repleuvaient"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "il avait replu",
+      "-",
+      "-",
+      "ils avaient replu"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "il replut",
+      "-",
+      "-",
+      "ils replurent"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "il eut replu",
+      "-",
+      "-",
+      "ils eurent replu"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "il repleuvra",
+      "-",
+      "-",
+      "ils repleuvront"
+    ],
+    "futur antérieur": [
+      "-",
+      "-",
+      "il aura replu",
+      "-",
+      "-",
+      "ils auront replu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "qu'il repleuve",
+      "-",
+      "-",
+      "qu'ils repleuvent"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "qu'il ait replu",
+      "-",
+      "-",
+      "qu'ils aient replu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "qu'il replût",
+      "-",
+      "-",
+      "qu'ils replussent"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "qu'il eût replu",
+      "-",
+      "-",
+      "qu'ils eussent replu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "il repleuvrait",
+      "-",
+      "-",
+      "ils repleuvraient"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "il aurait replu",
+      "-",
+      "-",
+      "ils auraient replu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "repleuvoir"
+    ],
+    "passé": [
+      "avoir replu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "repleuvant"
+    ],
+    "passé": [
+      "replu",
+      "ayant replu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "-"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me reproduis",
+      "tu te reproduis",
+      "il se reproduit",
+      "nous nous reproduisons",
+      "vous vous reproduisez",
+      "ils se reproduisent"
+    ],
+    "passé composé": [
+      "je me suis reproduit",
+      "tu t'es reproduit",
+      "il s'est reproduit",
+      "nous nous sommes reproduits",
+      "vous vous êtes reproduits",
+      "ils se sont reproduits"
+    ],
+    "imparfait": [
+      "je me reproduisais",
+      "tu te reproduisais",
+      "il se reproduisait",
+      "nous nous reproduisions",
+      "vous vous reproduisiez",
+      "ils se reproduisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais reproduit",
+      "tu t'étais reproduit",
+      "il s'était reproduit",
+      "nous nous étions reproduits",
+      "vous vous étiez reproduits",
+      "ils s'étaient reproduits"
+    ],
+    "passé simple": [
+      "je me reproduisis",
+      "tu te reproduisis",
+      "il se reproduisit",
+      "nous nous reproduisîmes",
+      "vous vous reproduisîtes",
+      "ils se reproduisirent"
+    ],
+    "passé antérieur": [
+      "je me fus reproduit",
+      "tu te fus reproduit",
+      "il se fut reproduit",
+      "nous nous fûmes reproduits",
+      "vous vous fûtes reproduits",
+      "ils se furent reproduits"
+    ],
+    "futur simple": [
+      "je me reproduirai",
+      "tu te reproduiras",
+      "il se reproduira",
+      "nous nous reproduirons",
+      "vous vous reproduirez",
+      "ils se reproduiront"
+    ],
+    "futur antérieur": [
+      "je me serai reproduit",
+      "tu te seras reproduit",
+      "il se sera reproduit",
+      "nous nous serons reproduits",
+      "vous vous serez reproduits",
+      "ils se seront reproduits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me reproduise",
+      "que tu te reproduises",
+      "qu'il se reproduise",
+      "que nous nous reproduisions",
+      "que vous vous reproduisiez",
+      "qu'ils se reproduisent"
+    ],
+    "passé": [
+      "que je me sois reproduit",
+      "que tu te sois reproduit",
+      "qu'il se soit reproduit",
+      "que nous nous soyons reproduits",
+      "que vous vous soyez reproduits",
+      "qu'ils se soient reproduits"
+    ],
+    "imparfait": [
+      "que je me reproduisisse",
+      "que tu te reproduisisses",
+      "qu'il se reproduisît",
+      "que nous nous reproduisissions",
+      "que vous vous reproduisissiez",
+      "qu'ils se reproduisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse reproduit",
+      "que tu te fusses reproduit",
+      "qu'il se fût reproduit",
+      "que nous nous fussions reproduits",
+      "que vous vous fussiez reproduits",
+      "qu'ils se fussent reproduits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me reproduirais",
+      "tu te reproduirais",
+      "il se reproduirait",
+      "nous nous reproduirions",
+      "vous vous reproduiriez",
+      "ils se reproduiraient"
+    ],
+    "passé": [
+      "je me serais reproduit",
+      "tu te serais reproduit",
+      "il se serait reproduit",
+      "nous nous serions reproduits",
+      "vous vous seriez reproduits",
+      "ils se seraient reproduits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reproduis-toi",
+      "reproduisons-nous",
+      "reproduisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se reproduire"
+    ],
+    "passé": [
+      "s'être reproduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se reproduisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant reproduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se reproduisant"
+    ],
+    "passé": [
+      "en s'étant reproduit"
+    ]
+  }
+}

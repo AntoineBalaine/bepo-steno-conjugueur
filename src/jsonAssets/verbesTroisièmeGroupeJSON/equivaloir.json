@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'équivaux",
+      "tu équivaux",
+      "il équivaut",
+      "nous équivalons",
+      "vous équivalez",
+      "ils équivalent"
+    ],
+    "passé composé": [
+      "j'ai équivalu",
+      "tu as équivalu",
+      "il a équivalu",
+      "nous avons équivalu",
+      "vous avez équivalu",
+      "ils ont équivalu"
+    ],
+    "imparfait": [
+      "j'équivalais",
+      "tu équivalais",
+      "il équivalait",
+      "nous équivalions",
+      "vous équivaliez",
+      "ils équivalaient"
+    ],
+    "plus que parfait": [
+      "j'avais équivalu",
+      "tu avais équivalu",
+      "il avait équivalu",
+      "nous avions équivalu",
+      "vous aviez équivalu",
+      "ils avaient équivalu"
+    ],
+    "passé simple": [
+      "j'équivalus",
+      "tu équivalus",
+      "il équivalut",
+      "nous équivalûmes",
+      "vous équivalûtes",
+      "ils équivalurent"
+    ],
+    "passé antérieur": [
+      "j'eus équivalu",
+      "tu eus équivalu",
+      "il eut équivalu",
+      "nous eûmes équivalu",
+      "vous eûtes équivalu",
+      "ils eurent équivalu"
+    ],
+    "futur simple": [
+      "j'équivaudrai",
+      "tu équivaudras",
+      "il équivaudra",
+      "nous équivaudrons",
+      "vous équivaudrez",
+      "ils équivaudront"
+    ],
+    "futur antérieur": [
+      "j'aurai équivalu",
+      "tu auras équivalu",
+      "il aura équivalu",
+      "nous aurons équivalu",
+      "vous aurez équivalu",
+      "ils auront équivalu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'équivaille",
+      "que tu équivailles",
+      "qu'il équivaille",
+      "que nous équivalions",
+      "que vous équivaliez",
+      "qu'ils équivaillent"
+    ],
+    "passé": [
+      "que j'aie équivalu",
+      "que tu aies équivalu",
+      "qu'il ait équivalu",
+      "que nous ayons équivalu",
+      "que vous ayez équivalu",
+      "qu'ils aient équivalu"
+    ],
+    "imparfait": [
+      "que j'équivalusse",
+      "que tu équivalusses",
+      "qu'il équivalût",
+      "que nous équivalussions",
+      "que vous équivalussiez",
+      "qu'ils équivalussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse équivalu",
+      "que tu eusses équivalu",
+      "qu'il eût équivalu",
+      "que nous eussions équivalu",
+      "que vous eussiez équivalu",
+      "qu'ils eussent équivalu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'équivaudrais",
+      "tu équivaudrais",
+      "il équivaudrait",
+      "nous équivaudrions",
+      "vous équivaudriez",
+      "ils équivaudraient"
+    ],
+    "passé": [
+      "j'aurais équivalu",
+      "tu aurais équivalu",
+      "il aurait équivalu",
+      "nous aurions équivalu",
+      "vous auriez équivalu",
+      "ils auraient équivalu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "équivaux",
+      "équivalons",
+      "équivalez"
+    ],
+    "passé": [
+      "aie équivalu",
+      "ayons équivalu",
+      "ayez équivalu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "équivaloir"
+    ],
+    "passé": [
+      "avoir équivalu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "équivalant"
+    ],
+    "passé": [
+      "équivalu",
+      "ayant équivalu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en équivalant"
+    ],
+    "passé": [
+      "en ayant équivalu"
+    ]
+  }
+}

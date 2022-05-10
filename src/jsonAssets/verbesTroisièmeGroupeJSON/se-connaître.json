@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me connais",
+      "tu te connais",
+      "il se connaît",
+      "nous nous connaissons",
+      "vous vous connaissez",
+      "ils se connaissent"
+    ],
+    "passé composé": [
+      "je me suis connu",
+      "tu t'es connu",
+      "il s'est connu",
+      "nous nous sommes connus",
+      "vous vous êtes connus",
+      "ils se sont connus"
+    ],
+    "imparfait": [
+      "je me connaissais",
+      "tu te connaissais",
+      "il se connaissait",
+      "nous nous connaissions",
+      "vous vous connaissiez",
+      "ils se connaissaient"
+    ],
+    "plus que parfait": [
+      "je m'étais connu",
+      "tu t'étais connu",
+      "il s'était connu",
+      "nous nous étions connus",
+      "vous vous étiez connus",
+      "ils s'étaient connus"
+    ],
+    "passé simple": [
+      "je me connus",
+      "tu te connus",
+      "il se connut",
+      "nous nous connûmes",
+      "vous vous connûtes",
+      "ils se connurent"
+    ],
+    "passé antérieur": [
+      "je me fus connu",
+      "tu te fus connu",
+      "il se fut connu",
+      "nous nous fûmes connus",
+      "vous vous fûtes connus",
+      "ils se furent connus"
+    ],
+    "futur simple": [
+      "je me connaîtrai",
+      "tu te connaîtras",
+      "il se connaîtra",
+      "nous nous connaîtrons",
+      "vous vous connaîtrez",
+      "ils se connaîtront"
+    ],
+    "futur antérieur": [
+      "je me serai connu",
+      "tu te seras connu",
+      "il se sera connu",
+      "nous nous serons connus",
+      "vous vous serez connus",
+      "ils se seront connus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me connaisse",
+      "que tu te connaisses",
+      "qu'il se connaisse",
+      "que nous nous connaissions",
+      "que vous vous connaissiez",
+      "qu'ils se connaissent"
+    ],
+    "passé": [
+      "que je me sois connu",
+      "que tu te sois connu",
+      "qu'il se soit connu",
+      "que nous nous soyons connus",
+      "que vous vous soyez connus",
+      "qu'ils se soient connus"
+    ],
+    "imparfait": [
+      "que je me connusse",
+      "que tu te connusses",
+      "qu'il se connût",
+      "que nous nous connussions",
+      "que vous vous connussiez",
+      "qu'ils se connussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse connu",
+      "que tu te fusses connu",
+      "qu'il se fût connu",
+      "que nous nous fussions connus",
+      "que vous vous fussiez connus",
+      "qu'ils se fussent connus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me connaîtrais",
+      "tu te connaîtrais",
+      "il se connaîtrait",
+      "nous nous connaîtrions",
+      "vous vous connaîtriez",
+      "ils se connaîtraient"
+    ],
+    "passé": [
+      "je me serais connu",
+      "tu te serais connu",
+      "il se serait connu",
+      "nous nous serions connus",
+      "vous vous seriez connus",
+      "ils se seraient connus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "connais-toi",
+      "connaissons-nous",
+      "connaissez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se connaître"
+    ],
+    "passé": [
+      "s'être connu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se connaissant"
+    ],
+    "passé": [
+      "-",
+      "s'étant connu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se connaissant"
+    ],
+    "passé": [
+      "en s'étant connu"
+    ]
+  }
+}

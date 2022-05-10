@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je chois",
+      "tu chois",
+      "il choit",
+      "nous choyons",
+      "vous choyez",
+      "ils choient"
+    ],
+    "passé composé": [
+      "j'ai chu",
+      "tu as chu",
+      "il a chu",
+      "nous avons chu",
+      "vous avez chu",
+      "ils ont chu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais chu",
+      "tu avais chu",
+      "il avait chu",
+      "nous avions chu",
+      "vous aviez chu",
+      "ils avaient chu"
+    ],
+    "passé simple": [
+      "je chus",
+      "tu chus",
+      "il chut",
+      "nous chûmes",
+      "vous chûtes",
+      "ils churent"
+    ],
+    "passé antérieur": [
+      "j'eus chu",
+      "tu eus chu",
+      "il eut chu",
+      "nous eûmes chu",
+      "vous eûtes chu",
+      "ils eurent chu"
+    ],
+    "futur simple": [
+      "je choirai",
+      "tu choiras",
+      "il choira",
+      "nous choirons",
+      "vous choirez",
+      "ils choiront"
+    ],
+    "futur antérieur": [
+      "j'aurai chu",
+      "tu auras chu",
+      "il aura chu",
+      "nous aurons chu",
+      "vous aurez chu",
+      "ils auront chu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "que j'aie chu",
+      "que tu aies chu",
+      "qu'il ait chu",
+      "que nous ayons chu",
+      "que vous ayez chu",
+      "qu'ils aient chu"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "qu'il chût",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse chu",
+      "que tu eusses chu",
+      "qu'il eût chu",
+      "que nous eussions chu",
+      "que vous eussiez chu",
+      "qu'ils eussent chu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je choirais",
+      "tu choirais",
+      "il choirait",
+      "nous choirions",
+      "vous choiriez",
+      "ils choiraient"
+    ],
+    "passé": [
+      "j'aurais chu",
+      "tu aurais chu",
+      "il aurait chu",
+      "nous aurions chu",
+      "vous auriez chu",
+      "ils auraient chu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie chu",
+      "ayons chu",
+      "ayez chu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "choir"
+    ],
+    "passé": [
+      "avoir chu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "chu",
+      "ayant chu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "en ayant chu"
+    ]
+  }
+}

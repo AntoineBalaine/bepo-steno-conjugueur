@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'apprends",
+      "tu t'apprends",
+      "il s'apprend",
+      "nous nous apprenons",
+      "vous vous apprenez",
+      "ils s'apprennent"
+    ],
+    "passé composé": [
+      "je me suis appris",
+      "tu t'es appris",
+      "il s'est appris",
+      "nous nous sommes appris",
+      "vous vous êtes appris",
+      "ils se sont appris"
+    ],
+    "imparfait": [
+      "je m'apprenais",
+      "tu t'apprenais",
+      "il s'apprenait",
+      "nous nous apprenions",
+      "vous vous appreniez",
+      "ils s'apprenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais appris",
+      "tu t'étais appris",
+      "il s'était appris",
+      "nous nous étions appris",
+      "vous vous étiez appris",
+      "ils s'étaient appris"
+    ],
+    "passé simple": [
+      "je m'appris",
+      "tu t'appris",
+      "il s'apprit",
+      "nous nous apprîmes",
+      "vous vous apprîtes",
+      "ils s'apprirent"
+    ],
+    "passé antérieur": [
+      "je me fus appris",
+      "tu te fus appris",
+      "il se fut appris",
+      "nous nous fûmes appris",
+      "vous vous fûtes appris",
+      "ils se furent appris"
+    ],
+    "futur simple": [
+      "je m'apprendrai",
+      "tu t'apprendras",
+      "il s'apprendra",
+      "nous nous apprendrons",
+      "vous vous apprendrez",
+      "ils s'apprendront"
+    ],
+    "futur antérieur": [
+      "je me serai appris",
+      "tu te seras appris",
+      "il se sera appris",
+      "nous nous serons appris",
+      "vous vous serez appris",
+      "ils se seront appris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'apprenne",
+      "que tu t'apprennes",
+      "qu'il s'apprenne",
+      "que nous nous apprenions",
+      "que vous vous appreniez",
+      "qu'ils s'apprennent"
+    ],
+    "passé": [
+      "que je me sois appris",
+      "que tu te sois appris",
+      "qu'il se soit appris",
+      "que nous nous soyons appris",
+      "que vous vous soyez appris",
+      "qu'ils se soient appris"
+    ],
+    "imparfait": [
+      "que je m'apprisse",
+      "que tu t'apprisses",
+      "qu'il s'apprît",
+      "que nous nous apprissions",
+      "que vous vous apprissiez",
+      "qu'ils s'apprissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse appris",
+      "que tu te fusses appris",
+      "qu'il se fût appris",
+      "que nous nous fussions appris",
+      "que vous vous fussiez appris",
+      "qu'ils se fussent appris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'apprendrais",
+      "tu t'apprendrais",
+      "il s'apprendrait",
+      "nous nous apprendrions",
+      "vous vous apprendriez",
+      "ils s'apprendraient"
+    ],
+    "passé": [
+      "je me serais appris",
+      "tu te serais appris",
+      "il se serait appris",
+      "nous nous serions appris",
+      "vous vous seriez appris",
+      "ils se seraient appris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "apprends-toi",
+      "apprenons-nous",
+      "apprenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'apprendre"
+    ],
+    "passé": [
+      "s'être appris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'apprenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant appris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'apprenant"
+    ],
+    "passé": [
+      "en s'étant appris"
+    ]
+  }
+}

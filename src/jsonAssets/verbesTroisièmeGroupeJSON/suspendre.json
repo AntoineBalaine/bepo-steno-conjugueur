@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je suspends",
+      "tu suspends",
+      "il suspend",
+      "nous suspendons",
+      "vous suspendez",
+      "ils suspendent"
+    ],
+    "passé composé": [
+      "j'ai suspendu",
+      "tu as suspendu",
+      "il a suspendu",
+      "nous avons suspendu",
+      "vous avez suspendu",
+      "ils ont suspendu"
+    ],
+    "imparfait": [
+      "je suspendais",
+      "tu suspendais",
+      "il suspendait",
+      "nous suspendions",
+      "vous suspendiez",
+      "ils suspendaient"
+    ],
+    "plus que parfait": [
+      "j'avais suspendu",
+      "tu avais suspendu",
+      "il avait suspendu",
+      "nous avions suspendu",
+      "vous aviez suspendu",
+      "ils avaient suspendu"
+    ],
+    "passé simple": [
+      "je suspendis",
+      "tu suspendis",
+      "il suspendit",
+      "nous suspendîmes",
+      "vous suspendîtes",
+      "ils suspendirent"
+    ],
+    "passé antérieur": [
+      "j'eus suspendu",
+      "tu eus suspendu",
+      "il eut suspendu",
+      "nous eûmes suspendu",
+      "vous eûtes suspendu",
+      "ils eurent suspendu"
+    ],
+    "futur simple": [
+      "je suspendrai",
+      "tu suspendras",
+      "il suspendra",
+      "nous suspendrons",
+      "vous suspendrez",
+      "ils suspendront"
+    ],
+    "futur antérieur": [
+      "j'aurai suspendu",
+      "tu auras suspendu",
+      "il aura suspendu",
+      "nous aurons suspendu",
+      "vous aurez suspendu",
+      "ils auront suspendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je suspende",
+      "que tu suspendes",
+      "qu'il suspende",
+      "que nous suspendions",
+      "que vous suspendiez",
+      "qu'ils suspendent"
+    ],
+    "passé": [
+      "que j'aie suspendu",
+      "que tu aies suspendu",
+      "qu'il ait suspendu",
+      "que nous ayons suspendu",
+      "que vous ayez suspendu",
+      "qu'ils aient suspendu"
+    ],
+    "imparfait": [
+      "que je suspendisse",
+      "que tu suspendisses",
+      "qu'il suspendît",
+      "que nous suspendissions",
+      "que vous suspendissiez",
+      "qu'ils suspendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse suspendu",
+      "que tu eusses suspendu",
+      "qu'il eût suspendu",
+      "que nous eussions suspendu",
+      "que vous eussiez suspendu",
+      "qu'ils eussent suspendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je suspendrais",
+      "tu suspendrais",
+      "il suspendrait",
+      "nous suspendrions",
+      "vous suspendriez",
+      "ils suspendraient"
+    ],
+    "passé": [
+      "j'aurais suspendu",
+      "tu aurais suspendu",
+      "il aurait suspendu",
+      "nous aurions suspendu",
+      "vous auriez suspendu",
+      "ils auraient suspendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "suspends",
+      "suspendons",
+      "suspendez"
+    ],
+    "passé": [
+      "aie suspendu",
+      "ayons suspendu",
+      "ayez suspendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "suspendre"
+    ],
+    "passé": [
+      "avoir suspendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "suspendant"
+    ],
+    "passé": [
+      "suspendu",
+      "ayant suspendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en suspendant"
+    ],
+    "passé": [
+      "en ayant suspendu"
+    ]
+  }
+}

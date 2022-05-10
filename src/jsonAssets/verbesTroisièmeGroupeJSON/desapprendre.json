@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je désapprends",
+      "tu désapprends",
+      "il désapprend",
+      "nous désapprenons",
+      "vous désapprenez",
+      "ils désapprennent"
+    ],
+    "passé composé": [
+      "j'ai désappris",
+      "tu as désappris",
+      "il a désappris",
+      "nous avons désappris",
+      "vous avez désappris",
+      "ils ont désappris"
+    ],
+    "imparfait": [
+      "je désapprenais",
+      "tu désapprenais",
+      "il désapprenait",
+      "nous désapprenions",
+      "vous désappreniez",
+      "ils désapprenaient"
+    ],
+    "plus que parfait": [
+      "j'avais désappris",
+      "tu avais désappris",
+      "il avait désappris",
+      "nous avions désappris",
+      "vous aviez désappris",
+      "ils avaient désappris"
+    ],
+    "passé simple": [
+      "je désappris",
+      "tu désappris",
+      "il désapprit",
+      "nous désapprîmes",
+      "vous désapprîtes",
+      "ils désapprirent"
+    ],
+    "passé antérieur": [
+      "j'eus désappris",
+      "tu eus désappris",
+      "il eut désappris",
+      "nous eûmes désappris",
+      "vous eûtes désappris",
+      "ils eurent désappris"
+    ],
+    "futur simple": [
+      "je désapprendrai",
+      "tu désapprendras",
+      "il désapprendra",
+      "nous désapprendrons",
+      "vous désapprendrez",
+      "ils désapprendront"
+    ],
+    "futur antérieur": [
+      "j'aurai désappris",
+      "tu auras désappris",
+      "il aura désappris",
+      "nous aurons désappris",
+      "vous aurez désappris",
+      "ils auront désappris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je désapprenne",
+      "que tu désapprennes",
+      "qu'il désapprenne",
+      "que nous désapprenions",
+      "que vous désappreniez",
+      "qu'ils désapprennent"
+    ],
+    "passé": [
+      "que j'aie désappris",
+      "que tu aies désappris",
+      "qu'il ait désappris",
+      "que nous ayons désappris",
+      "que vous ayez désappris",
+      "qu'ils aient désappris"
+    ],
+    "imparfait": [
+      "que je désapprisse",
+      "que tu désapprisses",
+      "qu'il désapprît",
+      "que nous désapprissions",
+      "que vous désapprissiez",
+      "qu'ils désapprissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse désappris",
+      "que tu eusses désappris",
+      "qu'il eût désappris",
+      "que nous eussions désappris",
+      "que vous eussiez désappris",
+      "qu'ils eussent désappris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je désapprendrais",
+      "tu désapprendrais",
+      "il désapprendrait",
+      "nous désapprendrions",
+      "vous désapprendriez",
+      "ils désapprendraient"
+    ],
+    "passé": [
+      "j'aurais désappris",
+      "tu aurais désappris",
+      "il aurait désappris",
+      "nous aurions désappris",
+      "vous auriez désappris",
+      "ils auraient désappris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "désapprends",
+      "désapprenons",
+      "désapprenez"
+    ],
+    "passé": [
+      "aie désappris",
+      "ayons désappris",
+      "ayez désappris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "désapprendre"
+    ],
+    "passé": [
+      "avoir désappris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "désapprenant"
+    ],
+    "passé": [
+      "désappris",
+      "ayant désappris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en désapprenant"
+    ],
+    "passé": [
+      "en ayant désappris"
+    ]
+  }
+}

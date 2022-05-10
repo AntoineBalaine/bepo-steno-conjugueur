@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me traduis",
+      "tu te traduis",
+      "il se traduit",
+      "nous nous traduisons",
+      "vous vous traduisez",
+      "ils se traduisent"
+    ],
+    "passé composé": [
+      "je me suis traduit",
+      "tu t'es traduit",
+      "il s'est traduit",
+      "nous nous sommes traduits",
+      "vous vous êtes traduits",
+      "ils se sont traduits"
+    ],
+    "imparfait": [
+      "je me traduisais",
+      "tu te traduisais",
+      "il se traduisait",
+      "nous nous traduisions",
+      "vous vous traduisiez",
+      "ils se traduisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais traduit",
+      "tu t'étais traduit",
+      "il s'était traduit",
+      "nous nous étions traduits",
+      "vous vous étiez traduits",
+      "ils s'étaient traduits"
+    ],
+    "passé simple": [
+      "je me traduisis",
+      "tu te traduisis",
+      "il se traduisit",
+      "nous nous traduisîmes",
+      "vous vous traduisîtes",
+      "ils se traduisirent"
+    ],
+    "passé antérieur": [
+      "je me fus traduit",
+      "tu te fus traduit",
+      "il se fut traduit",
+      "nous nous fûmes traduits",
+      "vous vous fûtes traduits",
+      "ils se furent traduits"
+    ],
+    "futur simple": [
+      "je me traduirai",
+      "tu te traduiras",
+      "il se traduira",
+      "nous nous traduirons",
+      "vous vous traduirez",
+      "ils se traduiront"
+    ],
+    "futur antérieur": [
+      "je me serai traduit",
+      "tu te seras traduit",
+      "il se sera traduit",
+      "nous nous serons traduits",
+      "vous vous serez traduits",
+      "ils se seront traduits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me traduise",
+      "que tu te traduises",
+      "qu'il se traduise",
+      "que nous nous traduisions",
+      "que vous vous traduisiez",
+      "qu'ils se traduisent"
+    ],
+    "passé": [
+      "que je me sois traduit",
+      "que tu te sois traduit",
+      "qu'il se soit traduit",
+      "que nous nous soyons traduits",
+      "que vous vous soyez traduits",
+      "qu'ils se soient traduits"
+    ],
+    "imparfait": [
+      "que je me traduisisse",
+      "que tu te traduisisses",
+      "qu'il se traduisît",
+      "que nous nous traduisissions",
+      "que vous vous traduisissiez",
+      "qu'ils se traduisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse traduit",
+      "que tu te fusses traduit",
+      "qu'il se fût traduit",
+      "que nous nous fussions traduits",
+      "que vous vous fussiez traduits",
+      "qu'ils se fussent traduits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me traduirais",
+      "tu te traduirais",
+      "il se traduirait",
+      "nous nous traduirions",
+      "vous vous traduiriez",
+      "ils se traduiraient"
+    ],
+    "passé": [
+      "je me serais traduit",
+      "tu te serais traduit",
+      "il se serait traduit",
+      "nous nous serions traduits",
+      "vous vous seriez traduits",
+      "ils se seraient traduits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "traduis-toi",
+      "traduisons-nous",
+      "traduisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se traduire"
+    ],
+    "passé": [
+      "s'être traduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se traduisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant traduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se traduisant"
+    ],
+    "passé": [
+      "en s'étant traduit"
+    ]
+  }
+}

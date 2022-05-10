@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me conviens",
+      "tu te conviens",
+      "il se convient",
+      "nous nous convenons",
+      "vous vous convenez",
+      "ils se conviennent"
+    ],
+    "passé composé": [
+      "je me suis convenu",
+      "tu t'es convenu",
+      "il s'est convenu",
+      "nous nous sommes convenu",
+      "vous vous êtes convenu",
+      "ils se sont convenu"
+    ],
+    "imparfait": [
+      "je me convenais",
+      "tu te convenais",
+      "il se convenait",
+      "nous nous convenions",
+      "vous vous conveniez",
+      "ils se convenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais convenu",
+      "tu t'étais convenu",
+      "il s'était convenu",
+      "nous nous étions convenu",
+      "vous vous étiez convenu",
+      "ils s'étaient convenu"
+    ],
+    "passé simple": [
+      "je me convins",
+      "tu te convins",
+      "il se convint",
+      "nous nous convînmes",
+      "vous vous convîntes",
+      "ils se convinrent"
+    ],
+    "passé antérieur": [
+      "je me fus convenu",
+      "tu te fus convenu",
+      "il se fut convenu",
+      "nous nous fûmes convenu",
+      "vous vous fûtes convenu",
+      "ils se furent convenu"
+    ],
+    "futur simple": [
+      "je me conviendrai",
+      "tu te conviendras",
+      "il se conviendra",
+      "nous nous conviendrons",
+      "vous vous conviendrez",
+      "ils se conviendront"
+    ],
+    "futur antérieur": [
+      "je me serai convenu",
+      "tu te seras convenu",
+      "il se sera convenu",
+      "nous nous serons convenu",
+      "vous vous serez convenu",
+      "ils se seront convenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me convienne",
+      "que tu te conviennes",
+      "qu'il se convienne",
+      "que nous nous convenions",
+      "que vous vous conveniez",
+      "qu'ils se conviennent"
+    ],
+    "passé": [
+      "que je me sois convenu",
+      "que tu te sois convenu",
+      "qu'il se soit convenu",
+      "que nous nous soyons convenu",
+      "que vous vous soyez convenu",
+      "qu'ils se soient convenu"
+    ],
+    "imparfait": [
+      "que je me convinsse",
+      "que tu te convinsses",
+      "qu'il se convînt",
+      "que nous nous convinssions",
+      "que vous vous convinssiez",
+      "qu'ils se convinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse convenu",
+      "que tu te fusses convenu",
+      "qu'il se fût convenu",
+      "que nous nous fussions convenu",
+      "que vous vous fussiez convenu",
+      "qu'ils se fussent convenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me conviendrais",
+      "tu te conviendrais",
+      "il se conviendrait",
+      "nous nous conviendrions",
+      "vous vous conviendriez",
+      "ils se conviendraient"
+    ],
+    "passé": [
+      "je me serais convenu",
+      "tu te serais convenu",
+      "il se serait convenu",
+      "nous nous serions convenu",
+      "vous vous seriez convenu",
+      "ils se seraient convenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conviens-toi",
+      "convenons-nous",
+      "convenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se convenir"
+    ],
+    "passé": [
+      "s'être convenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se convenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant convenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se convenant"
+    ],
+    "passé": [
+      "en s'étant convenu"
+    ]
+  }
+}

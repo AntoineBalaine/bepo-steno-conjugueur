@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entre-soutiens",
+      "tu t'entre-soutiens",
+      "il s'entre-soutient",
+      "nous nous entre-soutenons",
+      "vous vous entre-soutenez",
+      "ils s'entre-soutiennent"
+    ],
+    "passé composé": [
+      "je me suis entre-soutenu",
+      "tu t'es entre-soutenu",
+      "il s'est entre-soutenu",
+      "nous nous sommes entre-soutenus",
+      "vous vous êtes entre-soutenus",
+      "ils se sont entre-soutenus"
+    ],
+    "imparfait": [
+      "je m'entre-soutenais",
+      "tu t'entre-soutenais",
+      "il s'entre-soutenait",
+      "nous nous entre-soutenions",
+      "vous vous entre-souteniez",
+      "ils s'entre-soutenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entre-soutenu",
+      "tu t'étais entre-soutenu",
+      "il s'était entre-soutenu",
+      "nous nous étions entre-soutenus",
+      "vous vous étiez entre-soutenus",
+      "ils s'étaient entre-soutenus"
+    ],
+    "passé simple": [
+      "je m'entre-soutins",
+      "tu t'entre-soutins",
+      "il s'entre-soutint",
+      "nous nous entre-soutînmes",
+      "vous vous entre-soutîntes",
+      "ils s'entre-soutinrent"
+    ],
+    "passé antérieur": [
+      "je me fus entre-soutenu",
+      "tu te fus entre-soutenu",
+      "il se fut entre-soutenu",
+      "nous nous fûmes entre-soutenus",
+      "vous vous fûtes entre-soutenus",
+      "ils se furent entre-soutenus"
+    ],
+    "futur simple": [
+      "je m'entre-soutiendrai",
+      "tu t'entre-soutiendras",
+      "il s'entre-soutiendra",
+      "nous nous entre-soutiendrons",
+      "vous vous entre-soutiendrez",
+      "ils s'entre-soutiendront"
+    ],
+    "futur antérieur": [
+      "je me serai entre-soutenu",
+      "tu te seras entre-soutenu",
+      "il se sera entre-soutenu",
+      "nous nous serons entre-soutenus",
+      "vous vous serez entre-soutenus",
+      "ils se seront entre-soutenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entre-soutienne",
+      "que tu t'entre-soutiennes",
+      "qu'il s'entre-soutienne",
+      "que nous nous entre-soutenions",
+      "que vous vous entre-souteniez",
+      "qu'ils s'entre-soutiennent"
+    ],
+    "passé": [
+      "que je me sois entre-soutenu",
+      "que tu te sois entre-soutenu",
+      "qu'il se soit entre-soutenu",
+      "que nous nous soyons entre-soutenus",
+      "que vous vous soyez entre-soutenus",
+      "qu'ils se soient entre-soutenus"
+    ],
+    "imparfait": [
+      "que je m'entre-soutinsse",
+      "que tu t'entre-soutinsses",
+      "qu'il s'entre-soutînt",
+      "que nous nous entre-soutinssions",
+      "que vous vous entre-soutinssiez",
+      "qu'ils s'entre-soutinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entre-soutenu",
+      "que tu te fusses entre-soutenu",
+      "qu'il se fût entre-soutenu",
+      "que nous nous fussions entre-soutenus",
+      "que vous vous fussiez entre-soutenus",
+      "qu'ils se fussent entre-soutenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entre-soutiendrais",
+      "tu t'entre-soutiendrais",
+      "il s'entre-soutiendrait",
+      "nous nous entre-soutiendrions",
+      "vous vous entre-soutiendriez",
+      "ils s'entre-soutiendraient"
+    ],
+    "passé": [
+      "je me serais entre-soutenu",
+      "tu te serais entre-soutenu",
+      "il se serait entre-soutenu",
+      "nous nous serions entre-soutenus",
+      "vous vous seriez entre-soutenus",
+      "ils se seraient entre-soutenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entre-soutiens-toi",
+      "entre-soutenons-nous",
+      "entre-soutenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entre-soutenir"
+    ],
+    "passé": [
+      "s'être entre-soutenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entre-soutenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entre-soutenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entre-soutenant"
+    ],
+    "passé": [
+      "en s'étant entre-soutenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je transcris",
+      "tu transcris",
+      "il transcrit",
+      "nous transcrivons",
+      "vous transcrivez",
+      "ils transcrivent"
+    ],
+    "passé composé": [
+      "j'ai transcrit",
+      "tu as transcrit",
+      "il a transcrit",
+      "nous avons transcrit",
+      "vous avez transcrit",
+      "ils ont transcrit"
+    ],
+    "imparfait": [
+      "je transcrivais",
+      "tu transcrivais",
+      "il transcrivait",
+      "nous transcrivions",
+      "vous transcriviez",
+      "ils transcrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais transcrit",
+      "tu avais transcrit",
+      "il avait transcrit",
+      "nous avions transcrit",
+      "vous aviez transcrit",
+      "ils avaient transcrit"
+    ],
+    "passé simple": [
+      "je transcrivis",
+      "tu transcrivis",
+      "il transcrivit",
+      "nous transcrivîmes",
+      "vous transcrivîtes",
+      "ils transcrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus transcrit",
+      "tu eus transcrit",
+      "il eut transcrit",
+      "nous eûmes transcrit",
+      "vous eûtes transcrit",
+      "ils eurent transcrit"
+    ],
+    "futur simple": [
+      "je transcrirai",
+      "tu transcriras",
+      "il transcrira",
+      "nous transcrirons",
+      "vous transcrirez",
+      "ils transcriront"
+    ],
+    "futur antérieur": [
+      "j'aurai transcrit",
+      "tu auras transcrit",
+      "il aura transcrit",
+      "nous aurons transcrit",
+      "vous aurez transcrit",
+      "ils auront transcrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je transcrive",
+      "que tu transcrives",
+      "qu'il transcrive",
+      "que nous transcrivions",
+      "que vous transcriviez",
+      "qu'ils transcrivent"
+    ],
+    "passé": [
+      "que j'aie transcrit",
+      "que tu aies transcrit",
+      "qu'il ait transcrit",
+      "que nous ayons transcrit",
+      "que vous ayez transcrit",
+      "qu'ils aient transcrit"
+    ],
+    "imparfait": [
+      "que je transcrivisse",
+      "que tu transcrivisses",
+      "qu'il transcrivît",
+      "que nous transcrivissions",
+      "que vous transcrivissiez",
+      "qu'ils transcrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse transcrit",
+      "que tu eusses transcrit",
+      "qu'il eût transcrit",
+      "que nous eussions transcrit",
+      "que vous eussiez transcrit",
+      "qu'ils eussent transcrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je transcrirais",
+      "tu transcrirais",
+      "il transcrirait",
+      "nous transcririons",
+      "vous transcririez",
+      "ils transcriraient"
+    ],
+    "passé": [
+      "j'aurais transcrit",
+      "tu aurais transcrit",
+      "il aurait transcrit",
+      "nous aurions transcrit",
+      "vous auriez transcrit",
+      "ils auraient transcrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "transcris",
+      "transcrivons",
+      "transcrivez"
+    ],
+    "passé": [
+      "aie transcrit",
+      "ayons transcrit",
+      "ayez transcrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "transcrire"
+    ],
+    "passé": [
+      "avoir transcrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "transcrivant"
+    ],
+    "passé": [
+      "transcrit",
+      "ayant transcrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en transcrivant"
+    ],
+    "passé": [
+      "en ayant transcrit"
+    ]
+  }
+}

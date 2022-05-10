@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'élis",
+      "tu élis",
+      "il élit",
+      "nous élisons",
+      "vous élisez",
+      "ils élisent"
+    ],
+    "passé composé": [
+      "j'ai élu",
+      "tu as élu",
+      "il a élu",
+      "nous avons élu",
+      "vous avez élu",
+      "ils ont élu"
+    ],
+    "imparfait": [
+      "j'élisais",
+      "tu élisais",
+      "il élisait",
+      "nous élisions",
+      "vous élisiez",
+      "ils élisaient"
+    ],
+    "plus que parfait": [
+      "j'avais élu",
+      "tu avais élu",
+      "il avait élu",
+      "nous avions élu",
+      "vous aviez élu",
+      "ils avaient élu"
+    ],
+    "passé simple": [
+      "j'élus",
+      "tu élus",
+      "il élut",
+      "nous élûmes",
+      "vous élûtes",
+      "ils élurent"
+    ],
+    "passé antérieur": [
+      "j'eus élu",
+      "tu eus élu",
+      "il eut élu",
+      "nous eûmes élu",
+      "vous eûtes élu",
+      "ils eurent élu"
+    ],
+    "futur simple": [
+      "j'élirai",
+      "tu éliras",
+      "il élira",
+      "nous élirons",
+      "vous élirez",
+      "ils éliront"
+    ],
+    "futur antérieur": [
+      "j'aurai élu",
+      "tu auras élu",
+      "il aura élu",
+      "nous aurons élu",
+      "vous aurez élu",
+      "ils auront élu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'élise",
+      "que tu élises",
+      "qu'il élise",
+      "que nous élisions",
+      "que vous élisiez",
+      "qu'ils élisent"
+    ],
+    "passé": [
+      "que j'aie élu",
+      "que tu aies élu",
+      "qu'il ait élu",
+      "que nous ayons élu",
+      "que vous ayez élu",
+      "qu'ils aient élu"
+    ],
+    "imparfait": [
+      "que j'élusse",
+      "que tu élusses",
+      "qu'il élût",
+      "que nous élussions",
+      "que vous élussiez",
+      "qu'ils élussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse élu",
+      "que tu eusses élu",
+      "qu'il eût élu",
+      "que nous eussions élu",
+      "que vous eussiez élu",
+      "qu'ils eussent élu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'élirais",
+      "tu élirais",
+      "il élirait",
+      "nous élirions",
+      "vous éliriez",
+      "ils éliraient"
+    ],
+    "passé": [
+      "j'aurais élu",
+      "tu aurais élu",
+      "il aurait élu",
+      "nous aurions élu",
+      "vous auriez élu",
+      "ils auraient élu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "élis",
+      "élisons",
+      "élisez"
+    ],
+    "passé": [
+      "aie élu",
+      "ayons élu",
+      "ayez élu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "élire"
+    ],
+    "passé": [
+      "avoir élu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "élisant"
+    ],
+    "passé": [
+      "élu",
+      "ayant élu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en élisant"
+    ],
+    "passé": [
+      "en ayant élu"
+    ]
+  }
+}

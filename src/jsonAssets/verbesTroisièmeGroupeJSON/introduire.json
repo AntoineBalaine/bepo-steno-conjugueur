@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'introduis",
+      "tu introduis",
+      "il introduit",
+      "nous introduisons",
+      "vous introduisez",
+      "ils introduisent"
+    ],
+    "passé composé": [
+      "j'ai introduit",
+      "tu as introduit",
+      "il a introduit",
+      "nous avons introduit",
+      "vous avez introduit",
+      "ils ont introduit"
+    ],
+    "imparfait": [
+      "j'introduisais",
+      "tu introduisais",
+      "il introduisait",
+      "nous introduisions",
+      "vous introduisiez",
+      "ils introduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais introduit",
+      "tu avais introduit",
+      "il avait introduit",
+      "nous avions introduit",
+      "vous aviez introduit",
+      "ils avaient introduit"
+    ],
+    "passé simple": [
+      "j'introduisis",
+      "tu introduisis",
+      "il introduisit",
+      "nous introduisîmes",
+      "vous introduisîtes",
+      "ils introduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus introduit",
+      "tu eus introduit",
+      "il eut introduit",
+      "nous eûmes introduit",
+      "vous eûtes introduit",
+      "ils eurent introduit"
+    ],
+    "futur simple": [
+      "j'introduirai",
+      "tu introduiras",
+      "il introduira",
+      "nous introduirons",
+      "vous introduirez",
+      "ils introduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai introduit",
+      "tu auras introduit",
+      "il aura introduit",
+      "nous aurons introduit",
+      "vous aurez introduit",
+      "ils auront introduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'introduise",
+      "que tu introduises",
+      "qu'il introduise",
+      "que nous introduisions",
+      "que vous introduisiez",
+      "qu'ils introduisent"
+    ],
+    "passé": [
+      "que j'aie introduit",
+      "que tu aies introduit",
+      "qu'il ait introduit",
+      "que nous ayons introduit",
+      "que vous ayez introduit",
+      "qu'ils aient introduit"
+    ],
+    "imparfait": [
+      "que j'introduisisse",
+      "que tu introduisisses",
+      "qu'il introduisît",
+      "que nous introduisissions",
+      "que vous introduisissiez",
+      "qu'ils introduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse introduit",
+      "que tu eusses introduit",
+      "qu'il eût introduit",
+      "que nous eussions introduit",
+      "que vous eussiez introduit",
+      "qu'ils eussent introduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'introduirais",
+      "tu introduirais",
+      "il introduirait",
+      "nous introduirions",
+      "vous introduiriez",
+      "ils introduiraient"
+    ],
+    "passé": [
+      "j'aurais introduit",
+      "tu aurais introduit",
+      "il aurait introduit",
+      "nous aurions introduit",
+      "vous auriez introduit",
+      "ils auraient introduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "introduis",
+      "introduisons",
+      "introduisez"
+    ],
+    "passé": [
+      "aie introduit",
+      "ayons introduit",
+      "ayez introduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "introduire"
+    ],
+    "passé": [
+      "avoir introduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "introduisant"
+    ],
+    "passé": [
+      "introduit",
+      "ayant introduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en introduisant"
+    ],
+    "passé": [
+      "en ayant introduit"
+    ]
+  }
+}

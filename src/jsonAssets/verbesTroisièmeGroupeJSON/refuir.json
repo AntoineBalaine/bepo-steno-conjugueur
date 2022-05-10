@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je refuis",
+      "tu refuis",
+      "il refuit",
+      "nous refuyons",
+      "vous refuyez",
+      "ils refuient"
+    ],
+    "passé composé": [
+      "j'ai refui",
+      "tu as refui",
+      "il a refui",
+      "nous avons refui",
+      "vous avez refui",
+      "ils ont refui"
+    ],
+    "imparfait": [
+      "je refuyais",
+      "tu refuyais",
+      "il refuyait",
+      "nous refuyions",
+      "vous refuyiez",
+      "ils refuyaient"
+    ],
+    "plus que parfait": [
+      "j'avais refui",
+      "tu avais refui",
+      "il avait refui",
+      "nous avions refui",
+      "vous aviez refui",
+      "ils avaient refui"
+    ],
+    "passé simple": [
+      "je refuis",
+      "tu refuis",
+      "il refuit",
+      "nous refuîmes",
+      "vous refuîtes",
+      "ils refuirent"
+    ],
+    "passé antérieur": [
+      "j'eus refui",
+      "tu eus refui",
+      "il eut refui",
+      "nous eûmes refui",
+      "vous eûtes refui",
+      "ils eurent refui"
+    ],
+    "futur simple": [
+      "je refuirai",
+      "tu refuiras",
+      "il refuira",
+      "nous refuirons",
+      "vous refuirez",
+      "ils refuiront"
+    ],
+    "futur antérieur": [
+      "j'aurai refui",
+      "tu auras refui",
+      "il aura refui",
+      "nous aurons refui",
+      "vous aurez refui",
+      "ils auront refui"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je refuie",
+      "que tu refuies",
+      "qu'il refuie",
+      "que nous refuyions",
+      "que vous refuyiez",
+      "qu'ils refuient"
+    ],
+    "passé": [
+      "que j'aie refui",
+      "que tu aies refui",
+      "qu'il ait refui",
+      "que nous ayons refui",
+      "que vous ayez refui",
+      "qu'ils aient refui"
+    ],
+    "imparfait": [
+      "que je refuisse",
+      "que tu refuisses",
+      "qu'il refuît",
+      "que nous refuissions",
+      "que vous refuissiez",
+      "qu'ils refuissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse refui",
+      "que tu eusses refui",
+      "qu'il eût refui",
+      "que nous eussions refui",
+      "que vous eussiez refui",
+      "qu'ils eussent refui"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je refuirais",
+      "tu refuirais",
+      "il refuirait",
+      "nous refuirions",
+      "vous refuiriez",
+      "ils refuiraient"
+    ],
+    "passé": [
+      "j'aurais refui",
+      "tu aurais refui",
+      "il aurait refui",
+      "nous aurions refui",
+      "vous auriez refui",
+      "ils auraient refui"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "refuis",
+      "refuyons",
+      "refuyez"
+    ],
+    "passé": [
+      "aie refui",
+      "ayons refui",
+      "ayez refui"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "refuir"
+    ],
+    "passé": [
+      "avoir refui"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "refuyant"
+    ],
+    "passé": [
+      "refui",
+      "ayant refui"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en refuyant"
+    ],
+    "passé": [
+      "en ayant refui"
+    ]
+  }
+}

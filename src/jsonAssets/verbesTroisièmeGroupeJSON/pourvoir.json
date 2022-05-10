@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je pourvois",
+      "tu pourvois",
+      "il pourvoit",
+      "nous pourvoyons",
+      "vous pourvoyez",
+      "ils pourvoient"
+    ],
+    "passé composé": [
+      "j'ai pourvu",
+      "tu as pourvu",
+      "il a pourvu",
+      "nous avons pourvu",
+      "vous avez pourvu",
+      "ils ont pourvu"
+    ],
+    "imparfait": [
+      "je pourvoyais",
+      "tu pourvoyais",
+      "il pourvoyait",
+      "nous pourvoyions",
+      "vous pourvoyiez",
+      "ils pourvoyaient"
+    ],
+    "plus que parfait": [
+      "j'avais pourvu",
+      "tu avais pourvu",
+      "il avait pourvu",
+      "nous avions pourvu",
+      "vous aviez pourvu",
+      "ils avaient pourvu"
+    ],
+    "passé simple": [
+      "je pourvus",
+      "tu pourvus",
+      "il pourvut",
+      "nous pourvûmes",
+      "vous pourvûtes",
+      "ils pourvurent"
+    ],
+    "passé antérieur": [
+      "j'eus pourvu",
+      "tu eus pourvu",
+      "il eut pourvu",
+      "nous eûmes pourvu",
+      "vous eûtes pourvu",
+      "ils eurent pourvu"
+    ],
+    "futur simple": [
+      "je pourvoirai",
+      "tu pourvoiras",
+      "il pourvoira",
+      "nous pourvoirons",
+      "vous pourvoirez",
+      "ils pourvoiront"
+    ],
+    "futur antérieur": [
+      "j'aurai pourvu",
+      "tu auras pourvu",
+      "il aura pourvu",
+      "nous aurons pourvu",
+      "vous aurez pourvu",
+      "ils auront pourvu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je pourvoie",
+      "que tu pourvoies",
+      "qu'il pourvoie",
+      "que nous pourvoyions",
+      "que vous pourvoyiez",
+      "qu'ils pourvoient"
+    ],
+    "passé": [
+      "que j'aie pourvu",
+      "que tu aies pourvu",
+      "qu'il ait pourvu",
+      "que nous ayons pourvu",
+      "que vous ayez pourvu",
+      "qu'ils aient pourvu"
+    ],
+    "imparfait": [
+      "que je pourvusse",
+      "que tu pourvusses",
+      "qu'il pourvût",
+      "que nous pourvussions",
+      "que vous pourvussiez",
+      "qu'ils pourvussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse pourvu",
+      "que tu eusses pourvu",
+      "qu'il eût pourvu",
+      "que nous eussions pourvu",
+      "que vous eussiez pourvu",
+      "qu'ils eussent pourvu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je pourvoirais",
+      "tu pourvoirais",
+      "il pourvoirait",
+      "nous pourvoirions",
+      "vous pourvoiriez",
+      "ils pourvoiraient"
+    ],
+    "passé": [
+      "j'aurais pourvu",
+      "tu aurais pourvu",
+      "il aurait pourvu",
+      "nous aurions pourvu",
+      "vous auriez pourvu",
+      "ils auraient pourvu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "pourvois",
+      "pourvoyons",
+      "pourvoyez"
+    ],
+    "passé": [
+      "aie pourvu",
+      "ayons pourvu",
+      "ayez pourvu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "pourvoir"
+    ],
+    "passé": [
+      "avoir pourvu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "pourvoyant"
+    ],
+    "passé": [
+      "pourvu",
+      "ayant pourvu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en pourvoyant"
+    ],
+    "passé": [
+      "en ayant pourvu"
+    ]
+  }
+}

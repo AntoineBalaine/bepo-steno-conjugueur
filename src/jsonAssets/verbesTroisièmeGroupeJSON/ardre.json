@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'ards",
+      "tu ards",
+      "il ard",
+      "nous ardons",
+      "vous ardez",
+      "ils ardent"
+    ],
+    "passé composé": [
+      "j'ai ardu",
+      "tu as ardu",
+      "il a ardu",
+      "nous avons ardu",
+      "vous avez ardu",
+      "ils ont ardu"
+    ],
+    "imparfait": [
+      "j'ardais",
+      "tu ardais",
+      "il ardait",
+      "nous ardions",
+      "vous ardiez",
+      "ils ardaient"
+    ],
+    "plus que parfait": [
+      "j'avais ardu",
+      "tu avais ardu",
+      "il avait ardu",
+      "nous avions ardu",
+      "vous aviez ardu",
+      "ils avaient ardu"
+    ],
+    "passé simple": [
+      "j'ardis",
+      "tu ardis",
+      "il ardit",
+      "nous ardîmes",
+      "vous ardîtes",
+      "ils ardirent"
+    ],
+    "passé antérieur": [
+      "j'eus ardu",
+      "tu eus ardu",
+      "il eut ardu",
+      "nous eûmes ardu",
+      "vous eûtes ardu",
+      "ils eurent ardu"
+    ],
+    "futur simple": [
+      "j'ardrai",
+      "tu ardras",
+      "il ardra",
+      "nous ardrons",
+      "vous ardrez",
+      "ils ardront"
+    ],
+    "futur antérieur": [
+      "j'aurai ardu",
+      "tu auras ardu",
+      "il aura ardu",
+      "nous aurons ardu",
+      "vous aurez ardu",
+      "ils auront ardu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'arde",
+      "que tu ardes",
+      "qu'il arde",
+      "que nous ardions",
+      "que vous ardiez",
+      "qu'ils ardent"
+    ],
+    "passé": [
+      "que j'aie ardu",
+      "que tu aies ardu",
+      "qu'il ait ardu",
+      "que nous ayons ardu",
+      "que vous ayez ardu",
+      "qu'ils aient ardu"
+    ],
+    "imparfait": [
+      "que j'ardisse",
+      "que tu ardisses",
+      "qu'il ardît",
+      "que nous ardissions",
+      "que vous ardissiez",
+      "qu'ils ardissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse ardu",
+      "que tu eusses ardu",
+      "qu'il eût ardu",
+      "que nous eussions ardu",
+      "que vous eussiez ardu",
+      "qu'ils eussent ardu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'ardrais",
+      "tu ardrais",
+      "il ardrait",
+      "nous ardrions",
+      "vous ardriez",
+      "ils ardraient"
+    ],
+    "passé": [
+      "j'aurais ardu",
+      "tu aurais ardu",
+      "il aurait ardu",
+      "nous aurions ardu",
+      "vous auriez ardu",
+      "ils auraient ardu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ards",
+      "ardons",
+      "ardez"
+    ],
+    "passé": [
+      "aie ardu",
+      "ayons ardu",
+      "ayez ardu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "ardre"
+    ],
+    "passé": [
+      "avoir ardu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "ardant"
+    ],
+    "passé": [
+      "ardu",
+      "ayant ardu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en ardant"
+    ],
+    "passé": [
+      "en ayant ardu"
+    ]
+  }
+}

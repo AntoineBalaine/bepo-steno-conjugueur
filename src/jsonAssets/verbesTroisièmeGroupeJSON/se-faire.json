@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me fais",
+      "tu te fais",
+      "il se fait",
+      "nous nous faisons",
+      "vous vous faites",
+      "ils se font"
+    ],
+    "passé composé": [
+      "je me suis fait",
+      "tu t'es fait",
+      "il s'est fait",
+      "nous nous sommes faits",
+      "vous vous êtes faits",
+      "ils se sont faits"
+    ],
+    "imparfait": [
+      "je me faisais",
+      "tu te faisais",
+      "il se faisait",
+      "nous nous faisions",
+      "vous vous faisiez",
+      "ils se faisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais fait",
+      "tu t'étais fait",
+      "il s'était fait",
+      "nous nous étions faits",
+      "vous vous étiez faits",
+      "ils s'étaient faits"
+    ],
+    "passé simple": [
+      "je me fis",
+      "tu te fis",
+      "il se fit",
+      "nous nous fîmes",
+      "vous vous fîtes",
+      "ils se firent"
+    ],
+    "passé antérieur": [
+      "je me fus fait",
+      "tu te fus fait",
+      "il se fut fait",
+      "nous nous fûmes faits",
+      "vous vous fûtes faits",
+      "ils se furent faits"
+    ],
+    "futur simple": [
+      "je me ferai",
+      "tu te feras",
+      "il se fera",
+      "nous nous ferons",
+      "vous vous ferez",
+      "ils se feront"
+    ],
+    "futur antérieur": [
+      "je me serai fait",
+      "tu te seras fait",
+      "il se sera fait",
+      "nous nous serons faits",
+      "vous vous serez faits",
+      "ils se seront faits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me fasse",
+      "que tu te fasses",
+      "qu'il se fasse",
+      "que nous nous fassions",
+      "que vous vous fassiez",
+      "qu'ils se fassent"
+    ],
+    "passé": [
+      "que je me sois fait",
+      "que tu te sois fait",
+      "qu'il se soit fait",
+      "que nous nous soyons faits",
+      "que vous vous soyez faits",
+      "qu'ils se soient faits"
+    ],
+    "imparfait": [
+      "que je me fisse",
+      "que tu te fisses",
+      "qu'il se fît",
+      "que nous nous fissions",
+      "que vous vous fissiez",
+      "qu'ils se fissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse fait",
+      "que tu te fusses fait",
+      "qu'il se fût fait",
+      "que nous nous fussions faits",
+      "que vous vous fussiez faits",
+      "qu'ils se fussent faits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me ferais",
+      "tu te ferais",
+      "il se ferait",
+      "nous nous ferions",
+      "vous vous feriez",
+      "ils se feraient"
+    ],
+    "passé": [
+      "je me serais fait",
+      "tu te serais fait",
+      "il se serait fait",
+      "nous nous serions faits",
+      "vous vous seriez faits",
+      "ils se seraient faits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fais-toi",
+      "faisons-nous",
+      "faites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se faire"
+    ],
+    "passé": [
+      "s'être fait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se faisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant fait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se faisant"
+    ],
+    "passé": [
+      "en s'étant fait"
+    ]
+  }
+}

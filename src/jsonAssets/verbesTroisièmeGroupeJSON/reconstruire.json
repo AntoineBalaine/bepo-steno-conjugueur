@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reconstruis",
+      "tu reconstruis",
+      "il reconstruit",
+      "nous reconstruisons",
+      "vous reconstruisez",
+      "ils reconstruisent"
+    ],
+    "passé composé": [
+      "j'ai reconstruit",
+      "tu as reconstruit",
+      "il a reconstruit",
+      "nous avons reconstruit",
+      "vous avez reconstruit",
+      "ils ont reconstruit"
+    ],
+    "imparfait": [
+      "je reconstruisais",
+      "tu reconstruisais",
+      "il reconstruisait",
+      "nous reconstruisions",
+      "vous reconstruisiez",
+      "ils reconstruisaient"
+    ],
+    "plus que parfait": [
+      "j'avais reconstruit",
+      "tu avais reconstruit",
+      "il avait reconstruit",
+      "nous avions reconstruit",
+      "vous aviez reconstruit",
+      "ils avaient reconstruit"
+    ],
+    "passé simple": [
+      "je reconstruisis",
+      "tu reconstruisis",
+      "il reconstruisit",
+      "nous reconstruisîmes",
+      "vous reconstruisîtes",
+      "ils reconstruisirent"
+    ],
+    "passé antérieur": [
+      "j'eus reconstruit",
+      "tu eus reconstruit",
+      "il eut reconstruit",
+      "nous eûmes reconstruit",
+      "vous eûtes reconstruit",
+      "ils eurent reconstruit"
+    ],
+    "futur simple": [
+      "je reconstruirai",
+      "tu reconstruiras",
+      "il reconstruira",
+      "nous reconstruirons",
+      "vous reconstruirez",
+      "ils reconstruiront"
+    ],
+    "futur antérieur": [
+      "j'aurai reconstruit",
+      "tu auras reconstruit",
+      "il aura reconstruit",
+      "nous aurons reconstruit",
+      "vous aurez reconstruit",
+      "ils auront reconstruit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reconstruise",
+      "que tu reconstruises",
+      "qu'il reconstruise",
+      "que nous reconstruisions",
+      "que vous reconstruisiez",
+      "qu'ils reconstruisent"
+    ],
+    "passé": [
+      "que j'aie reconstruit",
+      "que tu aies reconstruit",
+      "qu'il ait reconstruit",
+      "que nous ayons reconstruit",
+      "que vous ayez reconstruit",
+      "qu'ils aient reconstruit"
+    ],
+    "imparfait": [
+      "que je reconstruisisse",
+      "que tu reconstruisisses",
+      "qu'il reconstruisît",
+      "que nous reconstruisissions",
+      "que vous reconstruisissiez",
+      "qu'ils reconstruisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reconstruit",
+      "que tu eusses reconstruit",
+      "qu'il eût reconstruit",
+      "que nous eussions reconstruit",
+      "que vous eussiez reconstruit",
+      "qu'ils eussent reconstruit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reconstruirais",
+      "tu reconstruirais",
+      "il reconstruirait",
+      "nous reconstruirions",
+      "vous reconstruiriez",
+      "ils reconstruiraient"
+    ],
+    "passé": [
+      "j'aurais reconstruit",
+      "tu aurais reconstruit",
+      "il aurait reconstruit",
+      "nous aurions reconstruit",
+      "vous auriez reconstruit",
+      "ils auraient reconstruit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reconstruis",
+      "reconstruisons",
+      "reconstruisez"
+    ],
+    "passé": [
+      "aie reconstruit",
+      "ayons reconstruit",
+      "ayez reconstruit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reconstruire"
+    ],
+    "passé": [
+      "avoir reconstruit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reconstruisant"
+    ],
+    "passé": [
+      "reconstruit",
+      "ayant reconstruit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reconstruisant"
+    ],
+    "passé": [
+      "en ayant reconstruit"
+    ]
+  }
+}

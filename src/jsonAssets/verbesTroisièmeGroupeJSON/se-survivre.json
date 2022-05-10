@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me survis",
+      "tu te survis",
+      "il se survit",
+      "nous nous survivons",
+      "vous vous survivez",
+      "ils se survivent"
+    ],
+    "passé composé": [
+      "je me suis survécu",
+      "tu t'es survécu",
+      "il s'est survécu",
+      "nous nous sommes survécu",
+      "vous vous êtes survécu",
+      "ils se sont survécu"
+    ],
+    "imparfait": [
+      "je me survivais",
+      "tu te survivais",
+      "il se survivait",
+      "nous nous survivions",
+      "vous vous surviviez",
+      "ils se survivaient"
+    ],
+    "plus que parfait": [
+      "je m'étais survécu",
+      "tu t'étais survécu",
+      "il s'était survécu",
+      "nous nous étions survécu",
+      "vous vous étiez survécu",
+      "ils s'étaient survécu"
+    ],
+    "passé simple": [
+      "je me survécus",
+      "tu te survécus",
+      "il se survécut",
+      "nous nous survécûmes",
+      "vous vous survécûtes",
+      "ils se survécurent"
+    ],
+    "passé antérieur": [
+      "je me fus survécu",
+      "tu te fus survécu",
+      "il se fut survécu",
+      "nous nous fûmes survécu",
+      "vous vous fûtes survécu",
+      "ils se furent survécu"
+    ],
+    "futur simple": [
+      "je me survivrai",
+      "tu te survivras",
+      "il se survivra",
+      "nous nous survivrons",
+      "vous vous survivrez",
+      "ils se survivront"
+    ],
+    "futur antérieur": [
+      "je me serai survécu",
+      "tu te seras survécu",
+      "il se sera survécu",
+      "nous nous serons survécu",
+      "vous vous serez survécu",
+      "ils se seront survécu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me survive",
+      "que tu te survives",
+      "qu'il se survive",
+      "que nous nous survivions",
+      "que vous vous surviviez",
+      "qu'ils se survivent"
+    ],
+    "passé": [
+      "que je me sois survécu",
+      "que tu te sois survécu",
+      "qu'il se soit survécu",
+      "que nous nous soyons survécu",
+      "que vous vous soyez survécu",
+      "qu'ils se soient survécu"
+    ],
+    "imparfait": [
+      "que je me survécusse",
+      "que tu te survécusses",
+      "qu'il se survécût",
+      "que nous nous survécussions",
+      "que vous vous survécussiez",
+      "qu'ils se survécussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse survécu",
+      "que tu te fusses survécu",
+      "qu'il se fût survécu",
+      "que nous nous fussions survécu",
+      "que vous vous fussiez survécu",
+      "qu'ils se fussent survécu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me survivrais",
+      "tu te survivrais",
+      "il se survivrait",
+      "nous nous survivrions",
+      "vous vous survivriez",
+      "ils se survivraient"
+    ],
+    "passé": [
+      "je me serais survécu",
+      "tu te serais survécu",
+      "il se serait survécu",
+      "nous nous serions survécu",
+      "vous vous seriez survécu",
+      "ils se seraient survécu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "survis-toi",
+      "survivons-nous",
+      "survivez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se survivre"
+    ],
+    "passé": [
+      "s'être survécu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se survivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant survécu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se survivant"
+    ],
+    "passé": [
+      "en s'étant survécu"
+    ]
+  }
+}

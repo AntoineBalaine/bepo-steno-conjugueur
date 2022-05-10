@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je subviens",
+      "tu subviens",
+      "il subvient",
+      "nous subvenons",
+      "vous subvenez",
+      "ils subviennent"
+    ],
+    "passé composé": [
+      "j'ai subvenu",
+      "tu as subvenu",
+      "il a subvenu",
+      "nous avons subvenu",
+      "vous avez subvenu",
+      "ils ont subvenu"
+    ],
+    "imparfait": [
+      "je subvenais",
+      "tu subvenais",
+      "il subvenait",
+      "nous subvenions",
+      "vous subveniez",
+      "ils subvenaient"
+    ],
+    "plus que parfait": [
+      "j'avais subvenu",
+      "tu avais subvenu",
+      "il avait subvenu",
+      "nous avions subvenu",
+      "vous aviez subvenu",
+      "ils avaient subvenu"
+    ],
+    "passé simple": [
+      "je subvins",
+      "tu subvins",
+      "il subvint",
+      "nous subvînmes",
+      "vous subvîntes",
+      "ils subvinrent"
+    ],
+    "passé antérieur": [
+      "j'eus subvenu",
+      "tu eus subvenu",
+      "il eut subvenu",
+      "nous eûmes subvenu",
+      "vous eûtes subvenu",
+      "ils eurent subvenu"
+    ],
+    "futur simple": [
+      "je subviendrai",
+      "tu subviendras",
+      "il subviendra",
+      "nous subviendrons",
+      "vous subviendrez",
+      "ils subviendront"
+    ],
+    "futur antérieur": [
+      "j'aurai subvenu",
+      "tu auras subvenu",
+      "il aura subvenu",
+      "nous aurons subvenu",
+      "vous aurez subvenu",
+      "ils auront subvenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je subvienne",
+      "que tu subviennes",
+      "qu'il subvienne",
+      "que nous subvenions",
+      "que vous subveniez",
+      "qu'ils subviennent"
+    ],
+    "passé": [
+      "que j'aie subvenu",
+      "que tu aies subvenu",
+      "qu'il ait subvenu",
+      "que nous ayons subvenu",
+      "que vous ayez subvenu",
+      "qu'ils aient subvenu"
+    ],
+    "imparfait": [
+      "que je subvinsse",
+      "que tu subvinsses",
+      "qu'il subvînt",
+      "que nous subvinssions",
+      "que vous subvinssiez",
+      "qu'ils subvinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse subvenu",
+      "que tu eusses subvenu",
+      "qu'il eût subvenu",
+      "que nous eussions subvenu",
+      "que vous eussiez subvenu",
+      "qu'ils eussent subvenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je subviendrais",
+      "tu subviendrais",
+      "il subviendrait",
+      "nous subviendrions",
+      "vous subviendriez",
+      "ils subviendraient"
+    ],
+    "passé": [
+      "j'aurais subvenu",
+      "tu aurais subvenu",
+      "il aurait subvenu",
+      "nous aurions subvenu",
+      "vous auriez subvenu",
+      "ils auraient subvenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "subviens",
+      "subvenons",
+      "subvenez"
+    ],
+    "passé": [
+      "aie subvenu",
+      "ayons subvenu",
+      "ayez subvenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "subvenir"
+    ],
+    "passé": [
+      "avoir subvenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "subvenant"
+    ],
+    "passé": [
+      "subvenu",
+      "ayant subvenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en subvenant"
+    ],
+    "passé": [
+      "en ayant subvenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je refais",
+      "tu refais",
+      "il refait",
+      "nous refaisons",
+      "vous refaites",
+      "ils refont"
+    ],
+    "passé composé": [
+      "j'ai refait",
+      "tu as refait",
+      "il a refait",
+      "nous avons refait",
+      "vous avez refait",
+      "ils ont refait"
+    ],
+    "imparfait": [
+      "je refaisais",
+      "tu refaisais",
+      "il refaisait",
+      "nous refaisions",
+      "vous refaisiez",
+      "ils refaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais refait",
+      "tu avais refait",
+      "il avait refait",
+      "nous avions refait",
+      "vous aviez refait",
+      "ils avaient refait"
+    ],
+    "passé simple": [
+      "je refis",
+      "tu refis",
+      "il refit",
+      "nous refîmes",
+      "vous refîtes",
+      "ils refirent"
+    ],
+    "passé antérieur": [
+      "j'eus refait",
+      "tu eus refait",
+      "il eut refait",
+      "nous eûmes refait",
+      "vous eûtes refait",
+      "ils eurent refait"
+    ],
+    "futur simple": [
+      "je referai",
+      "tu referas",
+      "il refera",
+      "nous referons",
+      "vous referez",
+      "ils referont"
+    ],
+    "futur antérieur": [
+      "j'aurai refait",
+      "tu auras refait",
+      "il aura refait",
+      "nous aurons refait",
+      "vous aurez refait",
+      "ils auront refait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je refasse",
+      "que tu refasses",
+      "qu'il refasse",
+      "que nous refassions",
+      "que vous refassiez",
+      "qu'ils refassent"
+    ],
+    "passé": [
+      "que j'aie refait",
+      "que tu aies refait",
+      "qu'il ait refait",
+      "que nous ayons refait",
+      "que vous ayez refait",
+      "qu'ils aient refait"
+    ],
+    "imparfait": [
+      "que je refisse",
+      "que tu refisses",
+      "qu'il refît",
+      "que nous refissions",
+      "que vous refissiez",
+      "qu'ils refissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse refait",
+      "que tu eusses refait",
+      "qu'il eût refait",
+      "que nous eussions refait",
+      "que vous eussiez refait",
+      "qu'ils eussent refait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je referais",
+      "tu referais",
+      "il referait",
+      "nous referions",
+      "vous referiez",
+      "ils referaient"
+    ],
+    "passé": [
+      "j'aurais refait",
+      "tu aurais refait",
+      "il aurait refait",
+      "nous aurions refait",
+      "vous auriez refait",
+      "ils auraient refait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "refais",
+      "refaisons",
+      "refaites"
+    ],
+    "passé": [
+      "aie refait",
+      "ayons refait",
+      "ayez refait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "refaire"
+    ],
+    "passé": [
+      "avoir refait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "refaisant"
+    ],
+    "passé": [
+      "refait",
+      "ayant refait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en refaisant"
+    ],
+    "passé": [
+      "en ayant refait"
+    ]
+  }
+}

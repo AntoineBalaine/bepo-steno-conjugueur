@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me construis",
+      "tu te construis",
+      "il se construit",
+      "nous nous construisons",
+      "vous vous construisez",
+      "ils se construisent"
+    ],
+    "passé composé": [
+      "je me suis construit",
+      "tu t'es construit",
+      "il s'est construit",
+      "nous nous sommes construits",
+      "vous vous êtes construits",
+      "ils se sont construits"
+    ],
+    "imparfait": [
+      "je me construisais",
+      "tu te construisais",
+      "il se construisait",
+      "nous nous construisions",
+      "vous vous construisiez",
+      "ils se construisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais construit",
+      "tu t'étais construit",
+      "il s'était construit",
+      "nous nous étions construits",
+      "vous vous étiez construits",
+      "ils s'étaient construits"
+    ],
+    "passé simple": [
+      "je me construisis",
+      "tu te construisis",
+      "il se construisit",
+      "nous nous construisîmes",
+      "vous vous construisîtes",
+      "ils se construisirent"
+    ],
+    "passé antérieur": [
+      "je me fus construit",
+      "tu te fus construit",
+      "il se fut construit",
+      "nous nous fûmes construits",
+      "vous vous fûtes construits",
+      "ils se furent construits"
+    ],
+    "futur simple": [
+      "je me construirai",
+      "tu te construiras",
+      "il se construira",
+      "nous nous construirons",
+      "vous vous construirez",
+      "ils se construiront"
+    ],
+    "futur antérieur": [
+      "je me serai construit",
+      "tu te seras construit",
+      "il se sera construit",
+      "nous nous serons construits",
+      "vous vous serez construits",
+      "ils se seront construits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me construise",
+      "que tu te construises",
+      "qu'il se construise",
+      "que nous nous construisions",
+      "que vous vous construisiez",
+      "qu'ils se construisent"
+    ],
+    "passé": [
+      "que je me sois construit",
+      "que tu te sois construit",
+      "qu'il se soit construit",
+      "que nous nous soyons construits",
+      "que vous vous soyez construits",
+      "qu'ils se soient construits"
+    ],
+    "imparfait": [
+      "que je me construisisse",
+      "que tu te construisisses",
+      "qu'il se construisît",
+      "que nous nous construisissions",
+      "que vous vous construisissiez",
+      "qu'ils se construisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse construit",
+      "que tu te fusses construit",
+      "qu'il se fût construit",
+      "que nous nous fussions construits",
+      "que vous vous fussiez construits",
+      "qu'ils se fussent construits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me construirais",
+      "tu te construirais",
+      "il se construirait",
+      "nous nous construirions",
+      "vous vous construiriez",
+      "ils se construiraient"
+    ],
+    "passé": [
+      "je me serais construit",
+      "tu te serais construit",
+      "il se serait construit",
+      "nous nous serions construits",
+      "vous vous seriez construits",
+      "ils se seraient construits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "construis-toi",
+      "construisons-nous",
+      "construisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se construire"
+    ],
+    "passé": [
+      "s'être construit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se construisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant construit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se construisant"
+    ],
+    "passé": [
+      "en s'étant construit"
+    ]
+  }
+}

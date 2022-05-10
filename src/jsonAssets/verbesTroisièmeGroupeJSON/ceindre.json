@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je ceins",
+      "tu ceins",
+      "il ceint",
+      "nous ceignons",
+      "vous ceignez",
+      "ils ceignent"
+    ],
+    "passé composé": [
+      "j'ai ceint",
+      "tu as ceint",
+      "il a ceint",
+      "nous avons ceint",
+      "vous avez ceint",
+      "ils ont ceint"
+    ],
+    "imparfait": [
+      "je ceignais",
+      "tu ceignais",
+      "il ceignait",
+      "nous ceignions",
+      "vous ceigniez",
+      "ils ceignaient"
+    ],
+    "plus que parfait": [
+      "j'avais ceint",
+      "tu avais ceint",
+      "il avait ceint",
+      "nous avions ceint",
+      "vous aviez ceint",
+      "ils avaient ceint"
+    ],
+    "passé simple": [
+      "je ceignis",
+      "tu ceignis",
+      "il ceignit",
+      "nous ceignîmes",
+      "vous ceignîtes",
+      "ils ceignirent"
+    ],
+    "passé antérieur": [
+      "j'eus ceint",
+      "tu eus ceint",
+      "il eut ceint",
+      "nous eûmes ceint",
+      "vous eûtes ceint",
+      "ils eurent ceint"
+    ],
+    "futur simple": [
+      "je ceindrai",
+      "tu ceindras",
+      "il ceindra",
+      "nous ceindrons",
+      "vous ceindrez",
+      "ils ceindront"
+    ],
+    "futur antérieur": [
+      "j'aurai ceint",
+      "tu auras ceint",
+      "il aura ceint",
+      "nous aurons ceint",
+      "vous aurez ceint",
+      "ils auront ceint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je ceigne",
+      "que tu ceignes",
+      "qu'il ceigne",
+      "que nous ceignions",
+      "que vous ceigniez",
+      "qu'ils ceignent"
+    ],
+    "passé": [
+      "que j'aie ceint",
+      "que tu aies ceint",
+      "qu'il ait ceint",
+      "que nous ayons ceint",
+      "que vous ayez ceint",
+      "qu'ils aient ceint"
+    ],
+    "imparfait": [
+      "que je ceignisse",
+      "que tu ceignisses",
+      "qu'il ceignît",
+      "que nous ceignissions",
+      "que vous ceignissiez",
+      "qu'ils ceignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse ceint",
+      "que tu eusses ceint",
+      "qu'il eût ceint",
+      "que nous eussions ceint",
+      "que vous eussiez ceint",
+      "qu'ils eussent ceint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je ceindrais",
+      "tu ceindrais",
+      "il ceindrait",
+      "nous ceindrions",
+      "vous ceindriez",
+      "ils ceindraient"
+    ],
+    "passé": [
+      "j'aurais ceint",
+      "tu aurais ceint",
+      "il aurait ceint",
+      "nous aurions ceint",
+      "vous auriez ceint",
+      "ils auraient ceint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ceins",
+      "ceignons",
+      "ceignez"
+    ],
+    "passé": [
+      "aie ceint",
+      "ayons ceint",
+      "ayez ceint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "ceindre"
+    ],
+    "passé": [
+      "avoir ceint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "ceignant"
+    ],
+    "passé": [
+      "ceint",
+      "ayant ceint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en ceignant"
+    ],
+    "passé": [
+      "en ayant ceint"
+    ]
+  }
+}

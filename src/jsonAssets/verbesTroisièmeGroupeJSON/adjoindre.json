@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'adjoins",
+      "tu adjoins",
+      "il adjoint",
+      "nous adjoignons",
+      "vous adjoignez",
+      "ils adjoignent"
+    ],
+    "passé composé": [
+      "j'ai adjoint",
+      "tu as adjoint",
+      "il a adjoint",
+      "nous avons adjoint",
+      "vous avez adjoint",
+      "ils ont adjoint"
+    ],
+    "imparfait": [
+      "j'adjoignais",
+      "tu adjoignais",
+      "il adjoignait",
+      "nous adjoignions",
+      "vous adjoigniez",
+      "ils adjoignaient"
+    ],
+    "plus que parfait": [
+      "j'avais adjoint",
+      "tu avais adjoint",
+      "il avait adjoint",
+      "nous avions adjoint",
+      "vous aviez adjoint",
+      "ils avaient adjoint"
+    ],
+    "passé simple": [
+      "j'adjoignis",
+      "tu adjoignis",
+      "il adjoignit",
+      "nous adjoignîmes",
+      "vous adjoignîtes",
+      "ils adjoignirent"
+    ],
+    "passé antérieur": [
+      "j'eus adjoint",
+      "tu eus adjoint",
+      "il eut adjoint",
+      "nous eûmes adjoint",
+      "vous eûtes adjoint",
+      "ils eurent adjoint"
+    ],
+    "futur simple": [
+      "j'adjoindrai",
+      "tu adjoindras",
+      "il adjoindra",
+      "nous adjoindrons",
+      "vous adjoindrez",
+      "ils adjoindront"
+    ],
+    "futur antérieur": [
+      "j'aurai adjoint",
+      "tu auras adjoint",
+      "il aura adjoint",
+      "nous aurons adjoint",
+      "vous aurez adjoint",
+      "ils auront adjoint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'adjoigne",
+      "que tu adjoignes",
+      "qu'il adjoigne",
+      "que nous adjoignions",
+      "que vous adjoigniez",
+      "qu'ils adjoignent"
+    ],
+    "passé": [
+      "que j'aie adjoint",
+      "que tu aies adjoint",
+      "qu'il ait adjoint",
+      "que nous ayons adjoint",
+      "que vous ayez adjoint",
+      "qu'ils aient adjoint"
+    ],
+    "imparfait": [
+      "que j'adjoignisse",
+      "que tu adjoignisses",
+      "qu'il adjoignît",
+      "que nous adjoignissions",
+      "que vous adjoignissiez",
+      "qu'ils adjoignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse adjoint",
+      "que tu eusses adjoint",
+      "qu'il eût adjoint",
+      "que nous eussions adjoint",
+      "que vous eussiez adjoint",
+      "qu'ils eussent adjoint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'adjoindrais",
+      "tu adjoindrais",
+      "il adjoindrait",
+      "nous adjoindrions",
+      "vous adjoindriez",
+      "ils adjoindraient"
+    ],
+    "passé": [
+      "j'aurais adjoint",
+      "tu aurais adjoint",
+      "il aurait adjoint",
+      "nous aurions adjoint",
+      "vous auriez adjoint",
+      "ils auraient adjoint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "adjoins",
+      "adjoignons",
+      "adjoignez"
+    ],
+    "passé": [
+      "aie adjoint",
+      "ayons adjoint",
+      "ayez adjoint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "adjoindre"
+    ],
+    "passé": [
+      "avoir adjoint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "adjoignant"
+    ],
+    "passé": [
+      "adjoint",
+      "ayant adjoint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en adjoignant"
+    ],
+    "passé": [
+      "en ayant adjoint"
+    ]
+  }
+}

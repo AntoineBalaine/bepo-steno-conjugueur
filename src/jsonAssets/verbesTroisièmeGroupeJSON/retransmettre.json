@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je retransmets",
+      "tu retransmets",
+      "il retransmet",
+      "nous retransmettons",
+      "vous retransmettez",
+      "ils retransmettent"
+    ],
+    "passé composé": [
+      "j'ai retransmis",
+      "tu as retransmis",
+      "il a retransmis",
+      "nous avons retransmis",
+      "vous avez retransmis",
+      "ils ont retransmis"
+    ],
+    "imparfait": [
+      "je retransmettais",
+      "tu retransmettais",
+      "il retransmettait",
+      "nous retransmettions",
+      "vous retransmettiez",
+      "ils retransmettaient"
+    ],
+    "plus que parfait": [
+      "j'avais retransmis",
+      "tu avais retransmis",
+      "il avait retransmis",
+      "nous avions retransmis",
+      "vous aviez retransmis",
+      "ils avaient retransmis"
+    ],
+    "passé simple": [
+      "je retransmis",
+      "tu retransmis",
+      "il retransmit",
+      "nous retransmîmes",
+      "vous retransmîtes",
+      "ils retransmirent"
+    ],
+    "passé antérieur": [
+      "j'eus retransmis",
+      "tu eus retransmis",
+      "il eut retransmis",
+      "nous eûmes retransmis",
+      "vous eûtes retransmis",
+      "ils eurent retransmis"
+    ],
+    "futur simple": [
+      "je retransmettrai",
+      "tu retransmettras",
+      "il retransmettra",
+      "nous retransmettrons",
+      "vous retransmettrez",
+      "ils retransmettront"
+    ],
+    "futur antérieur": [
+      "j'aurai retransmis",
+      "tu auras retransmis",
+      "il aura retransmis",
+      "nous aurons retransmis",
+      "vous aurez retransmis",
+      "ils auront retransmis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je retransmette",
+      "que tu retransmettes",
+      "qu'il retransmette",
+      "que nous retransmettions",
+      "que vous retransmettiez",
+      "qu'ils retransmettent"
+    ],
+    "passé": [
+      "que j'aie retransmis",
+      "que tu aies retransmis",
+      "qu'il ait retransmis",
+      "que nous ayons retransmis",
+      "que vous ayez retransmis",
+      "qu'ils aient retransmis"
+    ],
+    "imparfait": [
+      "que je retransmisse",
+      "que tu retransmisses",
+      "qu'il retransmît",
+      "que nous retransmissions",
+      "que vous retransmissiez",
+      "qu'ils retransmissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse retransmis",
+      "que tu eusses retransmis",
+      "qu'il eût retransmis",
+      "que nous eussions retransmis",
+      "que vous eussiez retransmis",
+      "qu'ils eussent retransmis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je retransmettrais",
+      "tu retransmettrais",
+      "il retransmettrait",
+      "nous retransmettrions",
+      "vous retransmettriez",
+      "ils retransmettraient"
+    ],
+    "passé": [
+      "j'aurais retransmis",
+      "tu aurais retransmis",
+      "il aurait retransmis",
+      "nous aurions retransmis",
+      "vous auriez retransmis",
+      "ils auraient retransmis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "retransmets",
+      "retransmettons",
+      "retransmettez"
+    ],
+    "passé": [
+      "aie retransmis",
+      "ayons retransmis",
+      "ayez retransmis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "retransmettre"
+    ],
+    "passé": [
+      "avoir retransmis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "retransmettant"
+    ],
+    "passé": [
+      "retransmis",
+      "ayant retransmis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en retransmettant"
+    ],
+    "passé": [
+      "en ayant retransmis"
+    ]
+  }
+}

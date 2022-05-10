@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me confonds",
+      "tu te confonds",
+      "il se confond",
+      "nous nous confondons",
+      "vous vous confondez",
+      "ils se confondent"
+    ],
+    "passé composé": [
+      "je me suis confondu",
+      "tu t'es confondu",
+      "il s'est confondu",
+      "nous nous sommes confondus",
+      "vous vous êtes confondus",
+      "ils se sont confondus"
+    ],
+    "imparfait": [
+      "je me confondais",
+      "tu te confondais",
+      "il se confondait",
+      "nous nous confondions",
+      "vous vous confondiez",
+      "ils se confondaient"
+    ],
+    "plus que parfait": [
+      "je m'étais confondu",
+      "tu t'étais confondu",
+      "il s'était confondu",
+      "nous nous étions confondus",
+      "vous vous étiez confondus",
+      "ils s'étaient confondus"
+    ],
+    "passé simple": [
+      "je me confondis",
+      "tu te confondis",
+      "il se confondit",
+      "nous nous confondîmes",
+      "vous vous confondîtes",
+      "ils se confondirent"
+    ],
+    "passé antérieur": [
+      "je me fus confondu",
+      "tu te fus confondu",
+      "il se fut confondu",
+      "nous nous fûmes confondus",
+      "vous vous fûtes confondus",
+      "ils se furent confondus"
+    ],
+    "futur simple": [
+      "je me confondrai",
+      "tu te confondras",
+      "il se confondra",
+      "nous nous confondrons",
+      "vous vous confondrez",
+      "ils se confondront"
+    ],
+    "futur antérieur": [
+      "je me serai confondu",
+      "tu te seras confondu",
+      "il se sera confondu",
+      "nous nous serons confondus",
+      "vous vous serez confondus",
+      "ils se seront confondus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me confonde",
+      "que tu te confondes",
+      "qu'il se confonde",
+      "que nous nous confondions",
+      "que vous vous confondiez",
+      "qu'ils se confondent"
+    ],
+    "passé": [
+      "que je me sois confondu",
+      "que tu te sois confondu",
+      "qu'il se soit confondu",
+      "que nous nous soyons confondus",
+      "que vous vous soyez confondus",
+      "qu'ils se soient confondus"
+    ],
+    "imparfait": [
+      "que je me confondisse",
+      "que tu te confondisses",
+      "qu'il se confondît",
+      "que nous nous confondissions",
+      "que vous vous confondissiez",
+      "qu'ils se confondissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse confondu",
+      "que tu te fusses confondu",
+      "qu'il se fût confondu",
+      "que nous nous fussions confondus",
+      "que vous vous fussiez confondus",
+      "qu'ils se fussent confondus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me confondrais",
+      "tu te confondrais",
+      "il se confondrait",
+      "nous nous confondrions",
+      "vous vous confondriez",
+      "ils se confondraient"
+    ],
+    "passé": [
+      "je me serais confondu",
+      "tu te serais confondu",
+      "il se serait confondu",
+      "nous nous serions confondus",
+      "vous vous seriez confondus",
+      "ils se seraient confondus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "confonds-toi",
+      "confondons-nous",
+      "confondez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se confondre"
+    ],
+    "passé": [
+      "s'être confondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se confondant"
+    ],
+    "passé": [
+      "-",
+      "s'étant confondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se confondant"
+    ],
+    "passé": [
+      "en s'étant confondu"
+    ]
+  }
+}

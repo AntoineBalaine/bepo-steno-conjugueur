@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je sers",
+      "tu sers",
+      "il sert",
+      "nous servons",
+      "vous servez",
+      "ils servent"
+    ],
+    "passé composé": [
+      "j'ai servi",
+      "tu as servi",
+      "il a servi",
+      "nous avons servi",
+      "vous avez servi",
+      "ils ont servi"
+    ],
+    "imparfait": [
+      "je servais",
+      "tu servais",
+      "il servait",
+      "nous servions",
+      "vous serviez",
+      "ils servaient"
+    ],
+    "plus que parfait": [
+      "j'avais servi",
+      "tu avais servi",
+      "il avait servi",
+      "nous avions servi",
+      "vous aviez servi",
+      "ils avaient servi"
+    ],
+    "passé simple": [
+      "je servis",
+      "tu servis",
+      "il servit",
+      "nous servîmes",
+      "vous servîtes",
+      "ils servirent"
+    ],
+    "passé antérieur": [
+      "j'eus servi",
+      "tu eus servi",
+      "il eut servi",
+      "nous eûmes servi",
+      "vous eûtes servi",
+      "ils eurent servi"
+    ],
+    "futur simple": [
+      "je servirai",
+      "tu serviras",
+      "il servira",
+      "nous servirons",
+      "vous servirez",
+      "ils serviront"
+    ],
+    "futur antérieur": [
+      "j'aurai servi",
+      "tu auras servi",
+      "il aura servi",
+      "nous aurons servi",
+      "vous aurez servi",
+      "ils auront servi"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je serve",
+      "que tu serves",
+      "qu'il serve",
+      "que nous servions",
+      "que vous serviez",
+      "qu'ils servent"
+    ],
+    "passé": [
+      "que j'aie servi",
+      "que tu aies servi",
+      "qu'il ait servi",
+      "que nous ayons servi",
+      "que vous ayez servi",
+      "qu'ils aient servi"
+    ],
+    "imparfait": [
+      "que je servisse",
+      "que tu servisses",
+      "qu'il servît",
+      "que nous servissions",
+      "que vous servissiez",
+      "qu'ils servissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse servi",
+      "que tu eusses servi",
+      "qu'il eût servi",
+      "que nous eussions servi",
+      "que vous eussiez servi",
+      "qu'ils eussent servi"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je servirais",
+      "tu servirais",
+      "il servirait",
+      "nous servirions",
+      "vous serviriez",
+      "ils serviraient"
+    ],
+    "passé": [
+      "j'aurais servi",
+      "tu aurais servi",
+      "il aurait servi",
+      "nous aurions servi",
+      "vous auriez servi",
+      "ils auraient servi"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sers",
+      "servons",
+      "servez"
+    ],
+    "passé": [
+      "aie servi",
+      "ayons servi",
+      "ayez servi"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "servir"
+    ],
+    "passé": [
+      "avoir servi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "servant"
+    ],
+    "passé": [
+      "servi",
+      "ayant servi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en servant"
+    ],
+    "passé": [
+      "en ayant servi"
+    ]
+  }
+}

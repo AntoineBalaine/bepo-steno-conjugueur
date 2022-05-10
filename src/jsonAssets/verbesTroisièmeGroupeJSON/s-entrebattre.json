@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entrebats",
+      "tu t'entrebats",
+      "il s'entrebat",
+      "nous nous entrebattons",
+      "vous vous entrebattez",
+      "ils s'entrebattent"
+    ],
+    "passé composé": [
+      "je me suis entrebattu",
+      "tu t'es entrebattu",
+      "il s'est entrebattu",
+      "nous nous sommes entrebattus",
+      "vous vous êtes entrebattus",
+      "ils se sont entrebattus"
+    ],
+    "imparfait": [
+      "je m'entrebattais",
+      "tu t'entrebattais",
+      "il s'entrebattait",
+      "nous nous entrebattions",
+      "vous vous entrebattiez",
+      "ils s'entrebattaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entrebattu",
+      "tu t'étais entrebattu",
+      "il s'était entrebattu",
+      "nous nous étions entrebattus",
+      "vous vous étiez entrebattus",
+      "ils s'étaient entrebattus"
+    ],
+    "passé simple": [
+      "je m'entrebattis",
+      "tu t'entrebattis",
+      "il s'entrebattit",
+      "nous nous entrebattîmes",
+      "vous vous entrebattîtes",
+      "ils s'entrebattirent"
+    ],
+    "passé antérieur": [
+      "je me fus entrebattu",
+      "tu te fus entrebattu",
+      "il se fut entrebattu",
+      "nous nous fûmes entrebattus",
+      "vous vous fûtes entrebattus",
+      "ils se furent entrebattus"
+    ],
+    "futur simple": [
+      "je m'entrebattrai",
+      "tu t'entrebattras",
+      "il s'entrebattra",
+      "nous nous entrebattrons",
+      "vous vous entrebattrez",
+      "ils s'entrebattront"
+    ],
+    "futur antérieur": [
+      "je me serai entrebattu",
+      "tu te seras entrebattu",
+      "il se sera entrebattu",
+      "nous nous serons entrebattus",
+      "vous vous serez entrebattus",
+      "ils se seront entrebattus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entrebatte",
+      "que tu t'entrebattes",
+      "qu'il s'entrebatte",
+      "que nous nous entrebattions",
+      "que vous vous entrebattiez",
+      "qu'ils s'entrebattent"
+    ],
+    "passé": [
+      "que je me sois entrebattu",
+      "que tu te sois entrebattu",
+      "qu'il se soit entrebattu",
+      "que nous nous soyons entrebattus",
+      "que vous vous soyez entrebattus",
+      "qu'ils se soient entrebattus"
+    ],
+    "imparfait": [
+      "que je m'entrebattisse",
+      "que tu t'entrebattisses",
+      "qu'il s'entrebattît",
+      "que nous nous entrebattissions",
+      "que vous vous entrebattissiez",
+      "qu'ils s'entrebattissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entrebattu",
+      "que tu te fusses entrebattu",
+      "qu'il se fût entrebattu",
+      "que nous nous fussions entrebattus",
+      "que vous vous fussiez entrebattus",
+      "qu'ils se fussent entrebattus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entrebattrais",
+      "tu t'entrebattrais",
+      "il s'entrebattrait",
+      "nous nous entrebattrions",
+      "vous vous entrebattriez",
+      "ils s'entrebattraient"
+    ],
+    "passé": [
+      "je me serais entrebattu",
+      "tu te serais entrebattu",
+      "il se serait entrebattu",
+      "nous nous serions entrebattus",
+      "vous vous seriez entrebattus",
+      "ils se seraient entrebattus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entrebats-toi",
+      "entrebattons-nous",
+      "entrebattez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entrebattre"
+    ],
+    "passé": [
+      "s'être entrebattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entrebattant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entrebattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entrebattant"
+    ],
+    "passé": [
+      "en s'étant entrebattu"
+    ]
+  }
+}

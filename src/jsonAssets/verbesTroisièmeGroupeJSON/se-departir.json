@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me dépars",
+      "tu te dépars",
+      "il se départ",
+      "nous nous départons",
+      "vous vous départez",
+      "ils se départent"
+    ],
+    "passé composé": [
+      "je me suis départi",
+      "tu t'es départi",
+      "il s'est départi",
+      "nous nous sommes départis",
+      "vous vous êtes départis",
+      "ils se sont départis"
+    ],
+    "imparfait": [
+      "je me départais",
+      "tu te départais",
+      "il se départait",
+      "nous nous départions",
+      "vous vous départiez",
+      "ils se départaient"
+    ],
+    "plus que parfait": [
+      "je m'étais départi",
+      "tu t'étais départi",
+      "il s'était départi",
+      "nous nous étions départis",
+      "vous vous étiez départis",
+      "ils s'étaient départis"
+    ],
+    "passé simple": [
+      "je me départis",
+      "tu te départis",
+      "il se départit",
+      "nous nous départîmes",
+      "vous vous départîtes",
+      "ils se départirent"
+    ],
+    "passé antérieur": [
+      "je me fus départi",
+      "tu te fus départi",
+      "il se fut départi",
+      "nous nous fûmes départis",
+      "vous vous fûtes départis",
+      "ils se furent départis"
+    ],
+    "futur simple": [
+      "je me départirai",
+      "tu te départiras",
+      "il se départira",
+      "nous nous départirons",
+      "vous vous départirez",
+      "ils se départiront"
+    ],
+    "futur antérieur": [
+      "je me serai départi",
+      "tu te seras départi",
+      "il se sera départi",
+      "nous nous serons départis",
+      "vous vous serez départis",
+      "ils se seront départis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me départe",
+      "que tu te départes",
+      "qu'il se départe",
+      "que nous nous départions",
+      "que vous vous départiez",
+      "qu'ils se départent"
+    ],
+    "passé": [
+      "que je me sois départi",
+      "que tu te sois départi",
+      "qu'il se soit départi",
+      "que nous nous soyons départis",
+      "que vous vous soyez départis",
+      "qu'ils se soient départis"
+    ],
+    "imparfait": [
+      "que je me départisse",
+      "que tu te départisses",
+      "qu'il se départît",
+      "que nous nous départissions",
+      "que vous vous départissiez",
+      "qu'ils se départissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse départi",
+      "que tu te fusses départi",
+      "qu'il se fût départi",
+      "que nous nous fussions départis",
+      "que vous vous fussiez départis",
+      "qu'ils se fussent départis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me départirais",
+      "tu te départirais",
+      "il se départirait",
+      "nous nous départirions",
+      "vous vous départiriez",
+      "ils se départiraient"
+    ],
+    "passé": [
+      "je me serais départi",
+      "tu te serais départi",
+      "il se serait départi",
+      "nous nous serions départis",
+      "vous vous seriez départis",
+      "ils se seraient départis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dépars-toi",
+      "départons-nous",
+      "départez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se départir"
+    ],
+    "passé": [
+      "s'être départi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se départant"
+    ],
+    "passé": [
+      "-",
+      "s'étant départi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se départant"
+    ],
+    "passé": [
+      "en s'étant départi"
+    ]
+  }
+}

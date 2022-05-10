@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'ébats",
+      "tu t'ébats",
+      "il s'ébat",
+      "nous nous ébattons",
+      "vous vous ébattez",
+      "ils s'ébattent"
+    ],
+    "passé composé": [
+      "je me suis ébattu",
+      "tu t'es ébattu",
+      "il s'est ébattu",
+      "nous nous sommes ébattus",
+      "vous vous êtes ébattus",
+      "ils se sont ébattus"
+    ],
+    "imparfait": [
+      "je m'ébattais",
+      "tu t'ébattais",
+      "il s'ébattait",
+      "nous nous ébattions",
+      "vous vous ébattiez",
+      "ils s'ébattaient"
+    ],
+    "plus que parfait": [
+      "je m'étais ébattu",
+      "tu t'étais ébattu",
+      "il s'était ébattu",
+      "nous nous étions ébattus",
+      "vous vous étiez ébattus",
+      "ils s'étaient ébattus"
+    ],
+    "passé simple": [
+      "je m'ébattis",
+      "tu t'ébattis",
+      "il s'ébattit",
+      "nous nous ébattîmes",
+      "vous vous ébattîtes",
+      "ils s'ébattirent"
+    ],
+    "passé antérieur": [
+      "je me fus ébattu",
+      "tu te fus ébattu",
+      "il se fut ébattu",
+      "nous nous fûmes ébattus",
+      "vous vous fûtes ébattus",
+      "ils se furent ébattus"
+    ],
+    "futur simple": [
+      "je m'ébattrai",
+      "tu t'ébattras",
+      "il s'ébattra",
+      "nous nous ébattrons",
+      "vous vous ébattrez",
+      "ils s'ébattront"
+    ],
+    "futur antérieur": [
+      "je me serai ébattu",
+      "tu te seras ébattu",
+      "il se sera ébattu",
+      "nous nous serons ébattus",
+      "vous vous serez ébattus",
+      "ils se seront ébattus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'ébatte",
+      "que tu t'ébattes",
+      "qu'il s'ébatte",
+      "que nous nous ébattions",
+      "que vous vous ébattiez",
+      "qu'ils s'ébattent"
+    ],
+    "passé": [
+      "que je me sois ébattu",
+      "que tu te sois ébattu",
+      "qu'il se soit ébattu",
+      "que nous nous soyons ébattus",
+      "que vous vous soyez ébattus",
+      "qu'ils se soient ébattus"
+    ],
+    "imparfait": [
+      "que je m'ébattisse",
+      "que tu t'ébattisses",
+      "qu'il s'ébattît",
+      "que nous nous ébattissions",
+      "que vous vous ébattissiez",
+      "qu'ils s'ébattissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse ébattu",
+      "que tu te fusses ébattu",
+      "qu'il se fût ébattu",
+      "que nous nous fussions ébattus",
+      "que vous vous fussiez ébattus",
+      "qu'ils se fussent ébattus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'ébattrais",
+      "tu t'ébattrais",
+      "il s'ébattrait",
+      "nous nous ébattrions",
+      "vous vous ébattriez",
+      "ils s'ébattraient"
+    ],
+    "passé": [
+      "je me serais ébattu",
+      "tu te serais ébattu",
+      "il se serait ébattu",
+      "nous nous serions ébattus",
+      "vous vous seriez ébattus",
+      "ils se seraient ébattus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ébats-toi",
+      "ébattons-nous",
+      "ébattez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'ébattre"
+    ],
+    "passé": [
+      "s'être ébattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'ébattant"
+    ],
+    "passé": [
+      "-",
+      "s'étant ébattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'ébattant"
+    ],
+    "passé": [
+      "en s'étant ébattu"
+    ]
+  }
+}

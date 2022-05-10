@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me ceins",
+      "tu te ceins",
+      "il se ceint",
+      "nous nous ceignons",
+      "vous vous ceignez",
+      "ils se ceignent"
+    ],
+    "passé composé": [
+      "je me suis ceint",
+      "tu t'es ceint",
+      "il s'est ceint",
+      "nous nous sommes ceints",
+      "vous vous êtes ceints",
+      "ils se sont ceints"
+    ],
+    "imparfait": [
+      "je me ceignais",
+      "tu te ceignais",
+      "il se ceignait",
+      "nous nous ceignions",
+      "vous vous ceigniez",
+      "ils se ceignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais ceint",
+      "tu t'étais ceint",
+      "il s'était ceint",
+      "nous nous étions ceints",
+      "vous vous étiez ceints",
+      "ils s'étaient ceints"
+    ],
+    "passé simple": [
+      "je me ceignis",
+      "tu te ceignis",
+      "il se ceignit",
+      "nous nous ceignîmes",
+      "vous vous ceignîtes",
+      "ils se ceignirent"
+    ],
+    "passé antérieur": [
+      "je me fus ceint",
+      "tu te fus ceint",
+      "il se fut ceint",
+      "nous nous fûmes ceints",
+      "vous vous fûtes ceints",
+      "ils se furent ceints"
+    ],
+    "futur simple": [
+      "je me ceindrai",
+      "tu te ceindras",
+      "il se ceindra",
+      "nous nous ceindrons",
+      "vous vous ceindrez",
+      "ils se ceindront"
+    ],
+    "futur antérieur": [
+      "je me serai ceint",
+      "tu te seras ceint",
+      "il se sera ceint",
+      "nous nous serons ceints",
+      "vous vous serez ceints",
+      "ils se seront ceints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me ceigne",
+      "que tu te ceignes",
+      "qu'il se ceigne",
+      "que nous nous ceignions",
+      "que vous vous ceigniez",
+      "qu'ils se ceignent"
+    ],
+    "passé": [
+      "que je me sois ceint",
+      "que tu te sois ceint",
+      "qu'il se soit ceint",
+      "que nous nous soyons ceints",
+      "que vous vous soyez ceints",
+      "qu'ils se soient ceints"
+    ],
+    "imparfait": [
+      "que je me ceignisse",
+      "que tu te ceignisses",
+      "qu'il se ceignît",
+      "que nous nous ceignissions",
+      "que vous vous ceignissiez",
+      "qu'ils se ceignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse ceint",
+      "que tu te fusses ceint",
+      "qu'il se fût ceint",
+      "que nous nous fussions ceints",
+      "que vous vous fussiez ceints",
+      "qu'ils se fussent ceints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me ceindrais",
+      "tu te ceindrais",
+      "il se ceindrait",
+      "nous nous ceindrions",
+      "vous vous ceindriez",
+      "ils se ceindraient"
+    ],
+    "passé": [
+      "je me serais ceint",
+      "tu te serais ceint",
+      "il se serait ceint",
+      "nous nous serions ceints",
+      "vous vous seriez ceints",
+      "ils se seraient ceints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ceins-toi",
+      "ceignons-nous",
+      "ceignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se ceindre"
+    ],
+    "passé": [
+      "s'être ceint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se ceignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant ceint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se ceignant"
+    ],
+    "passé": [
+      "en s'étant ceint"
+    ]
+  }
+}

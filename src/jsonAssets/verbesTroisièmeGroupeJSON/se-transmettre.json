@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me transmets",
+      "tu te transmets",
+      "il se transmet",
+      "nous nous transmettons",
+      "vous vous transmettez",
+      "ils se transmettent"
+    ],
+    "passé composé": [
+      "je me suis transmis",
+      "tu t'es transmis",
+      "il s'est transmis",
+      "nous nous sommes transmis",
+      "vous vous êtes transmis",
+      "ils se sont transmis"
+    ],
+    "imparfait": [
+      "je me transmettais",
+      "tu te transmettais",
+      "il se transmettait",
+      "nous nous transmettions",
+      "vous vous transmettiez",
+      "ils se transmettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais transmis",
+      "tu t'étais transmis",
+      "il s'était transmis",
+      "nous nous étions transmis",
+      "vous vous étiez transmis",
+      "ils s'étaient transmis"
+    ],
+    "passé simple": [
+      "je me transmis",
+      "tu te transmis",
+      "il se transmit",
+      "nous nous transmîmes",
+      "vous vous transmîtes",
+      "ils se transmirent"
+    ],
+    "passé antérieur": [
+      "je me fus transmis",
+      "tu te fus transmis",
+      "il se fut transmis",
+      "nous nous fûmes transmis",
+      "vous vous fûtes transmis",
+      "ils se furent transmis"
+    ],
+    "futur simple": [
+      "je me transmettrai",
+      "tu te transmettras",
+      "il se transmettra",
+      "nous nous transmettrons",
+      "vous vous transmettrez",
+      "ils se transmettront"
+    ],
+    "futur antérieur": [
+      "je me serai transmis",
+      "tu te seras transmis",
+      "il se sera transmis",
+      "nous nous serons transmis",
+      "vous vous serez transmis",
+      "ils se seront transmis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me transmette",
+      "que tu te transmettes",
+      "qu'il se transmette",
+      "que nous nous transmettions",
+      "que vous vous transmettiez",
+      "qu'ils se transmettent"
+    ],
+    "passé": [
+      "que je me sois transmis",
+      "que tu te sois transmis",
+      "qu'il se soit transmis",
+      "que nous nous soyons transmis",
+      "que vous vous soyez transmis",
+      "qu'ils se soient transmis"
+    ],
+    "imparfait": [
+      "que je me transmisse",
+      "que tu te transmisses",
+      "qu'il se transmît",
+      "que nous nous transmissions",
+      "que vous vous transmissiez",
+      "qu'ils se transmissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse transmis",
+      "que tu te fusses transmis",
+      "qu'il se fût transmis",
+      "que nous nous fussions transmis",
+      "que vous vous fussiez transmis",
+      "qu'ils se fussent transmis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me transmettrais",
+      "tu te transmettrais",
+      "il se transmettrait",
+      "nous nous transmettrions",
+      "vous vous transmettriez",
+      "ils se transmettraient"
+    ],
+    "passé": [
+      "je me serais transmis",
+      "tu te serais transmis",
+      "il se serait transmis",
+      "nous nous serions transmis",
+      "vous vous seriez transmis",
+      "ils se seraient transmis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "transmets-toi",
+      "transmettons-nous",
+      "transmettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se transmettre"
+    ],
+    "passé": [
+      "s'être transmis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se transmettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant transmis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se transmettant"
+    ],
+    "passé": [
+      "en s'étant transmis"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entredétruis",
+      "tu t'entredétruis",
+      "il s'entredétruit",
+      "nous nous entredétruisons",
+      "vous vous entredétruisez",
+      "ils s'entredétruisent"
+    ],
+    "passé composé": [
+      "je me suis entredétruit",
+      "tu t'es entredétruit",
+      "il s'est entredétruit",
+      "nous nous sommes entredétruits",
+      "vous vous êtes entredétruits",
+      "ils se sont entredétruits"
+    ],
+    "imparfait": [
+      "je m'entredétruisais",
+      "tu t'entredétruisais",
+      "il s'entredétruisait",
+      "nous nous entredétruisions",
+      "vous vous entredétruisiez",
+      "ils s'entredétruisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entredétruit",
+      "tu t'étais entredétruit",
+      "il s'était entredétruit",
+      "nous nous étions entredétruits",
+      "vous vous étiez entredétruits",
+      "ils s'étaient entredétruits"
+    ],
+    "passé simple": [
+      "je m'entredétruisis",
+      "tu t'entredétruisis",
+      "il s'entredétruisit",
+      "nous nous entredétruisîmes",
+      "vous vous entredétruisîtes",
+      "ils s'entredétruisirent"
+    ],
+    "passé antérieur": [
+      "je me fus entredétruit",
+      "tu te fus entredétruit",
+      "il se fut entredétruit",
+      "nous nous fûmes entredétruits",
+      "vous vous fûtes entredétruits",
+      "ils se furent entredétruits"
+    ],
+    "futur simple": [
+      "je m'entredétruirai",
+      "tu t'entredétruiras",
+      "il s'entredétruira",
+      "nous nous entredétruirons",
+      "vous vous entredétruirez",
+      "ils s'entredétruiront"
+    ],
+    "futur antérieur": [
+      "je me serai entredétruit",
+      "tu te seras entredétruit",
+      "il se sera entredétruit",
+      "nous nous serons entredétruits",
+      "vous vous serez entredétruits",
+      "ils se seront entredétruits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entredétruise",
+      "que tu t'entredétruises",
+      "qu'il s'entredétruise",
+      "que nous nous entredétruisions",
+      "que vous vous entredétruisiez",
+      "qu'ils s'entredétruisent"
+    ],
+    "passé": [
+      "que je me sois entredétruit",
+      "que tu te sois entredétruit",
+      "qu'il se soit entredétruit",
+      "que nous nous soyons entredétruits",
+      "que vous vous soyez entredétruits",
+      "qu'ils se soient entredétruits"
+    ],
+    "imparfait": [
+      "que je m'entredétruisisse",
+      "que tu t'entredétruisisses",
+      "qu'il s'entredétruisît",
+      "que nous nous entredétruisissions",
+      "que vous vous entredétruisissiez",
+      "qu'ils s'entredétruisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entredétruit",
+      "que tu te fusses entredétruit",
+      "qu'il se fût entredétruit",
+      "que nous nous fussions entredétruits",
+      "que vous vous fussiez entredétruits",
+      "qu'ils se fussent entredétruits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entredétruirais",
+      "tu t'entredétruirais",
+      "il s'entredétruirait",
+      "nous nous entredétruirions",
+      "vous vous entredétruiriez",
+      "ils s'entredétruiraient"
+    ],
+    "passé": [
+      "je me serais entredétruit",
+      "tu te serais entredétruit",
+      "il se serait entredétruit",
+      "nous nous serions entredétruits",
+      "vous vous seriez entredétruits",
+      "ils se seraient entredétruits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entredétruis-toi",
+      "entredétruisons-nous",
+      "entredétruisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entredétruire"
+    ],
+    "passé": [
+      "s'être entredétruit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entredétruisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entredétruit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entredétruisant"
+    ],
+    "passé": [
+      "en s'étant entredétruit"
+    ]
+  }
+}

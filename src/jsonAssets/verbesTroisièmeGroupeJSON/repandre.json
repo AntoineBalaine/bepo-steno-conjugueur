@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je répands",
+      "tu répands",
+      "il répand",
+      "nous répandons",
+      "vous répandez",
+      "ils répandent"
+    ],
+    "passé composé": [
+      "j'ai répandu",
+      "tu as répandu",
+      "il a répandu",
+      "nous avons répandu",
+      "vous avez répandu",
+      "ils ont répandu"
+    ],
+    "imparfait": [
+      "je répandais",
+      "tu répandais",
+      "il répandait",
+      "nous répandions",
+      "vous répandiez",
+      "ils répandaient"
+    ],
+    "plus que parfait": [
+      "j'avais répandu",
+      "tu avais répandu",
+      "il avait répandu",
+      "nous avions répandu",
+      "vous aviez répandu",
+      "ils avaient répandu"
+    ],
+    "passé simple": [
+      "je répandis",
+      "tu répandis",
+      "il répandit",
+      "nous répandîmes",
+      "vous répandîtes",
+      "ils répandirent"
+    ],
+    "passé antérieur": [
+      "j'eus répandu",
+      "tu eus répandu",
+      "il eut répandu",
+      "nous eûmes répandu",
+      "vous eûtes répandu",
+      "ils eurent répandu"
+    ],
+    "futur simple": [
+      "je répandrai",
+      "tu répandras",
+      "il répandra",
+      "nous répandrons",
+      "vous répandrez",
+      "ils répandront"
+    ],
+    "futur antérieur": [
+      "j'aurai répandu",
+      "tu auras répandu",
+      "il aura répandu",
+      "nous aurons répandu",
+      "vous aurez répandu",
+      "ils auront répandu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je répande",
+      "que tu répandes",
+      "qu'il répande",
+      "que nous répandions",
+      "que vous répandiez",
+      "qu'ils répandent"
+    ],
+    "passé": [
+      "que j'aie répandu",
+      "que tu aies répandu",
+      "qu'il ait répandu",
+      "que nous ayons répandu",
+      "que vous ayez répandu",
+      "qu'ils aient répandu"
+    ],
+    "imparfait": [
+      "que je répandisse",
+      "que tu répandisses",
+      "qu'il répandît",
+      "que nous répandissions",
+      "que vous répandissiez",
+      "qu'ils répandissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse répandu",
+      "que tu eusses répandu",
+      "qu'il eût répandu",
+      "que nous eussions répandu",
+      "que vous eussiez répandu",
+      "qu'ils eussent répandu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je répandrais",
+      "tu répandrais",
+      "il répandrait",
+      "nous répandrions",
+      "vous répandriez",
+      "ils répandraient"
+    ],
+    "passé": [
+      "j'aurais répandu",
+      "tu aurais répandu",
+      "il aurait répandu",
+      "nous aurions répandu",
+      "vous auriez répandu",
+      "ils auraient répandu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "répands",
+      "répandons",
+      "répandez"
+    ],
+    "passé": [
+      "aie répandu",
+      "ayons répandu",
+      "ayez répandu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "répandre"
+    ],
+    "passé": [
+      "avoir répandu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "répandant"
+    ],
+    "passé": [
+      "répandu",
+      "ayant répandu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en répandant"
+    ],
+    "passé": [
+      "en ayant répandu"
+    ]
+  }
+}

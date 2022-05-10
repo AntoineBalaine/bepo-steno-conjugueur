@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me distends",
+      "tu te distends",
+      "il se distend",
+      "nous nous distendons",
+      "vous vous distendez",
+      "ils se distendent"
+    ],
+    "passé composé": [
+      "je me suis distendu",
+      "tu t'es distendu",
+      "il s'est distendu",
+      "nous nous sommes distendus",
+      "vous vous êtes distendus",
+      "ils se sont distendus"
+    ],
+    "imparfait": [
+      "je me distendais",
+      "tu te distendais",
+      "il se distendait",
+      "nous nous distendions",
+      "vous vous distendiez",
+      "ils se distendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais distendu",
+      "tu t'étais distendu",
+      "il s'était distendu",
+      "nous nous étions distendus",
+      "vous vous étiez distendus",
+      "ils s'étaient distendus"
+    ],
+    "passé simple": [
+      "je me distendis",
+      "tu te distendis",
+      "il se distendit",
+      "nous nous distendîmes",
+      "vous vous distendîtes",
+      "ils se distendirent"
+    ],
+    "passé antérieur": [
+      "je me fus distendu",
+      "tu te fus distendu",
+      "il se fut distendu",
+      "nous nous fûmes distendus",
+      "vous vous fûtes distendus",
+      "ils se furent distendus"
+    ],
+    "futur simple": [
+      "je me distendrai",
+      "tu te distendras",
+      "il se distendra",
+      "nous nous distendrons",
+      "vous vous distendrez",
+      "ils se distendront"
+    ],
+    "futur antérieur": [
+      "je me serai distendu",
+      "tu te seras distendu",
+      "il se sera distendu",
+      "nous nous serons distendus",
+      "vous vous serez distendus",
+      "ils se seront distendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me distende",
+      "que tu te distendes",
+      "qu'il se distende",
+      "que nous nous distendions",
+      "que vous vous distendiez",
+      "qu'ils se distendent"
+    ],
+    "passé": [
+      "que je me sois distendu",
+      "que tu te sois distendu",
+      "qu'il se soit distendu",
+      "que nous nous soyons distendus",
+      "que vous vous soyez distendus",
+      "qu'ils se soient distendus"
+    ],
+    "imparfait": [
+      "que je me distendisse",
+      "que tu te distendisses",
+      "qu'il se distendît",
+      "que nous nous distendissions",
+      "que vous vous distendissiez",
+      "qu'ils se distendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse distendu",
+      "que tu te fusses distendu",
+      "qu'il se fût distendu",
+      "que nous nous fussions distendus",
+      "que vous vous fussiez distendus",
+      "qu'ils se fussent distendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me distendrais",
+      "tu te distendrais",
+      "il se distendrait",
+      "nous nous distendrions",
+      "vous vous distendriez",
+      "ils se distendraient"
+    ],
+    "passé": [
+      "je me serais distendu",
+      "tu te serais distendu",
+      "il se serait distendu",
+      "nous nous serions distendus",
+      "vous vous seriez distendus",
+      "ils se seraient distendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "distends-toi",
+      "distendons-nous",
+      "distendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se distendre"
+    ],
+    "passé": [
+      "s'être distendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se distendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant distendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se distendant"
+    ],
+    "passé": [
+      "en s'étant distendu"
+    ]
+  }
+}

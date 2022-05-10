@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réentends",
+      "tu réentends",
+      "il réentend",
+      "nous réentendons",
+      "vous réentendez",
+      "ils réentendent"
+    ],
+    "passé composé": [
+      "j'ai réentendu",
+      "tu as réentendu",
+      "il a réentendu",
+      "nous avons réentendu",
+      "vous avez réentendu",
+      "ils ont réentendu"
+    ],
+    "imparfait": [
+      "je réentendais",
+      "tu réentendais",
+      "il réentendait",
+      "nous réentendions",
+      "vous réentendiez",
+      "ils réentendaient"
+    ],
+    "plus que parfait": [
+      "j'avais réentendu",
+      "tu avais réentendu",
+      "il avait réentendu",
+      "nous avions réentendu",
+      "vous aviez réentendu",
+      "ils avaient réentendu"
+    ],
+    "passé simple": [
+      "je réentendis",
+      "tu réentendis",
+      "il réentendit",
+      "nous réentendîmes",
+      "vous réentendîtes",
+      "ils réentendirent"
+    ],
+    "passé antérieur": [
+      "j'eus réentendu",
+      "tu eus réentendu",
+      "il eut réentendu",
+      "nous eûmes réentendu",
+      "vous eûtes réentendu",
+      "ils eurent réentendu"
+    ],
+    "futur simple": [
+      "je réentendrai",
+      "tu réentendras",
+      "il réentendra",
+      "nous réentendrons",
+      "vous réentendrez",
+      "ils réentendront"
+    ],
+    "futur antérieur": [
+      "j'aurai réentendu",
+      "tu auras réentendu",
+      "il aura réentendu",
+      "nous aurons réentendu",
+      "vous aurez réentendu",
+      "ils auront réentendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réentende",
+      "que tu réentendes",
+      "qu'il réentende",
+      "que nous réentendions",
+      "que vous réentendiez",
+      "qu'ils réentendent"
+    ],
+    "passé": [
+      "que j'aie réentendu",
+      "que tu aies réentendu",
+      "qu'il ait réentendu",
+      "que nous ayons réentendu",
+      "que vous ayez réentendu",
+      "qu'ils aient réentendu"
+    ],
+    "imparfait": [
+      "que je réentendisse",
+      "que tu réentendisses",
+      "qu'il réentendît",
+      "que nous réentendissions",
+      "que vous réentendissiez",
+      "qu'ils réentendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réentendu",
+      "que tu eusses réentendu",
+      "qu'il eût réentendu",
+      "que nous eussions réentendu",
+      "que vous eussiez réentendu",
+      "qu'ils eussent réentendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je réentendrais",
+      "tu réentendrais",
+      "il réentendrait",
+      "nous réentendrions",
+      "vous réentendriez",
+      "ils réentendraient"
+    ],
+    "passé": [
+      "j'aurais réentendu",
+      "tu aurais réentendu",
+      "il aurait réentendu",
+      "nous aurions réentendu",
+      "vous auriez réentendu",
+      "ils auraient réentendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réentends",
+      "réentendons",
+      "réentendez"
+    ],
+    "passé": [
+      "aie réentendu",
+      "ayons réentendu",
+      "ayez réentendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "réentendre"
+    ],
+    "passé": [
+      "avoir réentendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "réentendant"
+    ],
+    "passé": [
+      "réentendu",
+      "ayant réentendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en réentendant"
+    ],
+    "passé": [
+      "en ayant réentendu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je défais",
+      "tu défais",
+      "il défait",
+      "nous défaisons",
+      "vous défaites",
+      "ils défont"
+    ],
+    "passé composé": [
+      "j'ai défait",
+      "tu as défait",
+      "il a défait",
+      "nous avons défait",
+      "vous avez défait",
+      "ils ont défait"
+    ],
+    "imparfait": [
+      "je défaisais",
+      "tu défaisais",
+      "il défaisait",
+      "nous défaisions",
+      "vous défaisiez",
+      "ils défaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais défait",
+      "tu avais défait",
+      "il avait défait",
+      "nous avions défait",
+      "vous aviez défait",
+      "ils avaient défait"
+    ],
+    "passé simple": [
+      "je défis",
+      "tu défis",
+      "il défit",
+      "nous défîmes",
+      "vous défîtes",
+      "ils défirent"
+    ],
+    "passé antérieur": [
+      "j'eus défait",
+      "tu eus défait",
+      "il eut défait",
+      "nous eûmes défait",
+      "vous eûtes défait",
+      "ils eurent défait"
+    ],
+    "futur simple": [
+      "je déferai",
+      "tu déferas",
+      "il défera",
+      "nous déferons",
+      "vous déferez",
+      "ils déferont"
+    ],
+    "futur antérieur": [
+      "j'aurai défait",
+      "tu auras défait",
+      "il aura défait",
+      "nous aurons défait",
+      "vous aurez défait",
+      "ils auront défait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je défasse",
+      "que tu défasses",
+      "qu'il défasse",
+      "que nous défassions",
+      "que vous défassiez",
+      "qu'ils défassent"
+    ],
+    "passé": [
+      "que j'aie défait",
+      "que tu aies défait",
+      "qu'il ait défait",
+      "que nous ayons défait",
+      "que vous ayez défait",
+      "qu'ils aient défait"
+    ],
+    "imparfait": [
+      "que je défisse",
+      "que tu défisses",
+      "qu'il défît",
+      "que nous défissions",
+      "que vous défissiez",
+      "qu'ils défissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse défait",
+      "que tu eusses défait",
+      "qu'il eût défait",
+      "que nous eussions défait",
+      "que vous eussiez défait",
+      "qu'ils eussent défait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je déferais",
+      "tu déferais",
+      "il déferait",
+      "nous déferions",
+      "vous déferiez",
+      "ils déferaient"
+    ],
+    "passé": [
+      "j'aurais défait",
+      "tu aurais défait",
+      "il aurait défait",
+      "nous aurions défait",
+      "vous auriez défait",
+      "ils auraient défait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "défais",
+      "défaisons",
+      "défaites"
+    ],
+    "passé": [
+      "aie défait",
+      "ayons défait",
+      "ayez défait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "défaire"
+    ],
+    "passé": [
+      "avoir défait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "défaisant"
+    ],
+    "passé": [
+      "défait",
+      "ayant défait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en défaisant"
+    ],
+    "passé": [
+      "en ayant défait"
+    ]
+  }
+}

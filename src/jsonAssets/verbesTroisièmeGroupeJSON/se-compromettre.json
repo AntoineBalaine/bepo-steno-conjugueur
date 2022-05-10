@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me compromets",
+      "tu te compromets",
+      "il se compromet",
+      "nous nous compromettons",
+      "vous vous compromettez",
+      "ils se compromettent"
+    ],
+    "passé composé": [
+      "je me suis compromis",
+      "tu t'es compromis",
+      "il s'est compromis",
+      "nous nous sommes compromis",
+      "vous vous êtes compromis",
+      "ils se sont compromis"
+    ],
+    "imparfait": [
+      "je me compromettais",
+      "tu te compromettais",
+      "il se compromettait",
+      "nous nous compromettions",
+      "vous vous compromettiez",
+      "ils se compromettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais compromis",
+      "tu t'étais compromis",
+      "il s'était compromis",
+      "nous nous étions compromis",
+      "vous vous étiez compromis",
+      "ils s'étaient compromis"
+    ],
+    "passé simple": [
+      "je me compromis",
+      "tu te compromis",
+      "il se compromit",
+      "nous nous compromîmes",
+      "vous vous compromîtes",
+      "ils se compromirent"
+    ],
+    "passé antérieur": [
+      "je me fus compromis",
+      "tu te fus compromis",
+      "il se fut compromis",
+      "nous nous fûmes compromis",
+      "vous vous fûtes compromis",
+      "ils se furent compromis"
+    ],
+    "futur simple": [
+      "je me compromettrai",
+      "tu te compromettras",
+      "il se compromettra",
+      "nous nous compromettrons",
+      "vous vous compromettrez",
+      "ils se compromettront"
+    ],
+    "futur antérieur": [
+      "je me serai compromis",
+      "tu te seras compromis",
+      "il se sera compromis",
+      "nous nous serons compromis",
+      "vous vous serez compromis",
+      "ils se seront compromis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me compromette",
+      "que tu te compromettes",
+      "qu'il se compromette",
+      "que nous nous compromettions",
+      "que vous vous compromettiez",
+      "qu'ils se compromettent"
+    ],
+    "passé": [
+      "que je me sois compromis",
+      "que tu te sois compromis",
+      "qu'il se soit compromis",
+      "que nous nous soyons compromis",
+      "que vous vous soyez compromis",
+      "qu'ils se soient compromis"
+    ],
+    "imparfait": [
+      "que je me compromisse",
+      "que tu te compromisses",
+      "qu'il se compromît",
+      "que nous nous compromissions",
+      "que vous vous compromissiez",
+      "qu'ils se compromissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse compromis",
+      "que tu te fusses compromis",
+      "qu'il se fût compromis",
+      "que nous nous fussions compromis",
+      "que vous vous fussiez compromis",
+      "qu'ils se fussent compromis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me compromettrais",
+      "tu te compromettrais",
+      "il se compromettrait",
+      "nous nous compromettrions",
+      "vous vous compromettriez",
+      "ils se compromettraient"
+    ],
+    "passé": [
+      "je me serais compromis",
+      "tu te serais compromis",
+      "il se serait compromis",
+      "nous nous serions compromis",
+      "vous vous seriez compromis",
+      "ils se seraient compromis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "compromets-toi",
+      "compromettons-nous",
+      "compromettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se compromettre"
+    ],
+    "passé": [
+      "s'être compromis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se compromettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant compromis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se compromettant"
+    ],
+    "passé": [
+      "en s'étant compromis"
+    ]
+  }
+}

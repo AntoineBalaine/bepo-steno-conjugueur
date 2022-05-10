@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je prévois",
+      "tu prévois",
+      "il prévoit",
+      "nous prévoyons",
+      "vous prévoyez",
+      "ils prévoient"
+    ],
+    "passé composé": [
+      "j'ai prévu",
+      "tu as prévu",
+      "il a prévu",
+      "nous avons prévu",
+      "vous avez prévu",
+      "ils ont prévu"
+    ],
+    "imparfait": [
+      "je prévoyais",
+      "tu prévoyais",
+      "il prévoyait",
+      "nous prévoyions",
+      "vous prévoyiez",
+      "ils prévoyaient"
+    ],
+    "plus que parfait": [
+      "j'avais prévu",
+      "tu avais prévu",
+      "il avait prévu",
+      "nous avions prévu",
+      "vous aviez prévu",
+      "ils avaient prévu"
+    ],
+    "passé simple": [
+      "je prévis",
+      "tu prévis",
+      "il prévit",
+      "nous prévîmes",
+      "vous prévîtes",
+      "ils prévirent"
+    ],
+    "passé antérieur": [
+      "j'eus prévu",
+      "tu eus prévu",
+      "il eut prévu",
+      "nous eûmes prévu",
+      "vous eûtes prévu",
+      "ils eurent prévu"
+    ],
+    "futur simple": [
+      "je prévoirai",
+      "tu prévoiras",
+      "il prévoira",
+      "nous prévoirons",
+      "vous prévoirez",
+      "ils prévoiront"
+    ],
+    "futur antérieur": [
+      "j'aurai prévu",
+      "tu auras prévu",
+      "il aura prévu",
+      "nous aurons prévu",
+      "vous aurez prévu",
+      "ils auront prévu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je prévoie",
+      "que tu prévoies",
+      "qu'il prévoie",
+      "que nous prévoyions",
+      "que vous prévoyiez",
+      "qu'ils prévoient"
+    ],
+    "passé": [
+      "que j'aie prévu",
+      "que tu aies prévu",
+      "qu'il ait prévu",
+      "que nous ayons prévu",
+      "que vous ayez prévu",
+      "qu'ils aient prévu"
+    ],
+    "imparfait": [
+      "que je prévisse",
+      "que tu prévisses",
+      "qu'il prévît",
+      "que nous prévissions",
+      "que vous prévissiez",
+      "qu'ils prévissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse prévu",
+      "que tu eusses prévu",
+      "qu'il eût prévu",
+      "que nous eussions prévu",
+      "que vous eussiez prévu",
+      "qu'ils eussent prévu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je prévoirais",
+      "tu prévoirais",
+      "il prévoirait",
+      "nous prévoirions",
+      "vous prévoiriez",
+      "ils prévoiraient"
+    ],
+    "passé": [
+      "j'aurais prévu",
+      "tu aurais prévu",
+      "il aurait prévu",
+      "nous aurions prévu",
+      "vous auriez prévu",
+      "ils auraient prévu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prévois",
+      "prévoyons",
+      "prévoyez"
+    ],
+    "passé": [
+      "aie prévu",
+      "ayons prévu",
+      "ayez prévu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "prévoir"
+    ],
+    "passé": [
+      "avoir prévu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "prévoyant"
+    ],
+    "passé": [
+      "prévu",
+      "ayant prévu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en prévoyant"
+    ],
+    "passé": [
+      "en ayant prévu"
+    ]
+  }
+}

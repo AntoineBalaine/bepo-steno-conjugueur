@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me romps",
+      "tu te romps",
+      "il se rompt",
+      "nous nous rompons",
+      "vous vous rompez",
+      "ils se rompent"
+    ],
+    "passé composé": [
+      "je me suis rompu",
+      "tu t'es rompu",
+      "il s'est rompu",
+      "nous nous sommes rompus",
+      "vous vous êtes rompus",
+      "ils se sont rompus"
+    ],
+    "imparfait": [
+      "je me rompais",
+      "tu te rompais",
+      "il se rompait",
+      "nous nous rompions",
+      "vous vous rompiez",
+      "ils se rompaient"
+    ],
+    "plus que parfait": [
+      "je m'étais rompu",
+      "tu t'étais rompu",
+      "il s'était rompu",
+      "nous nous étions rompus",
+      "vous vous étiez rompus",
+      "ils s'étaient rompus"
+    ],
+    "passé simple": [
+      "je me rompis",
+      "tu te rompis",
+      "il se rompit",
+      "nous nous rompîmes",
+      "vous vous rompîtes",
+      "ils se rompirent"
+    ],
+    "passé antérieur": [
+      "je me fus rompu",
+      "tu te fus rompu",
+      "il se fut rompu",
+      "nous nous fûmes rompus",
+      "vous vous fûtes rompus",
+      "ils se furent rompus"
+    ],
+    "futur simple": [
+      "je me romprai",
+      "tu te rompras",
+      "il se rompra",
+      "nous nous romprons",
+      "vous vous romprez",
+      "ils se rompront"
+    ],
+    "futur antérieur": [
+      "je me serai rompu",
+      "tu te seras rompu",
+      "il se sera rompu",
+      "nous nous serons rompus",
+      "vous vous serez rompus",
+      "ils se seront rompus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me rompe",
+      "que tu te rompes",
+      "qu'il se rompe",
+      "que nous nous rompions",
+      "que vous vous rompiez",
+      "qu'ils se rompent"
+    ],
+    "passé": [
+      "que je me sois rompu",
+      "que tu te sois rompu",
+      "qu'il se soit rompu",
+      "que nous nous soyons rompus",
+      "que vous vous soyez rompus",
+      "qu'ils se soient rompus"
+    ],
+    "imparfait": [
+      "que je me rompisse",
+      "que tu te rompisses",
+      "qu'il se rompît",
+      "que nous nous rompissions",
+      "que vous vous rompissiez",
+      "qu'ils se rompissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse rompu",
+      "que tu te fusses rompu",
+      "qu'il se fût rompu",
+      "que nous nous fussions rompus",
+      "que vous vous fussiez rompus",
+      "qu'ils se fussent rompus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me romprais",
+      "tu te romprais",
+      "il se romprait",
+      "nous nous romprions",
+      "vous vous rompriez",
+      "ils se rompraient"
+    ],
+    "passé": [
+      "je me serais rompu",
+      "tu te serais rompu",
+      "il se serait rompu",
+      "nous nous serions rompus",
+      "vous vous seriez rompus",
+      "ils se seraient rompus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "romps-toi",
+      "rompons-nous",
+      "rompez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se rompre"
+    ],
+    "passé": [
+      "s'être rompu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se rompant"
+    ],
+    "passé": [
+      "-",
+      "s'étant rompu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se rompant"
+    ],
+    "passé": [
+      "en s'étant rompu"
+    ]
+  }
+}

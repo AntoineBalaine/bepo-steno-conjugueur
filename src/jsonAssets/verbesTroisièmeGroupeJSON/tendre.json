@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je tends",
+      "tu tends",
+      "il tend",
+      "nous tendons",
+      "vous tendez",
+      "ils tendent"
+    ],
+    "passé composé": [
+      "j'ai tendu",
+      "tu as tendu",
+      "il a tendu",
+      "nous avons tendu",
+      "vous avez tendu",
+      "ils ont tendu"
+    ],
+    "imparfait": [
+      "je tendais",
+      "tu tendais",
+      "il tendait",
+      "nous tendions",
+      "vous tendiez",
+      "ils tendaient"
+    ],
+    "plus que parfait": [
+      "j'avais tendu",
+      "tu avais tendu",
+      "il avait tendu",
+      "nous avions tendu",
+      "vous aviez tendu",
+      "ils avaient tendu"
+    ],
+    "passé simple": [
+      "je tendis",
+      "tu tendis",
+      "il tendit",
+      "nous tendîmes",
+      "vous tendîtes",
+      "ils tendirent"
+    ],
+    "passé antérieur": [
+      "j'eus tendu",
+      "tu eus tendu",
+      "il eut tendu",
+      "nous eûmes tendu",
+      "vous eûtes tendu",
+      "ils eurent tendu"
+    ],
+    "futur simple": [
+      "je tendrai",
+      "tu tendras",
+      "il tendra",
+      "nous tendrons",
+      "vous tendrez",
+      "ils tendront"
+    ],
+    "futur antérieur": [
+      "j'aurai tendu",
+      "tu auras tendu",
+      "il aura tendu",
+      "nous aurons tendu",
+      "vous aurez tendu",
+      "ils auront tendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je tende",
+      "que tu tendes",
+      "qu'il tende",
+      "que nous tendions",
+      "que vous tendiez",
+      "qu'ils tendent"
+    ],
+    "passé": [
+      "que j'aie tendu",
+      "que tu aies tendu",
+      "qu'il ait tendu",
+      "que nous ayons tendu",
+      "que vous ayez tendu",
+      "qu'ils aient tendu"
+    ],
+    "imparfait": [
+      "que je tendisse",
+      "que tu tendisses",
+      "qu'il tendît",
+      "que nous tendissions",
+      "que vous tendissiez",
+      "qu'ils tendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse tendu",
+      "que tu eusses tendu",
+      "qu'il eût tendu",
+      "que nous eussions tendu",
+      "que vous eussiez tendu",
+      "qu'ils eussent tendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je tendrais",
+      "tu tendrais",
+      "il tendrait",
+      "nous tendrions",
+      "vous tendriez",
+      "ils tendraient"
+    ],
+    "passé": [
+      "j'aurais tendu",
+      "tu aurais tendu",
+      "il aurait tendu",
+      "nous aurions tendu",
+      "vous auriez tendu",
+      "ils auraient tendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tends",
+      "tendons",
+      "tendez"
+    ],
+    "passé": [
+      "aie tendu",
+      "ayons tendu",
+      "ayez tendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "tendre"
+    ],
+    "passé": [
+      "avoir tendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "tendant"
+    ],
+    "passé": [
+      "tendu",
+      "ayant tendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en tendant"
+    ],
+    "passé": [
+      "en ayant tendu"
+    ]
+  }
+}

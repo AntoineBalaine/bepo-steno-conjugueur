@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'aperçois",
+      "tu t'aperçois",
+      "il s'aperçoit",
+      "nous nous apercevons",
+      "vous vous apercevez",
+      "ils s'aperçoivent"
+    ],
+    "passé composé": [
+      "je me suis aperçu",
+      "tu t'es aperçu",
+      "il s'est aperçu",
+      "nous nous sommes aperçus",
+      "vous vous êtes aperçus",
+      "ils se sont aperçus"
+    ],
+    "imparfait": [
+      "je m'apercevais",
+      "tu t'apercevais",
+      "il s'apercevait",
+      "nous nous apercevions",
+      "vous vous aperceviez",
+      "ils s'apercevaient"
+    ],
+    "plus que parfait": [
+      "je m'étais aperçu",
+      "tu t'étais aperçu",
+      "il s'était aperçu",
+      "nous nous étions aperçus",
+      "vous vous étiez aperçus",
+      "ils s'étaient aperçus"
+    ],
+    "passé simple": [
+      "je m'aperçus",
+      "tu t'aperçus",
+      "il s'aperçut",
+      "nous nous aperçûmes",
+      "vous vous aperçûtes",
+      "ils s'aperçurent"
+    ],
+    "passé antérieur": [
+      "je me fus aperçu",
+      "tu te fus aperçu",
+      "il se fut aperçu",
+      "nous nous fûmes aperçus",
+      "vous vous fûtes aperçus",
+      "ils se furent aperçus"
+    ],
+    "futur simple": [
+      "je m'apercevrai",
+      "tu t'apercevras",
+      "il s'apercevra",
+      "nous nous apercevrons",
+      "vous vous apercevrez",
+      "ils s'apercevront"
+    ],
+    "futur antérieur": [
+      "je me serai aperçu",
+      "tu te seras aperçu",
+      "il se sera aperçu",
+      "nous nous serons aperçus",
+      "vous vous serez aperçus",
+      "ils se seront aperçus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'aperçoive",
+      "que tu t'aperçoives",
+      "qu'il s'aperçoive",
+      "que nous nous apercevions",
+      "que vous vous aperceviez",
+      "qu'ils s'aperçoivent"
+    ],
+    "passé": [
+      "que je me sois aperçu",
+      "que tu te sois aperçu",
+      "qu'il se soit aperçu",
+      "que nous nous soyons aperçus",
+      "que vous vous soyez aperçus",
+      "qu'ils se soient aperçus"
+    ],
+    "imparfait": [
+      "que je m'aperçusse",
+      "que tu t'aperçusses",
+      "qu'il s'aperçût",
+      "que nous nous aperçussions",
+      "que vous vous aperçussiez",
+      "qu'ils s'aperçussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse aperçu",
+      "que tu te fusses aperçu",
+      "qu'il se fût aperçu",
+      "que nous nous fussions aperçus",
+      "que vous vous fussiez aperçus",
+      "qu'ils se fussent aperçus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'apercevrais",
+      "tu t'apercevrais",
+      "il s'apercevrait",
+      "nous nous apercevrions",
+      "vous vous apercevriez",
+      "ils s'apercevraient"
+    ],
+    "passé": [
+      "je me serais aperçu",
+      "tu te serais aperçu",
+      "il se serait aperçu",
+      "nous nous serions aperçus",
+      "vous vous seriez aperçus",
+      "ils se seraient aperçus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "aperçois-toi",
+      "apercevons-nous",
+      "apercevez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'apercevoir"
+    ],
+    "passé": [
+      "s'être aperçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'apercevant"
+    ],
+    "passé": [
+      "-",
+      "s'étant aperçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'apercevant"
+    ],
+    "passé": [
+      "en s'étant aperçu"
+    ]
+  }
+}

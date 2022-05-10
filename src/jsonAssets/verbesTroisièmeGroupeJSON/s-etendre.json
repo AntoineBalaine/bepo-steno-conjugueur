@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'étends",
+      "tu t'étends",
+      "il s'étend",
+      "nous nous étendons",
+      "vous vous étendez",
+      "ils s'étendent"
+    ],
+    "passé composé": [
+      "je me suis étendu",
+      "tu t'es étendu",
+      "il s'est étendu",
+      "nous nous sommes étendus",
+      "vous vous êtes étendus",
+      "ils se sont étendus"
+    ],
+    "imparfait": [
+      "je m'étendais",
+      "tu t'étendais",
+      "il s'étendait",
+      "nous nous étendions",
+      "vous vous étendiez",
+      "ils s'étendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais étendu",
+      "tu t'étais étendu",
+      "il s'était étendu",
+      "nous nous étions étendus",
+      "vous vous étiez étendus",
+      "ils s'étaient étendus"
+    ],
+    "passé simple": [
+      "je m'étendis",
+      "tu t'étendis",
+      "il s'étendit",
+      "nous nous étendîmes",
+      "vous vous étendîtes",
+      "ils s'étendirent"
+    ],
+    "passé antérieur": [
+      "je me fus étendu",
+      "tu te fus étendu",
+      "il se fut étendu",
+      "nous nous fûmes étendus",
+      "vous vous fûtes étendus",
+      "ils se furent étendus"
+    ],
+    "futur simple": [
+      "je m'étendrai",
+      "tu t'étendras",
+      "il s'étendra",
+      "nous nous étendrons",
+      "vous vous étendrez",
+      "ils s'étendront"
+    ],
+    "futur antérieur": [
+      "je me serai étendu",
+      "tu te seras étendu",
+      "il se sera étendu",
+      "nous nous serons étendus",
+      "vous vous serez étendus",
+      "ils se seront étendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'étende",
+      "que tu t'étendes",
+      "qu'il s'étende",
+      "que nous nous étendions",
+      "que vous vous étendiez",
+      "qu'ils s'étendent"
+    ],
+    "passé": [
+      "que je me sois étendu",
+      "que tu te sois étendu",
+      "qu'il se soit étendu",
+      "que nous nous soyons étendus",
+      "que vous vous soyez étendus",
+      "qu'ils se soient étendus"
+    ],
+    "imparfait": [
+      "que je m'étendisse",
+      "que tu t'étendisses",
+      "qu'il s'étendît",
+      "que nous nous étendissions",
+      "que vous vous étendissiez",
+      "qu'ils s'étendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse étendu",
+      "que tu te fusses étendu",
+      "qu'il se fût étendu",
+      "que nous nous fussions étendus",
+      "que vous vous fussiez étendus",
+      "qu'ils se fussent étendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'étendrais",
+      "tu t'étendrais",
+      "il s'étendrait",
+      "nous nous étendrions",
+      "vous vous étendriez",
+      "ils s'étendraient"
+    ],
+    "passé": [
+      "je me serais étendu",
+      "tu te serais étendu",
+      "il se serait étendu",
+      "nous nous serions étendus",
+      "vous vous seriez étendus",
+      "ils se seraient étendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "étends-toi",
+      "étendons-nous",
+      "étendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'étendre"
+    ],
+    "passé": [
+      "s'être étendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'étendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant étendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'étendant"
+    ],
+    "passé": [
+      "en s'étant étendu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je renais",
+      "tu renais",
+      "il renaît",
+      "nous renaissons",
+      "vous renaissez",
+      "ils renaissent"
+    ],
+    "passé composé": [
+      "je suis rené",
+      "tu es rené",
+      "il est rené",
+      "nous sommes renés",
+      "vous êtes renés",
+      "ils sont renés"
+    ],
+    "imparfait": [
+      "je renaissais",
+      "tu renaissais",
+      "il renaissait",
+      "nous renaissions",
+      "vous renaissiez",
+      "ils renaissaient"
+    ],
+    "plus que parfait": [
+      "j'étais rené",
+      "tu étais rené",
+      "il était rené",
+      "nous étions renés",
+      "vous étiez renés",
+      "ils étaient renés"
+    ],
+    "passé simple": [
+      "je renaquis",
+      "tu renaquis",
+      "il renaquit",
+      "nous renaquîmes",
+      "vous renaquîtes",
+      "ils renaquirent"
+    ],
+    "passé antérieur": [
+      "je fus rené",
+      "tu fus rené",
+      "il fut rené",
+      "nous fûmes renés",
+      "vous fûtes renés",
+      "ils furent renés"
+    ],
+    "futur simple": [
+      "je renaîtrai",
+      "tu renaîtras",
+      "il renaîtra",
+      "nous renaîtrons",
+      "vous renaîtrez",
+      "ils renaîtront"
+    ],
+    "futur antérieur": [
+      "je serai rené",
+      "tu seras rené",
+      "il sera rené",
+      "nous serons renés",
+      "vous serez renés",
+      "ils seront renés"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je renaisse",
+      "que tu renaisses",
+      "qu'il renaisse",
+      "que nous renaissions",
+      "que vous renaissiez",
+      "qu'ils renaissent"
+    ],
+    "passé": [
+      "que je sois rené",
+      "que tu sois rené",
+      "qu'il soit rené",
+      "que nous soyons renés",
+      "que vous soyez renés",
+      "qu'ils soient renés"
+    ],
+    "imparfait": [
+      "que je renaquisse",
+      "que tu renaquisses",
+      "qu'il renaquît",
+      "que nous renaquissions",
+      "que vous renaquissiez",
+      "qu'ils renaquissent"
+    ],
+    "plus que parfait": [
+      "que je fusse rené",
+      "que tu fusses rené",
+      "qu'il fût rené",
+      "que nous fussions renés",
+      "que vous fussiez renés",
+      "qu'ils fussent renés"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je renaîtrais",
+      "tu renaîtrais",
+      "il renaîtrait",
+      "nous renaîtrions",
+      "vous renaîtriez",
+      "ils renaîtraient"
+    ],
+    "passé": [
+      "je serais rené",
+      "tu serais rené",
+      "il serait rené",
+      "nous serions renés",
+      "vous seriez renés",
+      "ils seraient renés"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "renais",
+      "renaissons",
+      "renaissez"
+    ],
+    "passé": [
+      "sois rené",
+      "soyons renés",
+      "soyez renés"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "renaître"
+    ],
+    "passé": [
+      "être rené"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "renaissant"
+    ],
+    "passé": [
+      "rené",
+      "étant rené"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en renaissant"
+    ],
+    "passé": [
+      "en étant rené"
+    ]
+  }
+}

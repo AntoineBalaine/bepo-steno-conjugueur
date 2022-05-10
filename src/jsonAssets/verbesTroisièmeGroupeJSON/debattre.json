@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je débats",
+      "tu débats",
+      "il débat",
+      "nous débattons",
+      "vous débattez",
+      "ils débattent"
+    ],
+    "passé composé": [
+      "j'ai débattu",
+      "tu as débattu",
+      "il a débattu",
+      "nous avons débattu",
+      "vous avez débattu",
+      "ils ont débattu"
+    ],
+    "imparfait": [
+      "je débattais",
+      "tu débattais",
+      "il débattait",
+      "nous débattions",
+      "vous débattiez",
+      "ils débattaient"
+    ],
+    "plus que parfait": [
+      "j'avais débattu",
+      "tu avais débattu",
+      "il avait débattu",
+      "nous avions débattu",
+      "vous aviez débattu",
+      "ils avaient débattu"
+    ],
+    "passé simple": [
+      "je débattis",
+      "tu débattis",
+      "il débattit",
+      "nous débattîmes",
+      "vous débattîtes",
+      "ils débattirent"
+    ],
+    "passé antérieur": [
+      "j'eus débattu",
+      "tu eus débattu",
+      "il eut débattu",
+      "nous eûmes débattu",
+      "vous eûtes débattu",
+      "ils eurent débattu"
+    ],
+    "futur simple": [
+      "je débattrai",
+      "tu débattras",
+      "il débattra",
+      "nous débattrons",
+      "vous débattrez",
+      "ils débattront"
+    ],
+    "futur antérieur": [
+      "j'aurai débattu",
+      "tu auras débattu",
+      "il aura débattu",
+      "nous aurons débattu",
+      "vous aurez débattu",
+      "ils auront débattu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je débatte",
+      "que tu débattes",
+      "qu'il débatte",
+      "que nous débattions",
+      "que vous débattiez",
+      "qu'ils débattent"
+    ],
+    "passé": [
+      "que j'aie débattu",
+      "que tu aies débattu",
+      "qu'il ait débattu",
+      "que nous ayons débattu",
+      "que vous ayez débattu",
+      "qu'ils aient débattu"
+    ],
+    "imparfait": [
+      "que je débattisse",
+      "que tu débattisses",
+      "qu'il débattît",
+      "que nous débattissions",
+      "que vous débattissiez",
+      "qu'ils débattissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse débattu",
+      "que tu eusses débattu",
+      "qu'il eût débattu",
+      "que nous eussions débattu",
+      "que vous eussiez débattu",
+      "qu'ils eussent débattu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je débattrais",
+      "tu débattrais",
+      "il débattrait",
+      "nous débattrions",
+      "vous débattriez",
+      "ils débattraient"
+    ],
+    "passé": [
+      "j'aurais débattu",
+      "tu aurais débattu",
+      "il aurait débattu",
+      "nous aurions débattu",
+      "vous auriez débattu",
+      "ils auraient débattu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "débats",
+      "débattons",
+      "débattez"
+    ],
+    "passé": [
+      "aie débattu",
+      "ayons débattu",
+      "ayez débattu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "débattre"
+    ],
+    "passé": [
+      "avoir débattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "débattant"
+    ],
+    "passé": [
+      "débattu",
+      "ayant débattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en débattant"
+    ],
+    "passé": [
+      "en ayant débattu"
+    ]
+  }
+}

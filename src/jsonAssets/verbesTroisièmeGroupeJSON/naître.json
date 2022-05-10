@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je nais",
+      "tu nais",
+      "il naît",
+      "nous naissons",
+      "vous naissez",
+      "ils naissent"
+    ],
+    "passé composé": [
+      "je suis né",
+      "tu es né",
+      "il est né",
+      "nous sommes nés",
+      "vous êtes nés",
+      "ils sont nés"
+    ],
+    "imparfait": [
+      "je naissais",
+      "tu naissais",
+      "il naissait",
+      "nous naissions",
+      "vous naissiez",
+      "ils naissaient"
+    ],
+    "plus que parfait": [
+      "j'étais né",
+      "tu étais né",
+      "il était né",
+      "nous étions nés",
+      "vous étiez nés",
+      "ils étaient nés"
+    ],
+    "passé simple": [
+      "je naquis",
+      "tu naquis",
+      "il naquit",
+      "nous naquîmes",
+      "vous naquîtes",
+      "ils naquirent"
+    ],
+    "passé antérieur": [
+      "je fus né",
+      "tu fus né",
+      "il fut né",
+      "nous fûmes nés",
+      "vous fûtes nés",
+      "ils furent nés"
+    ],
+    "futur simple": [
+      "je naîtrai",
+      "tu naîtras",
+      "il naîtra",
+      "nous naîtrons",
+      "vous naîtrez",
+      "ils naîtront"
+    ],
+    "futur antérieur": [
+      "je serai né",
+      "tu seras né",
+      "il sera né",
+      "nous serons nés",
+      "vous serez nés",
+      "ils seront nés"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je naisse",
+      "que tu naisses",
+      "qu'il naisse",
+      "que nous naissions",
+      "que vous naissiez",
+      "qu'ils naissent"
+    ],
+    "passé": [
+      "que je sois né",
+      "que tu sois né",
+      "qu'il soit né",
+      "que nous soyons nés",
+      "que vous soyez nés",
+      "qu'ils soient nés"
+    ],
+    "imparfait": [
+      "que je naquisse",
+      "que tu naquisses",
+      "qu'il naquît",
+      "que nous naquissions",
+      "que vous naquissiez",
+      "qu'ils naquissent"
+    ],
+    "plus que parfait": [
+      "que je fusse né",
+      "que tu fusses né",
+      "qu'il fût né",
+      "que nous fussions nés",
+      "que vous fussiez nés",
+      "qu'ils fussent nés"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je naîtrais",
+      "tu naîtrais",
+      "il naîtrait",
+      "nous naîtrions",
+      "vous naîtriez",
+      "ils naîtraient"
+    ],
+    "passé": [
+      "je serais né",
+      "tu serais né",
+      "il serait né",
+      "nous serions nés",
+      "vous seriez nés",
+      "ils seraient nés"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "nais",
+      "naissons",
+      "naissez"
+    ],
+    "passé": [
+      "sois né",
+      "soyons nés",
+      "soyez nés"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "naître"
+    ],
+    "passé": [
+      "être né"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "naissant"
+    ],
+    "passé": [
+      "né",
+      "étant né"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en naissant"
+    ],
+    "passé": [
+      "en étant né"
+    ]
+  }
+}

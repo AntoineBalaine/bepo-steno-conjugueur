@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me contrains",
+      "tu te contrains",
+      "il se contraint",
+      "nous nous contraignons",
+      "vous vous contraignez",
+      "ils se contraignent"
+    ],
+    "passé composé": [
+      "je me suis contraint",
+      "tu t'es contraint",
+      "il s'est contraint",
+      "nous nous sommes contraints",
+      "vous vous êtes contraints",
+      "ils se sont contraints"
+    ],
+    "imparfait": [
+      "je me contraignais",
+      "tu te contraignais",
+      "il se contraignait",
+      "nous nous contraignions",
+      "vous vous contraigniez",
+      "ils se contraignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais contraint",
+      "tu t'étais contraint",
+      "il s'était contraint",
+      "nous nous étions contraints",
+      "vous vous étiez contraints",
+      "ils s'étaient contraints"
+    ],
+    "passé simple": [
+      "je me contraignis",
+      "tu te contraignis",
+      "il se contraignit",
+      "nous nous contraignîmes",
+      "vous vous contraignîtes",
+      "ils se contraignirent"
+    ],
+    "passé antérieur": [
+      "je me fus contraint",
+      "tu te fus contraint",
+      "il se fut contraint",
+      "nous nous fûmes contraints",
+      "vous vous fûtes contraints",
+      "ils se furent contraints"
+    ],
+    "futur simple": [
+      "je me contraindrai",
+      "tu te contraindras",
+      "il se contraindra",
+      "nous nous contraindrons",
+      "vous vous contraindrez",
+      "ils se contraindront"
+    ],
+    "futur antérieur": [
+      "je me serai contraint",
+      "tu te seras contraint",
+      "il se sera contraint",
+      "nous nous serons contraints",
+      "vous vous serez contraints",
+      "ils se seront contraints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me contraigne",
+      "que tu te contraignes",
+      "qu'il se contraigne",
+      "que nous nous contraignions",
+      "que vous vous contraigniez",
+      "qu'ils se contraignent"
+    ],
+    "passé": [
+      "que je me sois contraint",
+      "que tu te sois contraint",
+      "qu'il se soit contraint",
+      "que nous nous soyons contraints",
+      "que vous vous soyez contraints",
+      "qu'ils se soient contraints"
+    ],
+    "imparfait": [
+      "que je me contraignisse",
+      "que tu te contraignisses",
+      "qu'il se contraignît",
+      "que nous nous contraignissions",
+      "que vous vous contraignissiez",
+      "qu'ils se contraignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse contraint",
+      "que tu te fusses contraint",
+      "qu'il se fût contraint",
+      "que nous nous fussions contraints",
+      "que vous vous fussiez contraints",
+      "qu'ils se fussent contraints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me contraindrais",
+      "tu te contraindrais",
+      "il se contraindrait",
+      "nous nous contraindrions",
+      "vous vous contraindriez",
+      "ils se contraindraient"
+    ],
+    "passé": [
+      "je me serais contraint",
+      "tu te serais contraint",
+      "il se serait contraint",
+      "nous nous serions contraints",
+      "vous vous seriez contraints",
+      "ils se seraient contraints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contrains-toi",
+      "contraignons-nous",
+      "contraignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se contraindre"
+    ],
+    "passé": [
+      "s'être contraint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se contraignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant contraint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se contraignant"
+    ],
+    "passé": [
+      "en s'étant contraint"
+    ]
+  }
+}

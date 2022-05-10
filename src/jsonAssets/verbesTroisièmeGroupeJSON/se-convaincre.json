@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me convaincs",
+      "tu te convaincs",
+      "il se convainc",
+      "nous nous convainquons",
+      "vous vous convainquez",
+      "ils se convainquent"
+    ],
+    "passé composé": [
+      "je me suis convaincu",
+      "tu t'es convaincu",
+      "il s'est convaincu",
+      "nous nous sommes convaincus",
+      "vous vous êtes convaincus",
+      "ils se sont convaincus"
+    ],
+    "imparfait": [
+      "je me convainquais",
+      "tu te convainquais",
+      "il se convainquait",
+      "nous nous convainquions",
+      "vous vous convainquiez",
+      "ils se convainquaient"
+    ],
+    "plus que parfait": [
+      "je m'étais convaincu",
+      "tu t'étais convaincu",
+      "il s'était convaincu",
+      "nous nous étions convaincus",
+      "vous vous étiez convaincus",
+      "ils s'étaient convaincus"
+    ],
+    "passé simple": [
+      "je me convainquis",
+      "tu te convainquis",
+      "il se convainquit",
+      "nous nous convainquîmes",
+      "vous vous convainquîtes",
+      "ils se convainquirent"
+    ],
+    "passé antérieur": [
+      "je me fus convaincu",
+      "tu te fus convaincu",
+      "il se fut convaincu",
+      "nous nous fûmes convaincus",
+      "vous vous fûtes convaincus",
+      "ils se furent convaincus"
+    ],
+    "futur simple": [
+      "je me convaincrai",
+      "tu te convaincras",
+      "il se convaincra",
+      "nous nous convaincrons",
+      "vous vous convaincrez",
+      "ils se convaincront"
+    ],
+    "futur antérieur": [
+      "je me serai convaincu",
+      "tu te seras convaincu",
+      "il se sera convaincu",
+      "nous nous serons convaincus",
+      "vous vous serez convaincus",
+      "ils se seront convaincus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me convainque",
+      "que tu te convainques",
+      "qu'il se convainque",
+      "que nous nous convainquions",
+      "que vous vous convainquiez",
+      "qu'ils se convainquent"
+    ],
+    "passé": [
+      "que je me sois convaincu",
+      "que tu te sois convaincu",
+      "qu'il se soit convaincu",
+      "que nous nous soyons convaincus",
+      "que vous vous soyez convaincus",
+      "qu'ils se soient convaincus"
+    ],
+    "imparfait": [
+      "que je me convainquisse",
+      "que tu te convainquisses",
+      "qu'il se convainquît",
+      "que nous nous convainquissions",
+      "que vous vous convainquissiez",
+      "qu'ils se convainquissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse convaincu",
+      "que tu te fusses convaincu",
+      "qu'il se fût convaincu",
+      "que nous nous fussions convaincus",
+      "que vous vous fussiez convaincus",
+      "qu'ils se fussent convaincus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me convaincrais",
+      "tu te convaincrais",
+      "il se convaincrait",
+      "nous nous convaincrions",
+      "vous vous convaincriez",
+      "ils se convaincraient"
+    ],
+    "passé": [
+      "je me serais convaincu",
+      "tu te serais convaincu",
+      "il se serait convaincu",
+      "nous nous serions convaincus",
+      "vous vous seriez convaincus",
+      "ils se seraient convaincus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "convaincs-toi",
+      "convainquons-nous",
+      "convainquez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se convaincre"
+    ],
+    "passé": [
+      "s'être convaincu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se convainquant"
+    ],
+    "passé": [
+      "-",
+      "s'étant convaincu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se convainquant"
+    ],
+    "passé": [
+      "en s'étant convaincu"
+    ]
+  }
+}

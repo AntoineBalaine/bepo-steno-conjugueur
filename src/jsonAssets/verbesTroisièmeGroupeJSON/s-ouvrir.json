@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'ouvre",
+      "tu t'ouvres",
+      "il s'ouvre",
+      "nous nous ouvrons",
+      "vous vous ouvrez",
+      "ils s'ouvrent"
+    ],
+    "passé composé": [
+      "je me suis ouvert",
+      "tu t'es ouvert",
+      "il s'est ouvert",
+      "nous nous sommes ouverts",
+      "vous vous êtes ouverts",
+      "ils se sont ouverts"
+    ],
+    "imparfait": [
+      "je m'ouvrais",
+      "tu t'ouvrais",
+      "il s'ouvrait",
+      "nous nous ouvrions",
+      "vous vous ouvriez",
+      "ils s'ouvraient"
+    ],
+    "plus que parfait": [
+      "je m'étais ouvert",
+      "tu t'étais ouvert",
+      "il s'était ouvert",
+      "nous nous étions ouverts",
+      "vous vous étiez ouverts",
+      "ils s'étaient ouverts"
+    ],
+    "passé simple": [
+      "je m'ouvris",
+      "tu t'ouvris",
+      "il s'ouvrit",
+      "nous nous ouvrîmes",
+      "vous vous ouvrîtes",
+      "ils s'ouvrirent"
+    ],
+    "passé antérieur": [
+      "je me fus ouvert",
+      "tu te fus ouvert",
+      "il se fut ouvert",
+      "nous nous fûmes ouverts",
+      "vous vous fûtes ouverts",
+      "ils se furent ouverts"
+    ],
+    "futur simple": [
+      "je m'ouvrirai",
+      "tu t'ouvriras",
+      "il s'ouvrira",
+      "nous nous ouvrirons",
+      "vous vous ouvrirez",
+      "ils s'ouvriront"
+    ],
+    "futur antérieur": [
+      "je me serai ouvert",
+      "tu te seras ouvert",
+      "il se sera ouvert",
+      "nous nous serons ouverts",
+      "vous vous serez ouverts",
+      "ils se seront ouverts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'ouvre",
+      "que tu t'ouvres",
+      "qu'il s'ouvre",
+      "que nous nous ouvrions",
+      "que vous vous ouvriez",
+      "qu'ils s'ouvrent"
+    ],
+    "passé": [
+      "que je me sois ouvert",
+      "que tu te sois ouvert",
+      "qu'il se soit ouvert",
+      "que nous nous soyons ouverts",
+      "que vous vous soyez ouverts",
+      "qu'ils se soient ouverts"
+    ],
+    "imparfait": [
+      "que je m'ouvrisse",
+      "que tu t'ouvrisses",
+      "qu'il s'ouvrît",
+      "que nous nous ouvrissions",
+      "que vous vous ouvrissiez",
+      "qu'ils s'ouvrissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse ouvert",
+      "que tu te fusses ouvert",
+      "qu'il se fût ouvert",
+      "que nous nous fussions ouverts",
+      "que vous vous fussiez ouverts",
+      "qu'ils se fussent ouverts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'ouvrirais",
+      "tu t'ouvrirais",
+      "il s'ouvrirait",
+      "nous nous ouvririons",
+      "vous vous ouvririez",
+      "ils s'ouvriraient"
+    ],
+    "passé": [
+      "je me serais ouvert",
+      "tu te serais ouvert",
+      "il se serait ouvert",
+      "nous nous serions ouverts",
+      "vous vous seriez ouverts",
+      "ils se seraient ouverts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ouvre-toi",
+      "ouvrons-nous",
+      "ouvrez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'ouvrir"
+    ],
+    "passé": [
+      "s'être ouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'ouvrant"
+    ],
+    "passé": [
+      "-",
+      "s'étant ouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'ouvrant"
+    ],
+    "passé": [
+      "en s'étant ouvert"
+    ]
+  }
+}

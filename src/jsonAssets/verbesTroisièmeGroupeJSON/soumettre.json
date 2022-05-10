@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je soumets",
+      "tu soumets",
+      "il soumet",
+      "nous soumettons",
+      "vous soumettez",
+      "ils soumettent"
+    ],
+    "passé composé": [
+      "j'ai soumis",
+      "tu as soumis",
+      "il a soumis",
+      "nous avons soumis",
+      "vous avez soumis",
+      "ils ont soumis"
+    ],
+    "imparfait": [
+      "je soumettais",
+      "tu soumettais",
+      "il soumettait",
+      "nous soumettions",
+      "vous soumettiez",
+      "ils soumettaient"
+    ],
+    "plus que parfait": [
+      "j'avais soumis",
+      "tu avais soumis",
+      "il avait soumis",
+      "nous avions soumis",
+      "vous aviez soumis",
+      "ils avaient soumis"
+    ],
+    "passé simple": [
+      "je soumis",
+      "tu soumis",
+      "il soumit",
+      "nous soumîmes",
+      "vous soumîtes",
+      "ils soumirent"
+    ],
+    "passé antérieur": [
+      "j'eus soumis",
+      "tu eus soumis",
+      "il eut soumis",
+      "nous eûmes soumis",
+      "vous eûtes soumis",
+      "ils eurent soumis"
+    ],
+    "futur simple": [
+      "je soumettrai",
+      "tu soumettras",
+      "il soumettra",
+      "nous soumettrons",
+      "vous soumettrez",
+      "ils soumettront"
+    ],
+    "futur antérieur": [
+      "j'aurai soumis",
+      "tu auras soumis",
+      "il aura soumis",
+      "nous aurons soumis",
+      "vous aurez soumis",
+      "ils auront soumis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je soumette",
+      "que tu soumettes",
+      "qu'il soumette",
+      "que nous soumettions",
+      "que vous soumettiez",
+      "qu'ils soumettent"
+    ],
+    "passé": [
+      "que j'aie soumis",
+      "que tu aies soumis",
+      "qu'il ait soumis",
+      "que nous ayons soumis",
+      "que vous ayez soumis",
+      "qu'ils aient soumis"
+    ],
+    "imparfait": [
+      "que je soumisse",
+      "que tu soumisses",
+      "qu'il soumît",
+      "que nous soumissions",
+      "que vous soumissiez",
+      "qu'ils soumissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse soumis",
+      "que tu eusses soumis",
+      "qu'il eût soumis",
+      "que nous eussions soumis",
+      "que vous eussiez soumis",
+      "qu'ils eussent soumis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je soumettrais",
+      "tu soumettrais",
+      "il soumettrait",
+      "nous soumettrions",
+      "vous soumettriez",
+      "ils soumettraient"
+    ],
+    "passé": [
+      "j'aurais soumis",
+      "tu aurais soumis",
+      "il aurait soumis",
+      "nous aurions soumis",
+      "vous auriez soumis",
+      "ils auraient soumis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "soumets",
+      "soumettons",
+      "soumettez"
+    ],
+    "passé": [
+      "aie soumis",
+      "ayons soumis",
+      "ayez soumis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "soumettre"
+    ],
+    "passé": [
+      "avoir soumis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "soumettant"
+    ],
+    "passé": [
+      "soumis",
+      "ayant soumis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en soumettant"
+    ],
+    "passé": [
+      "en ayant soumis"
+    ]
+  }
+}

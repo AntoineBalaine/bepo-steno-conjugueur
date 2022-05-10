@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je contreviens",
+      "tu contreviens",
+      "il contrevient",
+      "nous contrevenons",
+      "vous contrevenez",
+      "ils contreviennent"
+    ],
+    "passé composé": [
+      "j'ai contrevenu",
+      "tu as contrevenu",
+      "il a contrevenu",
+      "nous avons contrevenu",
+      "vous avez contrevenu",
+      "ils ont contrevenu"
+    ],
+    "imparfait": [
+      "je contrevenais",
+      "tu contrevenais",
+      "il contrevenait",
+      "nous contrevenions",
+      "vous contreveniez",
+      "ils contrevenaient"
+    ],
+    "plus que parfait": [
+      "j'avais contrevenu",
+      "tu avais contrevenu",
+      "il avait contrevenu",
+      "nous avions contrevenu",
+      "vous aviez contrevenu",
+      "ils avaient contrevenu"
+    ],
+    "passé simple": [
+      "je contrevins",
+      "tu contrevins",
+      "il contrevint",
+      "nous contrevînmes",
+      "vous contrevîntes",
+      "ils contrevinrent"
+    ],
+    "passé antérieur": [
+      "j'eus contrevenu",
+      "tu eus contrevenu",
+      "il eut contrevenu",
+      "nous eûmes contrevenu",
+      "vous eûtes contrevenu",
+      "ils eurent contrevenu"
+    ],
+    "futur simple": [
+      "je contreviendrai",
+      "tu contreviendras",
+      "il contreviendra",
+      "nous contreviendrons",
+      "vous contreviendrez",
+      "ils contreviendront"
+    ],
+    "futur antérieur": [
+      "j'aurai contrevenu",
+      "tu auras contrevenu",
+      "il aura contrevenu",
+      "nous aurons contrevenu",
+      "vous aurez contrevenu",
+      "ils auront contrevenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je contrevienne",
+      "que tu contreviennes",
+      "qu'il contrevienne",
+      "que nous contrevenions",
+      "que vous contreveniez",
+      "qu'ils contreviennent"
+    ],
+    "passé": [
+      "que j'aie contrevenu",
+      "que tu aies contrevenu",
+      "qu'il ait contrevenu",
+      "que nous ayons contrevenu",
+      "que vous ayez contrevenu",
+      "qu'ils aient contrevenu"
+    ],
+    "imparfait": [
+      "que je contrevinsse",
+      "que tu contrevinsses",
+      "qu'il contrevînt",
+      "que nous contrevinssions",
+      "que vous contrevinssiez",
+      "qu'ils contrevinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse contrevenu",
+      "que tu eusses contrevenu",
+      "qu'il eût contrevenu",
+      "que nous eussions contrevenu",
+      "que vous eussiez contrevenu",
+      "qu'ils eussent contrevenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je contreviendrais",
+      "tu contreviendrais",
+      "il contreviendrait",
+      "nous contreviendrions",
+      "vous contreviendriez",
+      "ils contreviendraient"
+    ],
+    "passé": [
+      "j'aurais contrevenu",
+      "tu aurais contrevenu",
+      "il aurait contrevenu",
+      "nous aurions contrevenu",
+      "vous auriez contrevenu",
+      "ils auraient contrevenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contreviens",
+      "contrevenons",
+      "contrevenez"
+    ],
+    "passé": [
+      "aie contrevenu",
+      "ayons contrevenu",
+      "ayez contrevenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "contrevenir"
+    ],
+    "passé": [
+      "avoir contrevenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "contrevenant"
+    ],
+    "passé": [
+      "contrevenu",
+      "ayant contrevenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en contrevenant"
+    ],
+    "passé": [
+      "en ayant contrevenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je descends",
+      "tu descends",
+      "il descend",
+      "nous descendons",
+      "vous descendez",
+      "ils descendent"
+    ],
+    "passé composé": [
+      "j'ai descendu",
+      "tu as descendu",
+      "il a descendu",
+      "nous avons descendu",
+      "vous avez descendu",
+      "ils ont descendu"
+    ],
+    "imparfait": [
+      "je descendais",
+      "tu descendais",
+      "il descendait",
+      "nous descendions",
+      "vous descendiez",
+      "ils descendaient"
+    ],
+    "plus que parfait": [
+      "j'avais descendu",
+      "tu avais descendu",
+      "il avait descendu",
+      "nous avions descendu",
+      "vous aviez descendu",
+      "ils avaient descendu"
+    ],
+    "passé simple": [
+      "je descendis",
+      "tu descendis",
+      "il descendit",
+      "nous descendîmes",
+      "vous descendîtes",
+      "ils descendirent"
+    ],
+    "passé antérieur": [
+      "j'eus descendu",
+      "tu eus descendu",
+      "il eut descendu",
+      "nous eûmes descendu",
+      "vous eûtes descendu",
+      "ils eurent descendu"
+    ],
+    "futur simple": [
+      "je descendrai",
+      "tu descendras",
+      "il descendra",
+      "nous descendrons",
+      "vous descendrez",
+      "ils descendront"
+    ],
+    "futur antérieur": [
+      "j'aurai descendu",
+      "tu auras descendu",
+      "il aura descendu",
+      "nous aurons descendu",
+      "vous aurez descendu",
+      "ils auront descendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je descende",
+      "que tu descendes",
+      "qu'il descende",
+      "que nous descendions",
+      "que vous descendiez",
+      "qu'ils descendent"
+    ],
+    "passé": [
+      "que j'aie descendu",
+      "que tu aies descendu",
+      "qu'il ait descendu",
+      "que nous ayons descendu",
+      "que vous ayez descendu",
+      "qu'ils aient descendu"
+    ],
+    "imparfait": [
+      "que je descendisse",
+      "que tu descendisses",
+      "qu'il descendît",
+      "que nous descendissions",
+      "que vous descendissiez",
+      "qu'ils descendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse descendu",
+      "que tu eusses descendu",
+      "qu'il eût descendu",
+      "que nous eussions descendu",
+      "que vous eussiez descendu",
+      "qu'ils eussent descendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je descendrais",
+      "tu descendrais",
+      "il descendrait",
+      "nous descendrions",
+      "vous descendriez",
+      "ils descendraient"
+    ],
+    "passé": [
+      "j'aurais descendu",
+      "tu aurais descendu",
+      "il aurait descendu",
+      "nous aurions descendu",
+      "vous auriez descendu",
+      "ils auraient descendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "descends",
+      "descendons",
+      "descendez"
+    ],
+    "passé": [
+      "aie descendu",
+      "ayons descendu",
+      "ayez descendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "descendre"
+    ],
+    "passé": [
+      "avoir descendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "descendant"
+    ],
+    "passé": [
+      "descendu",
+      "ayant descendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en descendant"
+    ],
+    "passé": [
+      "en ayant descendu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me fonds",
+      "tu te fonds",
+      "il se fond",
+      "nous nous fondons",
+      "vous vous fondez",
+      "ils se fondent"
+    ],
+    "passé composé": [
+      "je me suis fondu",
+      "tu t'es fondu",
+      "il s'est fondu",
+      "nous nous sommes fondus",
+      "vous vous êtes fondus",
+      "ils se sont fondus"
+    ],
+    "imparfait": [
+      "je me fondais",
+      "tu te fondais",
+      "il se fondait",
+      "nous nous fondions",
+      "vous vous fondiez",
+      "ils se fondaient"
+    ],
+    "plus que parfait": [
+      "je m'étais fondu",
+      "tu t'étais fondu",
+      "il s'était fondu",
+      "nous nous étions fondus",
+      "vous vous étiez fondus",
+      "ils s'étaient fondus"
+    ],
+    "passé simple": [
+      "je me fondis",
+      "tu te fondis",
+      "il se fondit",
+      "nous nous fondîmes",
+      "vous vous fondîtes",
+      "ils se fondirent"
+    ],
+    "passé antérieur": [
+      "je me fus fondu",
+      "tu te fus fondu",
+      "il se fut fondu",
+      "nous nous fûmes fondus",
+      "vous vous fûtes fondus",
+      "ils se furent fondus"
+    ],
+    "futur simple": [
+      "je me fondrai",
+      "tu te fondras",
+      "il se fondra",
+      "nous nous fondrons",
+      "vous vous fondrez",
+      "ils se fondront"
+    ],
+    "futur antérieur": [
+      "je me serai fondu",
+      "tu te seras fondu",
+      "il se sera fondu",
+      "nous nous serons fondus",
+      "vous vous serez fondus",
+      "ils se seront fondus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me fonde",
+      "que tu te fondes",
+      "qu'il se fonde",
+      "que nous nous fondions",
+      "que vous vous fondiez",
+      "qu'ils se fondent"
+    ],
+    "passé": [
+      "que je me sois fondu",
+      "que tu te sois fondu",
+      "qu'il se soit fondu",
+      "que nous nous soyons fondus",
+      "que vous vous soyez fondus",
+      "qu'ils se soient fondus"
+    ],
+    "imparfait": [
+      "que je me fondisse",
+      "que tu te fondisses",
+      "qu'il se fondît",
+      "que nous nous fondissions",
+      "que vous vous fondissiez",
+      "qu'ils se fondissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse fondu",
+      "que tu te fusses fondu",
+      "qu'il se fût fondu",
+      "que nous nous fussions fondus",
+      "que vous vous fussiez fondus",
+      "qu'ils se fussent fondus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me fondrais",
+      "tu te fondrais",
+      "il se fondrait",
+      "nous nous fondrions",
+      "vous vous fondriez",
+      "ils se fondraient"
+    ],
+    "passé": [
+      "je me serais fondu",
+      "tu te serais fondu",
+      "il se serait fondu",
+      "nous nous serions fondus",
+      "vous vous seriez fondus",
+      "ils se seraient fondus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fonds-toi",
+      "fondons-nous",
+      "fondez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se fondre"
+    ],
+    "passé": [
+      "s'être fondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se fondant"
+    ],
+    "passé": [
+      "-",
+      "s'étant fondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se fondant"
+    ],
+    "passé": [
+      "en s'étant fondu"
+    ]
+  }
+}

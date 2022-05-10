@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me rabats",
+      "tu te rabats",
+      "il se rabat",
+      "nous nous rabattons",
+      "vous vous rabattez",
+      "ils se rabattent"
+    ],
+    "passé composé": [
+      "je me suis rabattu",
+      "tu t'es rabattu",
+      "il s'est rabattu",
+      "nous nous sommes rabattus",
+      "vous vous êtes rabattus",
+      "ils se sont rabattus"
+    ],
+    "imparfait": [
+      "je me rabattais",
+      "tu te rabattais",
+      "il se rabattait",
+      "nous nous rabattions",
+      "vous vous rabattiez",
+      "ils se rabattaient"
+    ],
+    "plus que parfait": [
+      "je m'étais rabattu",
+      "tu t'étais rabattu",
+      "il s'était rabattu",
+      "nous nous étions rabattus",
+      "vous vous étiez rabattus",
+      "ils s'étaient rabattus"
+    ],
+    "passé simple": [
+      "je me rabattis",
+      "tu te rabattis",
+      "il se rabattit",
+      "nous nous rabattîmes",
+      "vous vous rabattîtes",
+      "ils se rabattirent"
+    ],
+    "passé antérieur": [
+      "je me fus rabattu",
+      "tu te fus rabattu",
+      "il se fut rabattu",
+      "nous nous fûmes rabattus",
+      "vous vous fûtes rabattus",
+      "ils se furent rabattus"
+    ],
+    "futur simple": [
+      "je me rabattrai",
+      "tu te rabattras",
+      "il se rabattra",
+      "nous nous rabattrons",
+      "vous vous rabattrez",
+      "ils se rabattront"
+    ],
+    "futur antérieur": [
+      "je me serai rabattu",
+      "tu te seras rabattu",
+      "il se sera rabattu",
+      "nous nous serons rabattus",
+      "vous vous serez rabattus",
+      "ils se seront rabattus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me rabatte",
+      "que tu te rabattes",
+      "qu'il se rabatte",
+      "que nous nous rabattions",
+      "que vous vous rabattiez",
+      "qu'ils se rabattent"
+    ],
+    "passé": [
+      "que je me sois rabattu",
+      "que tu te sois rabattu",
+      "qu'il se soit rabattu",
+      "que nous nous soyons rabattus",
+      "que vous vous soyez rabattus",
+      "qu'ils se soient rabattus"
+    ],
+    "imparfait": [
+      "que je me rabattisse",
+      "que tu te rabattisses",
+      "qu'il se rabattît",
+      "que nous nous rabattissions",
+      "que vous vous rabattissiez",
+      "qu'ils se rabattissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse rabattu",
+      "que tu te fusses rabattu",
+      "qu'il se fût rabattu",
+      "que nous nous fussions rabattus",
+      "que vous vous fussiez rabattus",
+      "qu'ils se fussent rabattus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me rabattrais",
+      "tu te rabattrais",
+      "il se rabattrait",
+      "nous nous rabattrions",
+      "vous vous rabattriez",
+      "ils se rabattraient"
+    ],
+    "passé": [
+      "je me serais rabattu",
+      "tu te serais rabattu",
+      "il se serait rabattu",
+      "nous nous serions rabattus",
+      "vous vous seriez rabattus",
+      "ils se seraient rabattus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rabats-toi",
+      "rabattons-nous",
+      "rabattez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se rabattre"
+    ],
+    "passé": [
+      "s'être rabattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se rabattant"
+    ],
+    "passé": [
+      "-",
+      "s'étant rabattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se rabattant"
+    ],
+    "passé": [
+      "en s'étant rabattu"
+    ]
+  }
+}

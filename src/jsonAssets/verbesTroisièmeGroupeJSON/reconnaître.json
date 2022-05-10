@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reconnais",
+      "tu reconnais",
+      "il reconnaît",
+      "nous reconnaissons",
+      "vous reconnaissez",
+      "ils reconnaissent"
+    ],
+    "passé composé": [
+      "j'ai reconnu",
+      "tu as reconnu",
+      "il a reconnu",
+      "nous avons reconnu",
+      "vous avez reconnu",
+      "ils ont reconnu"
+    ],
+    "imparfait": [
+      "je reconnaissais",
+      "tu reconnaissais",
+      "il reconnaissait",
+      "nous reconnaissions",
+      "vous reconnaissiez",
+      "ils reconnaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais reconnu",
+      "tu avais reconnu",
+      "il avait reconnu",
+      "nous avions reconnu",
+      "vous aviez reconnu",
+      "ils avaient reconnu"
+    ],
+    "passé simple": [
+      "je reconnus",
+      "tu reconnus",
+      "il reconnut",
+      "nous reconnûmes",
+      "vous reconnûtes",
+      "ils reconnurent"
+    ],
+    "passé antérieur": [
+      "j'eus reconnu",
+      "tu eus reconnu",
+      "il eut reconnu",
+      "nous eûmes reconnu",
+      "vous eûtes reconnu",
+      "ils eurent reconnu"
+    ],
+    "futur simple": [
+      "je reconnaîtrai",
+      "tu reconnaîtras",
+      "il reconnaîtra",
+      "nous reconnaîtrons",
+      "vous reconnaîtrez",
+      "ils reconnaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai reconnu",
+      "tu auras reconnu",
+      "il aura reconnu",
+      "nous aurons reconnu",
+      "vous aurez reconnu",
+      "ils auront reconnu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reconnaisse",
+      "que tu reconnaisses",
+      "qu'il reconnaisse",
+      "que nous reconnaissions",
+      "que vous reconnaissiez",
+      "qu'ils reconnaissent"
+    ],
+    "passé": [
+      "que j'aie reconnu",
+      "que tu aies reconnu",
+      "qu'il ait reconnu",
+      "que nous ayons reconnu",
+      "que vous ayez reconnu",
+      "qu'ils aient reconnu"
+    ],
+    "imparfait": [
+      "que je reconnusse",
+      "que tu reconnusses",
+      "qu'il reconnût",
+      "que nous reconnussions",
+      "que vous reconnussiez",
+      "qu'ils reconnussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reconnu",
+      "que tu eusses reconnu",
+      "qu'il eût reconnu",
+      "que nous eussions reconnu",
+      "que vous eussiez reconnu",
+      "qu'ils eussent reconnu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reconnaîtrais",
+      "tu reconnaîtrais",
+      "il reconnaîtrait",
+      "nous reconnaîtrions",
+      "vous reconnaîtriez",
+      "ils reconnaîtraient"
+    ],
+    "passé": [
+      "j'aurais reconnu",
+      "tu aurais reconnu",
+      "il aurait reconnu",
+      "nous aurions reconnu",
+      "vous auriez reconnu",
+      "ils auraient reconnu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reconnais",
+      "reconnaissons",
+      "reconnaissez"
+    ],
+    "passé": [
+      "aie reconnu",
+      "ayons reconnu",
+      "ayez reconnu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reconnaître"
+    ],
+    "passé": [
+      "avoir reconnu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reconnaissant"
+    ],
+    "passé": [
+      "reconnu",
+      "ayant reconnu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reconnaissant"
+    ],
+    "passé": [
+      "en ayant reconnu"
+    ]
+  }
+}

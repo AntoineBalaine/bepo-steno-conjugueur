@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je condescends",
+      "tu condescends",
+      "il condescend",
+      "nous condescendons",
+      "vous condescendez",
+      "ils condescendent"
+    ],
+    "passé composé": [
+      "j'ai condescendu",
+      "tu as condescendu",
+      "il a condescendu",
+      "nous avons condescendu",
+      "vous avez condescendu",
+      "ils ont condescendu"
+    ],
+    "imparfait": [
+      "je condescendais",
+      "tu condescendais",
+      "il condescendait",
+      "nous condescendions",
+      "vous condescendiez",
+      "ils condescendaient"
+    ],
+    "plus que parfait": [
+      "j'avais condescendu",
+      "tu avais condescendu",
+      "il avait condescendu",
+      "nous avions condescendu",
+      "vous aviez condescendu",
+      "ils avaient condescendu"
+    ],
+    "passé simple": [
+      "je condescendis",
+      "tu condescendis",
+      "il condescendit",
+      "nous condescendîmes",
+      "vous condescendîtes",
+      "ils condescendirent"
+    ],
+    "passé antérieur": [
+      "j'eus condescendu",
+      "tu eus condescendu",
+      "il eut condescendu",
+      "nous eûmes condescendu",
+      "vous eûtes condescendu",
+      "ils eurent condescendu"
+    ],
+    "futur simple": [
+      "je condescendrai",
+      "tu condescendras",
+      "il condescendra",
+      "nous condescendrons",
+      "vous condescendrez",
+      "ils condescendront"
+    ],
+    "futur antérieur": [
+      "j'aurai condescendu",
+      "tu auras condescendu",
+      "il aura condescendu",
+      "nous aurons condescendu",
+      "vous aurez condescendu",
+      "ils auront condescendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je condescende",
+      "que tu condescendes",
+      "qu'il condescende",
+      "que nous condescendions",
+      "que vous condescendiez",
+      "qu'ils condescendent"
+    ],
+    "passé": [
+      "que j'aie condescendu",
+      "que tu aies condescendu",
+      "qu'il ait condescendu",
+      "que nous ayons condescendu",
+      "que vous ayez condescendu",
+      "qu'ils aient condescendu"
+    ],
+    "imparfait": [
+      "que je condescendisse",
+      "que tu condescendisses",
+      "qu'il condescendît",
+      "que nous condescendissions",
+      "que vous condescendissiez",
+      "qu'ils condescendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse condescendu",
+      "que tu eusses condescendu",
+      "qu'il eût condescendu",
+      "que nous eussions condescendu",
+      "que vous eussiez condescendu",
+      "qu'ils eussent condescendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je condescendrais",
+      "tu condescendrais",
+      "il condescendrait",
+      "nous condescendrions",
+      "vous condescendriez",
+      "ils condescendraient"
+    ],
+    "passé": [
+      "j'aurais condescendu",
+      "tu aurais condescendu",
+      "il aurait condescendu",
+      "nous aurions condescendu",
+      "vous auriez condescendu",
+      "ils auraient condescendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "condescends",
+      "condescendons",
+      "condescendez"
+    ],
+    "passé": [
+      "aie condescendu",
+      "ayons condescendu",
+      "ayez condescendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "condescendre"
+    ],
+    "passé": [
+      "avoir condescendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "condescendant"
+    ],
+    "passé": [
+      "condescendu",
+      "ayant condescendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en condescendant"
+    ],
+    "passé": [
+      "en ayant condescendu"
+    ]
+  }
+}

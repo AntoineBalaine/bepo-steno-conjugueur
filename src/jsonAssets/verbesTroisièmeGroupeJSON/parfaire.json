@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je parfais",
+      "tu parfais",
+      "il parfait",
+      "nous parfaisons",
+      "vous parfaites",
+      "ils parfont"
+    ],
+    "passé composé": [
+      "j'ai parfait",
+      "tu as parfait",
+      "il a parfait",
+      "nous avons parfait",
+      "vous avez parfait",
+      "ils ont parfait"
+    ],
+    "imparfait": [
+      "je parfaisais",
+      "tu parfaisais",
+      "il parfaisait",
+      "nous parfaisions",
+      "vous parfaisiez",
+      "ils parfaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais parfait",
+      "tu avais parfait",
+      "il avait parfait",
+      "nous avions parfait",
+      "vous aviez parfait",
+      "ils avaient parfait"
+    ],
+    "passé simple": [
+      "je parfis",
+      "tu parfis",
+      "il parfit",
+      "nous parfîmes",
+      "vous parfîtes",
+      "ils parfirent"
+    ],
+    "passé antérieur": [
+      "j'eus parfait",
+      "tu eus parfait",
+      "il eut parfait",
+      "nous eûmes parfait",
+      "vous eûtes parfait",
+      "ils eurent parfait"
+    ],
+    "futur simple": [
+      "je parferai",
+      "tu parferas",
+      "il parfera",
+      "nous parferons",
+      "vous parferez",
+      "ils parferont"
+    ],
+    "futur antérieur": [
+      "j'aurai parfait",
+      "tu auras parfait",
+      "il aura parfait",
+      "nous aurons parfait",
+      "vous aurez parfait",
+      "ils auront parfait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je parfasse",
+      "que tu parfasses",
+      "qu'il parfasse",
+      "que nous parfassions",
+      "que vous parfassiez",
+      "qu'ils parfassent"
+    ],
+    "passé": [
+      "que j'aie parfait",
+      "que tu aies parfait",
+      "qu'il ait parfait",
+      "que nous ayons parfait",
+      "que vous ayez parfait",
+      "qu'ils aient parfait"
+    ],
+    "imparfait": [
+      "que je parfisse",
+      "que tu parfisses",
+      "qu'il parfît",
+      "que nous parfissions",
+      "que vous parfissiez",
+      "qu'ils parfissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse parfait",
+      "que tu eusses parfait",
+      "qu'il eût parfait",
+      "que nous eussions parfait",
+      "que vous eussiez parfait",
+      "qu'ils eussent parfait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je parferais",
+      "tu parferais",
+      "il parferait",
+      "nous parferions",
+      "vous parferiez",
+      "ils parferaient"
+    ],
+    "passé": [
+      "j'aurais parfait",
+      "tu aurais parfait",
+      "il aurait parfait",
+      "nous aurions parfait",
+      "vous auriez parfait",
+      "ils auraient parfait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "parfais",
+      "parfaisons",
+      "parfaites"
+    ],
+    "passé": [
+      "aie parfait",
+      "ayons parfait",
+      "ayez parfait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "parfaire"
+    ],
+    "passé": [
+      "avoir parfait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "parfaisant"
+    ],
+    "passé": [
+      "parfait",
+      "ayant parfait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en parfaisant"
+    ],
+    "passé": [
+      "en ayant parfait"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me prends",
+      "tu te prends",
+      "il se prend",
+      "nous nous prenons",
+      "vous vous prenez",
+      "ils se prennent"
+    ],
+    "passé composé": [
+      "je me suis pris",
+      "tu t'es pris",
+      "il s'est pris",
+      "nous nous sommes pris",
+      "vous vous êtes pris",
+      "ils se sont pris"
+    ],
+    "imparfait": [
+      "je me prenais",
+      "tu te prenais",
+      "il se prenait",
+      "nous nous prenions",
+      "vous vous preniez",
+      "ils se prenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais pris",
+      "tu t'étais pris",
+      "il s'était pris",
+      "nous nous étions pris",
+      "vous vous étiez pris",
+      "ils s'étaient pris"
+    ],
+    "passé simple": [
+      "je me pris",
+      "tu te pris",
+      "il se prit",
+      "nous nous prîmes",
+      "vous vous prîtes",
+      "ils se prirent"
+    ],
+    "passé antérieur": [
+      "je me fus pris",
+      "tu te fus pris",
+      "il se fut pris",
+      "nous nous fûmes pris",
+      "vous vous fûtes pris",
+      "ils se furent pris"
+    ],
+    "futur simple": [
+      "je me prendrai",
+      "tu te prendras",
+      "il se prendra",
+      "nous nous prendrons",
+      "vous vous prendrez",
+      "ils se prendront"
+    ],
+    "futur antérieur": [
+      "je me serai pris",
+      "tu te seras pris",
+      "il se sera pris",
+      "nous nous serons pris",
+      "vous vous serez pris",
+      "ils se seront pris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me prenne",
+      "que tu te prennes",
+      "qu'il se prenne",
+      "que nous nous prenions",
+      "que vous vous preniez",
+      "qu'ils se prennent"
+    ],
+    "passé": [
+      "que je me sois pris",
+      "que tu te sois pris",
+      "qu'il se soit pris",
+      "que nous nous soyons pris",
+      "que vous vous soyez pris",
+      "qu'ils se soient pris"
+    ],
+    "imparfait": [
+      "que je me prisse",
+      "que tu te prisses",
+      "qu'il se prît",
+      "que nous nous prissions",
+      "que vous vous prissiez",
+      "qu'ils se prissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse pris",
+      "que tu te fusses pris",
+      "qu'il se fût pris",
+      "que nous nous fussions pris",
+      "que vous vous fussiez pris",
+      "qu'ils se fussent pris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me prendrais",
+      "tu te prendrais",
+      "il se prendrait",
+      "nous nous prendrions",
+      "vous vous prendriez",
+      "ils se prendraient"
+    ],
+    "passé": [
+      "je me serais pris",
+      "tu te serais pris",
+      "il se serait pris",
+      "nous nous serions pris",
+      "vous vous seriez pris",
+      "ils se seraient pris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prends-toi",
+      "prenons-nous",
+      "prenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se prendre"
+    ],
+    "passé": [
+      "s'être pris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se prenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant pris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se prenant"
+    ],
+    "passé": [
+      "en s'étant pris"
+    ]
+  }
+}

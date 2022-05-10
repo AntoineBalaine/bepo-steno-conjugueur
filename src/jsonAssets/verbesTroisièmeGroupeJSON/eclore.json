@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'éclos",
+      "tu éclos",
+      "il éclôt",
+      "-",
+      "-",
+      "ils éclosent"
+    ],
+    "passé composé": [
+      "j'ai éclos",
+      "tu as éclos",
+      "il a éclos",
+      "nous avons éclos",
+      "vous avez éclos",
+      "ils ont éclos"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais éclos",
+      "tu avais éclos",
+      "il avait éclos",
+      "nous avions éclos",
+      "vous aviez éclos",
+      "ils avaient éclos"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus éclos",
+      "tu eus éclos",
+      "il eut éclos",
+      "nous eûmes éclos",
+      "vous eûtes éclos",
+      "ils eurent éclos"
+    ],
+    "futur simple": [
+      "j'éclorai",
+      "tu écloras",
+      "il éclora",
+      "nous éclorons",
+      "vous éclorez",
+      "ils écloront"
+    ],
+    "futur antérieur": [
+      "j'aurai éclos",
+      "tu auras éclos",
+      "il aura éclos",
+      "nous aurons éclos",
+      "vous aurez éclos",
+      "ils auront éclos"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'éclose",
+      "que tu écloses",
+      "qu'il éclose",
+      "que nous éclosions",
+      "que vous éclosiez",
+      "qu'ils éclosent"
+    ],
+    "passé": [
+      "que j'aie éclos",
+      "que tu aies éclos",
+      "qu'il ait éclos",
+      "que nous ayons éclos",
+      "que vous ayez éclos",
+      "qu'ils aient éclos"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse éclos",
+      "que tu eusses éclos",
+      "qu'il eût éclos",
+      "que nous eussions éclos",
+      "que vous eussiez éclos",
+      "qu'ils eussent éclos"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'éclorais",
+      "tu éclorais",
+      "il éclorait",
+      "nous éclorions",
+      "vous écloriez",
+      "ils écloraient"
+    ],
+    "passé": [
+      "j'aurais éclos",
+      "tu aurais éclos",
+      "il aurait éclos",
+      "nous aurions éclos",
+      "vous auriez éclos",
+      "ils auraient éclos"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "éclos",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie éclos",
+      "ayons éclos",
+      "ayez éclos"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "éclore"
+    ],
+    "passé": [
+      "avoir éclos"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "éclosant"
+    ],
+    "passé": [
+      "éclos",
+      "ayant éclos"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en éclosant"
+    ],
+    "passé": [
+      "en ayant éclos"
+    ]
+  }
+}

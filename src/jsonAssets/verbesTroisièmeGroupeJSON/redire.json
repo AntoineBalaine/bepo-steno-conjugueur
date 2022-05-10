@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je redis",
+      "tu redis",
+      "il redit",
+      "nous redisons",
+      "vous redites",
+      "ils redisent"
+    ],
+    "passé composé": [
+      "j'ai redit",
+      "tu as redit",
+      "il a redit",
+      "nous avons redit",
+      "vous avez redit",
+      "ils ont redit"
+    ],
+    "imparfait": [
+      "je redisais",
+      "tu redisais",
+      "il redisait",
+      "nous redisions",
+      "vous redisiez",
+      "ils redisaient"
+    ],
+    "plus que parfait": [
+      "j'avais redit",
+      "tu avais redit",
+      "il avait redit",
+      "nous avions redit",
+      "vous aviez redit",
+      "ils avaient redit"
+    ],
+    "passé simple": [
+      "je redis",
+      "tu redis",
+      "il redit",
+      "nous redîmes",
+      "vous redîtes",
+      "ils redirent"
+    ],
+    "passé antérieur": [
+      "j'eus redit",
+      "tu eus redit",
+      "il eut redit",
+      "nous eûmes redit",
+      "vous eûtes redit",
+      "ils eurent redit"
+    ],
+    "futur simple": [
+      "je redirai",
+      "tu rediras",
+      "il redira",
+      "nous redirons",
+      "vous redirez",
+      "ils rediront"
+    ],
+    "futur antérieur": [
+      "j'aurai redit",
+      "tu auras redit",
+      "il aura redit",
+      "nous aurons redit",
+      "vous aurez redit",
+      "ils auront redit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je redise",
+      "que tu redises",
+      "qu'il redise",
+      "que nous redisions",
+      "que vous redisiez",
+      "qu'ils redisent"
+    ],
+    "passé": [
+      "que j'aie redit",
+      "que tu aies redit",
+      "qu'il ait redit",
+      "que nous ayons redit",
+      "que vous ayez redit",
+      "qu'ils aient redit"
+    ],
+    "imparfait": [
+      "que je redisse",
+      "que tu redisses",
+      "qu'il redît",
+      "que nous redissions",
+      "que vous redissiez",
+      "qu'ils redissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse redit",
+      "que tu eusses redit",
+      "qu'il eût redit",
+      "que nous eussions redit",
+      "que vous eussiez redit",
+      "qu'ils eussent redit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je redirais",
+      "tu redirais",
+      "il redirait",
+      "nous redirions",
+      "vous rediriez",
+      "ils rediraient"
+    ],
+    "passé": [
+      "j'aurais redit",
+      "tu aurais redit",
+      "il aurait redit",
+      "nous aurions redit",
+      "vous auriez redit",
+      "ils auraient redit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "redis",
+      "redisons",
+      "redites"
+    ],
+    "passé": [
+      "aie redit",
+      "ayons redit",
+      "ayez redit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "redire"
+    ],
+    "passé": [
+      "avoir redit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "redisant"
+    ],
+    "passé": [
+      "redit",
+      "ayant redit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en redisant"
+    ],
+    "passé": [
+      "en ayant redit"
+    ]
+  }
+}

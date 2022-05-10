@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me distords",
+      "tu te distords",
+      "il se distord",
+      "nous nous distordons",
+      "vous vous distordez",
+      "ils se distordent"
+    ],
+    "passé composé": [
+      "je me suis distordu",
+      "tu t'es distordu",
+      "il s'est distordu",
+      "nous nous sommes distordus",
+      "vous vous êtes distordus",
+      "ils se sont distordus"
+    ],
+    "imparfait": [
+      "je me distordais",
+      "tu te distordais",
+      "il se distordait",
+      "nous nous distordions",
+      "vous vous distordiez",
+      "ils se distordaient"
+    ],
+    "plus que parfait": [
+      "je m'étais distordu",
+      "tu t'étais distordu",
+      "il s'était distordu",
+      "nous nous étions distordus",
+      "vous vous étiez distordus",
+      "ils s'étaient distordus"
+    ],
+    "passé simple": [
+      "je me distordis",
+      "tu te distordis",
+      "il se distordit",
+      "nous nous distordîmes",
+      "vous vous distordîtes",
+      "ils se distordirent"
+    ],
+    "passé antérieur": [
+      "je me fus distordu",
+      "tu te fus distordu",
+      "il se fut distordu",
+      "nous nous fûmes distordus",
+      "vous vous fûtes distordus",
+      "ils se furent distordus"
+    ],
+    "futur simple": [
+      "je me distordrai",
+      "tu te distordras",
+      "il se distordra",
+      "nous nous distordrons",
+      "vous vous distordrez",
+      "ils se distordront"
+    ],
+    "futur antérieur": [
+      "je me serai distordu",
+      "tu te seras distordu",
+      "il se sera distordu",
+      "nous nous serons distordus",
+      "vous vous serez distordus",
+      "ils se seront distordus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me distorde",
+      "que tu te distordes",
+      "qu'il se distorde",
+      "que nous nous distordions",
+      "que vous vous distordiez",
+      "qu'ils se distordent"
+    ],
+    "passé": [
+      "que je me sois distordu",
+      "que tu te sois distordu",
+      "qu'il se soit distordu",
+      "que nous nous soyons distordus",
+      "que vous vous soyez distordus",
+      "qu'ils se soient distordus"
+    ],
+    "imparfait": [
+      "que je me distordisse",
+      "que tu te distordisses",
+      "qu'il se distordît",
+      "que nous nous distordissions",
+      "que vous vous distordissiez",
+      "qu'ils se distordissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse distordu",
+      "que tu te fusses distordu",
+      "qu'il se fût distordu",
+      "que nous nous fussions distordus",
+      "que vous vous fussiez distordus",
+      "qu'ils se fussent distordus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me distordrais",
+      "tu te distordrais",
+      "il se distordrait",
+      "nous nous distordrions",
+      "vous vous distordriez",
+      "ils se distordraient"
+    ],
+    "passé": [
+      "je me serais distordu",
+      "tu te serais distordu",
+      "il se serait distordu",
+      "nous nous serions distordus",
+      "vous vous seriez distordus",
+      "ils se seraient distordus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "distords-toi",
+      "distordons-nous",
+      "distordez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se distordre"
+    ],
+    "passé": [
+      "s'être distordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se distordant"
+    ],
+    "passé": [
+      "-",
+      "s'étant distordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se distordant"
+    ],
+    "passé": [
+      "en s'étant distordu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'entretiens",
+      "tu entretiens",
+      "il entretient",
+      "nous entretenons",
+      "vous entretenez",
+      "ils entretiennent"
+    ],
+    "passé composé": [
+      "j'ai entretenu",
+      "tu as entretenu",
+      "il a entretenu",
+      "nous avons entretenu",
+      "vous avez entretenu",
+      "ils ont entretenu"
+    ],
+    "imparfait": [
+      "j'entretenais",
+      "tu entretenais",
+      "il entretenait",
+      "nous entretenions",
+      "vous entreteniez",
+      "ils entretenaient"
+    ],
+    "plus que parfait": [
+      "j'avais entretenu",
+      "tu avais entretenu",
+      "il avait entretenu",
+      "nous avions entretenu",
+      "vous aviez entretenu",
+      "ils avaient entretenu"
+    ],
+    "passé simple": [
+      "j'entretins",
+      "tu entretins",
+      "il entretint",
+      "nous entretînmes",
+      "vous entretîntes",
+      "ils entretinrent"
+    ],
+    "passé antérieur": [
+      "j'eus entretenu",
+      "tu eus entretenu",
+      "il eut entretenu",
+      "nous eûmes entretenu",
+      "vous eûtes entretenu",
+      "ils eurent entretenu"
+    ],
+    "futur simple": [
+      "j'entretiendrai",
+      "tu entretiendras",
+      "il entretiendra",
+      "nous entretiendrons",
+      "vous entretiendrez",
+      "ils entretiendront"
+    ],
+    "futur antérieur": [
+      "j'aurai entretenu",
+      "tu auras entretenu",
+      "il aura entretenu",
+      "nous aurons entretenu",
+      "vous aurez entretenu",
+      "ils auront entretenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'entretienne",
+      "que tu entretiennes",
+      "qu'il entretienne",
+      "que nous entretenions",
+      "que vous entreteniez",
+      "qu'ils entretiennent"
+    ],
+    "passé": [
+      "que j'aie entretenu",
+      "que tu aies entretenu",
+      "qu'il ait entretenu",
+      "que nous ayons entretenu",
+      "que vous ayez entretenu",
+      "qu'ils aient entretenu"
+    ],
+    "imparfait": [
+      "que j'entretinsse",
+      "que tu entretinsses",
+      "qu'il entretînt",
+      "que nous entretinssions",
+      "que vous entretinssiez",
+      "qu'ils entretinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse entretenu",
+      "que tu eusses entretenu",
+      "qu'il eût entretenu",
+      "que nous eussions entretenu",
+      "que vous eussiez entretenu",
+      "qu'ils eussent entretenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'entretiendrais",
+      "tu entretiendrais",
+      "il entretiendrait",
+      "nous entretiendrions",
+      "vous entretiendriez",
+      "ils entretiendraient"
+    ],
+    "passé": [
+      "j'aurais entretenu",
+      "tu aurais entretenu",
+      "il aurait entretenu",
+      "nous aurions entretenu",
+      "vous auriez entretenu",
+      "ils auraient entretenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entretiens",
+      "entretenons",
+      "entretenez"
+    ],
+    "passé": [
+      "aie entretenu",
+      "ayons entretenu",
+      "ayez entretenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "entretenir"
+    ],
+    "passé": [
+      "avoir entretenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "entretenant"
+    ],
+    "passé": [
+      "entretenu",
+      "ayant entretenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en entretenant"
+    ],
+    "passé": [
+      "en ayant entretenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je retraduis",
+      "tu retraduis",
+      "il retraduit",
+      "nous retraduisons",
+      "vous retraduisez",
+      "ils retraduisent"
+    ],
+    "passé composé": [
+      "j'ai retraduit",
+      "tu as retraduit",
+      "il a retraduit",
+      "nous avons retraduit",
+      "vous avez retraduit",
+      "ils ont retraduit"
+    ],
+    "imparfait": [
+      "je retraduisais",
+      "tu retraduisais",
+      "il retraduisait",
+      "nous retraduisions",
+      "vous retraduisiez",
+      "ils retraduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais retraduit",
+      "tu avais retraduit",
+      "il avait retraduit",
+      "nous avions retraduit",
+      "vous aviez retraduit",
+      "ils avaient retraduit"
+    ],
+    "passé simple": [
+      "je retraduisis",
+      "tu retraduisis",
+      "il retraduisit",
+      "nous retraduisîmes",
+      "vous retraduisîtes",
+      "ils retraduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus retraduit",
+      "tu eus retraduit",
+      "il eut retraduit",
+      "nous eûmes retraduit",
+      "vous eûtes retraduit",
+      "ils eurent retraduit"
+    ],
+    "futur simple": [
+      "je retraduirai",
+      "tu retraduiras",
+      "il retraduira",
+      "nous retraduirons",
+      "vous retraduirez",
+      "ils retraduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai retraduit",
+      "tu auras retraduit",
+      "il aura retraduit",
+      "nous aurons retraduit",
+      "vous aurez retraduit",
+      "ils auront retraduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je retraduise",
+      "que tu retraduises",
+      "qu'il retraduise",
+      "que nous retraduisions",
+      "que vous retraduisiez",
+      "qu'ils retraduisent"
+    ],
+    "passé": [
+      "que j'aie retraduit",
+      "que tu aies retraduit",
+      "qu'il ait retraduit",
+      "que nous ayons retraduit",
+      "que vous ayez retraduit",
+      "qu'ils aient retraduit"
+    ],
+    "imparfait": [
+      "que je retraduisisse",
+      "que tu retraduisisses",
+      "qu'il retraduisît",
+      "que nous retraduisissions",
+      "que vous retraduisissiez",
+      "qu'ils retraduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse retraduit",
+      "que tu eusses retraduit",
+      "qu'il eût retraduit",
+      "que nous eussions retraduit",
+      "que vous eussiez retraduit",
+      "qu'ils eussent retraduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je retraduirais",
+      "tu retraduirais",
+      "il retraduirait",
+      "nous retraduirions",
+      "vous retraduiriez",
+      "ils retraduiraient"
+    ],
+    "passé": [
+      "j'aurais retraduit",
+      "tu aurais retraduit",
+      "il aurait retraduit",
+      "nous aurions retraduit",
+      "vous auriez retraduit",
+      "ils auraient retraduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "retraduis",
+      "retraduisons",
+      "retraduisez"
+    ],
+    "passé": [
+      "aie retraduit",
+      "ayons retraduit",
+      "ayez retraduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "retraduire"
+    ],
+    "passé": [
+      "avoir retraduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "retraduisant"
+    ],
+    "passé": [
+      "retraduit",
+      "ayant retraduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en retraduisant"
+    ],
+    "passé": [
+      "en ayant retraduit"
+    ]
+  }
+}

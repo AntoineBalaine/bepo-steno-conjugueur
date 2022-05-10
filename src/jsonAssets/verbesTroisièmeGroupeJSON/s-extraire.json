@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'extrais",
+      "tu t'extrais",
+      "il s'extrait",
+      "nous nous extrayons",
+      "vous vous extrayez",
+      "ils s'extraient"
+    ],
+    "passé composé": [
+      "je me suis extrait",
+      "tu t'es extrait",
+      "il s'est extrait",
+      "nous nous sommes extraits",
+      "vous vous êtes extraits",
+      "ils se sont extraits"
+    ],
+    "imparfait": [
+      "je m'extrayais",
+      "tu t'extrayais",
+      "il s'extrayait",
+      "nous nous extrayions",
+      "vous vous extrayiez",
+      "ils s'extrayaient"
+    ],
+    "plus que parfait": [
+      "je m'étais extrait",
+      "tu t'étais extrait",
+      "il s'était extrait",
+      "nous nous étions extraits",
+      "vous vous étiez extraits",
+      "ils s'étaient extraits"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "je me fus extrait",
+      "tu te fus extrait",
+      "il se fut extrait",
+      "nous nous fûmes extraits",
+      "vous vous fûtes extraits",
+      "ils se furent extraits"
+    ],
+    "futur simple": [
+      "je m'extrairai",
+      "tu t'extrairas",
+      "il s'extraira",
+      "nous nous extrairons",
+      "vous vous extrairez",
+      "ils s'extrairont"
+    ],
+    "futur antérieur": [
+      "je me serai extrait",
+      "tu te seras extrait",
+      "il se sera extrait",
+      "nous nous serons extraits",
+      "vous vous serez extraits",
+      "ils se seront extraits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'extraie",
+      "que tu t'extraies",
+      "qu'il s'extraie",
+      "que nous nous extrayions",
+      "que vous vous extrayiez",
+      "qu'ils s'extraient"
+    ],
+    "passé": [
+      "que je me sois extrait",
+      "que tu te sois extrait",
+      "qu'il se soit extrait",
+      "que nous nous soyons extraits",
+      "que vous vous soyez extraits",
+      "qu'ils se soient extraits"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que je me fusse extrait",
+      "que tu te fusses extrait",
+      "qu'il se fût extrait",
+      "que nous nous fussions extraits",
+      "que vous vous fussiez extraits",
+      "qu'ils se fussent extraits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'extrairais",
+      "tu t'extrairais",
+      "il s'extrairait",
+      "nous nous extrairions",
+      "vous vous extrairiez",
+      "ils s'extrairaient"
+    ],
+    "passé": [
+      "je me serais extrait",
+      "tu te serais extrait",
+      "il se serait extrait",
+      "nous nous serions extraits",
+      "vous vous seriez extraits",
+      "ils se seraient extraits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "extrais-toi",
+      "extrayons-nous",
+      "extrayez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'extraire"
+    ],
+    "passé": [
+      "s'être extrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'extrayant"
+    ],
+    "passé": [
+      "-",
+      "s'étant extrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'extrayant"
+    ],
+    "passé": [
+      "en s'étant extrait"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je recuis",
+      "tu recuis",
+      "il recuit",
+      "nous recuisons",
+      "vous recuisez",
+      "ils recuisent"
+    ],
+    "passé composé": [
+      "j'ai recuit",
+      "tu as recuit",
+      "il a recuit",
+      "nous avons recuit",
+      "vous avez recuit",
+      "ils ont recuit"
+    ],
+    "imparfait": [
+      "je recuisais",
+      "tu recuisais",
+      "il recuisait",
+      "nous recuisions",
+      "vous recuisiez",
+      "ils recuisaient"
+    ],
+    "plus que parfait": [
+      "j'avais recuit",
+      "tu avais recuit",
+      "il avait recuit",
+      "nous avions recuit",
+      "vous aviez recuit",
+      "ils avaient recuit"
+    ],
+    "passé simple": [
+      "je recuisis",
+      "tu recuisis",
+      "il recuisit",
+      "nous recuisîmes",
+      "vous recuisîtes",
+      "ils recuisirent"
+    ],
+    "passé antérieur": [
+      "j'eus recuit",
+      "tu eus recuit",
+      "il eut recuit",
+      "nous eûmes recuit",
+      "vous eûtes recuit",
+      "ils eurent recuit"
+    ],
+    "futur simple": [
+      "je recuirai",
+      "tu recuiras",
+      "il recuira",
+      "nous recuirons",
+      "vous recuirez",
+      "ils recuiront"
+    ],
+    "futur antérieur": [
+      "j'aurai recuit",
+      "tu auras recuit",
+      "il aura recuit",
+      "nous aurons recuit",
+      "vous aurez recuit",
+      "ils auront recuit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je recuise",
+      "que tu recuises",
+      "qu'il recuise",
+      "que nous recuisions",
+      "que vous recuisiez",
+      "qu'ils recuisent"
+    ],
+    "passé": [
+      "que j'aie recuit",
+      "que tu aies recuit",
+      "qu'il ait recuit",
+      "que nous ayons recuit",
+      "que vous ayez recuit",
+      "qu'ils aient recuit"
+    ],
+    "imparfait": [
+      "que je recuisisse",
+      "que tu recuisisses",
+      "qu'il recuisît",
+      "que nous recuisissions",
+      "que vous recuisissiez",
+      "qu'ils recuisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse recuit",
+      "que tu eusses recuit",
+      "qu'il eût recuit",
+      "que nous eussions recuit",
+      "que vous eussiez recuit",
+      "qu'ils eussent recuit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je recuirais",
+      "tu recuirais",
+      "il recuirait",
+      "nous recuirions",
+      "vous recuiriez",
+      "ils recuiraient"
+    ],
+    "passé": [
+      "j'aurais recuit",
+      "tu aurais recuit",
+      "il aurait recuit",
+      "nous aurions recuit",
+      "vous auriez recuit",
+      "ils auraient recuit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "recuis",
+      "recuisons",
+      "recuisez"
+    ],
+    "passé": [
+      "aie recuit",
+      "ayons recuit",
+      "ayez recuit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "recuire"
+    ],
+    "passé": [
+      "avoir recuit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "recuisant"
+    ],
+    "passé": [
+      "recuit",
+      "ayant recuit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en recuisant"
+    ],
+    "passé": [
+      "en ayant recuit"
+    ]
+  }
+}

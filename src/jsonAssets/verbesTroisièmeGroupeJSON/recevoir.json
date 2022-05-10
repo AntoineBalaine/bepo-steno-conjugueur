@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reçois",
+      "tu reçois",
+      "il reçoit",
+      "nous recevons",
+      "vous recevez",
+      "ils reçoivent"
+    ],
+    "passé composé": [
+      "j'ai reçu",
+      "tu as reçu",
+      "il a reçu",
+      "nous avons reçu",
+      "vous avez reçu",
+      "ils ont reçu"
+    ],
+    "imparfait": [
+      "je recevais",
+      "tu recevais",
+      "il recevait",
+      "nous recevions",
+      "vous receviez",
+      "ils recevaient"
+    ],
+    "plus que parfait": [
+      "j'avais reçu",
+      "tu avais reçu",
+      "il avait reçu",
+      "nous avions reçu",
+      "vous aviez reçu",
+      "ils avaient reçu"
+    ],
+    "passé simple": [
+      "je reçus",
+      "tu reçus",
+      "il reçut",
+      "nous reçûmes",
+      "vous reçûtes",
+      "ils reçurent"
+    ],
+    "passé antérieur": [
+      "j'eus reçu",
+      "tu eus reçu",
+      "il eut reçu",
+      "nous eûmes reçu",
+      "vous eûtes reçu",
+      "ils eurent reçu"
+    ],
+    "futur simple": [
+      "je recevrai",
+      "tu recevras",
+      "il recevra",
+      "nous recevrons",
+      "vous recevrez",
+      "ils recevront"
+    ],
+    "futur antérieur": [
+      "j'aurai reçu",
+      "tu auras reçu",
+      "il aura reçu",
+      "nous aurons reçu",
+      "vous aurez reçu",
+      "ils auront reçu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reçoive",
+      "que tu reçoives",
+      "qu'il reçoive",
+      "que nous recevions",
+      "que vous receviez",
+      "qu'ils reçoivent"
+    ],
+    "passé": [
+      "que j'aie reçu",
+      "que tu aies reçu",
+      "qu'il ait reçu",
+      "que nous ayons reçu",
+      "que vous ayez reçu",
+      "qu'ils aient reçu"
+    ],
+    "imparfait": [
+      "que je reçusse",
+      "que tu reçusses",
+      "qu'il reçût",
+      "que nous reçussions",
+      "que vous reçussiez",
+      "qu'ils reçussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reçu",
+      "que tu eusses reçu",
+      "qu'il eût reçu",
+      "que nous eussions reçu",
+      "que vous eussiez reçu",
+      "qu'ils eussent reçu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je recevrais",
+      "tu recevrais",
+      "il recevrait",
+      "nous recevrions",
+      "vous recevriez",
+      "ils recevraient"
+    ],
+    "passé": [
+      "j'aurais reçu",
+      "tu aurais reçu",
+      "il aurait reçu",
+      "nous aurions reçu",
+      "vous auriez reçu",
+      "ils auraient reçu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reçois",
+      "recevons",
+      "recevez"
+    ],
+    "passé": [
+      "aie reçu",
+      "ayons reçu",
+      "ayez reçu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "recevoir"
+    ],
+    "passé": [
+      "avoir reçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "recevant"
+    ],
+    "passé": [
+      "reçu",
+      "ayant reçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en recevant"
+    ],
+    "passé": [
+      "en ayant reçu"
+    ]
+  }
+}

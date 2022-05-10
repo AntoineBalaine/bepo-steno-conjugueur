@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me vois",
+      "tu te vois",
+      "il se voit",
+      "nous nous voyons",
+      "vous vous voyez",
+      "ils se voient"
+    ],
+    "passé composé": [
+      "je me suis vu",
+      "tu t'es vu",
+      "il s'est vu",
+      "nous nous sommes vus",
+      "vous vous êtes vus",
+      "ils se sont vus"
+    ],
+    "imparfait": [
+      "je me voyais",
+      "tu te voyais",
+      "il se voyait",
+      "nous nous voyions",
+      "vous vous voyiez",
+      "ils se voyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais vu",
+      "tu t'étais vu",
+      "il s'était vu",
+      "nous nous étions vus",
+      "vous vous étiez vus",
+      "ils s'étaient vus"
+    ],
+    "passé simple": [
+      "je me vis",
+      "tu te vis",
+      "il se vit",
+      "nous nous vîmes",
+      "vous vous vîtes",
+      "ils se virent"
+    ],
+    "passé antérieur": [
+      "je me fus vu",
+      "tu te fus vu",
+      "il se fut vu",
+      "nous nous fûmes vus",
+      "vous vous fûtes vus",
+      "ils se furent vus"
+    ],
+    "futur simple": [
+      "je me verrai",
+      "tu te verras",
+      "il se verra",
+      "nous nous verrons",
+      "vous vous verrez",
+      "ils se verront"
+    ],
+    "futur antérieur": [
+      "je me serai vu",
+      "tu te seras vu",
+      "il se sera vu",
+      "nous nous serons vus",
+      "vous vous serez vus",
+      "ils se seront vus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me voie",
+      "que tu te voies",
+      "qu'il se voie",
+      "que nous nous voyions",
+      "que vous vous voyiez",
+      "qu'ils se voient"
+    ],
+    "passé": [
+      "que je me sois vu",
+      "que tu te sois vu",
+      "qu'il se soit vu",
+      "que nous nous soyons vus",
+      "que vous vous soyez vus",
+      "qu'ils se soient vus"
+    ],
+    "imparfait": [
+      "que je me visse",
+      "que tu te visses",
+      "qu'il se vît",
+      "que nous nous vissions",
+      "que vous vous vissiez",
+      "qu'ils se vissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse vu",
+      "que tu te fusses vu",
+      "qu'il se fût vu",
+      "que nous nous fussions vus",
+      "que vous vous fussiez vus",
+      "qu'ils se fussent vus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me verrais",
+      "tu te verrais",
+      "il se verrait",
+      "nous nous verrions",
+      "vous vous verriez",
+      "ils se verraient"
+    ],
+    "passé": [
+      "je me serais vu",
+      "tu te serais vu",
+      "il se serait vu",
+      "nous nous serions vus",
+      "vous vous seriez vus",
+      "ils se seraient vus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vois-toi",
+      "voyons-nous",
+      "voyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se voir"
+    ],
+    "passé": [
+      "s'être vu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se voyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant vu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se voyant"
+    ],
+    "passé": [
+      "en s'étant vu"
+    ]
+  }
+}

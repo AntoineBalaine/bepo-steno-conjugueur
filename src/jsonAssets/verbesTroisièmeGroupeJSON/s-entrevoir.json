@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entrevois",
+      "tu t'entrevois",
+      "il s'entrevoit",
+      "nous nous entrevoyons",
+      "vous vous entrevoyez",
+      "ils s'entrevoient"
+    ],
+    "passé composé": [
+      "je me suis entrevu",
+      "tu t'es entrevu",
+      "il s'est entrevu",
+      "nous nous sommes entrevus",
+      "vous vous êtes entrevus",
+      "ils se sont entrevus"
+    ],
+    "imparfait": [
+      "je m'entrevoyais",
+      "tu t'entrevoyais",
+      "il s'entrevoyait",
+      "nous nous entrevoyions",
+      "vous vous entrevoyiez",
+      "ils s'entrevoyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entrevu",
+      "tu t'étais entrevu",
+      "il s'était entrevu",
+      "nous nous étions entrevus",
+      "vous vous étiez entrevus",
+      "ils s'étaient entrevus"
+    ],
+    "passé simple": [
+      "je m'entrevis",
+      "tu t'entrevis",
+      "il s'entrevit",
+      "nous nous entrevîmes",
+      "vous vous entrevîtes",
+      "ils s'entrevirent"
+    ],
+    "passé antérieur": [
+      "je me fus entrevu",
+      "tu te fus entrevu",
+      "il se fut entrevu",
+      "nous nous fûmes entrevus",
+      "vous vous fûtes entrevus",
+      "ils se furent entrevus"
+    ],
+    "futur simple": [
+      "je m'entreverrai",
+      "tu t'entreverras",
+      "il s'entreverra",
+      "nous nous entreverrons",
+      "vous vous entreverrez",
+      "ils s'entreverront"
+    ],
+    "futur antérieur": [
+      "je me serai entrevu",
+      "tu te seras entrevu",
+      "il se sera entrevu",
+      "nous nous serons entrevus",
+      "vous vous serez entrevus",
+      "ils se seront entrevus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entrevoie",
+      "que tu t'entrevoies",
+      "qu'il s'entrevoie",
+      "que nous nous entrevoyions",
+      "que vous vous entrevoyiez",
+      "qu'ils s'entrevoient"
+    ],
+    "passé": [
+      "que je me sois entrevu",
+      "que tu te sois entrevu",
+      "qu'il se soit entrevu",
+      "que nous nous soyons entrevus",
+      "que vous vous soyez entrevus",
+      "qu'ils se soient entrevus"
+    ],
+    "imparfait": [
+      "que je m'entrevisse",
+      "que tu t'entrevisses",
+      "qu'il s'entrevît",
+      "que nous nous entrevissions",
+      "que vous vous entrevissiez",
+      "qu'ils s'entrevissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entrevu",
+      "que tu te fusses entrevu",
+      "qu'il se fût entrevu",
+      "que nous nous fussions entrevus",
+      "que vous vous fussiez entrevus",
+      "qu'ils se fussent entrevus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entreverrais",
+      "tu t'entreverrais",
+      "il s'entreverrait",
+      "nous nous entreverrions",
+      "vous vous entreverriez",
+      "ils s'entreverraient"
+    ],
+    "passé": [
+      "je me serais entrevu",
+      "tu te serais entrevu",
+      "il se serait entrevu",
+      "nous nous serions entrevus",
+      "vous vous seriez entrevus",
+      "ils se seraient entrevus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entrevois-toi",
+      "entrevoyons-nous",
+      "entrevoyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entrevoir"
+    ],
+    "passé": [
+      "s'être entrevu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entrevoyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entrevu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entrevoyant"
+    ],
+    "passé": [
+      "en s'étant entrevu"
+    ]
+  }
+}

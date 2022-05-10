@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'étreins",
+      "tu étreins",
+      "il étreint",
+      "nous étreignons",
+      "vous étreignez",
+      "ils étreignent"
+    ],
+    "passé composé": [
+      "j'ai étreint",
+      "tu as étreint",
+      "il a étreint",
+      "nous avons étreint",
+      "vous avez étreint",
+      "ils ont étreint"
+    ],
+    "imparfait": [
+      "j'étreignais",
+      "tu étreignais",
+      "il étreignait",
+      "nous étreignions",
+      "vous étreigniez",
+      "ils étreignaient"
+    ],
+    "plus que parfait": [
+      "j'avais étreint",
+      "tu avais étreint",
+      "il avait étreint",
+      "nous avions étreint",
+      "vous aviez étreint",
+      "ils avaient étreint"
+    ],
+    "passé simple": [
+      "j'étreignis",
+      "tu étreignis",
+      "il étreignit",
+      "nous étreignîmes",
+      "vous étreignîtes",
+      "ils étreignirent"
+    ],
+    "passé antérieur": [
+      "j'eus étreint",
+      "tu eus étreint",
+      "il eut étreint",
+      "nous eûmes étreint",
+      "vous eûtes étreint",
+      "ils eurent étreint"
+    ],
+    "futur simple": [
+      "j'étreindrai",
+      "tu étreindras",
+      "il étreindra",
+      "nous étreindrons",
+      "vous étreindrez",
+      "ils étreindront"
+    ],
+    "futur antérieur": [
+      "j'aurai étreint",
+      "tu auras étreint",
+      "il aura étreint",
+      "nous aurons étreint",
+      "vous aurez étreint",
+      "ils auront étreint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'étreigne",
+      "que tu étreignes",
+      "qu'il étreigne",
+      "que nous étreignions",
+      "que vous étreigniez",
+      "qu'ils étreignent"
+    ],
+    "passé": [
+      "que j'aie étreint",
+      "que tu aies étreint",
+      "qu'il ait étreint",
+      "que nous ayons étreint",
+      "que vous ayez étreint",
+      "qu'ils aient étreint"
+    ],
+    "imparfait": [
+      "que j'étreignisse",
+      "que tu étreignisses",
+      "qu'il étreignît",
+      "que nous étreignissions",
+      "que vous étreignissiez",
+      "qu'ils étreignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse étreint",
+      "que tu eusses étreint",
+      "qu'il eût étreint",
+      "que nous eussions étreint",
+      "que vous eussiez étreint",
+      "qu'ils eussent étreint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'étreindrais",
+      "tu étreindrais",
+      "il étreindrait",
+      "nous étreindrions",
+      "vous étreindriez",
+      "ils étreindraient"
+    ],
+    "passé": [
+      "j'aurais étreint",
+      "tu aurais étreint",
+      "il aurait étreint",
+      "nous aurions étreint",
+      "vous auriez étreint",
+      "ils auraient étreint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "étreins",
+      "étreignons",
+      "étreignez"
+    ],
+    "passé": [
+      "aie étreint",
+      "ayons étreint",
+      "ayez étreint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "étreindre"
+    ],
+    "passé": [
+      "avoir étreint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "étreignant"
+    ],
+    "passé": [
+      "étreint",
+      "ayant étreint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en étreignant"
+    ],
+    "passé": [
+      "en ayant étreint"
+    ]
+  }
+}

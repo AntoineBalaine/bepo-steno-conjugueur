@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me reconnais",
+      "tu te reconnais",
+      "il se reconnaît",
+      "nous nous reconnaissons",
+      "vous vous reconnaissez",
+      "ils se reconnaissent"
+    ],
+    "passé composé": [
+      "je me suis reconnu",
+      "tu t'es reconnu",
+      "il s'est reconnu",
+      "nous nous sommes reconnus",
+      "vous vous êtes reconnus",
+      "ils se sont reconnus"
+    ],
+    "imparfait": [
+      "je me reconnaissais",
+      "tu te reconnaissais",
+      "il se reconnaissait",
+      "nous nous reconnaissions",
+      "vous vous reconnaissiez",
+      "ils se reconnaissaient"
+    ],
+    "plus que parfait": [
+      "je m'étais reconnu",
+      "tu t'étais reconnu",
+      "il s'était reconnu",
+      "nous nous étions reconnus",
+      "vous vous étiez reconnus",
+      "ils s'étaient reconnus"
+    ],
+    "passé simple": [
+      "je me reconnus",
+      "tu te reconnus",
+      "il se reconnut",
+      "nous nous reconnûmes",
+      "vous vous reconnûtes",
+      "ils se reconnurent"
+    ],
+    "passé antérieur": [
+      "je me fus reconnu",
+      "tu te fus reconnu",
+      "il se fut reconnu",
+      "nous nous fûmes reconnus",
+      "vous vous fûtes reconnus",
+      "ils se furent reconnus"
+    ],
+    "futur simple": [
+      "je me reconnaîtrai",
+      "tu te reconnaîtras",
+      "il se reconnaîtra",
+      "nous nous reconnaîtrons",
+      "vous vous reconnaîtrez",
+      "ils se reconnaîtront"
+    ],
+    "futur antérieur": [
+      "je me serai reconnu",
+      "tu te seras reconnu",
+      "il se sera reconnu",
+      "nous nous serons reconnus",
+      "vous vous serez reconnus",
+      "ils se seront reconnus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me reconnaisse",
+      "que tu te reconnaisses",
+      "qu'il se reconnaisse",
+      "que nous nous reconnaissions",
+      "que vous vous reconnaissiez",
+      "qu'ils se reconnaissent"
+    ],
+    "passé": [
+      "que je me sois reconnu",
+      "que tu te sois reconnu",
+      "qu'il se soit reconnu",
+      "que nous nous soyons reconnus",
+      "que vous vous soyez reconnus",
+      "qu'ils se soient reconnus"
+    ],
+    "imparfait": [
+      "que je me reconnusse",
+      "que tu te reconnusses",
+      "qu'il se reconnût",
+      "que nous nous reconnussions",
+      "que vous vous reconnussiez",
+      "qu'ils se reconnussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse reconnu",
+      "que tu te fusses reconnu",
+      "qu'il se fût reconnu",
+      "que nous nous fussions reconnus",
+      "que vous vous fussiez reconnus",
+      "qu'ils se fussent reconnus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me reconnaîtrais",
+      "tu te reconnaîtrais",
+      "il se reconnaîtrait",
+      "nous nous reconnaîtrions",
+      "vous vous reconnaîtriez",
+      "ils se reconnaîtraient"
+    ],
+    "passé": [
+      "je me serais reconnu",
+      "tu te serais reconnu",
+      "il se serait reconnu",
+      "nous nous serions reconnus",
+      "vous vous seriez reconnus",
+      "ils se seraient reconnus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reconnais-toi",
+      "reconnaissons-nous",
+      "reconnaissez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se reconnaître"
+    ],
+    "passé": [
+      "s'être reconnu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se reconnaissant"
+    ],
+    "passé": [
+      "-",
+      "s'étant reconnu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se reconnaissant"
+    ],
+    "passé": [
+      "en s'étant reconnu"
+    ]
+  }
+}

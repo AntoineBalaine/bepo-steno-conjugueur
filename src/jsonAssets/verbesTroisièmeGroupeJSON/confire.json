@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je confis",
+      "tu confis",
+      "il confit",
+      "nous confisons",
+      "vous confisez",
+      "ils confisent"
+    ],
+    "passé composé": [
+      "j'ai confit",
+      "tu as confit",
+      "il a confit",
+      "nous avons confit",
+      "vous avez confit",
+      "ils ont confit"
+    ],
+    "imparfait": [
+      "je confisais",
+      "tu confisais",
+      "il confisait",
+      "nous confisions",
+      "vous confisiez",
+      "ils confisaient"
+    ],
+    "plus que parfait": [
+      "j'avais confit",
+      "tu avais confit",
+      "il avait confit",
+      "nous avions confit",
+      "vous aviez confit",
+      "ils avaient confit"
+    ],
+    "passé simple": [
+      "je confis",
+      "tu confis",
+      "il confit",
+      "nous confîmes",
+      "vous confîtes",
+      "ils confirent"
+    ],
+    "passé antérieur": [
+      "j'eus confit",
+      "tu eus confit",
+      "il eut confit",
+      "nous eûmes confit",
+      "vous eûtes confit",
+      "ils eurent confit"
+    ],
+    "futur simple": [
+      "je confirai",
+      "tu confiras",
+      "il confira",
+      "nous confirons",
+      "vous confirez",
+      "ils confiront"
+    ],
+    "futur antérieur": [
+      "j'aurai confit",
+      "tu auras confit",
+      "il aura confit",
+      "nous aurons confit",
+      "vous aurez confit",
+      "ils auront confit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je confise",
+      "que tu confises",
+      "qu'il confise",
+      "que nous confisions",
+      "que vous confisiez",
+      "qu'ils confisent"
+    ],
+    "passé": [
+      "que j'aie confit",
+      "que tu aies confit",
+      "qu'il ait confit",
+      "que nous ayons confit",
+      "que vous ayez confit",
+      "qu'ils aient confit"
+    ],
+    "imparfait": [
+      "que je confisse",
+      "que tu confisses",
+      "qu'il confît",
+      "que nous confissions",
+      "que vous confissiez",
+      "qu'ils confissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse confit",
+      "que tu eusses confit",
+      "qu'il eût confit",
+      "que nous eussions confit",
+      "que vous eussiez confit",
+      "qu'ils eussent confit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je confirais",
+      "tu confirais",
+      "il confirait",
+      "nous confirions",
+      "vous confiriez",
+      "ils confiraient"
+    ],
+    "passé": [
+      "j'aurais confit",
+      "tu aurais confit",
+      "il aurait confit",
+      "nous aurions confit",
+      "vous auriez confit",
+      "ils auraient confit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "confis",
+      "confisons",
+      "confisez"
+    ],
+    "passé": [
+      "aie confit",
+      "ayons confit",
+      "ayez confit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "confire"
+    ],
+    "passé": [
+      "avoir confit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "confisant"
+    ],
+    "passé": [
+      "confit",
+      "ayant confit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en confisant"
+    ],
+    "passé": [
+      "en ayant confit"
+    ]
+  }
+}

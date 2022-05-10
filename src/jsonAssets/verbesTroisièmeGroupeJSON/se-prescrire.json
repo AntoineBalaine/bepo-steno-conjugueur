@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me prescris",
+      "tu te prescris",
+      "il se prescrit",
+      "nous nous prescrivons",
+      "vous vous prescrivez",
+      "ils se prescrivent"
+    ],
+    "passé composé": [
+      "je me suis prescrit",
+      "tu t'es prescrit",
+      "il s'est prescrit",
+      "nous nous sommes prescrits",
+      "vous vous êtes prescrits",
+      "ils se sont prescrits"
+    ],
+    "imparfait": [
+      "je me prescrivais",
+      "tu te prescrivais",
+      "il se prescrivait",
+      "nous nous prescrivions",
+      "vous vous prescriviez",
+      "ils se prescrivaient"
+    ],
+    "plus que parfait": [
+      "je m'étais prescrit",
+      "tu t'étais prescrit",
+      "il s'était prescrit",
+      "nous nous étions prescrits",
+      "vous vous étiez prescrits",
+      "ils s'étaient prescrits"
+    ],
+    "passé simple": [
+      "je me prescrivis",
+      "tu te prescrivis",
+      "il se prescrivit",
+      "nous nous prescrivîmes",
+      "vous vous prescrivîtes",
+      "ils se prescrivirent"
+    ],
+    "passé antérieur": [
+      "je me fus prescrit",
+      "tu te fus prescrit",
+      "il se fut prescrit",
+      "nous nous fûmes prescrits",
+      "vous vous fûtes prescrits",
+      "ils se furent prescrits"
+    ],
+    "futur simple": [
+      "je me prescrirai",
+      "tu te prescriras",
+      "il se prescrira",
+      "nous nous prescrirons",
+      "vous vous prescrirez",
+      "ils se prescriront"
+    ],
+    "futur antérieur": [
+      "je me serai prescrit",
+      "tu te seras prescrit",
+      "il se sera prescrit",
+      "nous nous serons prescrits",
+      "vous vous serez prescrits",
+      "ils se seront prescrits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me prescrive",
+      "que tu te prescrives",
+      "qu'il se prescrive",
+      "que nous nous prescrivions",
+      "que vous vous prescriviez",
+      "qu'ils se prescrivent"
+    ],
+    "passé": [
+      "que je me sois prescrit",
+      "que tu te sois prescrit",
+      "qu'il se soit prescrit",
+      "que nous nous soyons prescrits",
+      "que vous vous soyez prescrits",
+      "qu'ils se soient prescrits"
+    ],
+    "imparfait": [
+      "que je me prescrivisse",
+      "que tu te prescrivisses",
+      "qu'il se prescrivît",
+      "que nous nous prescrivissions",
+      "que vous vous prescrivissiez",
+      "qu'ils se prescrivissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse prescrit",
+      "que tu te fusses prescrit",
+      "qu'il se fût prescrit",
+      "que nous nous fussions prescrits",
+      "que vous vous fussiez prescrits",
+      "qu'ils se fussent prescrits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me prescrirais",
+      "tu te prescrirais",
+      "il se prescrirait",
+      "nous nous prescririons",
+      "vous vous prescririez",
+      "ils se prescriraient"
+    ],
+    "passé": [
+      "je me serais prescrit",
+      "tu te serais prescrit",
+      "il se serait prescrit",
+      "nous nous serions prescrits",
+      "vous vous seriez prescrits",
+      "ils se seraient prescrits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prescris-toi",
+      "prescrivons-nous",
+      "prescrivez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se prescrire"
+    ],
+    "passé": [
+      "s'être prescrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se prescrivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant prescrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se prescrivant"
+    ],
+    "passé": [
+      "en s'étant prescrit"
+    ]
+  }
+}

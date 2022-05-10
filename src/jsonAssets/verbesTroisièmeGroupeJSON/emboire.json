@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'embois",
+      "tu embois",
+      "il emboit",
+      "nous embuvons",
+      "vous embuvez",
+      "ils emboivent"
+    ],
+    "passé composé": [
+      "j'ai embu",
+      "tu as embu",
+      "il a embu",
+      "nous avons embu",
+      "vous avez embu",
+      "ils ont embu"
+    ],
+    "imparfait": [
+      "j'embuvais",
+      "tu embuvais",
+      "il embuvait",
+      "nous embuvions",
+      "vous embuviez",
+      "ils embuvaient"
+    ],
+    "plus que parfait": [
+      "j'avais embu",
+      "tu avais embu",
+      "il avait embu",
+      "nous avions embu",
+      "vous aviez embu",
+      "ils avaient embu"
+    ],
+    "passé simple": [
+      "j'embus",
+      "tu embus",
+      "il embut",
+      "nous embûmes",
+      "vous embûtes",
+      "ils emburent"
+    ],
+    "passé antérieur": [
+      "j'eus embu",
+      "tu eus embu",
+      "il eut embu",
+      "nous eûmes embu",
+      "vous eûtes embu",
+      "ils eurent embu"
+    ],
+    "futur simple": [
+      "j'emboirai",
+      "tu emboiras",
+      "il emboira",
+      "nous emboirons",
+      "vous emboirez",
+      "ils emboiront"
+    ],
+    "futur antérieur": [
+      "j'aurai embu",
+      "tu auras embu",
+      "il aura embu",
+      "nous aurons embu",
+      "vous aurez embu",
+      "ils auront embu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'emboive",
+      "que tu emboives",
+      "qu'il emboive",
+      "que nous embuvions",
+      "que vous embuviez",
+      "qu'ils emboivent"
+    ],
+    "passé": [
+      "que j'aie embu",
+      "que tu aies embu",
+      "qu'il ait embu",
+      "que nous ayons embu",
+      "que vous ayez embu",
+      "qu'ils aient embu"
+    ],
+    "imparfait": [
+      "que j'embusse",
+      "que tu embusses",
+      "qu'il embût",
+      "que nous embussions",
+      "que vous embussiez",
+      "qu'ils embussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse embu",
+      "que tu eusses embu",
+      "qu'il eût embu",
+      "que nous eussions embu",
+      "que vous eussiez embu",
+      "qu'ils eussent embu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'emboirais",
+      "tu emboirais",
+      "il emboirait",
+      "nous emboirions",
+      "vous emboiriez",
+      "ils emboiraient"
+    ],
+    "passé": [
+      "j'aurais embu",
+      "tu aurais embu",
+      "il aurait embu",
+      "nous aurions embu",
+      "vous auriez embu",
+      "ils auraient embu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "embois",
+      "embuvons",
+      "embuvez"
+    ],
+    "passé": [
+      "aie embu",
+      "ayons embu",
+      "ayez embu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "emboire"
+    ],
+    "passé": [
+      "avoir embu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "embuvant"
+    ],
+    "passé": [
+      "embu",
+      "ayant embu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en embuvant"
+    ],
+    "passé": [
+      "en ayant embu"
+    ]
+  }
+}

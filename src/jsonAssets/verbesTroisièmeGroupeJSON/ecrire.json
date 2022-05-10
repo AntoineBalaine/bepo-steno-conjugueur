@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'écris",
+      "tu écris",
+      "il écrit",
+      "nous écrivons",
+      "vous écrivez",
+      "ils écrivent"
+    ],
+    "passé composé": [
+      "j'ai écrit",
+      "tu as écrit",
+      "il a écrit",
+      "nous avons écrit",
+      "vous avez écrit",
+      "ils ont écrit"
+    ],
+    "imparfait": [
+      "j'écrivais",
+      "tu écrivais",
+      "il écrivait",
+      "nous écrivions",
+      "vous écriviez",
+      "ils écrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais écrit",
+      "tu avais écrit",
+      "il avait écrit",
+      "nous avions écrit",
+      "vous aviez écrit",
+      "ils avaient écrit"
+    ],
+    "passé simple": [
+      "j'écrivis",
+      "tu écrivis",
+      "il écrivit",
+      "nous écrivîmes",
+      "vous écrivîtes",
+      "ils écrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus écrit",
+      "tu eus écrit",
+      "il eut écrit",
+      "nous eûmes écrit",
+      "vous eûtes écrit",
+      "ils eurent écrit"
+    ],
+    "futur simple": [
+      "j'écrirai",
+      "tu écriras",
+      "il écrira",
+      "nous écrirons",
+      "vous écrirez",
+      "ils écriront"
+    ],
+    "futur antérieur": [
+      "j'aurai écrit",
+      "tu auras écrit",
+      "il aura écrit",
+      "nous aurons écrit",
+      "vous aurez écrit",
+      "ils auront écrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'écrive",
+      "que tu écrives",
+      "qu'il écrive",
+      "que nous écrivions",
+      "que vous écriviez",
+      "qu'ils écrivent"
+    ],
+    "passé": [
+      "que j'aie écrit",
+      "que tu aies écrit",
+      "qu'il ait écrit",
+      "que nous ayons écrit",
+      "que vous ayez écrit",
+      "qu'ils aient écrit"
+    ],
+    "imparfait": [
+      "que j'écrivisse",
+      "que tu écrivisses",
+      "qu'il écrivît",
+      "que nous écrivissions",
+      "que vous écrivissiez",
+      "qu'ils écrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse écrit",
+      "que tu eusses écrit",
+      "qu'il eût écrit",
+      "que nous eussions écrit",
+      "que vous eussiez écrit",
+      "qu'ils eussent écrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'écrirais",
+      "tu écrirais",
+      "il écrirait",
+      "nous écririons",
+      "vous écririez",
+      "ils écriraient"
+    ],
+    "passé": [
+      "j'aurais écrit",
+      "tu aurais écrit",
+      "il aurait écrit",
+      "nous aurions écrit",
+      "vous auriez écrit",
+      "ils auraient écrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "écris",
+      "écrivons",
+      "écrivez"
+    ],
+    "passé": [
+      "aie écrit",
+      "ayons écrit",
+      "ayez écrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "écrire"
+    ],
+    "passé": [
+      "avoir écrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "écrivant"
+    ],
+    "passé": [
+      "écrit",
+      "ayant écrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en écrivant"
+    ],
+    "passé": [
+      "en ayant écrit"
+    ]
+  }
+}

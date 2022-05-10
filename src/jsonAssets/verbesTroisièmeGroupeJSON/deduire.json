@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je déduis",
+      "tu déduis",
+      "il déduit",
+      "nous déduisons",
+      "vous déduisez",
+      "ils déduisent"
+    ],
+    "passé composé": [
+      "j'ai déduit",
+      "tu as déduit",
+      "il a déduit",
+      "nous avons déduit",
+      "vous avez déduit",
+      "ils ont déduit"
+    ],
+    "imparfait": [
+      "je déduisais",
+      "tu déduisais",
+      "il déduisait",
+      "nous déduisions",
+      "vous déduisiez",
+      "ils déduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais déduit",
+      "tu avais déduit",
+      "il avait déduit",
+      "nous avions déduit",
+      "vous aviez déduit",
+      "ils avaient déduit"
+    ],
+    "passé simple": [
+      "je déduisis",
+      "tu déduisis",
+      "il déduisit",
+      "nous déduisîmes",
+      "vous déduisîtes",
+      "ils déduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus déduit",
+      "tu eus déduit",
+      "il eut déduit",
+      "nous eûmes déduit",
+      "vous eûtes déduit",
+      "ils eurent déduit"
+    ],
+    "futur simple": [
+      "je déduirai",
+      "tu déduiras",
+      "il déduira",
+      "nous déduirons",
+      "vous déduirez",
+      "ils déduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai déduit",
+      "tu auras déduit",
+      "il aura déduit",
+      "nous aurons déduit",
+      "vous aurez déduit",
+      "ils auront déduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je déduise",
+      "que tu déduises",
+      "qu'il déduise",
+      "que nous déduisions",
+      "que vous déduisiez",
+      "qu'ils déduisent"
+    ],
+    "passé": [
+      "que j'aie déduit",
+      "que tu aies déduit",
+      "qu'il ait déduit",
+      "que nous ayons déduit",
+      "que vous ayez déduit",
+      "qu'ils aient déduit"
+    ],
+    "imparfait": [
+      "que je déduisisse",
+      "que tu déduisisses",
+      "qu'il déduisît",
+      "que nous déduisissions",
+      "que vous déduisissiez",
+      "qu'ils déduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse déduit",
+      "que tu eusses déduit",
+      "qu'il eût déduit",
+      "que nous eussions déduit",
+      "que vous eussiez déduit",
+      "qu'ils eussent déduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je déduirais",
+      "tu déduirais",
+      "il déduirait",
+      "nous déduirions",
+      "vous déduiriez",
+      "ils déduiraient"
+    ],
+    "passé": [
+      "j'aurais déduit",
+      "tu aurais déduit",
+      "il aurait déduit",
+      "nous aurions déduit",
+      "vous auriez déduit",
+      "ils auraient déduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déduis",
+      "déduisons",
+      "déduisez"
+    ],
+    "passé": [
+      "aie déduit",
+      "ayons déduit",
+      "ayez déduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "déduire"
+    ],
+    "passé": [
+      "avoir déduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "déduisant"
+    ],
+    "passé": [
+      "déduit",
+      "ayant déduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en déduisant"
+    ],
+    "passé": [
+      "en ayant déduit"
+    ]
+  }
+}

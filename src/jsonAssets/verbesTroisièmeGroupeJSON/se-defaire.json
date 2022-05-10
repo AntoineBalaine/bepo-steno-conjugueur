@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me défais",
+      "tu te défais",
+      "il se défait",
+      "nous nous défaisons",
+      "vous vous défaites",
+      "ils se défont"
+    ],
+    "passé composé": [
+      "je me suis défait",
+      "tu t'es défait",
+      "il s'est défait",
+      "nous nous sommes défaits",
+      "vous vous êtes défaits",
+      "ils se sont défaits"
+    ],
+    "imparfait": [
+      "je me défaisais",
+      "tu te défaisais",
+      "il se défaisait",
+      "nous nous défaisions",
+      "vous vous défaisiez",
+      "ils se défaisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais défait",
+      "tu t'étais défait",
+      "il s'était défait",
+      "nous nous étions défaits",
+      "vous vous étiez défaits",
+      "ils s'étaient défaits"
+    ],
+    "passé simple": [
+      "je me défis",
+      "tu te défis",
+      "il se défit",
+      "nous nous défîmes",
+      "vous vous défîtes",
+      "ils se défirent"
+    ],
+    "passé antérieur": [
+      "je me fus défait",
+      "tu te fus défait",
+      "il se fut défait",
+      "nous nous fûmes défaits",
+      "vous vous fûtes défaits",
+      "ils se furent défaits"
+    ],
+    "futur simple": [
+      "je me déferai",
+      "tu te déferas",
+      "il se défera",
+      "nous nous déferons",
+      "vous vous déferez",
+      "ils se déferont"
+    ],
+    "futur antérieur": [
+      "je me serai défait",
+      "tu te seras défait",
+      "il se sera défait",
+      "nous nous serons défaits",
+      "vous vous serez défaits",
+      "ils se seront défaits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me défasse",
+      "que tu te défasses",
+      "qu'il se défasse",
+      "que nous nous défassions",
+      "que vous vous défassiez",
+      "qu'ils se défassent"
+    ],
+    "passé": [
+      "que je me sois défait",
+      "que tu te sois défait",
+      "qu'il se soit défait",
+      "que nous nous soyons défaits",
+      "que vous vous soyez défaits",
+      "qu'ils se soient défaits"
+    ],
+    "imparfait": [
+      "que je me défisse",
+      "que tu te défisses",
+      "qu'il se défît",
+      "que nous nous défissions",
+      "que vous vous défissiez",
+      "qu'ils se défissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse défait",
+      "que tu te fusses défait",
+      "qu'il se fût défait",
+      "que nous nous fussions défaits",
+      "que vous vous fussiez défaits",
+      "qu'ils se fussent défaits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me déferais",
+      "tu te déferais",
+      "il se déferait",
+      "nous nous déferions",
+      "vous vous déferiez",
+      "ils se déferaient"
+    ],
+    "passé": [
+      "je me serais défait",
+      "tu te serais défait",
+      "il se serait défait",
+      "nous nous serions défaits",
+      "vous vous seriez défaits",
+      "ils se seraient défaits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "défais-toi",
+      "défaisons-nous",
+      "défaites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se défaire"
+    ],
+    "passé": [
+      "s'être défait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se défaisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant défait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se défaisant"
+    ],
+    "passé": [
+      "en s'étant défait"
+    ]
+  }
+}

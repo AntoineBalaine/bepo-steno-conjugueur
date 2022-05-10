@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je surviens",
+      "tu surviens",
+      "il survient",
+      "nous survenons",
+      "vous survenez",
+      "ils surviennent"
+    ],
+    "passé composé": [
+      "je suis survenu",
+      "tu es survenu",
+      "il est survenu",
+      "nous sommes survenus",
+      "vous êtes survenus",
+      "ils sont survenus"
+    ],
+    "imparfait": [
+      "je survenais",
+      "tu survenais",
+      "il survenait",
+      "nous survenions",
+      "vous surveniez",
+      "ils survenaient"
+    ],
+    "plus que parfait": [
+      "j'étais survenu",
+      "tu étais survenu",
+      "il était survenu",
+      "nous étions survenus",
+      "vous étiez survenus",
+      "ils étaient survenus"
+    ],
+    "passé simple": [
+      "je survins",
+      "tu survins",
+      "il survint",
+      "nous survînmes",
+      "vous survîntes",
+      "ils survinrent"
+    ],
+    "passé antérieur": [
+      "je fus survenu",
+      "tu fus survenu",
+      "il fut survenu",
+      "nous fûmes survenus",
+      "vous fûtes survenus",
+      "ils furent survenus"
+    ],
+    "futur simple": [
+      "je surviendrai",
+      "tu surviendras",
+      "il surviendra",
+      "nous surviendrons",
+      "vous surviendrez",
+      "ils surviendront"
+    ],
+    "futur antérieur": [
+      "je serai survenu",
+      "tu seras survenu",
+      "il sera survenu",
+      "nous serons survenus",
+      "vous serez survenus",
+      "ils seront survenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je survienne",
+      "que tu surviennes",
+      "qu'il survienne",
+      "que nous survenions",
+      "que vous surveniez",
+      "qu'ils surviennent"
+    ],
+    "passé": [
+      "que je sois survenu",
+      "que tu sois survenu",
+      "qu'il soit survenu",
+      "que nous soyons survenus",
+      "que vous soyez survenus",
+      "qu'ils soient survenus"
+    ],
+    "imparfait": [
+      "que je survinsse",
+      "que tu survinsses",
+      "qu'il survînt",
+      "que nous survinssions",
+      "que vous survinssiez",
+      "qu'ils survinssent"
+    ],
+    "plus que parfait": [
+      "que je fusse survenu",
+      "que tu fusses survenu",
+      "qu'il fût survenu",
+      "que nous fussions survenus",
+      "que vous fussiez survenus",
+      "qu'ils fussent survenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je surviendrais",
+      "tu surviendrais",
+      "il surviendrait",
+      "nous surviendrions",
+      "vous surviendriez",
+      "ils surviendraient"
+    ],
+    "passé": [
+      "je serais survenu",
+      "tu serais survenu",
+      "il serait survenu",
+      "nous serions survenus",
+      "vous seriez survenus",
+      "ils seraient survenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "surviens",
+      "survenons",
+      "survenez"
+    ],
+    "passé": [
+      "sois survenu",
+      "soyons survenus",
+      "soyez survenus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "survenir"
+    ],
+    "passé": [
+      "être survenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "survenant"
+    ],
+    "passé": [
+      "survenu",
+      "étant survenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en survenant"
+    ],
+    "passé": [
+      "en étant survenu"
+    ]
+  }
+}

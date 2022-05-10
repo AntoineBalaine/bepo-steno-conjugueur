@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je démens",
+      "tu démens",
+      "il dément",
+      "nous démentons",
+      "vous démentez",
+      "ils démentent"
+    ],
+    "passé composé": [
+      "j'ai démenti",
+      "tu as démenti",
+      "il a démenti",
+      "nous avons démenti",
+      "vous avez démenti",
+      "ils ont démenti"
+    ],
+    "imparfait": [
+      "je démentais",
+      "tu démentais",
+      "il démentait",
+      "nous démentions",
+      "vous démentiez",
+      "ils démentaient"
+    ],
+    "plus que parfait": [
+      "j'avais démenti",
+      "tu avais démenti",
+      "il avait démenti",
+      "nous avions démenti",
+      "vous aviez démenti",
+      "ils avaient démenti"
+    ],
+    "passé simple": [
+      "je démentis",
+      "tu démentis",
+      "il démentit",
+      "nous démentîmes",
+      "vous démentîtes",
+      "ils démentirent"
+    ],
+    "passé antérieur": [
+      "j'eus démenti",
+      "tu eus démenti",
+      "il eut démenti",
+      "nous eûmes démenti",
+      "vous eûtes démenti",
+      "ils eurent démenti"
+    ],
+    "futur simple": [
+      "je démentirai",
+      "tu démentiras",
+      "il démentira",
+      "nous démentirons",
+      "vous démentirez",
+      "ils démentiront"
+    ],
+    "futur antérieur": [
+      "j'aurai démenti",
+      "tu auras démenti",
+      "il aura démenti",
+      "nous aurons démenti",
+      "vous aurez démenti",
+      "ils auront démenti"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je démente",
+      "que tu démentes",
+      "qu'il démente",
+      "que nous démentions",
+      "que vous démentiez",
+      "qu'ils démentent"
+    ],
+    "passé": [
+      "que j'aie démenti",
+      "que tu aies démenti",
+      "qu'il ait démenti",
+      "que nous ayons démenti",
+      "que vous ayez démenti",
+      "qu'ils aient démenti"
+    ],
+    "imparfait": [
+      "que je démentisse",
+      "que tu démentisses",
+      "qu'il démentît",
+      "que nous démentissions",
+      "que vous démentissiez",
+      "qu'ils démentissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse démenti",
+      "que tu eusses démenti",
+      "qu'il eût démenti",
+      "que nous eussions démenti",
+      "que vous eussiez démenti",
+      "qu'ils eussent démenti"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je démentirais",
+      "tu démentirais",
+      "il démentirait",
+      "nous démentirions",
+      "vous démentiriez",
+      "ils démentiraient"
+    ],
+    "passé": [
+      "j'aurais démenti",
+      "tu aurais démenti",
+      "il aurait démenti",
+      "nous aurions démenti",
+      "vous auriez démenti",
+      "ils auraient démenti"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "démens",
+      "démentons",
+      "démentez"
+    ],
+    "passé": [
+      "aie démenti",
+      "ayons démenti",
+      "ayez démenti"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "démentir"
+    ],
+    "passé": [
+      "avoir démenti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "démentant"
+    ],
+    "passé": [
+      "démenti",
+      "ayant démenti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en démentant"
+    ],
+    "passé": [
+      "en ayant démenti"
+    ]
+  }
+}

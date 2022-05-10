@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'enfuis",
+      "tu t'enfuis",
+      "il s'enfuit",
+      "nous nous enfuyons",
+      "vous vous enfuyez",
+      "ils s'enfuient"
+    ],
+    "passé composé": [
+      "je me suis enfui",
+      "tu t'es enfui",
+      "il s'est enfui",
+      "nous nous sommes enfuis",
+      "vous vous êtes enfuis",
+      "ils se sont enfuis"
+    ],
+    "imparfait": [
+      "je m'enfuyais",
+      "tu t'enfuyais",
+      "il s'enfuyait",
+      "nous nous enfuyions",
+      "vous vous enfuyiez",
+      "ils s'enfuyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais enfui",
+      "tu t'étais enfui",
+      "il s'était enfui",
+      "nous nous étions enfuis",
+      "vous vous étiez enfuis",
+      "ils s'étaient enfuis"
+    ],
+    "passé simple": [
+      "je m'enfuis",
+      "tu t'enfuis",
+      "il s'enfuit",
+      "nous nous enfuîmes",
+      "vous vous enfuîtes",
+      "ils s'enfuirent"
+    ],
+    "passé antérieur": [
+      "je me fus enfui",
+      "tu te fus enfui",
+      "il se fut enfui",
+      "nous nous fûmes enfuis",
+      "vous vous fûtes enfuis",
+      "ils se furent enfuis"
+    ],
+    "futur simple": [
+      "je m'enfuirai",
+      "tu t'enfuiras",
+      "il s'enfuira",
+      "nous nous enfuirons",
+      "vous vous enfuirez",
+      "ils s'enfuiront"
+    ],
+    "futur antérieur": [
+      "je me serai enfui",
+      "tu te seras enfui",
+      "il se sera enfui",
+      "nous nous serons enfuis",
+      "vous vous serez enfuis",
+      "ils se seront enfuis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'enfuie",
+      "que tu t'enfuies",
+      "qu'il s'enfuie",
+      "que nous nous enfuyions",
+      "que vous vous enfuyiez",
+      "qu'ils s'enfuient"
+    ],
+    "passé": [
+      "que je me sois enfui",
+      "que tu te sois enfui",
+      "qu'il se soit enfui",
+      "que nous nous soyons enfuis",
+      "que vous vous soyez enfuis",
+      "qu'ils se soient enfuis"
+    ],
+    "imparfait": [
+      "que je m'enfuisse",
+      "que tu t'enfuisses",
+      "qu'il s'enfuît",
+      "que nous nous enfuissions",
+      "que vous vous enfuissiez",
+      "qu'ils s'enfuissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse enfui",
+      "que tu te fusses enfui",
+      "qu'il se fût enfui",
+      "que nous nous fussions enfuis",
+      "que vous vous fussiez enfuis",
+      "qu'ils se fussent enfuis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'enfuirais",
+      "tu t'enfuirais",
+      "il s'enfuirait",
+      "nous nous enfuirions",
+      "vous vous enfuiriez",
+      "ils s'enfuiraient"
+    ],
+    "passé": [
+      "je me serais enfui",
+      "tu te serais enfui",
+      "il se serait enfui",
+      "nous nous serions enfuis",
+      "vous vous seriez enfuis",
+      "ils se seraient enfuis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "enfuis-toi",
+      "enfuyons-nous",
+      "enfuyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'enfuir"
+    ],
+    "passé": [
+      "s'être enfui"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'enfuyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant enfui"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'enfuyant"
+    ],
+    "passé": [
+      "en s'étant enfui"
+    ]
+  }
+}

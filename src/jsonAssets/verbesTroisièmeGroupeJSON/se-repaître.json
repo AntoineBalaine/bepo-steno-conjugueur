@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me repais",
+      "tu te repais",
+      "il se repaît",
+      "nous nous repaissons",
+      "vous vous repaissez",
+      "ils se repaissent"
+    ],
+    "passé composé": [
+      "je me suis repu",
+      "tu t'es repu",
+      "il s'est repu",
+      "nous nous sommes repus",
+      "vous vous êtes repus",
+      "ils se sont repus"
+    ],
+    "imparfait": [
+      "je me repaissais",
+      "tu te repaissais",
+      "il se repaissait",
+      "nous nous repaissions",
+      "vous vous repaissiez",
+      "ils se repaissaient"
+    ],
+    "plus que parfait": [
+      "je m'étais repu",
+      "tu t'étais repu",
+      "il s'était repu",
+      "nous nous étions repus",
+      "vous vous étiez repus",
+      "ils s'étaient repus"
+    ],
+    "passé simple": [
+      "je me repus",
+      "tu te repus",
+      "il se reput",
+      "nous nous repûmes",
+      "vous vous repûtes",
+      "ils se repurent"
+    ],
+    "passé antérieur": [
+      "je me fus repu",
+      "tu te fus repu",
+      "il se fut repu",
+      "nous nous fûmes repus",
+      "vous vous fûtes repus",
+      "ils se furent repus"
+    ],
+    "futur simple": [
+      "je me repaîtrai",
+      "tu te repaîtras",
+      "il se repaîtra",
+      "nous nous repaîtrons",
+      "vous vous repaîtrez",
+      "ils se repaîtront"
+    ],
+    "futur antérieur": [
+      "je me serai repu",
+      "tu te seras repu",
+      "il se sera repu",
+      "nous nous serons repus",
+      "vous vous serez repus",
+      "ils se seront repus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me repaisse",
+      "que tu te repaisses",
+      "qu'il se repaisse",
+      "que nous nous repaissions",
+      "que vous vous repaissiez",
+      "qu'ils se repaissent"
+    ],
+    "passé": [
+      "que je me sois repu",
+      "que tu te sois repu",
+      "qu'il se soit repu",
+      "que nous nous soyons repus",
+      "que vous vous soyez repus",
+      "qu'ils se soient repus"
+    ],
+    "imparfait": [
+      "que je me repusse",
+      "que tu te repusses",
+      "qu'il se repût",
+      "que nous nous repussions",
+      "que vous vous repussiez",
+      "qu'ils se repussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse repu",
+      "que tu te fusses repu",
+      "qu'il se fût repu",
+      "que nous nous fussions repus",
+      "que vous vous fussiez repus",
+      "qu'ils se fussent repus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me repaîtrais",
+      "tu te repaîtrais",
+      "il se repaîtrait",
+      "nous nous repaîtrions",
+      "vous vous repaîtriez",
+      "ils se repaîtraient"
+    ],
+    "passé": [
+      "je me serais repu",
+      "tu te serais repu",
+      "il se serait repu",
+      "nous nous serions repus",
+      "vous vous seriez repus",
+      "ils se seraient repus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "repais-toi",
+      "repaissons-nous",
+      "repaissez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se repaître"
+    ],
+    "passé": [
+      "s'être repu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se repaissant"
+    ],
+    "passé": [
+      "-",
+      "-"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se repaissant"
+    ],
+    "passé": [
+      "en s'étant repu"
+    ]
+  }
+}

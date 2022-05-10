@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me rouvre",
+      "tu te rouvres",
+      "il se rouvre",
+      "nous nous rouvrons",
+      "vous vous rouvrez",
+      "ils se rouvrent"
+    ],
+    "passé composé": [
+      "je me suis rouvert",
+      "tu t'es rouvert",
+      "il s'est rouvert",
+      "nous nous sommes rouverts",
+      "vous vous êtes rouverts",
+      "ils se sont rouverts"
+    ],
+    "imparfait": [
+      "je me rouvrais",
+      "tu te rouvrais",
+      "il se rouvrait",
+      "nous nous rouvrions",
+      "vous vous rouvriez",
+      "ils se rouvraient"
+    ],
+    "plus que parfait": [
+      "je m'étais rouvert",
+      "tu t'étais rouvert",
+      "il s'était rouvert",
+      "nous nous étions rouverts",
+      "vous vous étiez rouverts",
+      "ils s'étaient rouverts"
+    ],
+    "passé simple": [
+      "je me rouvris",
+      "tu te rouvris",
+      "il se rouvrit",
+      "nous nous rouvrîmes",
+      "vous vous rouvrîtes",
+      "ils se rouvrirent"
+    ],
+    "passé antérieur": [
+      "je me fus rouvert",
+      "tu te fus rouvert",
+      "il se fut rouvert",
+      "nous nous fûmes rouverts",
+      "vous vous fûtes rouverts",
+      "ils se furent rouverts"
+    ],
+    "futur simple": [
+      "je me rouvrirai",
+      "tu te rouvriras",
+      "il se rouvrira",
+      "nous nous rouvrirons",
+      "vous vous rouvrirez",
+      "ils se rouvriront"
+    ],
+    "futur antérieur": [
+      "je me serai rouvert",
+      "tu te seras rouvert",
+      "il se sera rouvert",
+      "nous nous serons rouverts",
+      "vous vous serez rouverts",
+      "ils se seront rouverts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me rouvre",
+      "que tu te rouvres",
+      "qu'il se rouvre",
+      "que nous nous rouvrions",
+      "que vous vous rouvriez",
+      "qu'ils se rouvrent"
+    ],
+    "passé": [
+      "que je me sois rouvert",
+      "que tu te sois rouvert",
+      "qu'il se soit rouvert",
+      "que nous nous soyons rouverts",
+      "que vous vous soyez rouverts",
+      "qu'ils se soient rouverts"
+    ],
+    "imparfait": [
+      "que je me rouvrisse",
+      "que tu te rouvrisses",
+      "qu'il se rouvrît",
+      "que nous nous rouvrissions",
+      "que vous vous rouvrissiez",
+      "qu'ils se rouvrissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse rouvert",
+      "que tu te fusses rouvert",
+      "qu'il se fût rouvert",
+      "que nous nous fussions rouverts",
+      "que vous vous fussiez rouverts",
+      "qu'ils se fussent rouverts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me rouvrirais",
+      "tu te rouvrirais",
+      "il se rouvrirait",
+      "nous nous rouvririons",
+      "vous vous rouvririez",
+      "ils se rouvriraient"
+    ],
+    "passé": [
+      "je me serais rouvert",
+      "tu te serais rouvert",
+      "il se serait rouvert",
+      "nous nous serions rouverts",
+      "vous vous seriez rouverts",
+      "ils se seraient rouverts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rouvre-toi",
+      "rouvrons-nous",
+      "rouvrez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se rouvrir"
+    ],
+    "passé": [
+      "s'être rouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se rouvrant"
+    ],
+    "passé": [
+      "-",
+      "s'étant rouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se rouvrant"
+    ],
+    "passé": [
+      "en s'étant rouvert"
+    ]
+  }
+}

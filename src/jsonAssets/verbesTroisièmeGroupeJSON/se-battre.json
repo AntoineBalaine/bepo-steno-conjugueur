@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me bats",
+      "tu te bats",
+      "il se bat",
+      "nous nous battons",
+      "vous vous battez",
+      "ils se battent"
+    ],
+    "passé composé": [
+      "je me suis battu",
+      "tu t'es battu",
+      "il s'est battu",
+      "nous nous sommes battus",
+      "vous vous êtes battus",
+      "ils se sont battus"
+    ],
+    "imparfait": [
+      "je me battais",
+      "tu te battais",
+      "il se battait",
+      "nous nous battions",
+      "vous vous battiez",
+      "ils se battaient"
+    ],
+    "plus que parfait": [
+      "je m'étais battu",
+      "tu t'étais battu",
+      "il s'était battu",
+      "nous nous étions battus",
+      "vous vous étiez battus",
+      "ils s'étaient battus"
+    ],
+    "passé simple": [
+      "je me battis",
+      "tu te battis",
+      "il se battit",
+      "nous nous battîmes",
+      "vous vous battîtes",
+      "ils se battirent"
+    ],
+    "passé antérieur": [
+      "je me fus battu",
+      "tu te fus battu",
+      "il se fut battu",
+      "nous nous fûmes battus",
+      "vous vous fûtes battus",
+      "ils se furent battus"
+    ],
+    "futur simple": [
+      "je me battrai",
+      "tu te battras",
+      "il se battra",
+      "nous nous battrons",
+      "vous vous battrez",
+      "ils se battront"
+    ],
+    "futur antérieur": [
+      "je me serai battu",
+      "tu te seras battu",
+      "il se sera battu",
+      "nous nous serons battus",
+      "vous vous serez battus",
+      "ils se seront battus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me batte",
+      "que tu te battes",
+      "qu'il se batte",
+      "que nous nous battions",
+      "que vous vous battiez",
+      "qu'ils se battent"
+    ],
+    "passé": [
+      "que je me sois battu",
+      "que tu te sois battu",
+      "qu'il se soit battu",
+      "que nous nous soyons battus",
+      "que vous vous soyez battus",
+      "qu'ils se soient battus"
+    ],
+    "imparfait": [
+      "que je me battisse",
+      "que tu te battisses",
+      "qu'il se battît",
+      "que nous nous battissions",
+      "que vous vous battissiez",
+      "qu'ils se battissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse battu",
+      "que tu te fusses battu",
+      "qu'il se fût battu",
+      "que nous nous fussions battus",
+      "que vous vous fussiez battus",
+      "qu'ils se fussent battus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me battrais",
+      "tu te battrais",
+      "il se battrait",
+      "nous nous battrions",
+      "vous vous battriez",
+      "ils se battraient"
+    ],
+    "passé": [
+      "je me serais battu",
+      "tu te serais battu",
+      "il se serait battu",
+      "nous nous serions battus",
+      "vous vous seriez battus",
+      "ils se seraient battus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "bats-toi",
+      "battons-nous",
+      "battez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se battre"
+    ],
+    "passé": [
+      "s'être battu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se battant"
+    ],
+    "passé": [
+      "-",
+      "s'étant battu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se battant"
+    ],
+    "passé": [
+      "en s'étant battu"
+    ]
+  }
+}

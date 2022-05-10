@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me conduis",
+      "tu te conduis",
+      "il se conduit",
+      "nous nous conduisons",
+      "vous vous conduisez",
+      "ils se conduisent"
+    ],
+    "passé composé": [
+      "je me suis conduit",
+      "tu t'es conduit",
+      "il s'est conduit",
+      "nous nous sommes conduits",
+      "vous vous êtes conduits",
+      "ils se sont conduits"
+    ],
+    "imparfait": [
+      "je me conduisais",
+      "tu te conduisais",
+      "il se conduisait",
+      "nous nous conduisions",
+      "vous vous conduisiez",
+      "ils se conduisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais conduit",
+      "tu t'étais conduit",
+      "il s'était conduit",
+      "nous nous étions conduits",
+      "vous vous étiez conduits",
+      "ils s'étaient conduits"
+    ],
+    "passé simple": [
+      "je me conduisis",
+      "tu te conduisis",
+      "il se conduisit",
+      "nous nous conduisîmes",
+      "vous vous conduisîtes",
+      "ils se conduisirent"
+    ],
+    "passé antérieur": [
+      "je me fus conduit",
+      "tu te fus conduit",
+      "il se fut conduit",
+      "nous nous fûmes conduits",
+      "vous vous fûtes conduits",
+      "ils se furent conduits"
+    ],
+    "futur simple": [
+      "je me conduirai",
+      "tu te conduiras",
+      "il se conduira",
+      "nous nous conduirons",
+      "vous vous conduirez",
+      "ils se conduiront"
+    ],
+    "futur antérieur": [
+      "je me serai conduit",
+      "tu te seras conduit",
+      "il se sera conduit",
+      "nous nous serons conduits",
+      "vous vous serez conduits",
+      "ils se seront conduits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me conduise",
+      "que tu te conduises",
+      "qu'il se conduise",
+      "que nous nous conduisions",
+      "que vous vous conduisiez",
+      "qu'ils se conduisent"
+    ],
+    "passé": [
+      "que je me sois conduit",
+      "que tu te sois conduit",
+      "qu'il se soit conduit",
+      "que nous nous soyons conduits",
+      "que vous vous soyez conduits",
+      "qu'ils se soient conduits"
+    ],
+    "imparfait": [
+      "que je me conduisisse",
+      "que tu te conduisisses",
+      "qu'il se conduisît",
+      "que nous nous conduisissions",
+      "que vous vous conduisissiez",
+      "qu'ils se conduisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse conduit",
+      "que tu te fusses conduit",
+      "qu'il se fût conduit",
+      "que nous nous fussions conduits",
+      "que vous vous fussiez conduits",
+      "qu'ils se fussent conduits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me conduirais",
+      "tu te conduirais",
+      "il se conduirait",
+      "nous nous conduirions",
+      "vous vous conduiriez",
+      "ils se conduiraient"
+    ],
+    "passé": [
+      "je me serais conduit",
+      "tu te serais conduit",
+      "il se serait conduit",
+      "nous nous serions conduits",
+      "vous vous seriez conduits",
+      "ils se seraient conduits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "conduis-toi",
+      "conduisons-nous",
+      "conduisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se conduire"
+    ],
+    "passé": [
+      "s'être conduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se conduisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant conduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se conduisant"
+    ],
+    "passé": [
+      "en s'étant conduit"
+    ]
+  }
+}

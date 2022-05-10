@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'inclus",
+      "tu inclus",
+      "il inclut",
+      "nous incluons",
+      "vous incluez",
+      "ils incluent"
+    ],
+    "passé composé": [
+      "j'ai inclus",
+      "tu as inclus",
+      "il a inclus",
+      "nous avons inclus",
+      "vous avez inclus",
+      "ils ont inclus"
+    ],
+    "imparfait": [
+      "j'incluais",
+      "tu incluais",
+      "il incluait",
+      "nous incluions",
+      "vous incluiez",
+      "ils incluaient"
+    ],
+    "plus que parfait": [
+      "j'avais inclus",
+      "tu avais inclus",
+      "il avait inclus",
+      "nous avions inclus",
+      "vous aviez inclus",
+      "ils avaient inclus"
+    ],
+    "passé simple": [
+      "j'inclus",
+      "tu inclus",
+      "il inclut",
+      "nous inclûmes",
+      "vous inclûtes",
+      "ils inclurent"
+    ],
+    "passé antérieur": [
+      "j'eus inclus",
+      "tu eus inclus",
+      "il eut inclus",
+      "nous eûmes inclus",
+      "vous eûtes inclus",
+      "ils eurent inclus"
+    ],
+    "futur simple": [
+      "j'inclurai",
+      "tu incluras",
+      "il inclura",
+      "nous inclurons",
+      "vous inclurez",
+      "ils incluront"
+    ],
+    "futur antérieur": [
+      "j'aurai inclus",
+      "tu auras inclus",
+      "il aura inclus",
+      "nous aurons inclus",
+      "vous aurez inclus",
+      "ils auront inclus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'inclue",
+      "que tu inclues",
+      "qu'il inclue",
+      "que nous incluions",
+      "que vous incluiez",
+      "qu'ils incluent"
+    ],
+    "passé": [
+      "que j'aie inclus",
+      "que tu aies inclus",
+      "qu'il ait inclus",
+      "que nous ayons inclus",
+      "que vous ayez inclus",
+      "qu'ils aient inclus"
+    ],
+    "imparfait": [
+      "que j'inclusse",
+      "que tu inclusses",
+      "qu'il inclût",
+      "que nous inclussions",
+      "que vous inclussiez",
+      "qu'ils inclussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse inclus",
+      "que tu eusses inclus",
+      "qu'il eût inclus",
+      "que nous eussions inclus",
+      "que vous eussiez inclus",
+      "qu'ils eussent inclus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'inclurais",
+      "tu inclurais",
+      "il inclurait",
+      "nous inclurions",
+      "vous incluriez",
+      "ils incluraient"
+    ],
+    "passé": [
+      "j'aurais inclus",
+      "tu aurais inclus",
+      "il aurait inclus",
+      "nous aurions inclus",
+      "vous auriez inclus",
+      "ils auraient inclus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "inclus",
+      "incluons",
+      "incluez"
+    ],
+    "passé": [
+      "aie inclus",
+      "ayons inclus",
+      "ayez inclus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "inclure"
+    ],
+    "passé": [
+      "avoir inclus"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "incluant"
+    ],
+    "passé": [
+      "inclus",
+      "ayant inclus"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en incluant"
+    ],
+    "passé": [
+      "en ayant inclus"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je mords",
+      "tu mords",
+      "il mord",
+      "nous mordons",
+      "vous mordez",
+      "ils mordent"
+    ],
+    "passé composé": [
+      "j'ai mordu",
+      "tu as mordu",
+      "il a mordu",
+      "nous avons mordu",
+      "vous avez mordu",
+      "ils ont mordu"
+    ],
+    "imparfait": [
+      "je mordais",
+      "tu mordais",
+      "il mordait",
+      "nous mordions",
+      "vous mordiez",
+      "ils mordaient"
+    ],
+    "plus que parfait": [
+      "j'avais mordu",
+      "tu avais mordu",
+      "il avait mordu",
+      "nous avions mordu",
+      "vous aviez mordu",
+      "ils avaient mordu"
+    ],
+    "passé simple": [
+      "je mordis",
+      "tu mordis",
+      "il mordit",
+      "nous mordîmes",
+      "vous mordîtes",
+      "ils mordirent"
+    ],
+    "passé antérieur": [
+      "j'eus mordu",
+      "tu eus mordu",
+      "il eut mordu",
+      "nous eûmes mordu",
+      "vous eûtes mordu",
+      "ils eurent mordu"
+    ],
+    "futur simple": [
+      "je mordrai",
+      "tu mordras",
+      "il mordra",
+      "nous mordrons",
+      "vous mordrez",
+      "ils mordront"
+    ],
+    "futur antérieur": [
+      "j'aurai mordu",
+      "tu auras mordu",
+      "il aura mordu",
+      "nous aurons mordu",
+      "vous aurez mordu",
+      "ils auront mordu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je morde",
+      "que tu mordes",
+      "qu'il morde",
+      "que nous mordions",
+      "que vous mordiez",
+      "qu'ils mordent"
+    ],
+    "passé": [
+      "que j'aie mordu",
+      "que tu aies mordu",
+      "qu'il ait mordu",
+      "que nous ayons mordu",
+      "que vous ayez mordu",
+      "qu'ils aient mordu"
+    ],
+    "imparfait": [
+      "que je mordisse",
+      "que tu mordisses",
+      "qu'il mordît",
+      "que nous mordissions",
+      "que vous mordissiez",
+      "qu'ils mordissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse mordu",
+      "que tu eusses mordu",
+      "qu'il eût mordu",
+      "que nous eussions mordu",
+      "que vous eussiez mordu",
+      "qu'ils eussent mordu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je mordrais",
+      "tu mordrais",
+      "il mordrait",
+      "nous mordrions",
+      "vous mordriez",
+      "ils mordraient"
+    ],
+    "passé": [
+      "j'aurais mordu",
+      "tu aurais mordu",
+      "il aurait mordu",
+      "nous aurions mordu",
+      "vous auriez mordu",
+      "ils auraient mordu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mords",
+      "mordons",
+      "mordez"
+    ],
+    "passé": [
+      "aie mordu",
+      "ayons mordu",
+      "ayez mordu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "mordre"
+    ],
+    "passé": [
+      "avoir mordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "mordant"
+    ],
+    "passé": [
+      "mordu",
+      "ayant mordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en mordant"
+    ],
+    "passé": [
+      "en ayant mordu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je proscris",
+      "tu proscris",
+      "il proscrit",
+      "nous proscrivons",
+      "vous proscrivez",
+      "ils proscrivent"
+    ],
+    "passé composé": [
+      "j'ai proscrit",
+      "tu as proscrit",
+      "il a proscrit",
+      "nous avons proscrit",
+      "vous avez proscrit",
+      "ils ont proscrit"
+    ],
+    "imparfait": [
+      "je proscrivais",
+      "tu proscrivais",
+      "il proscrivait",
+      "nous proscrivions",
+      "vous proscriviez",
+      "ils proscrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais proscrit",
+      "tu avais proscrit",
+      "il avait proscrit",
+      "nous avions proscrit",
+      "vous aviez proscrit",
+      "ils avaient proscrit"
+    ],
+    "passé simple": [
+      "je proscrivis",
+      "tu proscrivis",
+      "il proscrivit",
+      "nous proscrivîmes",
+      "vous proscrivîtes",
+      "ils proscrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus proscrit",
+      "tu eus proscrit",
+      "il eut proscrit",
+      "nous eûmes proscrit",
+      "vous eûtes proscrit",
+      "ils eurent proscrit"
+    ],
+    "futur simple": [
+      "je proscrirai",
+      "tu proscriras",
+      "il proscrira",
+      "nous proscrirons",
+      "vous proscrirez",
+      "ils proscriront"
+    ],
+    "futur antérieur": [
+      "j'aurai proscrit",
+      "tu auras proscrit",
+      "il aura proscrit",
+      "nous aurons proscrit",
+      "vous aurez proscrit",
+      "ils auront proscrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je proscrive",
+      "que tu proscrives",
+      "qu'il proscrive",
+      "que nous proscrivions",
+      "que vous proscriviez",
+      "qu'ils proscrivent"
+    ],
+    "passé": [
+      "que j'aie proscrit",
+      "que tu aies proscrit",
+      "qu'il ait proscrit",
+      "que nous ayons proscrit",
+      "que vous ayez proscrit",
+      "qu'ils aient proscrit"
+    ],
+    "imparfait": [
+      "que je proscrivisse",
+      "que tu proscrivisses",
+      "qu'il proscrivît",
+      "que nous proscrivissions",
+      "que vous proscrivissiez",
+      "qu'ils proscrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse proscrit",
+      "que tu eusses proscrit",
+      "qu'il eût proscrit",
+      "que nous eussions proscrit",
+      "que vous eussiez proscrit",
+      "qu'ils eussent proscrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je proscrirais",
+      "tu proscrirais",
+      "il proscrirait",
+      "nous proscririons",
+      "vous proscririez",
+      "ils proscriraient"
+    ],
+    "passé": [
+      "j'aurais proscrit",
+      "tu aurais proscrit",
+      "il aurait proscrit",
+      "nous aurions proscrit",
+      "vous auriez proscrit",
+      "ils auraient proscrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "proscris",
+      "proscrivons",
+      "proscrivez"
+    ],
+    "passé": [
+      "aie proscrit",
+      "ayons proscrit",
+      "ayez proscrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "proscrire"
+    ],
+    "passé": [
+      "avoir proscrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "proscrivant"
+    ],
+    "passé": [
+      "proscrit",
+      "ayant proscrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en proscrivant"
+    ],
+    "passé": [
+      "en ayant proscrit"
+    ]
+  }
+}

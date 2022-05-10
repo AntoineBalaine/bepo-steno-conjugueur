@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'adis",
+      "tu t'adis",
+      "il s'adit",
+      "nous nous adisons",
+      "vous vous adites",
+      "ils s'adisent"
+    ],
+    "passé composé": [
+      "je me suis adit",
+      "tu t'es adit",
+      "il s'est adit",
+      "nous nous sommes adits",
+      "vous vous êtes adits",
+      "ils se sont adits"
+    ],
+    "imparfait": [
+      "je m'adisais",
+      "tu t'adisais",
+      "il s'adisait",
+      "nous nous adisions",
+      "vous vous adisiez",
+      "ils s'adisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais adit",
+      "tu t'étais adit",
+      "il s'était adit",
+      "nous nous étions adits",
+      "vous vous étiez adits",
+      "ils s'étaient adits"
+    ],
+    "passé simple": [
+      "je m'adis",
+      "tu t'adis",
+      "il s'adit",
+      "nous nous adîmes",
+      "vous vous adîtes",
+      "ils s'adirent"
+    ],
+    "passé antérieur": [
+      "je me fus adit",
+      "tu te fus adit",
+      "il se fut adit",
+      "nous nous fûmes adits",
+      "vous vous fûtes adits",
+      "ils se furent adits"
+    ],
+    "futur simple": [
+      "je m'adirai",
+      "tu t'adiras",
+      "il s'adira",
+      "nous nous adirons",
+      "vous vous adirez",
+      "ils s'adiront"
+    ],
+    "futur antérieur": [
+      "je me serai adit",
+      "tu te seras adit",
+      "il se sera adit",
+      "nous nous serons adits",
+      "vous vous serez adits",
+      "ils se seront adits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'adise",
+      "que tu t'adises",
+      "qu'il s'adise",
+      "que nous nous adisions",
+      "que vous vous adisiez",
+      "qu'ils s'adisent"
+    ],
+    "passé": [
+      "que je me sois adit",
+      "que tu te sois adit",
+      "qu'il se soit adit",
+      "que nous nous soyons adits",
+      "que vous vous soyez adits",
+      "qu'ils se soient adits"
+    ],
+    "imparfait": [
+      "que je m'adisse",
+      "que tu t'adisses",
+      "qu'il s'adît",
+      "que nous nous adissions",
+      "que vous vous adissiez",
+      "qu'ils s'adissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse adit",
+      "que tu te fusses adit",
+      "qu'il se fût adit",
+      "que nous nous fussions adits",
+      "que vous vous fussiez adits",
+      "qu'ils se fussent adits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'adirais",
+      "tu t'adirais",
+      "il s'adirait",
+      "nous nous adirions",
+      "vous vous adiriez",
+      "ils s'adiraient"
+    ],
+    "passé": [
+      "je me serais adit",
+      "tu te serais adit",
+      "il se serait adit",
+      "nous nous serions adits",
+      "vous vous seriez adits",
+      "ils se seraient adits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "adis-toi",
+      "adisons-nous",
+      "adites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'adire"
+    ],
+    "passé": [
+      "s'être adit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'adisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant adit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'adisant"
+    ],
+    "passé": [
+      "en s'étant adit"
+    ]
+  }
+}

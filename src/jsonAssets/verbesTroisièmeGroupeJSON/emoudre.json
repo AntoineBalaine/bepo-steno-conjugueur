@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'émouds",
+      "tu émouds",
+      "il émoud",
+      "nous émoulons",
+      "vous émoulez",
+      "ils émoulent"
+    ],
+    "passé composé": [
+      "j'ai émoulu",
+      "tu as émoulu",
+      "il a émoulu",
+      "nous avons émoulu",
+      "vous avez émoulu",
+      "ils ont émoulu"
+    ],
+    "imparfait": [
+      "j'émoulais",
+      "tu émoulais",
+      "il émoulait",
+      "nous émoulions",
+      "vous émouliez",
+      "ils émoulaient"
+    ],
+    "plus que parfait": [
+      "j'avais émoulu",
+      "tu avais émoulu",
+      "il avait émoulu",
+      "nous avions émoulu",
+      "vous aviez émoulu",
+      "ils avaient émoulu"
+    ],
+    "passé simple": [
+      "j'émoulus",
+      "tu émoulus",
+      "il émoulut",
+      "nous émoulûmes",
+      "vous émoulûtes",
+      "ils émoulurent"
+    ],
+    "passé antérieur": [
+      "j'eus émoulu",
+      "tu eus émoulu",
+      "il eut émoulu",
+      "nous eûmes émoulu",
+      "vous eûtes émoulu",
+      "ils eurent émoulu"
+    ],
+    "futur simple": [
+      "j'émoudrai",
+      "tu émoudras",
+      "il émoudra",
+      "nous émoudrons",
+      "vous émoudrez",
+      "ils émoudront"
+    ],
+    "futur antérieur": [
+      "j'aurai émoulu",
+      "tu auras émoulu",
+      "il aura émoulu",
+      "nous aurons émoulu",
+      "vous aurez émoulu",
+      "ils auront émoulu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'émoule",
+      "que tu émoules",
+      "qu'il émoule",
+      "que nous émoulions",
+      "que vous émouliez",
+      "qu'ils émoulent"
+    ],
+    "passé": [
+      "que j'aie émoulu",
+      "que tu aies émoulu",
+      "qu'il ait émoulu",
+      "que nous ayons émoulu",
+      "que vous ayez émoulu",
+      "qu'ils aient émoulu"
+    ],
+    "imparfait": [
+      "que j'émoulusse",
+      "que tu émoulusses",
+      "qu'il émoulût",
+      "que nous émoulussions",
+      "que vous émoulussiez",
+      "qu'ils émoulussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse émoulu",
+      "que tu eusses émoulu",
+      "qu'il eût émoulu",
+      "que nous eussions émoulu",
+      "que vous eussiez émoulu",
+      "qu'ils eussent émoulu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'émoudrais",
+      "tu émoudrais",
+      "il émoudrait",
+      "nous émoudrions",
+      "vous émoudriez",
+      "ils émoudraient"
+    ],
+    "passé": [
+      "j'aurais émoulu",
+      "tu aurais émoulu",
+      "il aurait émoulu",
+      "nous aurions émoulu",
+      "vous auriez émoulu",
+      "ils auraient émoulu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "émouds",
+      "émoulons",
+      "émoulez"
+    ],
+    "passé": [
+      "aie émoulu",
+      "ayons émoulu",
+      "ayez émoulu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "émoudre"
+    ],
+    "passé": [
+      "avoir émoulu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "émoulant"
+    ],
+    "passé": [
+      "émoulu",
+      "ayant émoulu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en émoulant"
+    ],
+    "passé": [
+      "en ayant émoulu"
+    ]
+  }
+}

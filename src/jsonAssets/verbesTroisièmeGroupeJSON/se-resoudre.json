@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me résous",
+      "tu te résous",
+      "il se résout",
+      "nous nous résolvons",
+      "vous vous résolvez",
+      "ils se résolvent"
+    ],
+    "passé composé": [
+      "je me suis résolu",
+      "tu t'es résolu",
+      "il s'est résolu",
+      "nous nous sommes résolus",
+      "vous vous êtes résolus",
+      "ils se sont résolus"
+    ],
+    "imparfait": [
+      "je me résolvais",
+      "tu te résolvais",
+      "il se résolvait",
+      "nous nous résolvions",
+      "vous vous résolviez",
+      "ils se résolvaient"
+    ],
+    "plus que parfait": [
+      "je m'étais résolu",
+      "tu t'étais résolu",
+      "il s'était résolu",
+      "nous nous étions résolus",
+      "vous vous étiez résolus",
+      "ils s'étaient résolus"
+    ],
+    "passé simple": [
+      "je me résolus",
+      "tu te résolus",
+      "il se résolut",
+      "nous nous résolûmes",
+      "vous vous résolûtes",
+      "ils se résolurent"
+    ],
+    "passé antérieur": [
+      "je me fus résolu",
+      "tu te fus résolu",
+      "il se fut résolu",
+      "nous nous fûmes résolus",
+      "vous vous fûtes résolus",
+      "ils se furent résolus"
+    ],
+    "futur simple": [
+      "je me résoudrai",
+      "tu te résoudras",
+      "il se résoudra",
+      "nous nous résoudrons",
+      "vous vous résoudrez",
+      "ils se résoudront"
+    ],
+    "futur antérieur": [
+      "je me serai résolu",
+      "tu te seras résolu",
+      "il se sera résolu",
+      "nous nous serons résolus",
+      "vous vous serez résolus",
+      "ils se seront résolus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me résolve",
+      "que tu te résolves",
+      "qu'il se résolve",
+      "que nous nous résolvions",
+      "que vous vous résolviez",
+      "qu'ils se résolvent"
+    ],
+    "passé": [
+      "que je me sois résolu",
+      "que tu te sois résolu",
+      "qu'il se soit résolu",
+      "que nous nous soyons résolus",
+      "que vous vous soyez résolus",
+      "qu'ils se soient résolus"
+    ],
+    "imparfait": [
+      "que je me résolusse",
+      "que tu te résolusses",
+      "qu'il se résolût",
+      "que nous nous résolussions",
+      "que vous vous résolussiez",
+      "qu'ils se résolussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse résolu",
+      "que tu te fusses résolu",
+      "qu'il se fût résolu",
+      "que nous nous fussions résolus",
+      "que vous vous fussiez résolus",
+      "qu'ils se fussent résolus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me résoudrais",
+      "tu te résoudrais",
+      "il se résoudrait",
+      "nous nous résoudrions",
+      "vous vous résoudriez",
+      "ils se résoudraient"
+    ],
+    "passé": [
+      "je me serais résolu",
+      "tu te serais résolu",
+      "il se serait résolu",
+      "nous nous serions résolus",
+      "vous vous seriez résolus",
+      "ils se seraient résolus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "résous-toi",
+      "résolvons-nous",
+      "résolvez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se résoudre"
+    ],
+    "passé": [
+      "s'être résolu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se résolvant"
+    ],
+    "passé": [
+      "-",
+      "s'étant résolu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se résolvant"
+    ],
+    "passé": [
+      "en s'étant résolu"
+    ]
+  }
+}

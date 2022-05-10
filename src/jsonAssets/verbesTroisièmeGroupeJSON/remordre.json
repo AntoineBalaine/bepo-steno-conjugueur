@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je remords",
+      "tu remords",
+      "il remord",
+      "nous remordons",
+      "vous remordez",
+      "ils remordent"
+    ],
+    "passé composé": [
+      "j'ai remordu",
+      "tu as remordu",
+      "il a remordu",
+      "nous avons remordu",
+      "vous avez remordu",
+      "ils ont remordu"
+    ],
+    "imparfait": [
+      "je remordais",
+      "tu remordais",
+      "il remordait",
+      "nous remordions",
+      "vous remordiez",
+      "ils remordaient"
+    ],
+    "plus que parfait": [
+      "j'avais remordu",
+      "tu avais remordu",
+      "il avait remordu",
+      "nous avions remordu",
+      "vous aviez remordu",
+      "ils avaient remordu"
+    ],
+    "passé simple": [
+      "je remordis",
+      "tu remordis",
+      "il remordit",
+      "nous remordîmes",
+      "vous remordîtes",
+      "ils remordirent"
+    ],
+    "passé antérieur": [
+      "j'eus remordu",
+      "tu eus remordu",
+      "il eut remordu",
+      "nous eûmes remordu",
+      "vous eûtes remordu",
+      "ils eurent remordu"
+    ],
+    "futur simple": [
+      "je remordrai",
+      "tu remordras",
+      "il remordra",
+      "nous remordrons",
+      "vous remordrez",
+      "ils remordront"
+    ],
+    "futur antérieur": [
+      "j'aurai remordu",
+      "tu auras remordu",
+      "il aura remordu",
+      "nous aurons remordu",
+      "vous aurez remordu",
+      "ils auront remordu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je remorde",
+      "que tu remordes",
+      "qu'il remorde",
+      "que nous remordions",
+      "que vous remordiez",
+      "qu'ils remordent"
+    ],
+    "passé": [
+      "que j'aie remordu",
+      "que tu aies remordu",
+      "qu'il ait remordu",
+      "que nous ayons remordu",
+      "que vous ayez remordu",
+      "qu'ils aient remordu"
+    ],
+    "imparfait": [
+      "que je remordisse",
+      "que tu remordisses",
+      "qu'il remordît",
+      "que nous remordissions",
+      "que vous remordissiez",
+      "qu'ils remordissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse remordu",
+      "que tu eusses remordu",
+      "qu'il eût remordu",
+      "que nous eussions remordu",
+      "que vous eussiez remordu",
+      "qu'ils eussent remordu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je remordrais",
+      "tu remordrais",
+      "il remordrait",
+      "nous remordrions",
+      "vous remordriez",
+      "ils remordraient"
+    ],
+    "passé": [
+      "j'aurais remordu",
+      "tu aurais remordu",
+      "il aurait remordu",
+      "nous aurions remordu",
+      "vous auriez remordu",
+      "ils auraient remordu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "remords",
+      "remordons",
+      "remordez"
+    ],
+    "passé": [
+      "aie remordu",
+      "ayons remordu",
+      "ayez remordu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "remordre"
+    ],
+    "passé": [
+      "avoir remordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "remordant"
+    ],
+    "passé": [
+      "remordu",
+      "ayant remordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en remordant"
+    ],
+    "passé": [
+      "en ayant remordu"
+    ]
+  }
+}

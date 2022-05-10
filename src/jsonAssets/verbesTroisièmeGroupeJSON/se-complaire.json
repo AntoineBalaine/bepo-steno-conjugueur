@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me complais",
+      "tu te complais",
+      "il se complaît",
+      "nous nous complaisons",
+      "vous vous complaisez",
+      "ils se complaisent"
+    ],
+    "passé composé": [
+      "je me suis complu",
+      "tu t'es complu",
+      "il s'est complu",
+      "nous nous sommes complu",
+      "vous vous êtes complu",
+      "ils se sont complu"
+    ],
+    "imparfait": [
+      "je me complaisais",
+      "tu te complaisais",
+      "il se complaisait",
+      "nous nous complaisions",
+      "vous vous complaisiez",
+      "ils se complaisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais complu",
+      "tu t'étais complu",
+      "il s'était complu",
+      "nous nous étions complu",
+      "vous vous étiez complu",
+      "ils s'étaient complu"
+    ],
+    "passé simple": [
+      "je me complus",
+      "tu te complus",
+      "il se complut",
+      "nous nous complûmes",
+      "vous vous complûtes",
+      "ils se complurent"
+    ],
+    "passé antérieur": [
+      "je me fus complu",
+      "tu te fus complu",
+      "il se fut complu",
+      "nous nous fûmes complu",
+      "vous vous fûtes complu",
+      "ils se furent complu"
+    ],
+    "futur simple": [
+      "je me complairai",
+      "tu te complairas",
+      "il se complaira",
+      "nous nous complairons",
+      "vous vous complairez",
+      "ils se complairont"
+    ],
+    "futur antérieur": [
+      "je me serai complu",
+      "tu te seras complu",
+      "il se sera complu",
+      "nous nous serons complu",
+      "vous vous serez complu",
+      "ils se seront complu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me complaise",
+      "que tu te complaises",
+      "qu'il se complaise",
+      "que nous nous complaisions",
+      "que vous vous complaisiez",
+      "qu'ils se complaisent"
+    ],
+    "passé": [
+      "que je me sois complu",
+      "que tu te sois complu",
+      "qu'il se soit complu",
+      "que nous nous soyons complu",
+      "que vous vous soyez complu",
+      "qu'ils se soient complu"
+    ],
+    "imparfait": [
+      "que je me complusse",
+      "que tu te complusses",
+      "qu'il se complût",
+      "que nous nous complussions",
+      "que vous vous complussiez",
+      "qu'ils se complussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse complu",
+      "que tu te fusses complu",
+      "qu'il se fût complu",
+      "que nous nous fussions complu",
+      "que vous vous fussiez complu",
+      "qu'ils se fussent complu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me complairais",
+      "tu te complairais",
+      "il se complairait",
+      "nous nous complairions",
+      "vous vous complairiez",
+      "ils se complairaient"
+    ],
+    "passé": [
+      "je me serais complu",
+      "tu te serais complu",
+      "il se serait complu",
+      "nous nous serions complu",
+      "vous vous seriez complu",
+      "ils se seraient complu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "complais-toi",
+      "complaisons-nous",
+      "complaisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se complaire"
+    ],
+    "passé": [
+      "s'être complu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se complaisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant complu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se complaisant"
+    ],
+    "passé": [
+      "en s'étant complu"
+    ]
+  }
+}

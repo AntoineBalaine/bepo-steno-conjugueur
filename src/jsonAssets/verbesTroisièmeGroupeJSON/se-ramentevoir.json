@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me ramentevois",
+      "tu te ramentevois",
+      "il se ramentevoit",
+      "nous nous ramentevoyons",
+      "vous vous ramentevoyez",
+      "ils se ramentevoient"
+    ],
+    "passé composé": [
+      "je me suis ramentevu",
+      "tu t'es ramentevu",
+      "il s'est ramentevu",
+      "nous nous sommes ramentevus",
+      "vous vous êtes ramentevus",
+      "ils se sont ramentevus"
+    ],
+    "imparfait": [
+      "je me ramentevoyais",
+      "tu te ramentevoyais",
+      "il se ramentevoyait",
+      "nous nous ramentevoyions",
+      "vous vous ramentevoyiez",
+      "ils se ramentevoyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais ramentevu",
+      "tu t'étais ramentevu",
+      "il s'était ramentevu",
+      "nous nous étions ramentevus",
+      "vous vous étiez ramentevus",
+      "ils s'étaient ramentevus"
+    ],
+    "passé simple": [
+      "je me ramentevis",
+      "tu te ramentevis",
+      "il se ramentevit",
+      "nous nous ramentevîmes",
+      "vous vous ramentevîtes",
+      "ils se ramentevirent"
+    ],
+    "passé antérieur": [
+      "je me fus ramentevu",
+      "tu te fus ramentevu",
+      "il se fut ramentevu",
+      "nous nous fûmes ramentevus",
+      "vous vous fûtes ramentevus",
+      "ils se furent ramentevus"
+    ],
+    "futur simple": [
+      "je me ramenteverrai",
+      "tu te ramenteverras",
+      "il se ramenteverra",
+      "nous nous ramenteverrons",
+      "vous vous ramenteverrez",
+      "ils se ramenteverront"
+    ],
+    "futur antérieur": [
+      "je me serai ramentevu",
+      "tu te seras ramentevu",
+      "il se sera ramentevu",
+      "nous nous serons ramentevus",
+      "vous vous serez ramentevus",
+      "ils se seront ramentevus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me ramentevoie",
+      "que tu te ramentevoies",
+      "qu'il se ramentevoie",
+      "que nous nous ramentevoyions",
+      "que vous vous ramentevoyiez",
+      "qu'ils se ramentevoient"
+    ],
+    "passé": [
+      "que je me sois ramentevu",
+      "que tu te sois ramentevu",
+      "qu'il se soit ramentevu",
+      "que nous nous soyons ramentevus",
+      "que vous vous soyez ramentevus",
+      "qu'ils se soient ramentevus"
+    ],
+    "imparfait": [
+      "que je me ramentevisse",
+      "que tu te ramentevisses",
+      "qu'il se ramentevît",
+      "que nous nous ramentevissions",
+      "que vous vous ramentevissiez",
+      "qu'ils se ramentevissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse ramentevu",
+      "que tu te fusses ramentevu",
+      "qu'il se fût ramentevu",
+      "que nous nous fussions ramentevus",
+      "que vous vous fussiez ramentevus",
+      "qu'ils se fussent ramentevus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me ramenteverrais",
+      "tu te ramenteverrais",
+      "il se ramenteverrait",
+      "nous nous ramenteverrions",
+      "vous vous ramenteverriez",
+      "ils se ramenteverraient"
+    ],
+    "passé": [
+      "je me serais ramentevu",
+      "tu te serais ramentevu",
+      "il se serait ramentevu",
+      "nous nous serions ramentevus",
+      "vous vous seriez ramentevus",
+      "ils se seraient ramentevus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ramentevois-toi",
+      "ramentevoyons-nous",
+      "ramentevoyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se ramentevoir"
+    ],
+    "passé": [
+      "s'être ramentevu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se ramentevoyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant ramentevu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se ramentevoyant"
+    ],
+    "passé": [
+      "en s'étant ramentevu"
+    ]
+  }
+}

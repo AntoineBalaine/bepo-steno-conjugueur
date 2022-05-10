@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dédis",
+      "tu dédis",
+      "il dédit",
+      "nous dédisons",
+      "vous dédites",
+      "ils dédisent"
+    ],
+    "passé composé": [
+      "j'ai dédit",
+      "tu as dédit",
+      "il a dédit",
+      "nous avons dédit",
+      "vous avez dédit",
+      "ils ont dédit"
+    ],
+    "imparfait": [
+      "je dédisais",
+      "tu dédisais",
+      "il dédisait",
+      "nous dédisions",
+      "vous dédisiez",
+      "ils dédisaient"
+    ],
+    "plus que parfait": [
+      "j'avais dédit",
+      "tu avais dédit",
+      "il avait dédit",
+      "nous avions dédit",
+      "vous aviez dédit",
+      "ils avaient dédit"
+    ],
+    "passé simple": [
+      "je dédis",
+      "tu dédis",
+      "il dédit",
+      "nous dédîmes",
+      "vous dédîtes",
+      "ils dédirent"
+    ],
+    "passé antérieur": [
+      "j'eus dédit",
+      "tu eus dédit",
+      "il eut dédit",
+      "nous eûmes dédit",
+      "vous eûtes dédit",
+      "ils eurent dédit"
+    ],
+    "futur simple": [
+      "je dédirai",
+      "tu dédiras",
+      "il dédira",
+      "nous dédirons",
+      "vous dédirez",
+      "ils dédiront"
+    ],
+    "futur antérieur": [
+      "j'aurai dédit",
+      "tu auras dédit",
+      "il aura dédit",
+      "nous aurons dédit",
+      "vous aurez dédit",
+      "ils auront dédit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je dédise",
+      "que tu dédises",
+      "qu'il dédise",
+      "que nous dédisions",
+      "que vous dédisiez",
+      "qu'ils dédisent"
+    ],
+    "passé": [
+      "que j'aie dédit",
+      "que tu aies dédit",
+      "qu'il ait dédit",
+      "que nous ayons dédit",
+      "que vous ayez dédit",
+      "qu'ils aient dédit"
+    ],
+    "imparfait": [
+      "que je dédisse",
+      "que tu dédisses",
+      "qu'il dédît",
+      "que nous dédissions",
+      "que vous dédissiez",
+      "qu'ils dédissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse dédit",
+      "que tu eusses dédit",
+      "qu'il eût dédit",
+      "que nous eussions dédit",
+      "que vous eussiez dédit",
+      "qu'ils eussent dédit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je dédirais",
+      "tu dédirais",
+      "il dédirait",
+      "nous dédirions",
+      "vous dédiriez",
+      "ils dédiraient"
+    ],
+    "passé": [
+      "j'aurais dédit",
+      "tu aurais dédit",
+      "il aurait dédit",
+      "nous aurions dédit",
+      "vous auriez dédit",
+      "ils auraient dédit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dédis",
+      "dédisons",
+      "dédites"
+    ],
+    "passé": [
+      "aie dédit",
+      "ayons dédit",
+      "ayez dédit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "dédire"
+    ],
+    "passé": [
+      "avoir dédit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "dédisant"
+    ],
+    "passé": [
+      "dédit",
+      "ayant dédit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en dédisant"
+    ],
+    "passé": [
+      "en ayant dédit"
+    ]
+  }
+}

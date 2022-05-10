@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me refais",
+      "tu te refais",
+      "il se refait",
+      "nous nous refaisons",
+      "vous vous refaites",
+      "ils se refont"
+    ],
+    "passé composé": [
+      "je me suis refait",
+      "tu t'es refait",
+      "il s'est refait",
+      "nous nous sommes refaits",
+      "vous vous êtes refaits",
+      "ils se sont refaits"
+    ],
+    "imparfait": [
+      "je me refaisais",
+      "tu te refaisais",
+      "il se refaisait",
+      "nous nous refaisions",
+      "vous vous refaisiez",
+      "ils se refaisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais refait",
+      "tu t'étais refait",
+      "il s'était refait",
+      "nous nous étions refaits",
+      "vous vous étiez refaits",
+      "ils s'étaient refaits"
+    ],
+    "passé simple": [
+      "je me refis",
+      "tu te refis",
+      "il se refit",
+      "nous nous refîmes",
+      "vous vous refîtes",
+      "ils se refirent"
+    ],
+    "passé antérieur": [
+      "je me fus refait",
+      "tu te fus refait",
+      "il se fut refait",
+      "nous nous fûmes refaits",
+      "vous vous fûtes refaits",
+      "ils se furent refaits"
+    ],
+    "futur simple": [
+      "je me referai",
+      "tu te referas",
+      "il se refera",
+      "nous nous referons",
+      "vous vous referez",
+      "ils se referont"
+    ],
+    "futur antérieur": [
+      "je me serai refait",
+      "tu te seras refait",
+      "il se sera refait",
+      "nous nous serons refaits",
+      "vous vous serez refaits",
+      "ils se seront refaits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me refasse",
+      "que tu te refasses",
+      "qu'il se refasse",
+      "que nous nous refassions",
+      "que vous vous refassiez",
+      "qu'ils se refassent"
+    ],
+    "passé": [
+      "que je me sois refait",
+      "que tu te sois refait",
+      "qu'il se soit refait",
+      "que nous nous soyons refaits",
+      "que vous vous soyez refaits",
+      "qu'ils se soient refaits"
+    ],
+    "imparfait": [
+      "que je me refisse",
+      "que tu te refisses",
+      "qu'il se refît",
+      "que nous nous refissions",
+      "que vous vous refissiez",
+      "qu'ils se refissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse refait",
+      "que tu te fusses refait",
+      "qu'il se fût refait",
+      "que nous nous fussions refaits",
+      "que vous vous fussiez refaits",
+      "qu'ils se fussent refaits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me referais",
+      "tu te referais",
+      "il se referait",
+      "nous nous referions",
+      "vous vous referiez",
+      "ils se referaient"
+    ],
+    "passé": [
+      "je me serais refait",
+      "tu te serais refait",
+      "il se serait refait",
+      "nous nous serions refaits",
+      "vous vous seriez refaits",
+      "ils se seraient refaits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "refais-toi",
+      "refaisons-nous",
+      "refaites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se refaire"
+    ],
+    "passé": [
+      "s'être refait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se refaisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant refait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se refaisant"
+    ],
+    "passé": [
+      "en s'étant refait"
+    ]
+  }
+}

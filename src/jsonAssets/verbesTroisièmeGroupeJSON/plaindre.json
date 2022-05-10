@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je plains",
+      "tu plains",
+      "il plaint",
+      "nous plaignons",
+      "vous plaignez",
+      "ils plaignent"
+    ],
+    "passé composé": [
+      "j'ai plaint",
+      "tu as plaint",
+      "il a plaint",
+      "nous avons plaint",
+      "vous avez plaint",
+      "ils ont plaint"
+    ],
+    "imparfait": [
+      "je plaignais",
+      "tu plaignais",
+      "il plaignait",
+      "nous plaignions",
+      "vous plaigniez",
+      "ils plaignaient"
+    ],
+    "plus que parfait": [
+      "j'avais plaint",
+      "tu avais plaint",
+      "il avait plaint",
+      "nous avions plaint",
+      "vous aviez plaint",
+      "ils avaient plaint"
+    ],
+    "passé simple": [
+      "je plaignis",
+      "tu plaignis",
+      "il plaignit",
+      "nous plaignîmes",
+      "vous plaignîtes",
+      "ils plaignirent"
+    ],
+    "passé antérieur": [
+      "j'eus plaint",
+      "tu eus plaint",
+      "il eut plaint",
+      "nous eûmes plaint",
+      "vous eûtes plaint",
+      "ils eurent plaint"
+    ],
+    "futur simple": [
+      "je plaindrai",
+      "tu plaindras",
+      "il plaindra",
+      "nous plaindrons",
+      "vous plaindrez",
+      "ils plaindront"
+    ],
+    "futur antérieur": [
+      "j'aurai plaint",
+      "tu auras plaint",
+      "il aura plaint",
+      "nous aurons plaint",
+      "vous aurez plaint",
+      "ils auront plaint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je plaigne",
+      "que tu plaignes",
+      "qu'il plaigne",
+      "que nous plaignions",
+      "que vous plaigniez",
+      "qu'ils plaignent"
+    ],
+    "passé": [
+      "que j'aie plaint",
+      "que tu aies plaint",
+      "qu'il ait plaint",
+      "que nous ayons plaint",
+      "que vous ayez plaint",
+      "qu'ils aient plaint"
+    ],
+    "imparfait": [
+      "que je plaignisse",
+      "que tu plaignisses",
+      "qu'il plaignît",
+      "que nous plaignissions",
+      "que vous plaignissiez",
+      "qu'ils plaignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse plaint",
+      "que tu eusses plaint",
+      "qu'il eût plaint",
+      "que nous eussions plaint",
+      "que vous eussiez plaint",
+      "qu'ils eussent plaint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je plaindrais",
+      "tu plaindrais",
+      "il plaindrait",
+      "nous plaindrions",
+      "vous plaindriez",
+      "ils plaindraient"
+    ],
+    "passé": [
+      "j'aurais plaint",
+      "tu aurais plaint",
+      "il aurait plaint",
+      "nous aurions plaint",
+      "vous auriez plaint",
+      "ils auraient plaint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "plains",
+      "plaignons",
+      "plaignez"
+    ],
+    "passé": [
+      "aie plaint",
+      "ayons plaint",
+      "ayez plaint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "plaindre"
+    ],
+    "passé": [
+      "avoir plaint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "plaignant"
+    ],
+    "passé": [
+      "plaint",
+      "ayant plaint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en plaignant"
+    ],
+    "passé": [
+      "en ayant plaint"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'enduis",
+      "tu t'enduis",
+      "il s'enduit",
+      "nous nous enduisons",
+      "vous vous enduisez",
+      "ils s'enduisent"
+    ],
+    "passé composé": [
+      "je me suis enduit",
+      "tu t'es enduit",
+      "il s'est enduit",
+      "nous nous sommes enduits",
+      "vous vous êtes enduits",
+      "ils se sont enduits"
+    ],
+    "imparfait": [
+      "je m'enduisais",
+      "tu t'enduisais",
+      "il s'enduisait",
+      "nous nous enduisions",
+      "vous vous enduisiez",
+      "ils s'enduisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais enduit",
+      "tu t'étais enduit",
+      "il s'était enduit",
+      "nous nous étions enduits",
+      "vous vous étiez enduits",
+      "ils s'étaient enduits"
+    ],
+    "passé simple": [
+      "je m'enduisis",
+      "tu t'enduisis",
+      "il s'enduisit",
+      "nous nous enduisîmes",
+      "vous vous enduisîtes",
+      "ils s'enduisirent"
+    ],
+    "passé antérieur": [
+      "je me fus enduit",
+      "tu te fus enduit",
+      "il se fut enduit",
+      "nous nous fûmes enduits",
+      "vous vous fûtes enduits",
+      "ils se furent enduits"
+    ],
+    "futur simple": [
+      "je m'enduirai",
+      "tu t'enduiras",
+      "il s'enduira",
+      "nous nous enduirons",
+      "vous vous enduirez",
+      "ils s'enduiront"
+    ],
+    "futur antérieur": [
+      "je me serai enduit",
+      "tu te seras enduit",
+      "il se sera enduit",
+      "nous nous serons enduits",
+      "vous vous serez enduits",
+      "ils se seront enduits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'enduise",
+      "que tu t'enduises",
+      "qu'il s'enduise",
+      "que nous nous enduisions",
+      "que vous vous enduisiez",
+      "qu'ils s'enduisent"
+    ],
+    "passé": [
+      "que je me sois enduit",
+      "que tu te sois enduit",
+      "qu'il se soit enduit",
+      "que nous nous soyons enduits",
+      "que vous vous soyez enduits",
+      "qu'ils se soient enduits"
+    ],
+    "imparfait": [
+      "que je m'enduisisse",
+      "que tu t'enduisisses",
+      "qu'il s'enduisît",
+      "que nous nous enduisissions",
+      "que vous vous enduisissiez",
+      "qu'ils s'enduisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse enduit",
+      "que tu te fusses enduit",
+      "qu'il se fût enduit",
+      "que nous nous fussions enduits",
+      "que vous vous fussiez enduits",
+      "qu'ils se fussent enduits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'enduirais",
+      "tu t'enduirais",
+      "il s'enduirait",
+      "nous nous enduirions",
+      "vous vous enduiriez",
+      "ils s'enduiraient"
+    ],
+    "passé": [
+      "je me serais enduit",
+      "tu te serais enduit",
+      "il se serait enduit",
+      "nous nous serions enduits",
+      "vous vous seriez enduits",
+      "ils se seraient enduits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "enduis-toi",
+      "enduisons-nous",
+      "enduisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'enduire"
+    ],
+    "passé": [
+      "s'être enduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'enduisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant enduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'enduisant"
+    ],
+    "passé": [
+      "en s'étant enduit"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me souffre",
+      "tu te souffres",
+      "il se souffre",
+      "nous nous souffrons",
+      "vous vous souffrez",
+      "ils se souffrent"
+    ],
+    "passé composé": [
+      "je me suis souffert",
+      "tu t'es souffert",
+      "il s'est souffert",
+      "nous nous sommes soufferts",
+      "vous vous êtes soufferts",
+      "ils se sont soufferts"
+    ],
+    "imparfait": [
+      "je me souffrais",
+      "tu te souffrais",
+      "il se souffrait",
+      "nous nous souffrions",
+      "vous vous souffriez",
+      "ils se souffraient"
+    ],
+    "plus que parfait": [
+      "je m'étais souffert",
+      "tu t'étais souffert",
+      "il s'était souffert",
+      "nous nous étions soufferts",
+      "vous vous étiez soufferts",
+      "ils s'étaient soufferts"
+    ],
+    "passé simple": [
+      "je me souffris",
+      "tu te souffris",
+      "il se souffrit",
+      "nous nous souffrîmes",
+      "vous vous souffrîtes",
+      "ils se souffrirent"
+    ],
+    "passé antérieur": [
+      "je me fus souffert",
+      "tu te fus souffert",
+      "il se fut souffert",
+      "nous nous fûmes soufferts",
+      "vous vous fûtes soufferts",
+      "ils se furent soufferts"
+    ],
+    "futur simple": [
+      "je me souffrirai",
+      "tu te souffriras",
+      "il se souffrira",
+      "nous nous souffrirons",
+      "vous vous souffrirez",
+      "ils se souffriront"
+    ],
+    "futur antérieur": [
+      "je me serai souffert",
+      "tu te seras souffert",
+      "il se sera souffert",
+      "nous nous serons soufferts",
+      "vous vous serez soufferts",
+      "ils se seront soufferts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me souffre",
+      "que tu te souffres",
+      "qu'il se souffre",
+      "que nous nous souffrions",
+      "que vous vous souffriez",
+      "qu'ils se souffrent"
+    ],
+    "passé": [
+      "que je me sois souffert",
+      "que tu te sois souffert",
+      "qu'il se soit souffert",
+      "que nous nous soyons soufferts",
+      "que vous vous soyez soufferts",
+      "qu'ils se soient soufferts"
+    ],
+    "imparfait": [
+      "que je me souffrisse",
+      "que tu te souffrisses",
+      "qu'il se souffrît",
+      "que nous nous souffrissions",
+      "que vous vous souffrissiez",
+      "qu'ils se souffrissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse souffert",
+      "que tu te fusses souffert",
+      "qu'il se fût souffert",
+      "que nous nous fussions soufferts",
+      "que vous vous fussiez soufferts",
+      "qu'ils se fussent soufferts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me souffrirais",
+      "tu te souffrirais",
+      "il se souffrirait",
+      "nous nous souffririons",
+      "vous vous souffririez",
+      "ils se souffriraient"
+    ],
+    "passé": [
+      "je me serais souffert",
+      "tu te serais souffert",
+      "il se serait souffert",
+      "nous nous serions soufferts",
+      "vous vous seriez soufferts",
+      "ils se seraient soufferts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "souffre-toi",
+      "souffrons-nous",
+      "souffrez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se souffrir"
+    ],
+    "passé": [
+      "s'être souffert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se souffrant"
+    ],
+    "passé": [
+      "-",
+      "s'étant souffert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se souffrant"
+    ],
+    "passé": [
+      "en s'étant souffert"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réintroduis",
+      "tu réintroduis",
+      "il réintroduit",
+      "nous réintroduisons",
+      "vous réintroduisez",
+      "ils réintroduisent"
+    ],
+    "passé composé": [
+      "j'ai réintroduit",
+      "tu as réintroduit",
+      "il a réintroduit",
+      "nous avons réintroduit",
+      "vous avez réintroduit",
+      "ils ont réintroduit"
+    ],
+    "imparfait": [
+      "je réintroduisais",
+      "tu réintroduisais",
+      "il réintroduisait",
+      "nous réintroduisions",
+      "vous réintroduisiez",
+      "ils réintroduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais réintroduit",
+      "tu avais réintroduit",
+      "il avait réintroduit",
+      "nous avions réintroduit",
+      "vous aviez réintroduit",
+      "ils avaient réintroduit"
+    ],
+    "passé simple": [
+      "je réintroduisis",
+      "tu réintroduisis",
+      "il réintroduisit",
+      "nous réintroduisîmes",
+      "vous réintroduisîtes",
+      "ils réintroduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus réintroduit",
+      "tu eus réintroduit",
+      "il eut réintroduit",
+      "nous eûmes réintroduit",
+      "vous eûtes réintroduit",
+      "ils eurent réintroduit"
+    ],
+    "futur simple": [
+      "je réintroduirai",
+      "tu réintroduiras",
+      "il réintroduira",
+      "nous réintroduirons",
+      "vous réintroduirez",
+      "ils réintroduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai réintroduit",
+      "tu auras réintroduit",
+      "il aura réintroduit",
+      "nous aurons réintroduit",
+      "vous aurez réintroduit",
+      "ils auront réintroduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réintroduise",
+      "que tu réintroduises",
+      "qu'il réintroduise",
+      "que nous réintroduisions",
+      "que vous réintroduisiez",
+      "qu'ils réintroduisent"
+    ],
+    "passé": [
+      "que j'aie réintroduit",
+      "que tu aies réintroduit",
+      "qu'il ait réintroduit",
+      "que nous ayons réintroduit",
+      "que vous ayez réintroduit",
+      "qu'ils aient réintroduit"
+    ],
+    "imparfait": [
+      "que je réintroduisisse",
+      "que tu réintroduisisses",
+      "qu'il réintroduisît",
+      "que nous réintroduisissions",
+      "que vous réintroduisissiez",
+      "qu'ils réintroduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réintroduit",
+      "que tu eusses réintroduit",
+      "qu'il eût réintroduit",
+      "que nous eussions réintroduit",
+      "que vous eussiez réintroduit",
+      "qu'ils eussent réintroduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je réintroduirais",
+      "tu réintroduirais",
+      "il réintroduirait",
+      "nous réintroduirions",
+      "vous réintroduiriez",
+      "ils réintroduiraient"
+    ],
+    "passé": [
+      "j'aurais réintroduit",
+      "tu aurais réintroduit",
+      "il aurait réintroduit",
+      "nous aurions réintroduit",
+      "vous auriez réintroduit",
+      "ils auraient réintroduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réintroduis",
+      "réintroduisons",
+      "réintroduisez"
+    ],
+    "passé": [
+      "aie réintroduit",
+      "ayons réintroduit",
+      "ayez réintroduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "réintroduire"
+    ],
+    "passé": [
+      "avoir réintroduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "réintroduisant"
+    ],
+    "passé": [
+      "réintroduit",
+      "ayant réintroduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en réintroduisant"
+    ],
+    "passé": [
+      "en ayant réintroduit"
+    ]
+  }
+}

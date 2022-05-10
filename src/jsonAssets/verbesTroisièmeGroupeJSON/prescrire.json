@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je prescris",
+      "tu prescris",
+      "il prescrit",
+      "nous prescrivons",
+      "vous prescrivez",
+      "ils prescrivent"
+    ],
+    "passé composé": [
+      "j'ai prescrit",
+      "tu as prescrit",
+      "il a prescrit",
+      "nous avons prescrit",
+      "vous avez prescrit",
+      "ils ont prescrit"
+    ],
+    "imparfait": [
+      "je prescrivais",
+      "tu prescrivais",
+      "il prescrivait",
+      "nous prescrivions",
+      "vous prescriviez",
+      "ils prescrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais prescrit",
+      "tu avais prescrit",
+      "il avait prescrit",
+      "nous avions prescrit",
+      "vous aviez prescrit",
+      "ils avaient prescrit"
+    ],
+    "passé simple": [
+      "je prescrivis",
+      "tu prescrivis",
+      "il prescrivit",
+      "nous prescrivîmes",
+      "vous prescrivîtes",
+      "ils prescrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus prescrit",
+      "tu eus prescrit",
+      "il eut prescrit",
+      "nous eûmes prescrit",
+      "vous eûtes prescrit",
+      "ils eurent prescrit"
+    ],
+    "futur simple": [
+      "je prescrirai",
+      "tu prescriras",
+      "il prescrira",
+      "nous prescrirons",
+      "vous prescrirez",
+      "ils prescriront"
+    ],
+    "futur antérieur": [
+      "j'aurai prescrit",
+      "tu auras prescrit",
+      "il aura prescrit",
+      "nous aurons prescrit",
+      "vous aurez prescrit",
+      "ils auront prescrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je prescrive",
+      "que tu prescrives",
+      "qu'il prescrive",
+      "que nous prescrivions",
+      "que vous prescriviez",
+      "qu'ils prescrivent"
+    ],
+    "passé": [
+      "que j'aie prescrit",
+      "que tu aies prescrit",
+      "qu'il ait prescrit",
+      "que nous ayons prescrit",
+      "que vous ayez prescrit",
+      "qu'ils aient prescrit"
+    ],
+    "imparfait": [
+      "que je prescrivisse",
+      "que tu prescrivisses",
+      "qu'il prescrivît",
+      "que nous prescrivissions",
+      "que vous prescrivissiez",
+      "qu'ils prescrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse prescrit",
+      "que tu eusses prescrit",
+      "qu'il eût prescrit",
+      "que nous eussions prescrit",
+      "que vous eussiez prescrit",
+      "qu'ils eussent prescrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je prescrirais",
+      "tu prescrirais",
+      "il prescrirait",
+      "nous prescririons",
+      "vous prescririez",
+      "ils prescriraient"
+    ],
+    "passé": [
+      "j'aurais prescrit",
+      "tu aurais prescrit",
+      "il aurait prescrit",
+      "nous aurions prescrit",
+      "vous auriez prescrit",
+      "ils auraient prescrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prescris",
+      "prescrivons",
+      "prescrivez"
+    ],
+    "passé": [
+      "aie prescrit",
+      "ayons prescrit",
+      "ayez prescrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "prescrire"
+    ],
+    "passé": [
+      "avoir prescrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "prescrivant"
+    ],
+    "passé": [
+      "prescrit",
+      "ayant prescrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en prescrivant"
+    ],
+    "passé": [
+      "en ayant prescrit"
+    ]
+  }
+}

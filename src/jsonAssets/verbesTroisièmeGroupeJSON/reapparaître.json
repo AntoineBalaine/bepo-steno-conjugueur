@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réapparais",
+      "tu réapparais",
+      "il réapparaît",
+      "nous réapparaissons",
+      "vous réapparaissez",
+      "ils réapparaissent"
+    ],
+    "passé composé": [
+      "j'ai réapparu",
+      "tu as réapparu",
+      "il a réapparu",
+      "nous avons réapparu",
+      "vous avez réapparu",
+      "ils ont réapparu"
+    ],
+    "imparfait": [
+      "je réapparaissais",
+      "tu réapparaissais",
+      "il réapparaissait",
+      "nous réapparaissions",
+      "vous réapparaissiez",
+      "ils réapparaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais réapparu",
+      "tu avais réapparu",
+      "il avait réapparu",
+      "nous avions réapparu",
+      "vous aviez réapparu",
+      "ils avaient réapparu"
+    ],
+    "passé simple": [
+      "je réapparus",
+      "tu réapparus",
+      "il réapparut",
+      "nous réapparûmes",
+      "vous réapparûtes",
+      "ils réapparurent"
+    ],
+    "passé antérieur": [
+      "j'eus réapparu",
+      "tu eus réapparu",
+      "il eut réapparu",
+      "nous eûmes réapparu",
+      "vous eûtes réapparu",
+      "ils eurent réapparu"
+    ],
+    "futur simple": [
+      "je réapparaîtrai",
+      "tu réapparaîtras",
+      "il réapparaîtra",
+      "nous réapparaîtrons",
+      "vous réapparaîtrez",
+      "ils réapparaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai réapparu",
+      "tu auras réapparu",
+      "il aura réapparu",
+      "nous aurons réapparu",
+      "vous aurez réapparu",
+      "ils auront réapparu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réapparaisse",
+      "que tu réapparaisses",
+      "qu'il réapparaisse",
+      "que nous réapparaissions",
+      "que vous réapparaissiez",
+      "qu'ils réapparaissent"
+    ],
+    "passé": [
+      "que j'aie réapparu",
+      "que tu aies réapparu",
+      "qu'il ait réapparu",
+      "que nous ayons réapparu",
+      "que vous ayez réapparu",
+      "qu'ils aient réapparu"
+    ],
+    "imparfait": [
+      "que je réapparusse",
+      "que tu réapparusses",
+      "qu'il réapparût",
+      "que nous réapparussions",
+      "que vous réapparussiez",
+      "qu'ils réapparussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réapparu",
+      "que tu eusses réapparu",
+      "qu'il eût réapparu",
+      "que nous eussions réapparu",
+      "que vous eussiez réapparu",
+      "qu'ils eussent réapparu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je réapparaîtrais",
+      "tu réapparaîtrais",
+      "il réapparaîtrait",
+      "nous réapparaîtrions",
+      "vous réapparaîtriez",
+      "ils réapparaîtraient"
+    ],
+    "passé": [
+      "j'aurais réapparu",
+      "tu aurais réapparu",
+      "il aurait réapparu",
+      "nous aurions réapparu",
+      "vous auriez réapparu",
+      "ils auraient réapparu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réapparais",
+      "réapparaissons",
+      "réapparaissez"
+    ],
+    "passé": [
+      "aie réapparu",
+      "ayons réapparu",
+      "ayez réapparu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "réapparaître"
+    ],
+    "passé": [
+      "avoir réapparu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "réapparaissant"
+    ],
+    "passé": [
+      "réapparu",
+      "ayant réapparu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en réapparaissant"
+    ],
+    "passé": [
+      "en ayant réapparu"
+    ]
+  }
+}

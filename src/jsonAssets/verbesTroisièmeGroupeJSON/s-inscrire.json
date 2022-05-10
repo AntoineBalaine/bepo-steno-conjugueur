@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'inscris",
+      "tu t'inscris",
+      "il s'inscrit",
+      "nous nous inscrivons",
+      "vous vous inscrivez",
+      "ils s'inscrivent"
+    ],
+    "passé composé": [
+      "je me suis inscrit",
+      "tu t'es inscrit",
+      "il s'est inscrit",
+      "nous nous sommes inscrits",
+      "vous vous êtes inscrits",
+      "ils se sont inscrits"
+    ],
+    "imparfait": [
+      "je m'inscrivais",
+      "tu t'inscrivais",
+      "il s'inscrivait",
+      "nous nous inscrivions",
+      "vous vous inscriviez",
+      "ils s'inscrivaient"
+    ],
+    "plus que parfait": [
+      "je m'étais inscrit",
+      "tu t'étais inscrit",
+      "il s'était inscrit",
+      "nous nous étions inscrits",
+      "vous vous étiez inscrits",
+      "ils s'étaient inscrits"
+    ],
+    "passé simple": [
+      "je m'inscrivis",
+      "tu t'inscrivis",
+      "il s'inscrivit",
+      "nous nous inscrivîmes",
+      "vous vous inscrivîtes",
+      "ils s'inscrivirent"
+    ],
+    "passé antérieur": [
+      "je me fus inscrit",
+      "tu te fus inscrit",
+      "il se fut inscrit",
+      "nous nous fûmes inscrits",
+      "vous vous fûtes inscrits",
+      "ils se furent inscrits"
+    ],
+    "futur simple": [
+      "je m'inscrirai",
+      "tu t'inscriras",
+      "il s'inscrira",
+      "nous nous inscrirons",
+      "vous vous inscrirez",
+      "ils s'inscriront"
+    ],
+    "futur antérieur": [
+      "je me serai inscrit",
+      "tu te seras inscrit",
+      "il se sera inscrit",
+      "nous nous serons inscrits",
+      "vous vous serez inscrits",
+      "ils se seront inscrits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'inscrive",
+      "que tu t'inscrives",
+      "qu'il s'inscrive",
+      "que nous nous inscrivions",
+      "que vous vous inscriviez",
+      "qu'ils s'inscrivent"
+    ],
+    "passé": [
+      "que je me sois inscrit",
+      "que tu te sois inscrit",
+      "qu'il se soit inscrit",
+      "que nous nous soyons inscrits",
+      "que vous vous soyez inscrits",
+      "qu'ils se soient inscrits"
+    ],
+    "imparfait": [
+      "que je m'inscrivisse",
+      "que tu t'inscrivisses",
+      "qu'il s'inscrivît",
+      "que nous nous inscrivissions",
+      "que vous vous inscrivissiez",
+      "qu'ils s'inscrivissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse inscrit",
+      "que tu te fusses inscrit",
+      "qu'il se fût inscrit",
+      "que nous nous fussions inscrits",
+      "que vous vous fussiez inscrits",
+      "qu'ils se fussent inscrits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'inscrirais",
+      "tu t'inscrirais",
+      "il s'inscrirait",
+      "nous nous inscririons",
+      "vous vous inscririez",
+      "ils s'inscriraient"
+    ],
+    "passé": [
+      "je me serais inscrit",
+      "tu te serais inscrit",
+      "il se serait inscrit",
+      "nous nous serions inscrits",
+      "vous vous seriez inscrits",
+      "ils se seraient inscrits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "inscris-toi",
+      "inscrivons-nous",
+      "inscrivez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'inscrire"
+    ],
+    "passé": [
+      "s'être inscrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'inscrivant"
+    ],
+    "passé": [
+      "-",
+      "s'étant inscrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'inscrivant"
+    ],
+    "passé": [
+      "en s'étant inscrit"
+    ]
+  }
+}

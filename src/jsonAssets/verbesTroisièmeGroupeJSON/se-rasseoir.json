@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me rassieds",
+      "tu te rassieds",
+      "il se rassied",
+      "nous nous rasseyons",
+      "vous vous rasseyez",
+      "ils se rasseyent"
+    ],
+    "passé composé": [
+      "je me suis rassis",
+      "tu t'es rassis",
+      "il s'est rassis",
+      "nous nous sommes rassis",
+      "vous vous êtes rassis",
+      "ils se sont rassis"
+    ],
+    "imparfait": [
+      "je me rasseyais",
+      "tu te rasseyais",
+      "il se rasseyait",
+      "nous nous rasseyions",
+      "vous vous rasseyiez",
+      "ils se rasseyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais rassis",
+      "tu t'étais rassis",
+      "il s'était rassis",
+      "nous nous étions rassis",
+      "vous vous étiez rassis",
+      "ils s'étaient rassis"
+    ],
+    "passé simple": [
+      "je me rassis",
+      "tu te rassis",
+      "il se rassit",
+      "nous nous rassîmes",
+      "vous vous rassîtes",
+      "ils se rassirent"
+    ],
+    "passé antérieur": [
+      "je me fus rassis",
+      "tu te fus rassis",
+      "il se fut rassis",
+      "nous nous fûmes rassis",
+      "vous vous fûtes rassis",
+      "ils se furent rassis"
+    ],
+    "futur simple": [
+      "je me rassiérai",
+      "tu te rassiéras",
+      "il se rassiéra",
+      "nous nous rassiérons",
+      "vous vous rassiérez",
+      "ils se rassiéront"
+    ],
+    "futur antérieur": [
+      "je me serai rassis",
+      "tu te seras rassis",
+      "il se sera rassis",
+      "nous nous serons rassis",
+      "vous vous serez rassis",
+      "ils se seront rassis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me rasseye",
+      "que tu te rasseyes",
+      "qu'il se rasseye",
+      "que nous nous rasseyions",
+      "que vous vous rasseyiez",
+      "qu'ils se rasseyent"
+    ],
+    "passé": [
+      "que je me sois rassis",
+      "que tu te sois rassis",
+      "qu'il se soit rassis",
+      "que nous nous soyons rassis",
+      "que vous vous soyez rassis",
+      "qu'ils se soient rassis"
+    ],
+    "imparfait": [
+      "que je me rassisse",
+      "que tu te rassisses",
+      "qu'il se rassît",
+      "que nous nous rassissions",
+      "que vous vous rassissiez",
+      "qu'ils se rassissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse rassis",
+      "que tu te fusses rassis",
+      "qu'il se fût rassis",
+      "que nous nous fussions rassis",
+      "que vous vous fussiez rassis",
+      "qu'ils se fussent rassis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me rassiétais",
+      "tu te rassiérais",
+      "il se rassiérait",
+      "nous nous rassiérions",
+      "vous vous rassiériez",
+      "ils se rassiéraient"
+    ],
+    "passé": [
+      "je me serais rassis",
+      "tu te serais rassis",
+      "il se serait rassis",
+      "nous nous serions rassis",
+      "vous vous seriez rassis",
+      "ils se seraient rassis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rassieds-toi",
+      "rasseyons-nous",
+      "rasseyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se rasseoir"
+    ],
+    "passé": [
+      "s'être rassis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se rasseyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant rassis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se rasseyant"
+    ],
+    "passé": [
+      "en s'étant rassis"
+    ]
+  }
+}

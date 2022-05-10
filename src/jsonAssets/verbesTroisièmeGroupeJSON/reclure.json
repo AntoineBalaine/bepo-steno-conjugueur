@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé composé": [
+      "j'ai reclus",
+      "tu as reclus",
+      "il a reclus",
+      "nous avons reclus",
+      "vous avez reclus",
+      "ils ont reclus"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais reclus",
+      "tu avais reclus",
+      "il avait reclus",
+      "nous avions reclus",
+      "vous aviez reclus",
+      "ils avaient reclus"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus reclus",
+      "tu eus reclus",
+      "il eut reclus",
+      "nous eûmes reclus",
+      "vous eûtes reclus",
+      "ils eurent reclus"
+    ],
+    "futur simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur antérieur": [
+      "j'aurai reclus",
+      "tu auras reclus",
+      "il aura reclus",
+      "nous aurons reclus",
+      "vous aurez reclus",
+      "ils auront reclus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "que j'aie reclus",
+      "que tu aies reclus",
+      "qu'il ait reclus",
+      "que nous ayons reclus",
+      "que vous ayez reclus",
+      "qu'ils aient reclus"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse reclus",
+      "que tu eusses reclus",
+      "qu'il eût reclus",
+      "que nous eussions reclus",
+      "que vous eussiez reclus",
+      "qu'ils eussent reclus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "j'aurais reclus",
+      "tu aurais reclus",
+      "il aurait reclus",
+      "nous aurions reclus",
+      "vous auriez reclus",
+      "ils auraient reclus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie reclus",
+      "ayons reclus",
+      "ayez reclus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reclure"
+    ],
+    "passé": [
+      "avoir reclus"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "reclus",
+      "ayant reclus"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "en ayant reclus"
+    ]
+  }
+}

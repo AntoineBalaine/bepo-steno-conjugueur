@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me corromps",
+      "tu te corromps",
+      "il se corrompt",
+      "nous nous corrompons",
+      "vous vous corrompez",
+      "ils se corrompent"
+    ],
+    "passé composé": [
+      "je me suis corrompu",
+      "tu t'es corrompu",
+      "il s'est corrompu",
+      "nous nous sommes corrompus",
+      "vous vous êtes corrompus",
+      "ils se sont corrompus"
+    ],
+    "imparfait": [
+      "je me corrompais",
+      "tu te corrompais",
+      "il se corrompait",
+      "nous nous corrompions",
+      "vous vous corrompiez",
+      "ils se corrompaient"
+    ],
+    "plus que parfait": [
+      "je m'étais corrompu",
+      "tu t'étais corrompu",
+      "il s'était corrompu",
+      "nous nous étions corrompus",
+      "vous vous étiez corrompus",
+      "ils s'étaient corrompus"
+    ],
+    "passé simple": [
+      "je me corrompis",
+      "tu te corrompis",
+      "il se corrompit",
+      "nous nous corrompîmes",
+      "vous vous corrompîtes",
+      "ils se corrompirent"
+    ],
+    "passé antérieur": [
+      "je me fus corrompu",
+      "tu te fus corrompu",
+      "il se fut corrompu",
+      "nous nous fûmes corrompus",
+      "vous vous fûtes corrompus",
+      "ils se furent corrompus"
+    ],
+    "futur simple": [
+      "je me corromprai",
+      "tu te corrompras",
+      "il se corrompra",
+      "nous nous corromprons",
+      "vous vous corromprez",
+      "ils se corrompront"
+    ],
+    "futur antérieur": [
+      "je me serai corrompu",
+      "tu te seras corrompu",
+      "il se sera corrompu",
+      "nous nous serons corrompus",
+      "vous vous serez corrompus",
+      "ils se seront corrompus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me corrompe",
+      "que tu te corrompes",
+      "qu'il se corrompe",
+      "que nous nous corrompions",
+      "que vous vous corrompiez",
+      "qu'ils se corrompent"
+    ],
+    "passé": [
+      "que je me sois corrompu",
+      "que tu te sois corrompu",
+      "qu'il se soit corrompu",
+      "que nous nous soyons corrompus",
+      "que vous vous soyez corrompus",
+      "qu'ils se soient corrompus"
+    ],
+    "imparfait": [
+      "que je me corrompisse",
+      "que tu te corrompisses",
+      "qu'il se corrompît",
+      "que nous nous corrompissions",
+      "que vous vous corrompissiez",
+      "qu'ils se corrompissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse corrompu",
+      "que tu te fusses corrompu",
+      "qu'il se fût corrompu",
+      "que nous nous fussions corrompus",
+      "que vous vous fussiez corrompus",
+      "qu'ils se fussent corrompus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me corromprais",
+      "tu te corromprais",
+      "il se corromprait",
+      "nous nous corromprions",
+      "vous vous corrompriez",
+      "ils se corrompraient"
+    ],
+    "passé": [
+      "je me serais corrompu",
+      "tu te serais corrompu",
+      "il se serait corrompu",
+      "nous nous serions corrompus",
+      "vous vous seriez corrompus",
+      "ils se seraient corrompus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "corromps-toi",
+      "corrompons-nous",
+      "corrompez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se corrompre"
+    ],
+    "passé": [
+      "s'être corrompu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se corrompant"
+    ],
+    "passé": [
+      "-",
+      "s'étant corrompu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se corrompant"
+    ],
+    "passé": [
+      "en s'étant corrompu"
+    ]
+  }
+}

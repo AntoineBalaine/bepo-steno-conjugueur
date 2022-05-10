@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je sous-tends",
+      "tu sous-tends",
+      "il sous-tend",
+      "nous sous-tendons",
+      "vous sous-tendez",
+      "ils sous-tendent"
+    ],
+    "passé composé": [
+      "j'ai sous-tendu",
+      "tu as sous-tendu",
+      "il a sous-tendu",
+      "nous avons sous-tendu",
+      "vous avez sous-tendu",
+      "ils ont sous-tendu"
+    ],
+    "imparfait": [
+      "je sous-tendais",
+      "tu sous-tendais",
+      "il sous-tendait",
+      "nous sous-tendions",
+      "vous sous-tendiez",
+      "ils sous-tendaient"
+    ],
+    "plus que parfait": [
+      "j'avais sous-tendu",
+      "tu avais sous-tendu",
+      "il avait sous-tendu",
+      "nous avions sous-tendu",
+      "vous aviez sous-tendu",
+      "ils avaient sous-tendu"
+    ],
+    "passé simple": [
+      "je sous-tendis",
+      "tu sous-tendis",
+      "il sous-tendit",
+      "nous sous-tendîmes",
+      "vous sous-tendîtes",
+      "ils sous-tendirent"
+    ],
+    "passé antérieur": [
+      "j'eus sous-tendu",
+      "tu eus sous-tendu",
+      "il eut sous-tendu",
+      "nous eûmes sous-tendu",
+      "vous eûtes sous-tendu",
+      "ils eurent sous-tendu"
+    ],
+    "futur simple": [
+      "je sous-tendrai",
+      "tu sous-tendras",
+      "il sous-tendra",
+      "nous sous-tendrons",
+      "vous sous-tendrez",
+      "ils sous-tendront"
+    ],
+    "futur antérieur": [
+      "j'aurai sous-tendu",
+      "tu auras sous-tendu",
+      "il aura sous-tendu",
+      "nous aurons sous-tendu",
+      "vous aurez sous-tendu",
+      "ils auront sous-tendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je sous-tende",
+      "que tu sous-tendes",
+      "qu'il sous-tende",
+      "que nous sous-tendions",
+      "que vous sous-tendiez",
+      "qu'ils sous-tendent"
+    ],
+    "passé": [
+      "que j'aie sous-tendu",
+      "que tu aies sous-tendu",
+      "qu'il ait sous-tendu",
+      "que nous ayons sous-tendu",
+      "que vous ayez sous-tendu",
+      "qu'ils aient sous-tendu"
+    ],
+    "imparfait": [
+      "que je sous-tendisse",
+      "que tu sous-tendisses",
+      "qu'il sous-tendît",
+      "que nous sous-tendissions",
+      "que vous sous-tendissiez",
+      "qu'ils sous-tendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse sous-tendu",
+      "que tu eusses sous-tendu",
+      "qu'il eût sous-tendu",
+      "que nous eussions sous-tendu",
+      "que vous eussiez sous-tendu",
+      "qu'ils eussent sous-tendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je sous-tendrais",
+      "tu sous-tendrais",
+      "il sous-tendrait",
+      "nous sous-tendrions",
+      "vous sous-tendriez",
+      "ils sous-tendraient"
+    ],
+    "passé": [
+      "j'aurais sous-tendu",
+      "tu aurais sous-tendu",
+      "il aurait sous-tendu",
+      "nous aurions sous-tendu",
+      "vous auriez sous-tendu",
+      "ils auraient sous-tendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sous-tends",
+      "sous-tendons",
+      "sous-tendez"
+    ],
+    "passé": [
+      "aie sous-tendu",
+      "ayons sous-tendu",
+      "ayez sous-tendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "sous-tendre"
+    ],
+    "passé": [
+      "avoir sous-tendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "sous-tendant"
+    ],
+    "passé": [
+      "sous-tendu",
+      "ayant sous-tendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en sous-tendant"
+    ],
+    "passé": [
+      "en ayant sous-tendu"
+    ]
+  }
+}

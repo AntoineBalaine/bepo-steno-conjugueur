@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je survêts",
+      "tu survêts",
+      "il survêt",
+      "nous survêtons",
+      "vous survêtez",
+      "ils survêtent"
+    ],
+    "passé composé": [
+      "j'ai survêtu",
+      "tu as survêtu",
+      "il a survêtu",
+      "nous avons survêtu",
+      "vous avez survêtu",
+      "ils ont survêtu"
+    ],
+    "imparfait": [
+      "je survêtais",
+      "tu survêtais",
+      "il survêtait",
+      "nous survêtions",
+      "vous survêtiez",
+      "ils survêtaient"
+    ],
+    "plus que parfait": [
+      "j'avais survêtu",
+      "tu avais survêtu",
+      "il avait survêtu",
+      "nous avions survêtu",
+      "vous aviez survêtu",
+      "ils avaient survêtu"
+    ],
+    "passé simple": [
+      "je survêtis",
+      "tu survêtis",
+      "il survêtit",
+      "nous survêtîmes",
+      "vous survêtîtes",
+      "ils survêtirent"
+    ],
+    "passé antérieur": [
+      "j'eus survêtu",
+      "tu eus survêtu",
+      "il eut survêtu",
+      "nous eûmes survêtu",
+      "vous eûtes survêtu",
+      "ils eurent survêtu"
+    ],
+    "futur simple": [
+      "je survêtirai",
+      "tu survêtiras",
+      "il survêtira",
+      "nous survêtirons",
+      "vous survêtirez",
+      "ils survêtiront"
+    ],
+    "futur antérieur": [
+      "j'aurai survêtu",
+      "tu auras survêtu",
+      "il aura survêtu",
+      "nous aurons survêtu",
+      "vous aurez survêtu",
+      "ils auront survêtu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je survête",
+      "que tu survêtes",
+      "qu'il survête",
+      "que nous survêtions",
+      "que vous survêtiez",
+      "qu'ils survêtent"
+    ],
+    "passé": [
+      "que j'aie survêtu",
+      "que tu aies survêtu",
+      "qu'il ait survêtu",
+      "que nous ayons survêtu",
+      "que vous ayez survêtu",
+      "qu'ils aient survêtu"
+    ],
+    "imparfait": [
+      "que je survêtisse",
+      "que tu survêtisses",
+      "qu'il survêtît",
+      "que nous survêtissions",
+      "que vous survêtissiez",
+      "qu'ils survêtissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse survêtu",
+      "que tu eusses survêtu",
+      "qu'il eût survêtu",
+      "que nous eussions survêtu",
+      "que vous eussiez survêtu",
+      "qu'ils eussent survêtu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je survêtirais",
+      "tu survêtirais",
+      "il survêtirait",
+      "nous survêtirions",
+      "vous survêtiriez",
+      "ils survêtiraient"
+    ],
+    "passé": [
+      "j'aurais survêtu",
+      "tu aurais survêtu",
+      "il aurait survêtu",
+      "nous aurions survêtu",
+      "vous auriez survêtu",
+      "ils auraient survêtu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "survêts",
+      "survêtons",
+      "survêtez"
+    ],
+    "passé": [
+      "aie survêtu",
+      "ayons survêtu",
+      "ayez survêtu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "survêtir"
+    ],
+    "passé": [
+      "avoir survêtu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "survêtant"
+    ],
+    "passé": [
+      "survêtu",
+      "ayant survêtu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en survêtant"
+    ],
+    "passé": [
+      "en ayant survêtu"
+    ]
+  }
+}

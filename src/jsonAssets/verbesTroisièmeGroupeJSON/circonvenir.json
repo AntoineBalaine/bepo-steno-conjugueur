@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je circonviens",
+      "tu circonviens",
+      "il circonvient",
+      "nous circonvenons",
+      "vous circonvenez",
+      "ils circonviennent"
+    ],
+    "passé composé": [
+      "j'ai circonvenu",
+      "tu as circonvenu",
+      "il a circonvenu",
+      "nous avons circonvenu",
+      "vous avez circonvenu",
+      "ils ont circonvenu"
+    ],
+    "imparfait": [
+      "je circonvenais",
+      "tu circonvenais",
+      "il circonvenait",
+      "nous circonvenions",
+      "vous circonveniez",
+      "ils circonvenaient"
+    ],
+    "plus que parfait": [
+      "j'avais circonvenu",
+      "tu avais circonvenu",
+      "il avait circonvenu",
+      "nous avions circonvenu",
+      "vous aviez circonvenu",
+      "ils avaient circonvenu"
+    ],
+    "passé simple": [
+      "je circonvins",
+      "tu circonvins",
+      "il circonvint",
+      "nous circonvînmes",
+      "vous circonvîntes",
+      "ils circonvinrent"
+    ],
+    "passé antérieur": [
+      "j'eus circonvenu",
+      "tu eus circonvenu",
+      "il eut circonvenu",
+      "nous eûmes circonvenu",
+      "vous eûtes circonvenu",
+      "ils eurent circonvenu"
+    ],
+    "futur simple": [
+      "je circonviendrai",
+      "tu circonviendras",
+      "il circonviendra",
+      "nous circonviendrons",
+      "vous circonviendrez",
+      "ils circonviendront"
+    ],
+    "futur antérieur": [
+      "j'aurai circonvenu",
+      "tu auras circonvenu",
+      "il aura circonvenu",
+      "nous aurons circonvenu",
+      "vous aurez circonvenu",
+      "ils auront circonvenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je circonvienne",
+      "que tu circonviennes",
+      "qu'il circonvienne",
+      "que nous circonvenions",
+      "que vous circonveniez",
+      "qu'ils circonviennent"
+    ],
+    "passé": [
+      "que j'aie circonvenu",
+      "que tu aies circonvenu",
+      "qu'il ait circonvenu",
+      "que nous ayons circonvenu",
+      "que vous ayez circonvenu",
+      "qu'ils aient circonvenu"
+    ],
+    "imparfait": [
+      "que je circonvinsse",
+      "que tu circonvinsses",
+      "qu'il circonvînt",
+      "que nous circonvinssions",
+      "que vous circonvinssiez",
+      "qu'ils circonvinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse circonvenu",
+      "que tu eusses circonvenu",
+      "qu'il eût circonvenu",
+      "que nous eussions circonvenu",
+      "que vous eussiez circonvenu",
+      "qu'ils eussent circonvenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je circonviendrais",
+      "tu circonviendrais",
+      "il circonviendrait",
+      "nous circonviendrions",
+      "vous circonviendriez",
+      "ils circonviendraient"
+    ],
+    "passé": [
+      "j'aurais circonvenu",
+      "tu aurais circonvenu",
+      "il aurait circonvenu",
+      "nous aurions circonvenu",
+      "vous auriez circonvenu",
+      "ils auraient circonvenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "circonviens",
+      "circonvenons",
+      "circonvenez"
+    ],
+    "passé": [
+      "aie circonvenu",
+      "ayons circonvenu",
+      "ayez circonvenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "circonvenir"
+    ],
+    "passé": [
+      "avoir circonvenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "circonvenant"
+    ],
+    "passé": [
+      "circonvenu",
+      "ayant circonvenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en circonvenant"
+    ],
+    "passé": [
+      "en ayant circonvenu"
+    ]
+  }
+}

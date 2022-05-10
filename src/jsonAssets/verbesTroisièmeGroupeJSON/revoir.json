@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je revois",
+      "tu revois",
+      "il revoit",
+      "nous revoyons",
+      "vous revoyez",
+      "ils revoient"
+    ],
+    "passé composé": [
+      "j'ai revu",
+      "tu as revu",
+      "il a revu",
+      "nous avons revu",
+      "vous avez revu",
+      "ils ont revu"
+    ],
+    "imparfait": [
+      "je revoyais",
+      "tu revoyais",
+      "il revoyait",
+      "nous revoyions",
+      "vous revoyiez",
+      "ils revoyaient"
+    ],
+    "plus que parfait": [
+      "j'avais revu",
+      "tu avais revu",
+      "il avait revu",
+      "nous avions revu",
+      "vous aviez revu",
+      "ils avaient revu"
+    ],
+    "passé simple": [
+      "je revis",
+      "tu revis",
+      "il revit",
+      "nous revîmes",
+      "vous revîtes",
+      "ils revirent"
+    ],
+    "passé antérieur": [
+      "j'eus revu",
+      "tu eus revu",
+      "il eut revu",
+      "nous eûmes revu",
+      "vous eûtes revu",
+      "ils eurent revu"
+    ],
+    "futur simple": [
+      "je reverrai",
+      "tu reverras",
+      "il reverra",
+      "nous reverrons",
+      "vous reverrez",
+      "ils reverront"
+    ],
+    "futur antérieur": [
+      "j'aurai revu",
+      "tu auras revu",
+      "il aura revu",
+      "nous aurons revu",
+      "vous aurez revu",
+      "ils auront revu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je revoie",
+      "que tu revoies",
+      "qu'il revoie",
+      "que nous revoyions",
+      "que vous revoyiez",
+      "qu'ils revoient"
+    ],
+    "passé": [
+      "que j'aie revu",
+      "que tu aies revu",
+      "qu'il ait revu",
+      "que nous ayons revu",
+      "que vous ayez revu",
+      "qu'ils aient revu"
+    ],
+    "imparfait": [
+      "que je revisse",
+      "que tu revisses",
+      "qu'il revît",
+      "que nous revissions",
+      "que vous revissiez",
+      "qu'ils revissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse revu",
+      "que tu eusses revu",
+      "qu'il eût revu",
+      "que nous eussions revu",
+      "que vous eussiez revu",
+      "qu'ils eussent revu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reverrais",
+      "tu reverrais",
+      "il reverrait",
+      "nous reverrions",
+      "vous reverriez",
+      "ils reverraient"
+    ],
+    "passé": [
+      "j'aurais revu",
+      "tu aurais revu",
+      "il aurait revu",
+      "nous aurions revu",
+      "vous auriez revu",
+      "ils auraient revu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "revois",
+      "revoyons",
+      "revoyez"
+    ],
+    "passé": [
+      "aie revu",
+      "ayons revu",
+      "ayez revu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "revoir"
+    ],
+    "passé": [
+      "avoir revu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "revoyant"
+    ],
+    "passé": [
+      "revu",
+      "ayant revu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en revoyant"
+    ],
+    "passé": [
+      "en ayant revu"
+    ]
+  }
+}

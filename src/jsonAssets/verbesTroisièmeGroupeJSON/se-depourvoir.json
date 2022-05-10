@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me dépourvois",
+      "tu te dépourvois",
+      "il se dépourvoit",
+      "nous nous dépourvoyons",
+      "vous vous dépourvoyez",
+      "ils se dépourvoient"
+    ],
+    "passé composé": [
+      "je me suis dépourvu",
+      "tu t'es dépourvu",
+      "il s'est dépourvu",
+      "nous nous sommes dépourvus",
+      "vous vous êtes dépourvus",
+      "ils se sont dépourvus"
+    ],
+    "imparfait": [
+      "je me dépourvoyais",
+      "tu te dépourvoyais",
+      "il se dépourvoyait",
+      "nous nous dépourvoyions",
+      "vous vous dépourvoyiez",
+      "ils se dépourvoyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais dépourvu",
+      "tu t'étais dépourvu",
+      "il s'était dépourvu",
+      "nous nous étions dépourvus",
+      "vous vous étiez dépourvus",
+      "ils s'étaient dépourvus"
+    ],
+    "passé simple": [
+      "je me dépourvus",
+      "tu te dépourvus",
+      "il se dépourvut",
+      "nous nous dépourvûmes",
+      "vous vous dépourvûtes",
+      "ils se dépourvurent"
+    ],
+    "passé antérieur": [
+      "je me fus dépourvu",
+      "tu te fus dépourvu",
+      "il se fut dépourvu",
+      "nous nous fûmes dépourvus",
+      "vous vous fûtes dépourvus",
+      "ils se furent dépourvus"
+    ],
+    "futur simple": [
+      "je me dépourvoirai",
+      "tu te dépourvoiras",
+      "il se dépourvoira",
+      "nous nous dépourvoirons",
+      "vous vous dépourvoirez",
+      "ils se dépourvoiront"
+    ],
+    "futur antérieur": [
+      "je me serai dépourvu",
+      "tu te seras dépourvu",
+      "il se sera dépourvu",
+      "nous nous serons dépourvus",
+      "vous vous serez dépourvus",
+      "ils se seront dépourvus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me dépourvoie",
+      "que tu te dépourvoies",
+      "qu'il se dépourvoie",
+      "que nous nous dépourvoyions",
+      "que vous vous dépourvoyiez",
+      "qu'ils se dépourvoient"
+    ],
+    "passé": [
+      "que je me sois dépourvu",
+      "que tu te sois dépourvu",
+      "qu'il se soit dépourvu",
+      "que nous nous soyons dépourvus",
+      "que vous vous soyez dépourvus",
+      "qu'ils se soient dépourvus"
+    ],
+    "imparfait": [
+      "que je me dépourvusse",
+      "que tu te dépourvusses",
+      "qu'il se dépourvût",
+      "que nous nous dépourvussions",
+      "que vous vous dépourvussiez",
+      "qu'ils se dépourvussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse dépourvu",
+      "que tu te fusses dépourvu",
+      "qu'il se fût dépourvu",
+      "que nous nous fussions dépourvus",
+      "que vous vous fussiez dépourvus",
+      "qu'ils se fussent dépourvus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me dépourvoirais",
+      "tu te dépourvoirais",
+      "il se dépourvoirait",
+      "nous nous dépourvoirions",
+      "vous vous dépourvoiriez",
+      "ils se dépourvoiraient"
+    ],
+    "passé": [
+      "je me serais dépourvu",
+      "tu te serais dépourvu",
+      "il se serait dépourvu",
+      "nous nous serions dépourvus",
+      "vous vous seriez dépourvus",
+      "ils se seraient dépourvus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dépourvois-toi",
+      "dépourvoyons-nous",
+      "dépourvoyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se dépourvoir"
+    ],
+    "passé": [
+      "s'être dépourvu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se dépourvoyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant dépourvu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se dépourvoyant"
+    ],
+    "passé": [
+      "en s'étant dépourvu"
+    ]
+  }
+}

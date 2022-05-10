@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'instruis",
+      "tu t'instruis",
+      "il s'instruit",
+      "nous nous instruisons",
+      "vous vous instruisez",
+      "ils s'instruisent"
+    ],
+    "passé composé": [
+      "je me suis instruit",
+      "tu t'es instruit",
+      "il s'est instruit",
+      "nous nous sommes instruits",
+      "vous vous êtes instruits",
+      "ils se sont instruits"
+    ],
+    "imparfait": [
+      "je m'instruisais",
+      "tu t'instruisais",
+      "il s'instruisait",
+      "nous nous instruisions",
+      "vous vous instruisiez",
+      "ils s'instruisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais instruit",
+      "tu t'étais instruit",
+      "il s'était instruit",
+      "nous nous étions instruits",
+      "vous vous étiez instruits",
+      "ils s'étaient instruits"
+    ],
+    "passé simple": [
+      "je m'instruisis",
+      "tu t'instruisis",
+      "il s'instruisit",
+      "nous nous instruisîmes",
+      "vous vous instruisîtes",
+      "ils s'instruisirent"
+    ],
+    "passé antérieur": [
+      "je me fus instruit",
+      "tu te fus instruit",
+      "il se fut instruit",
+      "nous nous fûmes instruits",
+      "vous vous fûtes instruits",
+      "ils se furent instruits"
+    ],
+    "futur simple": [
+      "je m'instruirai",
+      "tu t'instruiras",
+      "il s'instruira",
+      "nous nous instruirons",
+      "vous vous instruirez",
+      "ils s'instruiront"
+    ],
+    "futur antérieur": [
+      "je me serai instruit",
+      "tu te seras instruit",
+      "il se sera instruit",
+      "nous nous serons instruits",
+      "vous vous serez instruits",
+      "ils se seront instruits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'instruise",
+      "que tu t'instruises",
+      "qu'il s'instruise",
+      "que nous nous instruisions",
+      "que vous vous instruisiez",
+      "qu'ils s'instruisent"
+    ],
+    "passé": [
+      "que je me sois instruit",
+      "que tu te sois instruit",
+      "qu'il se soit instruit",
+      "que nous nous soyons instruits",
+      "que vous vous soyez instruits",
+      "qu'ils se soient instruits"
+    ],
+    "imparfait": [
+      "que je m'instruisisse",
+      "que tu t'instruisisses",
+      "qu'il s'instruisît",
+      "que nous nous instruisissions",
+      "que vous vous instruisissiez",
+      "qu'ils s'instruisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse instruit",
+      "que tu te fusses instruit",
+      "qu'il se fût instruit",
+      "que nous nous fussions instruits",
+      "que vous vous fussiez instruits",
+      "qu'ils se fussent instruits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'instruirais",
+      "tu t'instruirais",
+      "il s'instruirait",
+      "nous nous instruirions",
+      "vous vous instruiriez",
+      "ils s'instruiraient"
+    ],
+    "passé": [
+      "je me serais instruit",
+      "tu te serais instruit",
+      "il se serait instruit",
+      "nous nous serions instruits",
+      "vous vous seriez instruits",
+      "ils se seraient instruits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "instruis-toi",
+      "instruisons-nous",
+      "instruisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'instruire"
+    ],
+    "passé": [
+      "s'être instruit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'instruisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant instruit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'instruisant"
+    ],
+    "passé": [
+      "en s'étant instruit"
+    ]
+  }
+}

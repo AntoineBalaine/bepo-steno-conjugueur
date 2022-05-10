@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me nuis",
+      "tu te nuis",
+      "il se nuit",
+      "nous nous nuisons",
+      "vous vous nuisez",
+      "ils se nuisent"
+    ],
+    "passé composé": [
+      "je me suis nuit",
+      "tu t'es nuit",
+      "il s'est nuit",
+      "nous nous sommes nuit",
+      "vous vous êtes nuit",
+      "ils se sont nuit"
+    ],
+    "imparfait": [
+      "je me nuisais",
+      "tu te nuisais",
+      "il se nuisait",
+      "nous nous nuisions",
+      "vous vous nuisiez",
+      "ils se nuisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais nuit",
+      "tu t'étais nuit",
+      "il s'était nuit",
+      "nous nous étions nuit",
+      "vous vous étiez nuit",
+      "ils s'étaient nuit"
+    ],
+    "passé simple": [
+      "je me nuisis",
+      "tu te nuisis",
+      "il se nuisit",
+      "nous nous nuisîmes",
+      "vous vous nuisîtes",
+      "ils se nuisirent"
+    ],
+    "passé antérieur": [
+      "je me fus nuit",
+      "tu te fus nuit",
+      "il se fut nuit",
+      "nous nous fûmes nuit",
+      "vous vous fûtes nuit",
+      "ils se furent nuit"
+    ],
+    "futur simple": [
+      "je me nuirai",
+      "tu te nuiras",
+      "il se nuira",
+      "nous nous nuirons",
+      "vous vous nuirez",
+      "ils se nuiront"
+    ],
+    "futur antérieur": [
+      "je me serai nuit",
+      "tu te seras nuit",
+      "il se sera nuit",
+      "nous nous serons nuit",
+      "vous vous serez nuit",
+      "ils se seront nuit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me nuise",
+      "que tu te nuises",
+      "qu'il se nuise",
+      "que nous nous nuisions",
+      "que vous vous nuisiez",
+      "qu'ils se nuisent"
+    ],
+    "passé": [
+      "que je me sois nuit",
+      "que tu te sois nuit",
+      "qu'il se soit nuit",
+      "que nous nous soyons nuit",
+      "que vous vous soyez nuit",
+      "qu'ils se soient nuit"
+    ],
+    "imparfait": [
+      "que je me nuisisse",
+      "que tu te nuisisses",
+      "qu'il se nuisît",
+      "que nous nous nuisissions",
+      "que vous vous nuisissiez",
+      "qu'ils se nuisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse nuit",
+      "que tu te fusses nuit",
+      "qu'il se fût nuit",
+      "que nous nous fussions nuit",
+      "que vous vous fussiez nuit",
+      "qu'ils se fussent nuit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me nuirais",
+      "tu te nuirais",
+      "il se nuirait",
+      "nous nous nuirions",
+      "vous vous nuiriez",
+      "ils se nuiraient"
+    ],
+    "passé": [
+      "je me serais nuit",
+      "tu te serais nuit",
+      "il se serait nuit",
+      "nous nous serions nuit",
+      "vous vous seriez nuit",
+      "ils se seraient nuit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "nuis-toi",
+      "nuisons-nous",
+      "nuisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se nuire"
+    ],
+    "passé": [
+      "s'être nuit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se nuisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant nuit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se nuisant"
+    ],
+    "passé": [
+      "en s'étant nuit"
+    ]
+  }
+}

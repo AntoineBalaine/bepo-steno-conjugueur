@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rassieds",
+      "tu rassieds",
+      "il rassied",
+      "nous rasseyons",
+      "vous rasseyez",
+      "ils rasseyent"
+    ],
+    "passé composé": [
+      "j'ai rassis",
+      "tu as rassis",
+      "il a rassis",
+      "nous avons rassis",
+      "vous avez rassis",
+      "ils ont rassis"
+    ],
+    "imparfait": [
+      "je rasseyais",
+      "tu rasseyais",
+      "il rasseyait",
+      "nous rasseyions",
+      "vous rasseyiez",
+      "ils rasseyaient"
+    ],
+    "plus que parfait": [
+      "j'avais rassis",
+      "tu avais rassis",
+      "il avait rassis",
+      "nous avions rassis",
+      "vous aviez rassis",
+      "ils avaient rassis"
+    ],
+    "passé simple": [
+      "je rassis",
+      "tu rassis",
+      "il rassit",
+      "nous rassîmes",
+      "vous rassîtes",
+      "ils rassirent"
+    ],
+    "passé antérieur": [
+      "j'eus rassis",
+      "tu eus rassis",
+      "il eut rassis",
+      "nous eûmes rassis",
+      "vous eûtes rassis",
+      "ils eurent rassis"
+    ],
+    "futur simple": [
+      "je rassiérai",
+      "tu rassiéras",
+      "il rassiéra",
+      "nous rassiérons",
+      "vous rassiérez",
+      "ils rassiéront"
+    ],
+    "futur antérieur": [
+      "j'aurai rassis",
+      "tu auras rassis",
+      "il aura rassis",
+      "nous aurons rassis",
+      "vous aurez rassis",
+      "ils auront rassis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rasseye",
+      "que tu rasseyes",
+      "qu'il rasseye",
+      "que nous rasseyions",
+      "que vous rasseyiez",
+      "qu'ils rasseyent"
+    ],
+    "passé": [
+      "que j'aie rassis",
+      "que tu aies rassis",
+      "qu'il ait rassis",
+      "que nous ayons rassis",
+      "que vous ayez rassis",
+      "qu'ils aient rassis"
+    ],
+    "imparfait": [
+      "que je rassisse",
+      "que tu rassisses",
+      "qu'il rassît",
+      "que nous rassissions",
+      "que vous rassissiez",
+      "qu'ils rassissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rassis",
+      "que tu eusses rassis",
+      "qu'il eût rassis",
+      "que nous eussions rassis",
+      "que vous eussiez rassis",
+      "qu'ils eussent rassis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rassiétais",
+      "tu rassiérais",
+      "il rassiérait",
+      "nous rassiérions",
+      "vous rassiériez",
+      "ils rassiéraient"
+    ],
+    "passé": [
+      "j'aurais rassis",
+      "tu aurais rassis",
+      "il aurait rassis",
+      "nous aurions rassis",
+      "vous auriez rassis",
+      "ils auraient rassis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rassieds",
+      "rasseyons",
+      "rasseyez"
+    ],
+    "passé": [
+      "aie rassis",
+      "ayons rassis",
+      "ayez rassis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rasseoir"
+    ],
+    "passé": [
+      "avoir rassis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rasseyant"
+    ],
+    "passé": [
+      "rassis",
+      "ayant rassis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rasseyant"
+    ],
+    "passé": [
+      "en ayant rassis"
+    ]
+  }
+}

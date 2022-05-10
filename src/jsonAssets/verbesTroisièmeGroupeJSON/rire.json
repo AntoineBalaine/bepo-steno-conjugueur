@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je ris",
+      "tu ris",
+      "il rit",
+      "nous rions",
+      "vous riez",
+      "ils rient"
+    ],
+    "passé composé": [
+      "j'ai ri",
+      "tu as ri",
+      "il a ri",
+      "nous avons ri",
+      "vous avez ri",
+      "ils ont ri"
+    ],
+    "imparfait": [
+      "je riais",
+      "tu riais",
+      "il riait",
+      "nous riions",
+      "vous riiez",
+      "ils riaient"
+    ],
+    "plus que parfait": [
+      "j'avais ri",
+      "tu avais ri",
+      "il avait ri",
+      "nous avions ri",
+      "vous aviez ri",
+      "ils avaient ri"
+    ],
+    "passé simple": [
+      "je ris",
+      "tu ris",
+      "il rit",
+      "nous rîmes",
+      "vous rîtes",
+      "ils rirent"
+    ],
+    "passé antérieur": [
+      "j'eus ri",
+      "tu eus ri",
+      "il eut ri",
+      "nous eûmes ri",
+      "vous eûtes ri",
+      "ils eurent ri"
+    ],
+    "futur simple": [
+      "je rirai",
+      "tu riras",
+      "il rira",
+      "nous rirons",
+      "vous rirez",
+      "ils riront"
+    ],
+    "futur antérieur": [
+      "j'aurai ri",
+      "tu auras ri",
+      "il aura ri",
+      "nous aurons ri",
+      "vous aurez ri",
+      "ils auront ri"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rie",
+      "que tu ries",
+      "qu'il rie",
+      "que nous ruons",
+      "que vous ruez",
+      "qu'ils rient"
+    ],
+    "passé": [
+      "que j'aie ri",
+      "que tu aies ri",
+      "qu'il ait ri",
+      "que nous ayons ri",
+      "que vous ayez ri",
+      "qu'ils aient ri"
+    ],
+    "imparfait": [
+      "que je risse",
+      "que tu risses",
+      "qu'il rît",
+      "que nous rissions",
+      "que vous rissiez",
+      "qu'ils rissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse ri",
+      "que tu eusses ri",
+      "qu'il eût ri",
+      "que nous eussions ri",
+      "que vous eussiez ri",
+      "qu'ils eussent ri"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rirais",
+      "tu rirais",
+      "il rirait",
+      "nous ririons",
+      "vous ririez",
+      "ils riraient"
+    ],
+    "passé": [
+      "j'aurais ri",
+      "tu aurais ri",
+      "il aurait ri",
+      "nous aurions ri",
+      "vous auriez ri",
+      "ils auraient ri"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "ris",
+      "rions",
+      "riez"
+    ],
+    "passé": [
+      "aie ri",
+      "ayons ri",
+      "ayez ri"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rire"
+    ],
+    "passé": [
+      "avoir ri"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "riant"
+    ],
+    "passé": [
+      "ri",
+      "ayant ri"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en riant"
+    ],
+    "passé": [
+      "en ayant ri"
+    ]
+  }
+}

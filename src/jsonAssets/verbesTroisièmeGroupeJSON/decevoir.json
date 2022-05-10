@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je déçois",
+      "tu déçois",
+      "il déçoit",
+      "nous décevons",
+      "vous décevez",
+      "ils déçoivent"
+    ],
+    "passé composé": [
+      "j'ai déçu",
+      "tu as déçu",
+      "il a déçu",
+      "nous avons déçu",
+      "vous avez déçu",
+      "ils ont déçu"
+    ],
+    "imparfait": [
+      "je décevais",
+      "tu décevais",
+      "il décevait",
+      "nous décevions",
+      "vous déceviez",
+      "ils décevaient"
+    ],
+    "plus que parfait": [
+      "j'avais déçu",
+      "tu avais déçu",
+      "il avait déçu",
+      "nous avions déçu",
+      "vous aviez déçu",
+      "ils avaient déçu"
+    ],
+    "passé simple": [
+      "je déçus",
+      "tu déçus",
+      "il déçut",
+      "nous déçûmes",
+      "vous déçûtes",
+      "ils déçurent"
+    ],
+    "passé antérieur": [
+      "j'eus déçu",
+      "tu eus déçu",
+      "il eut déçu",
+      "nous eûmes déçu",
+      "vous eûtes déçu",
+      "ils eurent déçu"
+    ],
+    "futur simple": [
+      "je décevrai",
+      "tu décevras",
+      "il décevra",
+      "nous décevrons",
+      "vous décevrez",
+      "ils décevront"
+    ],
+    "futur antérieur": [
+      "j'aurai déçu",
+      "tu auras déçu",
+      "il aura déçu",
+      "nous aurons déçu",
+      "vous aurez déçu",
+      "ils auront déçu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je déçoive",
+      "que tu déçoives",
+      "qu'il déçoive",
+      "que nous décevions",
+      "que vous déceviez",
+      "qu'ils déçoivent"
+    ],
+    "passé": [
+      "que j'aie déçu",
+      "que tu aies déçu",
+      "qu'il ait déçu",
+      "que nous ayons déçu",
+      "que vous ayez déçu",
+      "qu'ils aient déçu"
+    ],
+    "imparfait": [
+      "que je déçusse",
+      "que tu déçusses",
+      "qu'il déçût",
+      "que nous déçussions",
+      "que vous déçussiez",
+      "qu'ils déçussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse déçu",
+      "que tu eusses déçu",
+      "qu'il eût déçu",
+      "que nous eussions déçu",
+      "que vous eussiez déçu",
+      "qu'ils eussent déçu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je décevrais",
+      "tu décevrais",
+      "il décevrait",
+      "nous décevrions",
+      "vous décevriez",
+      "ils décevraient"
+    ],
+    "passé": [
+      "j'aurais déçu",
+      "tu aurais déçu",
+      "il aurait déçu",
+      "nous aurions déçu",
+      "vous auriez déçu",
+      "ils auraient déçu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déçois",
+      "décevons",
+      "décevez"
+    ],
+    "passé": [
+      "aie déçu",
+      "ayons déçu",
+      "ayez déçu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "décevoir"
+    ],
+    "passé": [
+      "avoir déçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "décevant"
+    ],
+    "passé": [
+      "déçu",
+      "ayant déçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en décevant"
+    ],
+    "passé": [
+      "en ayant déçu"
+    ]
+  }
+}

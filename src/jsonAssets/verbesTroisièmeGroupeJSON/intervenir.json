@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'interviens",
+      "tu interviens",
+      "il intervient",
+      "nous intervenons",
+      "vous intervenez",
+      "ils interviennent"
+    ],
+    "passé composé": [
+      "je suis intervenu",
+      "tu es intervenu",
+      "il est intervenu",
+      "nous sommes intervenus",
+      "vous êtes intervenus",
+      "ils sont intervenus"
+    ],
+    "imparfait": [
+      "j'intervenais",
+      "tu intervenais",
+      "il intervenait",
+      "nous intervenions",
+      "vous interveniez",
+      "ils intervenaient"
+    ],
+    "plus que parfait": [
+      "j'étais intervenu",
+      "tu étais intervenu",
+      "il était intervenu",
+      "nous étions intervenus",
+      "vous étiez intervenus",
+      "ils étaient intervenus"
+    ],
+    "passé simple": [
+      "j'intervins",
+      "tu intervins",
+      "il intervint",
+      "nous intervînmes",
+      "vous intervîntes",
+      "ils intervinrent"
+    ],
+    "passé antérieur": [
+      "je fus intervenu",
+      "tu fus intervenu",
+      "il fut intervenu",
+      "nous fûmes intervenus",
+      "vous fûtes intervenus",
+      "ils furent intervenus"
+    ],
+    "futur simple": [
+      "j'interviendrai",
+      "tu interviendras",
+      "il interviendra",
+      "nous interviendrons",
+      "vous interviendrez",
+      "ils interviendront"
+    ],
+    "futur antérieur": [
+      "je serai intervenu",
+      "tu seras intervenu",
+      "il sera intervenu",
+      "nous serons intervenus",
+      "vous serez intervenus",
+      "ils seront intervenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'intervienne",
+      "que tu interviennes",
+      "qu'il intervienne",
+      "que nous intervenions",
+      "que vous interveniez",
+      "qu'ils interviennent"
+    ],
+    "passé": [
+      "que je sois intervenu",
+      "que tu sois intervenu",
+      "qu'il soit intervenu",
+      "que nous soyons intervenus",
+      "que vous soyez intervenus",
+      "qu'ils soient intervenus"
+    ],
+    "imparfait": [
+      "que j'intervinsse",
+      "que tu intervinsses",
+      "qu'il intervînt",
+      "que nous intervinssions",
+      "que vous intervinssiez",
+      "qu'ils intervinssent"
+    ],
+    "plus que parfait": [
+      "que je fusse intervenu",
+      "que tu fusses intervenu",
+      "qu'il fût intervenu",
+      "que nous fussions intervenus",
+      "que vous fussiez intervenus",
+      "qu'ils fussent intervenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'interviendrais",
+      "tu interviendrais",
+      "il interviendrait",
+      "nous interviendrions",
+      "vous interviendriez",
+      "ils interviendraient"
+    ],
+    "passé": [
+      "je serais intervenu",
+      "tu serais intervenu",
+      "il serait intervenu",
+      "nous serions intervenus",
+      "vous seriez intervenus",
+      "ils seraient intervenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "interviens",
+      "intervenons",
+      "intervenez"
+    ],
+    "passé": [
+      "sois intervenu",
+      "soyons intervenus",
+      "soyez intervenus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "intervenir"
+    ],
+    "passé": [
+      "être intervenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "intervenant"
+    ],
+    "passé": [
+      "intervenu",
+      "étant intervenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en intervenant"
+    ],
+    "passé": [
+      "en étant intervenu"
+    ]
+  }
+}

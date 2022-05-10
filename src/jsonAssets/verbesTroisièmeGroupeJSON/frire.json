@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je fris",
+      "tu fris",
+      "il frit",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé composé": [
+      "j'ai frit",
+      "tu as frit",
+      "il a frit",
+      "nous avons frit",
+      "vous avez frit",
+      "ils ont frit"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "j'avais frit",
+      "tu avais frit",
+      "il avait frit",
+      "nous avions frit",
+      "vous aviez frit",
+      "ils avaient frit"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus frit",
+      "tu eus frit",
+      "il eut frit",
+      "nous eûmes frit",
+      "vous eûtes frit",
+      "ils eurent frit"
+    ],
+    "futur simple": [
+      "je frirai",
+      "tu friras",
+      "il frira",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur antérieur": [
+      "j'aurai frit",
+      "tu auras frit",
+      "il aura frit",
+      "nous aurons frit",
+      "vous aurez frit",
+      "ils auront frit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "que j'aie frit",
+      "que tu aies frit",
+      "qu'il ait frit",
+      "que nous ayons frit",
+      "que vous ayez frit",
+      "qu'ils aient frit"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse frit",
+      "que tu eusses frit",
+      "qu'il eût frit",
+      "que nous eussions frit",
+      "que vous eussiez frit",
+      "qu'ils eussent frit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je frirais",
+      "tu frirais",
+      "il frirait",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "j'aurais frit",
+      "tu aurais frit",
+      "il aurait frit",
+      "nous aurions frit",
+      "vous auriez frit",
+      "ils auraient frit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fris",
+      "-",
+      "-"
+    ],
+    "passé": [
+      "aie frit",
+      "ayons frit",
+      "ayez frit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "frire"
+    ],
+    "passé": [
+      "avoir frit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "frit",
+      "ayant frit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "-"
+    ],
+    "passé": [
+      "en ayant frit"
+    ]
+  }
+}

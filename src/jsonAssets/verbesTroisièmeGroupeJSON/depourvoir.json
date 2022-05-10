@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dépourvois",
+      "tu dépourvois",
+      "il dépourvoit",
+      "nous dépourvoyons",
+      "vous dépourvoyez",
+      "ils dépourvoient"
+    ],
+    "passé composé": [
+      "j'ai dépourvu",
+      "tu as dépourvu",
+      "il a dépourvu",
+      "nous avons dépourvu",
+      "vous avez dépourvu",
+      "ils ont dépourvu"
+    ],
+    "imparfait": [
+      "je dépourvoyais",
+      "tu dépourvoyais",
+      "il dépourvoyait",
+      "nous dépourvoyions",
+      "vous dépourvoyiez",
+      "ils dépourvoyaient"
+    ],
+    "plus que parfait": [
+      "j'avais dépourvu",
+      "tu avais dépourvu",
+      "il avait dépourvu",
+      "nous avions dépourvu",
+      "vous aviez dépourvu",
+      "ils avaient dépourvu"
+    ],
+    "passé simple": [
+      "je dépourvus",
+      "tu dépourvus",
+      "il dépourvut",
+      "nous dépourvûmes",
+      "vous dépourvûtes",
+      "ils dépourvurent"
+    ],
+    "passé antérieur": [
+      "j'eus dépourvu",
+      "tu eus dépourvu",
+      "il eut dépourvu",
+      "nous eûmes dépourvu",
+      "vous eûtes dépourvu",
+      "ils eurent dépourvu"
+    ],
+    "futur simple": [
+      "je dépourvoirai",
+      "tu dépourvoiras",
+      "il dépourvoira",
+      "nous dépourvoirons",
+      "vous dépourvoirez",
+      "ils dépourvoiront"
+    ],
+    "futur antérieur": [
+      "j'aurai dépourvu",
+      "tu auras dépourvu",
+      "il aura dépourvu",
+      "nous aurons dépourvu",
+      "vous aurez dépourvu",
+      "ils auront dépourvu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je dépourvoie",
+      "que tu dépourvoies",
+      "qu'il dépourvoie",
+      "que nous dépourvoyions",
+      "que vous dépourvoyiez",
+      "qu'ils dépourvoient"
+    ],
+    "passé": [
+      "que j'aie dépourvu",
+      "que tu aies dépourvu",
+      "qu'il ait dépourvu",
+      "que nous ayons dépourvu",
+      "que vous ayez dépourvu",
+      "qu'ils aient dépourvu"
+    ],
+    "imparfait": [
+      "que je dépourvusse",
+      "que tu dépourvusses",
+      "qu'il dépourvût",
+      "que nous dépourvussions",
+      "que vous dépourvussiez",
+      "qu'ils dépourvussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse dépourvu",
+      "que tu eusses dépourvu",
+      "qu'il eût dépourvu",
+      "que nous eussions dépourvu",
+      "que vous eussiez dépourvu",
+      "qu'ils eussent dépourvu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je dépourvoirais",
+      "tu dépourvoirais",
+      "il dépourvoirait",
+      "nous dépourvoirions",
+      "vous dépourvoiriez",
+      "ils dépourvoiraient"
+    ],
+    "passé": [
+      "j'aurais dépourvu",
+      "tu aurais dépourvu",
+      "il aurait dépourvu",
+      "nous aurions dépourvu",
+      "vous auriez dépourvu",
+      "ils auraient dépourvu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dépourvois",
+      "dépourvoyons",
+      "dépourvoyez"
+    ],
+    "passé": [
+      "aie dépourvu",
+      "ayons dépourvu",
+      "ayez dépourvu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "dépourvoir"
+    ],
+    "passé": [
+      "avoir dépourvu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "dépourvoyant"
+    ],
+    "passé": [
+      "dépourvu",
+      "ayant dépourvu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en dépourvoyant"
+    ],
+    "passé": [
+      "en ayant dépourvu"
+    ]
+  }
+}

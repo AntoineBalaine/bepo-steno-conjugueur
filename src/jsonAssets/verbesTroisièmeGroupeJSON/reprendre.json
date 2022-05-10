@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reprends",
+      "tu reprends",
+      "il reprend",
+      "nous reprenons",
+      "vous reprenez",
+      "ils reprennent"
+    ],
+    "passé composé": [
+      "j'ai repris",
+      "tu as repris",
+      "il a repris",
+      "nous avons repris",
+      "vous avez repris",
+      "ils ont repris"
+    ],
+    "imparfait": [
+      "je reprenais",
+      "tu reprenais",
+      "il reprenait",
+      "nous reprenions",
+      "vous repreniez",
+      "ils reprenaient"
+    ],
+    "plus que parfait": [
+      "j'avais repris",
+      "tu avais repris",
+      "il avait repris",
+      "nous avions repris",
+      "vous aviez repris",
+      "ils avaient repris"
+    ],
+    "passé simple": [
+      "je repris",
+      "tu repris",
+      "il reprit",
+      "nous reprîmes",
+      "vous reprîtes",
+      "ils reprirent"
+    ],
+    "passé antérieur": [
+      "j'eus repris",
+      "tu eus repris",
+      "il eut repris",
+      "nous eûmes repris",
+      "vous eûtes repris",
+      "ils eurent repris"
+    ],
+    "futur simple": [
+      "je reprendrai",
+      "tu reprendras",
+      "il reprendra",
+      "nous reprendrons",
+      "vous reprendrez",
+      "ils reprendront"
+    ],
+    "futur antérieur": [
+      "j'aurai repris",
+      "tu auras repris",
+      "il aura repris",
+      "nous aurons repris",
+      "vous aurez repris",
+      "ils auront repris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reprenne",
+      "que tu reprennes",
+      "qu'il reprenne",
+      "que nous reprenions",
+      "que vous repreniez",
+      "qu'ils reprennent"
+    ],
+    "passé": [
+      "que j'aie repris",
+      "que tu aies repris",
+      "qu'il ait repris",
+      "que nous ayons repris",
+      "que vous ayez repris",
+      "qu'ils aient repris"
+    ],
+    "imparfait": [
+      "que je reprisse",
+      "que tu reprisses",
+      "qu'il reprît",
+      "que nous reprissions",
+      "que vous reprissiez",
+      "qu'ils reprissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse repris",
+      "que tu eusses repris",
+      "qu'il eût repris",
+      "que nous eussions repris",
+      "que vous eussiez repris",
+      "qu'ils eussent repris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reprendrais",
+      "tu reprendrais",
+      "il reprendrait",
+      "nous reprendrions",
+      "vous reprendriez",
+      "ils reprendraient"
+    ],
+    "passé": [
+      "j'aurais repris",
+      "tu aurais repris",
+      "il aurait repris",
+      "nous aurions repris",
+      "vous auriez repris",
+      "ils auraient repris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reprends",
+      "reprenons",
+      "reprenez"
+    ],
+    "passé": [
+      "aie repris",
+      "ayons repris",
+      "ayez repris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reprendre"
+    ],
+    "passé": [
+      "avoir repris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reprenant"
+    ],
+    "passé": [
+      "repris",
+      "ayant repris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reprenant"
+    ],
+    "passé": [
+      "en ayant repris"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entre-détruis",
+      "tu t'entre-détruis",
+      "il s'entre-détruit",
+      "nous nous entre-détruisons",
+      "vous vous entre-détruisez",
+      "ils s'entre-détruisent"
+    ],
+    "passé composé": [
+      "je me suis entre-détruit",
+      "tu t'es entre-détruit",
+      "il s'est entre-détruit",
+      "nous nous sommes entre-détruits",
+      "vous vous êtes entre-détruits",
+      "ils se sont entre-détruits"
+    ],
+    "imparfait": [
+      "je m'entre-détruisais",
+      "tu t'entre-détruisais",
+      "il s'entre-détruisait",
+      "nous nous entre-détruisions",
+      "vous vous entre-détruisiez",
+      "ils s'entre-détruisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entre-détruit",
+      "tu t'étais entre-détruit",
+      "il s'était entre-détruit",
+      "nous nous étions entre-détruits",
+      "vous vous étiez entre-détruits",
+      "ils s'étaient entre-détruits"
+    ],
+    "passé simple": [
+      "je m'entre-détruisis",
+      "tu t'entre-détruisis",
+      "il s'entre-détruisit",
+      "nous nous entre-détruisîmes",
+      "vous vous entre-détruisîtes",
+      "ils s'entre-détruisirent"
+    ],
+    "passé antérieur": [
+      "je me fus entre-détruit",
+      "tu te fus entre-détruit",
+      "il se fut entre-détruit",
+      "nous nous fûmes entre-détruits",
+      "vous vous fûtes entre-détruits",
+      "ils se furent entre-détruits"
+    ],
+    "futur simple": [
+      "je m'entre-détruirai",
+      "tu t'entre-détruiras",
+      "il s'entre-détruira",
+      "nous nous entre-détruirons",
+      "vous vous entre-détruirez",
+      "ils s'entre-détruiront"
+    ],
+    "futur antérieur": [
+      "je me serai entre-détruit",
+      "tu te seras entre-détruit",
+      "il se sera entre-détruit",
+      "nous nous serons entre-détruits",
+      "vous vous serez entre-détruits",
+      "ils se seront entre-détruits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entre-détruise",
+      "que tu t'entre-détruises",
+      "qu'il s'entre-détruise",
+      "que nous nous entre-détruisions",
+      "que vous vous entre-détruisiez",
+      "qu'ils s'entre-détruisent"
+    ],
+    "passé": [
+      "que je me sois entre-détruit",
+      "que tu te sois entre-détruit",
+      "qu'il se soit entre-détruit",
+      "que nous nous soyons entre-détruits",
+      "que vous vous soyez entre-détruits",
+      "qu'ils se soient entre-détruits"
+    ],
+    "imparfait": [
+      "que je m'entre-détruisisse",
+      "que tu t'entre-détruisisses",
+      "qu'il s'entre-détruisît",
+      "que nous nous entre-détruisissions",
+      "que vous vous entre-détruisissiez",
+      "qu'ils s'entre-détruisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entre-détruit",
+      "que tu te fusses entre-détruit",
+      "qu'il se fût entre-détruit",
+      "que nous nous fussions entre-détruits",
+      "que vous vous fussiez entre-détruits",
+      "qu'ils se fussent entre-détruits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entre-détruirais",
+      "tu t'entre-détruirais",
+      "il s'entre-détruirait",
+      "nous nous entre-détruirions",
+      "vous vous entre-détruiriez",
+      "ils s'entre-détruiraient"
+    ],
+    "passé": [
+      "je me serais entre-détruit",
+      "tu te serais entre-détruit",
+      "il se serait entre-détruit",
+      "nous nous serions entre-détruits",
+      "vous vous seriez entre-détruits",
+      "ils se seraient entre-détruits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entre-détruis-toi",
+      "entre-détruisons-nous",
+      "entre-détruisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entre-détruire"
+    ],
+    "passé": [
+      "s'être entre-détruit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entre-détruisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entre-détruit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entre-détruisant"
+    ],
+    "passé": [
+      "en s'étant entre-détruit"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dévêts",
+      "tu dévêts",
+      "il dévêt",
+      "nous dévêtons",
+      "vous dévêtez",
+      "ils dévêtent"
+    ],
+    "passé composé": [
+      "j'ai dévêtu",
+      "tu as dévêtu",
+      "il a dévêtu",
+      "nous avons dévêtu",
+      "vous avez dévêtu",
+      "ils ont dévêtu"
+    ],
+    "imparfait": [
+      "je dévêtais",
+      "tu dévêtais",
+      "il dévêtait",
+      "nous dévêtions",
+      "vous dévêtiez",
+      "ils dévêtaient"
+    ],
+    "plus que parfait": [
+      "j'avais dévêtu",
+      "tu avais dévêtu",
+      "il avait dévêtu",
+      "nous avions dévêtu",
+      "vous aviez dévêtu",
+      "ils avaient dévêtu"
+    ],
+    "passé simple": [
+      "je dévêtis",
+      "tu dévêtis",
+      "il dévêtit",
+      "nous dévêtîmes",
+      "vous dévêtîtes",
+      "ils dévêtirent"
+    ],
+    "passé antérieur": [
+      "j'eus dévêtu",
+      "tu eus dévêtu",
+      "il eut dévêtu",
+      "nous eûmes dévêtu",
+      "vous eûtes dévêtu",
+      "ils eurent dévêtu"
+    ],
+    "futur simple": [
+      "je dévêtirai",
+      "tu dévêtiras",
+      "il dévêtira",
+      "nous dévêtirons",
+      "vous dévêtirez",
+      "ils dévêtiront"
+    ],
+    "futur antérieur": [
+      "j'aurai dévêtu",
+      "tu auras dévêtu",
+      "il aura dévêtu",
+      "nous aurons dévêtu",
+      "vous aurez dévêtu",
+      "ils auront dévêtu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je dévête",
+      "que tu dévêtes",
+      "qu'il dévête",
+      "que nous dévêtions",
+      "que vous dévêtiez",
+      "qu'ils dévêtent"
+    ],
+    "passé": [
+      "que j'aie dévêtu",
+      "que tu aies dévêtu",
+      "qu'il ait dévêtu",
+      "que nous ayons dévêtu",
+      "que vous ayez dévêtu",
+      "qu'ils aient dévêtu"
+    ],
+    "imparfait": [
+      "que je dévêtisse",
+      "que tu dévêtisses",
+      "qu'il dévêtît",
+      "que nous dévêtissions",
+      "que vous dévêtissiez",
+      "qu'ils dévêtissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse dévêtu",
+      "que tu eusses dévêtu",
+      "qu'il eût dévêtu",
+      "que nous eussions dévêtu",
+      "que vous eussiez dévêtu",
+      "qu'ils eussent dévêtu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je dévêtirais",
+      "tu dévêtirais",
+      "il dévêtirait",
+      "nous dévêtirions",
+      "vous dévêtiriez",
+      "ils dévêtiraient"
+    ],
+    "passé": [
+      "j'aurais dévêtu",
+      "tu aurais dévêtu",
+      "il aurait dévêtu",
+      "nous aurions dévêtu",
+      "vous auriez dévêtu",
+      "ils auraient dévêtu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dévêts",
+      "dévêtons",
+      "dévêtez"
+    ],
+    "passé": [
+      "aie dévêtu",
+      "ayons dévêtu",
+      "ayez dévêtu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "dévêtir"
+    ],
+    "passé": [
+      "avoir dévêtu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "dévêtant"
+    ],
+    "passé": [
+      "dévêtu",
+      "ayant dévêtu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en dévêtant"
+    ],
+    "passé": [
+      "en ayant dévêtu"
+    ]
+  }
+}

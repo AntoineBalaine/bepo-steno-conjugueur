@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me tends",
+      "tu te tends",
+      "il se tend",
+      "nous nous tendons",
+      "vous vous tendez",
+      "ils se tendent"
+    ],
+    "passé composé": [
+      "je me suis tendu",
+      "tu t'es tendu",
+      "il s'est tendu",
+      "nous nous sommes tendus",
+      "vous vous êtes tendus",
+      "ils se sont tendus"
+    ],
+    "imparfait": [
+      "je me tendais",
+      "tu te tendais",
+      "il se tendait",
+      "nous nous tendions",
+      "vous vous tendiez",
+      "ils se tendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais tendu",
+      "tu t'étais tendu",
+      "il s'était tendu",
+      "nous nous étions tendus",
+      "vous vous étiez tendus",
+      "ils s'étaient tendus"
+    ],
+    "passé simple": [
+      "je me tendis",
+      "tu te tendis",
+      "il se tendit",
+      "nous nous tendîmes",
+      "vous vous tendîtes",
+      "ils se tendirent"
+    ],
+    "passé antérieur": [
+      "je me fus tendu",
+      "tu te fus tendu",
+      "il se fut tendu",
+      "nous nous fûmes tendus",
+      "vous vous fûtes tendus",
+      "ils se furent tendus"
+    ],
+    "futur simple": [
+      "je me tendrai",
+      "tu te tendras",
+      "il se tendra",
+      "nous nous tendrons",
+      "vous vous tendrez",
+      "ils se tendront"
+    ],
+    "futur antérieur": [
+      "je me serai tendu",
+      "tu te seras tendu",
+      "il se sera tendu",
+      "nous nous serons tendus",
+      "vous vous serez tendus",
+      "ils se seront tendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me tende",
+      "que tu te tendes",
+      "qu'il se tende",
+      "que nous nous tendions",
+      "que vous vous tendiez",
+      "qu'ils se tendent"
+    ],
+    "passé": [
+      "que je me sois tendu",
+      "que tu te sois tendu",
+      "qu'il se soit tendu",
+      "que nous nous soyons tendus",
+      "que vous vous soyez tendus",
+      "qu'ils se soient tendus"
+    ],
+    "imparfait": [
+      "que je me tendisse",
+      "que tu te tendisses",
+      "qu'il se tendît",
+      "que nous nous tendissions",
+      "que vous vous tendissiez",
+      "qu'ils se tendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse tendu",
+      "que tu te fusses tendu",
+      "qu'il se fût tendu",
+      "que nous nous fussions tendus",
+      "que vous vous fussiez tendus",
+      "qu'ils se fussent tendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me tendrais",
+      "tu te tendrais",
+      "il se tendrait",
+      "nous nous tendrions",
+      "vous vous tendriez",
+      "ils se tendraient"
+    ],
+    "passé": [
+      "je me serais tendu",
+      "tu te serais tendu",
+      "il se serait tendu",
+      "nous nous serions tendus",
+      "vous vous seriez tendus",
+      "ils se seraient tendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tends-toi",
+      "tendons-nous",
+      "tendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se tendre"
+    ],
+    "passé": [
+      "s'être tendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se tendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant tendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se tendant"
+    ],
+    "passé": [
+      "en s'étant tendu"
+    ]
+  }
+}

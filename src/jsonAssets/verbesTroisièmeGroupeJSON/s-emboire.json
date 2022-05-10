@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'embois",
+      "tu t'embois",
+      "il s'emboit",
+      "nous nous embuvons",
+      "vous vous embuvez",
+      "ils s'emboivent"
+    ],
+    "passé composé": [
+      "je me suis embu",
+      "tu t'es embu",
+      "il s'est embu",
+      "nous nous sommes embus",
+      "vous vous êtes embus",
+      "ils se sont embus"
+    ],
+    "imparfait": [
+      "je m'embuvais",
+      "tu t'embuvais",
+      "il s'embuvait",
+      "nous nous embuvions",
+      "vous vous embuviez",
+      "ils s'embuvaient"
+    ],
+    "plus que parfait": [
+      "je m'étais embu",
+      "tu t'étais embu",
+      "il s'était embu",
+      "nous nous étions embus",
+      "vous vous étiez embus",
+      "ils s'étaient embus"
+    ],
+    "passé simple": [
+      "je m'embus",
+      "tu t'embus",
+      "il s'embut",
+      "nous nous embûmes",
+      "vous vous embûtes",
+      "ils s'emburent"
+    ],
+    "passé antérieur": [
+      "je me fus embu",
+      "tu te fus embu",
+      "il se fut embu",
+      "nous nous fûmes embus",
+      "vous vous fûtes embus",
+      "ils se furent embus"
+    ],
+    "futur simple": [
+      "je m'emboirai",
+      "tu t'emboiras",
+      "il s'emboira",
+      "nous nous emboirons",
+      "vous vous emboirez",
+      "ils s'emboiront"
+    ],
+    "futur antérieur": [
+      "je me serai embu",
+      "tu te seras embu",
+      "il se sera embu",
+      "nous nous serons embus",
+      "vous vous serez embus",
+      "ils se seront embus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'emboive",
+      "que tu t'emboives",
+      "qu'il s'emboive",
+      "que nous nous embuvions",
+      "que vous vous embuviez",
+      "qu'ils s'emboivent"
+    ],
+    "passé": [
+      "que je me sois embu",
+      "que tu te sois embu",
+      "qu'il se soit embu",
+      "que nous nous soyons embus",
+      "que vous vous soyez embus",
+      "qu'ils se soient embus"
+    ],
+    "imparfait": [
+      "que je m'embusse",
+      "que tu t'embusses",
+      "qu'il s'embût",
+      "que nous nous embussions",
+      "que vous vous embussiez",
+      "qu'ils s'embussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse embu",
+      "que tu te fusses embu",
+      "qu'il se fût embu",
+      "que nous nous fussions embus",
+      "que vous vous fussiez embus",
+      "qu'ils se fussent embus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'emboirais",
+      "tu t'emboirais",
+      "il s'emboirait",
+      "nous nous emboirions",
+      "vous vous emboiriez",
+      "ils s'emboiraient"
+    ],
+    "passé": [
+      "je me serais embu",
+      "tu te serais embu",
+      "il se serait embu",
+      "nous nous serions embus",
+      "vous vous seriez embus",
+      "ils se seraient embus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "embois-toi",
+      "embuvons-nous",
+      "embuvez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'emboire"
+    ],
+    "passé": [
+      "s'être embu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'embuvant"
+    ],
+    "passé": [
+      "-",
+      "s'étant embu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'embuvant"
+    ],
+    "passé": [
+      "en s'étant embu"
+    ]
+  }
+}

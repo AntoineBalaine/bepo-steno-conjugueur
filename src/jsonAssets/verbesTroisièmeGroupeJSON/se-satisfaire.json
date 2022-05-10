@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me satisfais",
+      "tu te satisfais",
+      "il se satisfait",
+      "nous nous satisfaisons",
+      "vous vous satisfaites",
+      "ils se satisfont"
+    ],
+    "passé composé": [
+      "je me suis satisfait",
+      "tu t'es satisfait",
+      "il s'est satisfait",
+      "nous nous sommes satisfaits",
+      "vous vous êtes satisfaits",
+      "ils se sont satisfaits"
+    ],
+    "imparfait": [
+      "je me satisfaisais",
+      "tu te satisfaisais",
+      "il se satisfaisait",
+      "nous nous satisfaisions",
+      "vous vous satisfaisiez",
+      "ils se satisfaisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais satisfait",
+      "tu t'étais satisfait",
+      "il s'était satisfait",
+      "nous nous étions satisfaits",
+      "vous vous étiez satisfaits",
+      "ils s'étaient satisfaits"
+    ],
+    "passé simple": [
+      "je me satisfis",
+      "tu te satisfis",
+      "il se satisfit",
+      "nous nous satisfîmes",
+      "vous vous satisfîtes",
+      "ils se satisfirent"
+    ],
+    "passé antérieur": [
+      "je me fus satisfait",
+      "tu te fus satisfait",
+      "il se fut satisfait",
+      "nous nous fûmes satisfaits",
+      "vous vous fûtes satisfaits",
+      "ils se furent satisfaits"
+    ],
+    "futur simple": [
+      "je me satisferai",
+      "tu te satisferas",
+      "il se satisfera",
+      "nous nous satisferons",
+      "vous vous satisferez",
+      "ils se satisferont"
+    ],
+    "futur antérieur": [
+      "je me serai satisfait",
+      "tu te seras satisfait",
+      "il se sera satisfait",
+      "nous nous serons satisfaits",
+      "vous vous serez satisfaits",
+      "ils se seront satisfaits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me satisfasse",
+      "que tu te satisfasses",
+      "qu'il se satisfasse",
+      "que nous nous satisfassions",
+      "que vous vous satisfassiez",
+      "qu'ils se satisfassent"
+    ],
+    "passé": [
+      "que je me sois satisfait",
+      "que tu te sois satisfait",
+      "qu'il se soit satisfait",
+      "que nous nous soyons satisfaits",
+      "que vous vous soyez satisfaits",
+      "qu'ils se soient satisfaits"
+    ],
+    "imparfait": [
+      "que je me satisfisse",
+      "que tu te satisfisses",
+      "qu'il se satisfît",
+      "que nous nous satisfissions",
+      "que vous vous satisfissiez",
+      "qu'ils se satisfissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse satisfait",
+      "que tu te fusses satisfait",
+      "qu'il se fût satisfait",
+      "que nous nous fussions satisfaits",
+      "que vous vous fussiez satisfaits",
+      "qu'ils se fussent satisfaits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me satisferais",
+      "tu te satisferais",
+      "il se satisferait",
+      "nous nous satisferions",
+      "vous vous satisferiez",
+      "ils se satisferaient"
+    ],
+    "passé": [
+      "je me serais satisfait",
+      "tu te serais satisfait",
+      "il se serait satisfait",
+      "nous nous serions satisfaits",
+      "vous vous seriez satisfaits",
+      "ils se seraient satisfaits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "satisfais-toi",
+      "satisfaisons-nous",
+      "satisfaites-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se satisfaire"
+    ],
+    "passé": [
+      "s'être satisfait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se satisfaisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant satisfait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se satisfaisant"
+    ],
+    "passé": [
+      "en s'étant satisfait"
+    ]
+  }
+}

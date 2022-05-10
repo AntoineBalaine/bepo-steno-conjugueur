@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'en vais",
+      "tu t'en vas",
+      "il s'en va",
+      "nous nous en allons",
+      "vous vous en allez",
+      "ils s'en vont"
+    ],
+    "passé composé": [
+      "je m'en suis allé",
+      "tu t'en es allé",
+      "il s'en est allé",
+      "nous nous en sommes allés",
+      "vous vous en êtes allés",
+      "ils s'en sont allés"
+    ],
+    "imparfait": [
+      "je m'en allais",
+      "tu t'en allais",
+      "il s'en allait",
+      "nous nous en allions",
+      "vous vous en alliez",
+      "ils s'en allaient"
+    ],
+    "plus que parfait": [
+      "je m'en étais allé",
+      "tu t'en étais allé",
+      "il s'en était allé",
+      "nous nous en étions allés",
+      "vous vous en étiez allés",
+      "ils s'en étaient allés"
+    ],
+    "passé simple": [
+      "je m'en allai",
+      "tu t'en allas",
+      "il s'en alla",
+      "nous nous en allâmes",
+      "vous vous en allâtes",
+      "ils s'en allèrent"
+    ],
+    "passé antérieur": [
+      "je m'en fus allé",
+      "tu t'en fus allé",
+      "il s'en fut allé",
+      "nous nous en fûmes allés",
+      "vous vous en fûtes allés",
+      "ils s'en furent allés"
+    ],
+    "futur simple": [
+      "je m'en irai",
+      "tu t'en iras",
+      "il s'en ira",
+      "nous nous en irons",
+      "vous vous en irez",
+      "ils s'en iront"
+    ],
+    "futur antérieur": [
+      "je m'en serai allé",
+      "tu t'en seras allé",
+      "il s'en sera allé",
+      "nous nous en serons allés",
+      "vous vous en serez allés",
+      "ils s'en seront allés"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'en aille",
+      "que tu t'en ailles",
+      "qu'il s'en aille",
+      "que nous nous en allions",
+      "que vous vous en alliez",
+      "qu'ils s'en aillent"
+    ],
+    "passé": [
+      "que je m'en sois allé",
+      "que tu t'en sois allé",
+      "qu'il s'en soit allé",
+      "que nous nous en soyons allés",
+      "que vous vous en soyez allés",
+      "qu'ils s'en soient allés"
+    ],
+    "imparfait": [
+      "que je m'en allasse",
+      "que tu t'en allasses",
+      "qu'il s'en allât",
+      "que nous nous en allassions",
+      "que vous vous en allassiez",
+      "qu'ils s'en allassent"
+    ],
+    "plus que parfait": [
+      "que je m'en fusse allé",
+      "que tu t'en fusses allé",
+      "qu'il s'en fût allé",
+      "que nous nous en fussions allés",
+      "que vous vous en fussiez allés",
+      "qu'ils s'en fussent allés"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'en irais",
+      "tu t'en irais",
+      "il s'en irait",
+      "nous nous en irions",
+      "vous vous en iriez",
+      "ils s'en iraient"
+    ],
+    "passé": [
+      "je m'en serais allé",
+      "tu t'en serais allé",
+      "il s'en serait allé",
+      "nous nous en serions allés",
+      "vous vous en seriez allés",
+      "ils s'en seraient allés"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "va-t'en",
+      "allons-nous-en",
+      "allez-vous-en"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'en aller"
+    ],
+    "passé": [
+      "s'en être allé"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'en allant"
+    ],
+    "passé": [
+      "-",
+      "s'en étant allé"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'en allant"
+    ],
+    "passé": [
+      "en s'en étant allé"
+    ]
+  }
+}

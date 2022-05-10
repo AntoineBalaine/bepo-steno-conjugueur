@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je dois",
+      "tu dois",
+      "il doit",
+      "nous devons",
+      "vous devez",
+      "ils doivent"
+    ],
+    "passé composé": [
+      "j'ai dû",
+      "tu as dû",
+      "il a dû",
+      "nous avons dû",
+      "vous avez dû",
+      "ils ont dû"
+    ],
+    "imparfait": [
+      "je devais",
+      "tu devais",
+      "il devait",
+      "nous devions",
+      "vous deviez",
+      "ils devaient"
+    ],
+    "plus que parfait": [
+      "j'avais dû",
+      "tu avais dû",
+      "il avait dû",
+      "nous avions dû",
+      "vous aviez dû",
+      "ils avaient dû"
+    ],
+    "passé simple": [
+      "je dus",
+      "tu dus",
+      "il dut",
+      "nous dûmes",
+      "vous dûtes",
+      "ils durent"
+    ],
+    "passé antérieur": [
+      "j'eus dû",
+      "tu eus dû",
+      "il eut dû",
+      "nous eûmes dû",
+      "vous eûtes dû",
+      "ils eurent dû"
+    ],
+    "futur simple": [
+      "je devrai",
+      "tu devras",
+      "il devra",
+      "nous devrons",
+      "vous devrez",
+      "ils devront"
+    ],
+    "futur antérieur": [
+      "j'aurai dû",
+      "tu auras dû",
+      "il aura dû",
+      "nous aurons dû",
+      "vous aurez dû",
+      "ils auront dû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je doive",
+      "que tu doives",
+      "qu'il doive",
+      "que nous devions",
+      "que vous deviez",
+      "qu'ils doivent"
+    ],
+    "passé": [
+      "que j'aie dû",
+      "que tu aies dû",
+      "qu'il ait dû",
+      "que nous ayons dû",
+      "que vous ayez dû",
+      "qu'ils aient dû"
+    ],
+    "imparfait": [
+      "que je dusse",
+      "que tu dusses",
+      "qu'il dût",
+      "que nous dussions",
+      "que vous dussiez",
+      "qu'ils dussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse dû",
+      "que tu eusses dû",
+      "qu'il eût dû",
+      "que nous eussions dû",
+      "que vous eussiez dû",
+      "qu'ils eussent dû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je devrais",
+      "tu devrais",
+      "il devrait",
+      "nous devrions",
+      "vous devriez",
+      "ils devraient"
+    ],
+    "passé": [
+      "j'aurais dû",
+      "tu aurais dû",
+      "il aurait dû",
+      "nous aurions dû",
+      "vous auriez dû",
+      "ils auraient dû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dois",
+      "devons",
+      "devez"
+    ],
+    "passé": [
+      "aie dû",
+      "ayons dû",
+      "ayez dû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "devoir"
+    ],
+    "passé": [
+      "avoir dû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "devant"
+    ],
+    "passé": [
+      "dû",
+      "ayant dû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en devant"
+    ],
+    "passé": [
+      "en ayant dû"
+    ]
+  }
+}

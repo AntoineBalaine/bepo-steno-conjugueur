@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je promeus",
+      "tu promeus",
+      "il promeut",
+      "nous promouvons",
+      "vous promouvez",
+      "ils promeuvent"
+    ],
+    "passé composé": [
+      "j'ai promû",
+      "tu as promû",
+      "il a promû",
+      "nous avons promû",
+      "vous avez promû",
+      "ils ont promû"
+    ],
+    "imparfait": [
+      "je promouvais",
+      "tu promouvais",
+      "il promouvait",
+      "nous promouvions",
+      "vous promouviez",
+      "ils promouvaient"
+    ],
+    "plus que parfait": [
+      "j'avais promû",
+      "tu avais promû",
+      "il avait promû",
+      "nous avions promû",
+      "vous aviez promû",
+      "ils avaient promû"
+    ],
+    "passé simple": [
+      "je promus",
+      "tu promus",
+      "il promut",
+      "nous promûmes",
+      "vous promûtes",
+      "ils promurent"
+    ],
+    "passé antérieur": [
+      "j'eus promû",
+      "tu eus promû",
+      "il eut promû",
+      "nous eûmes promû",
+      "vous eûtes promû",
+      "ils eurent promû"
+    ],
+    "futur simple": [
+      "je promouvrai",
+      "tu promouvras",
+      "il promouvra",
+      "nous promouvrons",
+      "vous promouvrez",
+      "ils promouvront"
+    ],
+    "futur antérieur": [
+      "j'aurai promû",
+      "tu auras promû",
+      "il aura promû",
+      "nous aurons promû",
+      "vous aurez promû",
+      "ils auront promû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je promeuve",
+      "que tu promeuves",
+      "qu'il promeuve",
+      "que nous promouvions",
+      "que vous promouviez",
+      "qu'ils promeuvent"
+    ],
+    "passé": [
+      "que j'aie promû",
+      "que tu aies promû",
+      "qu'il ait promû",
+      "que nous ayons promû",
+      "que vous ayez promû",
+      "qu'ils aient promû"
+    ],
+    "imparfait": [
+      "que je promusse",
+      "que tu promusses",
+      "qu'il promût",
+      "que nous promussions",
+      "que vous promussiez",
+      "qu'ils promussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse promû",
+      "que tu eusses promû",
+      "qu'il eût promû",
+      "que nous eussions promû",
+      "que vous eussiez promû",
+      "qu'ils eussent promû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je promouvrais",
+      "tu promouvrais",
+      "il promouvrait",
+      "nous promouvrions",
+      "vous promouvriez",
+      "ils promouvraient"
+    ],
+    "passé": [
+      "j'aurais promû",
+      "tu aurais promû",
+      "il aurait promû",
+      "nous aurions promû",
+      "vous auriez promû",
+      "ils auraient promû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "promeus",
+      "promouvons",
+      "promouvez"
+    ],
+    "passé": [
+      "aie promû",
+      "ayons promû",
+      "ayez promû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "promouvoir"
+    ],
+    "passé": [
+      "avoir promû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "promouvant"
+    ],
+    "passé": [
+      "promû",
+      "ayant promû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en promouvant"
+    ],
+    "passé": [
+      "en ayant promû"
+    ]
+  }
+}

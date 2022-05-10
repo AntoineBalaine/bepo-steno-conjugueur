@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je résous",
+      "tu résous",
+      "il résout",
+      "nous résolvons",
+      "vous résolvez",
+      "ils résolvent"
+    ],
+    "passé composé": [
+      "j'ai résolu",
+      "tu as résolu",
+      "il a résolu",
+      "nous avons résolu",
+      "vous avez résolu",
+      "ils ont résolu"
+    ],
+    "imparfait": [
+      "je résolvais",
+      "tu résolvais",
+      "il résolvait",
+      "nous résolvions",
+      "vous résolviez",
+      "ils résolvaient"
+    ],
+    "plus que parfait": [
+      "j'avais résolu",
+      "tu avais résolu",
+      "il avait résolu",
+      "nous avions résolu",
+      "vous aviez résolu",
+      "ils avaient résolu"
+    ],
+    "passé simple": [
+      "je résolus",
+      "tu résolus",
+      "il résolut",
+      "nous résolûmes",
+      "vous résolûtes",
+      "ils résolurent"
+    ],
+    "passé antérieur": [
+      "j'eus résolu",
+      "tu eus résolu",
+      "il eut résolu",
+      "nous eûmes résolu",
+      "vous eûtes résolu",
+      "ils eurent résolu"
+    ],
+    "futur simple": [
+      "je résoudrai",
+      "tu résoudras",
+      "il résoudra",
+      "nous résoudrons",
+      "vous résoudrez",
+      "ils résoudront"
+    ],
+    "futur antérieur": [
+      "j'aurai résolu",
+      "tu auras résolu",
+      "il aura résolu",
+      "nous aurons résolu",
+      "vous aurez résolu",
+      "ils auront résolu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je résolve",
+      "que tu résolves",
+      "qu'il résolve",
+      "que nous résolvions",
+      "que vous résolviez",
+      "qu'ils résolvent"
+    ],
+    "passé": [
+      "que j'aie résolu",
+      "que tu aies résolu",
+      "qu'il ait résolu",
+      "que nous ayons résolu",
+      "que vous ayez résolu",
+      "qu'ils aient résolu"
+    ],
+    "imparfait": [
+      "que je résolusse",
+      "que tu résolusses",
+      "qu'il résolût",
+      "que nous résolussions",
+      "que vous résolussiez",
+      "qu'ils résolussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse résolu",
+      "que tu eusses résolu",
+      "qu'il eût résolu",
+      "que nous eussions résolu",
+      "que vous eussiez résolu",
+      "qu'ils eussent résolu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je résoudrais",
+      "tu résoudrais",
+      "il résoudrait",
+      "nous résoudrions",
+      "vous résoudriez",
+      "ils résoudraient"
+    ],
+    "passé": [
+      "j'aurais résolu",
+      "tu aurais résolu",
+      "il aurait résolu",
+      "nous aurions résolu",
+      "vous auriez résolu",
+      "ils auraient résolu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "résous",
+      "résolvons",
+      "résolvez"
+    ],
+    "passé": [
+      "aie résolu",
+      "ayons résolu",
+      "ayez résolu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "résoudre"
+    ],
+    "passé": [
+      "avoir résolu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "résolvant"
+    ],
+    "passé": [
+      "résolu",
+      "ayant résolu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en résolvant"
+    ],
+    "passé": [
+      "en ayant résolu"
+    ]
+  }
+}

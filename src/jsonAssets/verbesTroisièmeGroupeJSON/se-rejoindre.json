@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me rejoins",
+      "tu te rejoins",
+      "il se rejoint",
+      "nous nous rejoignons",
+      "vous vous rejoignez",
+      "ils se rejoignent"
+    ],
+    "passé composé": [
+      "je me suis rejoint",
+      "tu t'es rejoint",
+      "il s'est rejoint",
+      "nous nous sommes rejoints",
+      "vous vous êtes rejoints",
+      "ils se sont rejoints"
+    ],
+    "imparfait": [
+      "je me rejoignais",
+      "tu te rejoignais",
+      "il se rejoignait",
+      "nous nous rejoignions",
+      "vous vous rejoigniez",
+      "ils se rejoignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais rejoint",
+      "tu t'étais rejoint",
+      "il s'était rejoint",
+      "nous nous étions rejoints",
+      "vous vous étiez rejoints",
+      "ils s'étaient rejoints"
+    ],
+    "passé simple": [
+      "je me rejoignis",
+      "tu te rejoignis",
+      "il se rejoignit",
+      "nous nous rejoignîmes",
+      "vous vous rejoignîtes",
+      "ils se rejoignirent"
+    ],
+    "passé antérieur": [
+      "je me fus rejoint",
+      "tu te fus rejoint",
+      "il se fut rejoint",
+      "nous nous fûmes rejoints",
+      "vous vous fûtes rejoints",
+      "ils se furent rejoints"
+    ],
+    "futur simple": [
+      "je me rejoindrai",
+      "tu te rejoindras",
+      "il se rejoindra",
+      "nous nous rejoindrons",
+      "vous vous rejoindrez",
+      "ils se rejoindront"
+    ],
+    "futur antérieur": [
+      "je me serai rejoint",
+      "tu te seras rejoint",
+      "il se sera rejoint",
+      "nous nous serons rejoints",
+      "vous vous serez rejoints",
+      "ils se seront rejoints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me rejoigne",
+      "que tu te rejoignes",
+      "qu'il se rejoigne",
+      "que nous nous rejoignions",
+      "que vous vous rejoigniez",
+      "qu'ils se rejoignent"
+    ],
+    "passé": [
+      "que je me sois rejoint",
+      "que tu te sois rejoint",
+      "qu'il se soit rejoint",
+      "que nous nous soyons rejoints",
+      "que vous vous soyez rejoints",
+      "qu'ils se soient rejoints"
+    ],
+    "imparfait": [
+      "que je me rejoignisse",
+      "que tu te rejoignisses",
+      "qu'il se rejoignît",
+      "que nous nous rejoignissions",
+      "que vous vous rejoignissiez",
+      "qu'ils se rejoignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse rejoint",
+      "que tu te fusses rejoint",
+      "qu'il se fût rejoint",
+      "que nous nous fussions rejoints",
+      "que vous vous fussiez rejoints",
+      "qu'ils se fussent rejoints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me rejoindrais",
+      "tu te rejoindrais",
+      "il se rejoindrait",
+      "nous nous rejoindrions",
+      "vous vous rejoindriez",
+      "ils se rejoindraient"
+    ],
+    "passé": [
+      "je me serais rejoint",
+      "tu te serais rejoint",
+      "il se serait rejoint",
+      "nous nous serions rejoints",
+      "vous vous seriez rejoints",
+      "ils se seraient rejoints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rejoins-toi",
+      "rejoignons-nous",
+      "rejoignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se rejoindre"
+    ],
+    "passé": [
+      "s'être rejoint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se rejoignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant rejoint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se rejoignant"
+    ],
+    "passé": [
+      "en s'étant rejoint"
+    ]
+  }
+}

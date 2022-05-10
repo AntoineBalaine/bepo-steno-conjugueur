@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je séduis",
+      "tu séduis",
+      "il séduit",
+      "nous séduisons",
+      "vous séduisez",
+      "ils séduisent"
+    ],
+    "passé composé": [
+      "j'ai séduit",
+      "tu as séduit",
+      "il a séduit",
+      "nous avons séduit",
+      "vous avez séduit",
+      "ils ont séduit"
+    ],
+    "imparfait": [
+      "je séduisais",
+      "tu séduisais",
+      "il séduisait",
+      "nous séduisions",
+      "vous séduisiez",
+      "ils séduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais séduit",
+      "tu avais séduit",
+      "il avait séduit",
+      "nous avions séduit",
+      "vous aviez séduit",
+      "ils avaient séduit"
+    ],
+    "passé simple": [
+      "je séduisis",
+      "tu séduisis",
+      "il séduisit",
+      "nous séduisîmes",
+      "vous séduisîtes",
+      "ils séduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus séduit",
+      "tu eus séduit",
+      "il eut séduit",
+      "nous eûmes séduit",
+      "vous eûtes séduit",
+      "ils eurent séduit"
+    ],
+    "futur simple": [
+      "je séduirai",
+      "tu séduiras",
+      "il séduira",
+      "nous séduirons",
+      "vous séduirez",
+      "ils séduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai séduit",
+      "tu auras séduit",
+      "il aura séduit",
+      "nous aurons séduit",
+      "vous aurez séduit",
+      "ils auront séduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je séduise",
+      "que tu séduises",
+      "qu'il séduise",
+      "que nous séduisions",
+      "que vous séduisiez",
+      "qu'ils séduisent"
+    ],
+    "passé": [
+      "que j'aie séduit",
+      "que tu aies séduit",
+      "qu'il ait séduit",
+      "que nous ayons séduit",
+      "que vous ayez séduit",
+      "qu'ils aient séduit"
+    ],
+    "imparfait": [
+      "que je séduisisse",
+      "que tu séduisisses",
+      "qu'il séduisît",
+      "que nous séduisissions",
+      "que vous séduisissiez",
+      "qu'ils séduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse séduit",
+      "que tu eusses séduit",
+      "qu'il eût séduit",
+      "que nous eussions séduit",
+      "que vous eussiez séduit",
+      "qu'ils eussent séduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je séduirais",
+      "tu séduirais",
+      "il séduirait",
+      "nous séduirions",
+      "vous séduiriez",
+      "ils séduiraient"
+    ],
+    "passé": [
+      "j'aurais séduit",
+      "tu aurais séduit",
+      "il aurait séduit",
+      "nous aurions séduit",
+      "vous auriez séduit",
+      "ils auraient séduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "séduis",
+      "séduisons",
+      "séduisez"
+    ],
+    "passé": [
+      "aie séduit",
+      "ayons séduit",
+      "ayez séduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "séduire"
+    ],
+    "passé": [
+      "avoir séduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "séduisant"
+    ],
+    "passé": [
+      "séduit",
+      "ayant séduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en séduisant"
+    ],
+    "passé": [
+      "en ayant séduit"
+    ]
+  }
+}

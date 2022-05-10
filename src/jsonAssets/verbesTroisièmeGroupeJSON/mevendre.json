@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je mévends",
+      "tu mévends",
+      "il mévend",
+      "nous mévendons",
+      "vous mévendez",
+      "ils mévendent"
+    ],
+    "passé composé": [
+      "j'ai mévendu",
+      "tu as mévendu",
+      "il a mévendu",
+      "nous avons mévendu",
+      "vous avez mévendu",
+      "ils ont mévendu"
+    ],
+    "imparfait": [
+      "je mévendais",
+      "tu mévendais",
+      "il mévendait",
+      "nous mévendions",
+      "vous mévendiez",
+      "ils mévendaient"
+    ],
+    "plus que parfait": [
+      "j'avais mévendu",
+      "tu avais mévendu",
+      "il avait mévendu",
+      "nous avions mévendu",
+      "vous aviez mévendu",
+      "ils avaient mévendu"
+    ],
+    "passé simple": [
+      "je mévendis",
+      "tu mévendis",
+      "il mévendit",
+      "nous mévendîmes",
+      "vous mévendîtes",
+      "ils mévendirent"
+    ],
+    "passé antérieur": [
+      "j'eus mévendu",
+      "tu eus mévendu",
+      "il eut mévendu",
+      "nous eûmes mévendu",
+      "vous eûtes mévendu",
+      "ils eurent mévendu"
+    ],
+    "futur simple": [
+      "je mévendrai",
+      "tu mévendras",
+      "il mévendra",
+      "nous mévendrons",
+      "vous mévendrez",
+      "ils mévendront"
+    ],
+    "futur antérieur": [
+      "j'aurai mévendu",
+      "tu auras mévendu",
+      "il aura mévendu",
+      "nous aurons mévendu",
+      "vous aurez mévendu",
+      "ils auront mévendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je mévende",
+      "que tu mévendes",
+      "qu'il mévende",
+      "que nous mévendions",
+      "que vous mévendiez",
+      "qu'ils mévendent"
+    ],
+    "passé": [
+      "que j'aie mévendu",
+      "que tu aies mévendu",
+      "qu'il ait mévendu",
+      "que nous ayons mévendu",
+      "que vous ayez mévendu",
+      "qu'ils aient mévendu"
+    ],
+    "imparfait": [
+      "que je mévendisse",
+      "que tu mévendisses",
+      "qu'il mévendît",
+      "que nous mévendissions",
+      "que vous mévendissiez",
+      "qu'ils mévendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse mévendu",
+      "que tu eusses mévendu",
+      "qu'il eût mévendu",
+      "que nous eussions mévendu",
+      "que vous eussiez mévendu",
+      "qu'ils eussent mévendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je mévendrais",
+      "tu mévendrais",
+      "il mévendrait",
+      "nous mévendrions",
+      "vous mévendriez",
+      "ils mévendraient"
+    ],
+    "passé": [
+      "j'aurais mévendu",
+      "tu aurais mévendu",
+      "il aurait mévendu",
+      "nous aurions mévendu",
+      "vous auriez mévendu",
+      "ils auraient mévendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mévends",
+      "mévendons",
+      "mévendez"
+    ],
+    "passé": [
+      "aie mévendu",
+      "ayons mévendu",
+      "ayez mévendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "mévendre"
+    ],
+    "passé": [
+      "avoir mévendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "mévendant"
+    ],
+    "passé": [
+      "mévendu",
+      "ayant mévendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en mévendant"
+    ],
+    "passé": [
+      "en ayant mévendu"
+    ]
+  }
+}

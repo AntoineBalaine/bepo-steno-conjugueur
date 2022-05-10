@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je contredis",
+      "tu contredis",
+      "il contredit",
+      "nous contredisons",
+      "vous contredites",
+      "ils contredisent"
+    ],
+    "passé composé": [
+      "j'ai contredit",
+      "tu as contredit",
+      "il a contredit",
+      "nous avons contredit",
+      "vous avez contredit",
+      "ils ont contredit"
+    ],
+    "imparfait": [
+      "je contredisais",
+      "tu contredisais",
+      "il contredisait",
+      "nous contredisions",
+      "vous contredisiez",
+      "ils contredisaient"
+    ],
+    "plus que parfait": [
+      "j'avais contredit",
+      "tu avais contredit",
+      "il avait contredit",
+      "nous avions contredit",
+      "vous aviez contredit",
+      "ils avaient contredit"
+    ],
+    "passé simple": [
+      "je contredis",
+      "tu contredis",
+      "il contredit",
+      "nous contredîmes",
+      "vous contredîtes",
+      "ils contredirent"
+    ],
+    "passé antérieur": [
+      "j'eus contredit",
+      "tu eus contredit",
+      "il eut contredit",
+      "nous eûmes contredit",
+      "vous eûtes contredit",
+      "ils eurent contredit"
+    ],
+    "futur simple": [
+      "je contredirai",
+      "tu contrediras",
+      "il contredira",
+      "nous contredirons",
+      "vous contredirez",
+      "ils contrediront"
+    ],
+    "futur antérieur": [
+      "j'aurai contredit",
+      "tu auras contredit",
+      "il aura contredit",
+      "nous aurons contredit",
+      "vous aurez contredit",
+      "ils auront contredit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je contredise",
+      "que tu contredises",
+      "qu'il contredise",
+      "que nous contredisions",
+      "que vous contredisiez",
+      "qu'ils contredisent"
+    ],
+    "passé": [
+      "que j'aie contredit",
+      "que tu aies contredit",
+      "qu'il ait contredit",
+      "que nous ayons contredit",
+      "que vous ayez contredit",
+      "qu'ils aient contredit"
+    ],
+    "imparfait": [
+      "que je contredisse",
+      "que tu contredisses",
+      "qu'il contredît",
+      "que nous contredissions",
+      "que vous contredissiez",
+      "qu'ils contredissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse contredit",
+      "que tu eusses contredit",
+      "qu'il eût contredit",
+      "que nous eussions contredit",
+      "que vous eussiez contredit",
+      "qu'ils eussent contredit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je contredirais",
+      "tu contredirais",
+      "il contredirait",
+      "nous contredirions",
+      "vous contrediriez",
+      "ils contrediraient"
+    ],
+    "passé": [
+      "j'aurais contredit",
+      "tu aurais contredit",
+      "il aurait contredit",
+      "nous aurions contredit",
+      "vous auriez contredit",
+      "ils auraient contredit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contredis",
+      "contredisons",
+      "contredites"
+    ],
+    "passé": [
+      "aie contredit",
+      "ayons contredit",
+      "ayez contredit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "contredire"
+    ],
+    "passé": [
+      "avoir contredit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "contredisant"
+    ],
+    "passé": [
+      "contredit",
+      "ayant contredit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en contredisant"
+    ],
+    "passé": [
+      "en ayant contredit"
+    ]
+  }
+}

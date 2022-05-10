@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me dévêts",
+      "tu te dévêts",
+      "il se dévêt",
+      "nous nous dévêtons",
+      "vous vous dévêtez",
+      "ils se dévêtent"
+    ],
+    "passé composé": [
+      "je me suis dévêtu",
+      "tu t'es dévêtu",
+      "il s'est dévêtu",
+      "nous nous sommes dévêtus",
+      "vous vous êtes dévêtus",
+      "ils se sont dévêtus"
+    ],
+    "imparfait": [
+      "je me dévêtais",
+      "tu te dévêtais",
+      "il se dévêtait",
+      "nous nous dévêtions",
+      "vous vous dévêtiez",
+      "ils se dévêtaient"
+    ],
+    "plus que parfait": [
+      "je m'étais dévêtu",
+      "tu t'étais dévêtu",
+      "il s'était dévêtu",
+      "nous nous étions dévêtus",
+      "vous vous étiez dévêtus",
+      "ils s'étaient dévêtus"
+    ],
+    "passé simple": [
+      "je me dévêtis",
+      "tu te dévêtis",
+      "il se dévêtit",
+      "nous nous dévêtîmes",
+      "vous vous dévêtîtes",
+      "ils se dévêtirent"
+    ],
+    "passé antérieur": [
+      "je me fus dévêtu",
+      "tu te fus dévêtu",
+      "il se fut dévêtu",
+      "nous nous fûmes dévêtus",
+      "vous vous fûtes dévêtus",
+      "ils se furent dévêtus"
+    ],
+    "futur simple": [
+      "je me dévêtirai",
+      "tu te dévêtiras",
+      "il se dévêtira",
+      "nous nous dévêtirons",
+      "vous vous dévêtirez",
+      "ils se dévêtiront"
+    ],
+    "futur antérieur": [
+      "je me serai dévêtu",
+      "tu te seras dévêtu",
+      "il se sera dévêtu",
+      "nous nous serons dévêtus",
+      "vous vous serez dévêtus",
+      "ils se seront dévêtus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me dévête",
+      "que tu te dévêtes",
+      "qu'il se dévête",
+      "que nous nous dévêtions",
+      "que vous vous dévêtiez",
+      "qu'ils se dévêtent"
+    ],
+    "passé": [
+      "que je me sois dévêtu",
+      "que tu te sois dévêtu",
+      "qu'il se soit dévêtu",
+      "que nous nous soyons dévêtus",
+      "que vous vous soyez dévêtus",
+      "qu'ils se soient dévêtus"
+    ],
+    "imparfait": [
+      "que je me dévêtisse",
+      "que tu te dévêtisses",
+      "qu'il se dévêtît",
+      "que nous nous dévêtissions",
+      "que vous vous dévêtissiez",
+      "qu'ils se dévêtissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse dévêtu",
+      "que tu te fusses dévêtu",
+      "qu'il se fût dévêtu",
+      "que nous nous fussions dévêtus",
+      "que vous vous fussiez dévêtus",
+      "qu'ils se fussent dévêtus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me dévêtirais",
+      "tu te dévêtirais",
+      "il se dévêtirait",
+      "nous nous dévêtirions",
+      "vous vous dévêtiriez",
+      "ils se dévêtiraient"
+    ],
+    "passé": [
+      "je me serais dévêtu",
+      "tu te serais dévêtu",
+      "il se serait dévêtu",
+      "nous nous serions dévêtus",
+      "vous vous seriez dévêtus",
+      "ils se seraient dévêtus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dévêts-toi",
+      "dévêtons-nous",
+      "dévêtez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se dévêtir"
+    ],
+    "passé": [
+      "s'être dévêtu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se dévêtant"
+    ],
+    "passé": [
+      "-",
+      "s'étant dévêtu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se dévêtant"
+    ],
+    "passé": [
+      "en s'étant dévêtu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entretiens",
+      "tu t'entretiens",
+      "il s'entretient",
+      "nous nous entretenons",
+      "vous vous entretenez",
+      "ils s'entretiennent"
+    ],
+    "passé composé": [
+      "je me suis entretenu",
+      "tu t'es entretenu",
+      "il s'est entretenu",
+      "nous nous sommes entretenus",
+      "vous vous êtes entretenus",
+      "ils se sont entretenus"
+    ],
+    "imparfait": [
+      "je m'entretenais",
+      "tu t'entretenais",
+      "il s'entretenait",
+      "nous nous entretenions",
+      "vous vous entreteniez",
+      "ils s'entretenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entretenu",
+      "tu t'étais entretenu",
+      "il s'était entretenu",
+      "nous nous étions entretenus",
+      "vous vous étiez entretenus",
+      "ils s'étaient entretenus"
+    ],
+    "passé simple": [
+      "je m'entretins",
+      "tu t'entretins",
+      "il s'entretint",
+      "nous nous entretînmes",
+      "vous vous entretîntes",
+      "ils s'entretinrent"
+    ],
+    "passé antérieur": [
+      "je me fus entretenu",
+      "tu te fus entretenu",
+      "il se fut entretenu",
+      "nous nous fûmes entretenus",
+      "vous vous fûtes entretenus",
+      "ils se furent entretenus"
+    ],
+    "futur simple": [
+      "je m'entretiendrai",
+      "tu t'entretiendras",
+      "il s'entretiendra",
+      "nous nous entretiendrons",
+      "vous vous entretiendrez",
+      "ils s'entretiendront"
+    ],
+    "futur antérieur": [
+      "je me serai entretenu",
+      "tu te seras entretenu",
+      "il se sera entretenu",
+      "nous nous serons entretenus",
+      "vous vous serez entretenus",
+      "ils se seront entretenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entretienne",
+      "que tu t'entretiennes",
+      "qu'il s'entretienne",
+      "que nous nous entretenions",
+      "que vous vous entreteniez",
+      "qu'ils s'entretiennent"
+    ],
+    "passé": [
+      "que je me sois entretenu",
+      "que tu te sois entretenu",
+      "qu'il se soit entretenu",
+      "que nous nous soyons entretenus",
+      "que vous vous soyez entretenus",
+      "qu'ils se soient entretenus"
+    ],
+    "imparfait": [
+      "que je m'entretinsse",
+      "que tu t'entretinsses",
+      "qu'il s'entretînt",
+      "que nous nous entretinssions",
+      "que vous vous entretinssiez",
+      "qu'ils s'entretinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entretenu",
+      "que tu te fusses entretenu",
+      "qu'il se fût entretenu",
+      "que nous nous fussions entretenus",
+      "que vous vous fussiez entretenus",
+      "qu'ils se fussent entretenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entretiendrais",
+      "tu t'entretiendrais",
+      "il s'entretiendrait",
+      "nous nous entretiendrions",
+      "vous vous entretiendriez",
+      "ils s'entretiendraient"
+    ],
+    "passé": [
+      "je me serais entretenu",
+      "tu te serais entretenu",
+      "il se serait entretenu",
+      "nous nous serions entretenus",
+      "vous vous seriez entretenus",
+      "ils se seraient entretenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entretiens-toi",
+      "entretenons-nous",
+      "entretenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entretenir"
+    ],
+    "passé": [
+      "s'être entretenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entretenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entretenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entretenant"
+    ],
+    "passé": [
+      "en s'étant entretenu"
+    ]
+  }
+}

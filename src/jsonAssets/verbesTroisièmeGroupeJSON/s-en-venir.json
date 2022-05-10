@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'en viens",
+      "tu t'en viens",
+      "il s'en vient",
+      "nous nous en venons",
+      "vous vous en venez",
+      "ils s'en viennent"
+    ],
+    "passé composé": [
+      "je m'en suis venu",
+      "tu t'en es venu",
+      "il s'en est venu",
+      "nous nous en sommes venus",
+      "vous vous en êtes venus",
+      "ils s'en sont venus"
+    ],
+    "imparfait": [
+      "je m'en venais",
+      "tu t'en venais",
+      "il s'en venait",
+      "nous nous en venions",
+      "vous vous en veniez",
+      "ils s'en venaient"
+    ],
+    "plus que parfait": [
+      "je m'en étais venu",
+      "tu t'en étais venu",
+      "il s'en était venu",
+      "nous nous en étions venus",
+      "vous vous en étiez venus",
+      "ils s'en étaient venus"
+    ],
+    "passé simple": [
+      "je m'en vins",
+      "tu t'en vins",
+      "il s'en vint",
+      "nous nous en vînmes",
+      "vous vous en vîntes",
+      "ils s'en vinrent"
+    ],
+    "passé antérieur": [
+      "je m'en fus venu",
+      "tu t'en fus venu",
+      "il s'en fut venu",
+      "nous nous en fûmes venus",
+      "vous vous en fûtes venus",
+      "ils s'en furent venus"
+    ],
+    "futur simple": [
+      "je m'en viendrai",
+      "tu t'en viendras",
+      "il s'en viendra",
+      "nous nous en viendrons",
+      "vous vous en viendrez",
+      "ils s'en viendront"
+    ],
+    "futur antérieur": [
+      "je m'en serai venu",
+      "tu t'en seras venu",
+      "il s'en sera venu",
+      "nous nous en serons venus",
+      "vous vous en serez venus",
+      "ils s'en seront venus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'en vienne",
+      "que tu t'en viennes",
+      "qu'il s'en vienne",
+      "que nous nous en venions",
+      "que vous vous en veniez",
+      "qu'ils s'en viennent"
+    ],
+    "passé": [
+      "que je m'en sois venu",
+      "que tu t'en sois venu",
+      "qu'il s'en soit venu",
+      "que nous nous en soyons venus",
+      "que vous vous en soyez venus",
+      "qu'ils s'en soient venus"
+    ],
+    "imparfait": [
+      "que je m'en vinsse",
+      "que tu t'en vinsses",
+      "qu'il s'en vînt",
+      "que nous nous en vinssions",
+      "que vous vous en vinssiez",
+      "qu'ils s'en vinssent"
+    ],
+    "plus que parfait": [
+      "que je m'en fusse venu",
+      "que tu t'en fusses venu",
+      "qu'il s'en fût venu",
+      "que nous nous en fussions venus",
+      "que vous vous en fussiez venus",
+      "qu'ils s'en fussent venus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'en viendrais",
+      "tu t'en viendrais",
+      "il s'en viendrait",
+      "nous nous en viendrions",
+      "vous vous en viendriez",
+      "ils s'en viendraient"
+    ],
+    "passé": [
+      "je m'en serais venu",
+      "tu t'en serais venu",
+      "il s'en serait venu",
+      "nous nous en serions venus",
+      "vous vous en seriez venus",
+      "ils s'en seraient venus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "viens-t'en",
+      "venons-nous-en",
+      "venez-vous-en"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'en venir"
+    ],
+    "passé": [
+      "s'en être venu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'en venant"
+    ],
+    "passé": [
+      "-",
+      "s'en étant venu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'en venant"
+    ],
+    "passé": [
+      "en s'en étant venu"
+    ]
+  }
+}

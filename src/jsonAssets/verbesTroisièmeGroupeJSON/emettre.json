@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'émets",
+      "tu émets",
+      "il émet",
+      "nous émettons",
+      "vous émettez",
+      "ils émettent"
+    ],
+    "passé composé": [
+      "j'ai émis",
+      "tu as émis",
+      "il a émis",
+      "nous avons émis",
+      "vous avez émis",
+      "ils ont émis"
+    ],
+    "imparfait": [
+      "j'émettais",
+      "tu émettais",
+      "il émettait",
+      "nous émettions",
+      "vous émettiez",
+      "ils émettaient"
+    ],
+    "plus que parfait": [
+      "j'avais émis",
+      "tu avais émis",
+      "il avait émis",
+      "nous avions émis",
+      "vous aviez émis",
+      "ils avaient émis"
+    ],
+    "passé simple": [
+      "j'émis",
+      "tu émis",
+      "il émit",
+      "nous émîmes",
+      "vous émîtes",
+      "ils émirent"
+    ],
+    "passé antérieur": [
+      "j'eus émis",
+      "tu eus émis",
+      "il eut émis",
+      "nous eûmes émis",
+      "vous eûtes émis",
+      "ils eurent émis"
+    ],
+    "futur simple": [
+      "j'émettrai",
+      "tu émettras",
+      "il émettra",
+      "nous émettrons",
+      "vous émettrez",
+      "ils émettront"
+    ],
+    "futur antérieur": [
+      "j'aurai émis",
+      "tu auras émis",
+      "il aura émis",
+      "nous aurons émis",
+      "vous aurez émis",
+      "ils auront émis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'émette",
+      "que tu émettes",
+      "qu'il émette",
+      "que nous émettions",
+      "que vous émettiez",
+      "qu'ils émettent"
+    ],
+    "passé": [
+      "que j'aie émis",
+      "que tu aies émis",
+      "qu'il ait émis",
+      "que nous ayons émis",
+      "que vous ayez émis",
+      "qu'ils aient émis"
+    ],
+    "imparfait": [
+      "que j'émisse",
+      "que tu émisses",
+      "qu'il émît",
+      "que nous émissions",
+      "que vous émissiez",
+      "qu'ils émissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse émis",
+      "que tu eusses émis",
+      "qu'il eût émis",
+      "que nous eussions émis",
+      "que vous eussiez émis",
+      "qu'ils eussent émis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'émettrais",
+      "tu émettrais",
+      "il émettrait",
+      "nous émettrions",
+      "vous émettriez",
+      "ils émettraient"
+    ],
+    "passé": [
+      "j'aurais émis",
+      "tu aurais émis",
+      "il aurait émis",
+      "nous aurions émis",
+      "vous auriez émis",
+      "ils auraient émis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "émets",
+      "émettons",
+      "émettez"
+    ],
+    "passé": [
+      "aie émis",
+      "ayons émis",
+      "ayez émis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "émettre"
+    ],
+    "passé": [
+      "avoir émis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "émettant"
+    ],
+    "passé": [
+      "émis",
+      "ayant émis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en émettant"
+    ],
+    "passé": [
+      "en ayant émis"
+    ]
+  }
+}

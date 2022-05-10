@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réponds",
+      "tu réponds",
+      "il répond",
+      "nous répondons",
+      "vous répondez",
+      "ils répondent"
+    ],
+    "passé composé": [
+      "j'ai répondu",
+      "tu as répondu",
+      "il a répondu",
+      "nous avons répondu",
+      "vous avez répondu",
+      "ils ont répondu"
+    ],
+    "imparfait": [
+      "je répondais",
+      "tu répondais",
+      "il répondait",
+      "nous répondions",
+      "vous répondiez",
+      "ils répondaient"
+    ],
+    "plus que parfait": [
+      "j'avais répondu",
+      "tu avais répondu",
+      "il avait répondu",
+      "nous avions répondu",
+      "vous aviez répondu",
+      "ils avaient répondu"
+    ],
+    "passé simple": [
+      "je répondis",
+      "tu répondis",
+      "il répondit",
+      "nous répondîmes",
+      "vous répondîtes",
+      "ils répondirent"
+    ],
+    "passé antérieur": [
+      "j'eus répondu",
+      "tu eus répondu",
+      "il eut répondu",
+      "nous eûmes répondu",
+      "vous eûtes répondu",
+      "ils eurent répondu"
+    ],
+    "futur simple": [
+      "je répondrai",
+      "tu répondras",
+      "il répondra",
+      "nous répondrons",
+      "vous répondrez",
+      "ils répondront"
+    ],
+    "futur antérieur": [
+      "j'aurai répondu",
+      "tu auras répondu",
+      "il aura répondu",
+      "nous aurons répondu",
+      "vous aurez répondu",
+      "ils auront répondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réponde",
+      "que tu répondes",
+      "qu'il réponde",
+      "que nous répondions",
+      "que vous répondiez",
+      "qu'ils répondent"
+    ],
+    "passé": [
+      "que j'aie répondu",
+      "que tu aies répondu",
+      "qu'il ait répondu",
+      "que nous ayons répondu",
+      "que vous ayez répondu",
+      "qu'ils aient répondu"
+    ],
+    "imparfait": [
+      "que je répondisse",
+      "que tu répondisses",
+      "qu'il répondît",
+      "que nous répondissions",
+      "que vous répondissiez",
+      "qu'ils répondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse répondu",
+      "que tu eusses répondu",
+      "qu'il eût répondu",
+      "que nous eussions répondu",
+      "que vous eussiez répondu",
+      "qu'ils eussent répondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je répondrais",
+      "tu répondrais",
+      "il répondrait",
+      "nous répondrions",
+      "vous répondriez",
+      "ils répondraient"
+    ],
+    "passé": [
+      "j'aurais répondu",
+      "tu aurais répondu",
+      "il aurait répondu",
+      "nous aurions répondu",
+      "vous auriez répondu",
+      "ils auraient répondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réponds",
+      "répondons",
+      "répondez"
+    ],
+    "passé": [
+      "aie répondu",
+      "ayons répondu",
+      "ayez répondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "répondre"
+    ],
+    "passé": [
+      "avoir répondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "répondant"
+    ],
+    "passé": [
+      "répondu",
+      "ayant répondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en répondant"
+    ],
+    "passé": [
+      "en ayant répondu"
+    ]
+  }
+}

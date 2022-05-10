@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je détruis",
+      "tu détruis",
+      "il détruit",
+      "nous détruisons",
+      "vous détruisez",
+      "ils détruisent"
+    ],
+    "passé composé": [
+      "j'ai détruit",
+      "tu as détruit",
+      "il a détruit",
+      "nous avons détruit",
+      "vous avez détruit",
+      "ils ont détruit"
+    ],
+    "imparfait": [
+      "je détruisais",
+      "tu détruisais",
+      "il détruisait",
+      "nous détruisions",
+      "vous détruisiez",
+      "ils détruisaient"
+    ],
+    "plus que parfait": [
+      "j'avais détruit",
+      "tu avais détruit",
+      "il avait détruit",
+      "nous avions détruit",
+      "vous aviez détruit",
+      "ils avaient détruit"
+    ],
+    "passé simple": [
+      "je détruisis",
+      "tu détruisis",
+      "il détruisit",
+      "nous détruisîmes",
+      "vous détruisîtes",
+      "ils détruisirent"
+    ],
+    "passé antérieur": [
+      "j'eus détruit",
+      "tu eus détruit",
+      "il eut détruit",
+      "nous eûmes détruit",
+      "vous eûtes détruit",
+      "ils eurent détruit"
+    ],
+    "futur simple": [
+      "je détruirai",
+      "tu détruiras",
+      "il détruira",
+      "nous détruirons",
+      "vous détruirez",
+      "ils détruiront"
+    ],
+    "futur antérieur": [
+      "j'aurai détruit",
+      "tu auras détruit",
+      "il aura détruit",
+      "nous aurons détruit",
+      "vous aurez détruit",
+      "ils auront détruit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je détruise",
+      "que tu détruises",
+      "qu'il détruise",
+      "que nous détruisions",
+      "que vous détruisiez",
+      "qu'ils détruisent"
+    ],
+    "passé": [
+      "que j'aie détruit",
+      "que tu aies détruit",
+      "qu'il ait détruit",
+      "que nous ayons détruit",
+      "que vous ayez détruit",
+      "qu'ils aient détruit"
+    ],
+    "imparfait": [
+      "que je détruisisse",
+      "que tu détruisisses",
+      "qu'il détruisît",
+      "que nous détruisissions",
+      "que vous détruisissiez",
+      "qu'ils détruisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse détruit",
+      "que tu eusses détruit",
+      "qu'il eût détruit",
+      "que nous eussions détruit",
+      "que vous eussiez détruit",
+      "qu'ils eussent détruit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je détruirais",
+      "tu détruirais",
+      "il détruirait",
+      "nous détruirions",
+      "vous détruiriez",
+      "ils détruiraient"
+    ],
+    "passé": [
+      "j'aurais détruit",
+      "tu aurais détruit",
+      "il aurait détruit",
+      "nous aurions détruit",
+      "vous auriez détruit",
+      "ils auraient détruit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "détruis",
+      "détruisons",
+      "détruisez"
+    ],
+    "passé": [
+      "aie détruit",
+      "ayons détruit",
+      "ayez détruit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "détruire"
+    ],
+    "passé": [
+      "avoir détruit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "détruisant"
+    ],
+    "passé": [
+      "détruit",
+      "ayant détruit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en détruisant"
+    ],
+    "passé": [
+      "en ayant détruit"
+    ]
+  }
+}

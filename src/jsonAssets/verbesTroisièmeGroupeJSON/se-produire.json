@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me produis",
+      "tu te produis",
+      "il se produit",
+      "nous nous produisons",
+      "vous vous produisez",
+      "ils se produisent"
+    ],
+    "passé composé": [
+      "je me suis produit",
+      "tu t'es produit",
+      "il s'est produit",
+      "nous nous sommes produits",
+      "vous vous êtes produits",
+      "ils se sont produits"
+    ],
+    "imparfait": [
+      "je me produisais",
+      "tu te produisais",
+      "il se produisait",
+      "nous nous produisions",
+      "vous vous produisiez",
+      "ils se produisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais produit",
+      "tu t'étais produit",
+      "il s'était produit",
+      "nous nous étions produits",
+      "vous vous étiez produits",
+      "ils s'étaient produits"
+    ],
+    "passé simple": [
+      "je me produisis",
+      "tu te produisis",
+      "il se produisit",
+      "nous nous produisîmes",
+      "vous vous produisîtes",
+      "ils se produisirent"
+    ],
+    "passé antérieur": [
+      "je me fus produit",
+      "tu te fus produit",
+      "il se fut produit",
+      "nous nous fûmes produits",
+      "vous vous fûtes produits",
+      "ils se furent produits"
+    ],
+    "futur simple": [
+      "je me produirai",
+      "tu te produiras",
+      "il se produira",
+      "nous nous produirons",
+      "vous vous produirez",
+      "ils se produiront"
+    ],
+    "futur antérieur": [
+      "je me serai produit",
+      "tu te seras produit",
+      "il se sera produit",
+      "nous nous serons produits",
+      "vous vous serez produits",
+      "ils se seront produits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me produise",
+      "que tu te produises",
+      "qu'il se produise",
+      "que nous nous produisions",
+      "que vous vous produisiez",
+      "qu'ils se produisent"
+    ],
+    "passé": [
+      "que je me sois produit",
+      "que tu te sois produit",
+      "qu'il se soit produit",
+      "que nous nous soyons produits",
+      "que vous vous soyez produits",
+      "qu'ils se soient produits"
+    ],
+    "imparfait": [
+      "que je me produisisse",
+      "que tu te produisisses",
+      "qu'il se produisît",
+      "que nous nous produisissions",
+      "que vous vous produisissiez",
+      "qu'ils se produisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse produit",
+      "que tu te fusses produit",
+      "qu'il se fût produit",
+      "que nous nous fussions produits",
+      "que vous vous fussiez produits",
+      "qu'ils se fussent produits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me produirais",
+      "tu te produirais",
+      "il se produirait",
+      "nous nous produirions",
+      "vous vous produiriez",
+      "ils se produiraient"
+    ],
+    "passé": [
+      "je me serais produit",
+      "tu te serais produit",
+      "il se serait produit",
+      "nous nous serions produits",
+      "vous vous seriez produits",
+      "ils se seraient produits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "produis-toi",
+      "produisons-nous",
+      "produisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se produire"
+    ],
+    "passé": [
+      "s'être produit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se produisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant produit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se produisant"
+    ],
+    "passé": [
+      "en s'étant produit"
+    ]
+  }
+}

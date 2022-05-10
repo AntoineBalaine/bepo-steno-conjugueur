@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je proviens",
+      "tu proviens",
+      "il provient",
+      "nous provenons",
+      "vous provenez",
+      "ils proviennent"
+    ],
+    "passé composé": [
+      "je suis provenu",
+      "tu es provenu",
+      "il est provenu",
+      "nous sommes provenus",
+      "vous êtes provenus",
+      "ils sont provenus"
+    ],
+    "imparfait": [
+      "je provenais",
+      "tu provenais",
+      "il provenait",
+      "nous provenions",
+      "vous proveniez",
+      "ils provenaient"
+    ],
+    "plus que parfait": [
+      "j'étais provenu",
+      "tu étais provenu",
+      "il était provenu",
+      "nous étions provenus",
+      "vous étiez provenus",
+      "ils étaient provenus"
+    ],
+    "passé simple": [
+      "je provins",
+      "tu provins",
+      "il provint",
+      "nous provînmes",
+      "vous provîntes",
+      "ils provinrent"
+    ],
+    "passé antérieur": [
+      "je fus provenu",
+      "tu fus provenu",
+      "il fut provenu",
+      "nous fûmes provenus",
+      "vous fûtes provenus",
+      "ils furent provenus"
+    ],
+    "futur simple": [
+      "je proviendrai",
+      "tu proviendras",
+      "il proviendra",
+      "nous proviendrons",
+      "vous proviendrez",
+      "ils proviendront"
+    ],
+    "futur antérieur": [
+      "je serai provenu",
+      "tu seras provenu",
+      "il sera provenu",
+      "nous serons provenus",
+      "vous serez provenus",
+      "ils seront provenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je provienne",
+      "que tu proviennes",
+      "qu'il provienne",
+      "que nous provenions",
+      "que vous proveniez",
+      "qu'ils proviennent"
+    ],
+    "passé": [
+      "que je sois provenu",
+      "que tu sois provenu",
+      "qu'il soit provenu",
+      "que nous soyons provenus",
+      "que vous soyez provenus",
+      "qu'ils soient provenus"
+    ],
+    "imparfait": [
+      "que je provinsse",
+      "que tu provinsses",
+      "qu'il provînt",
+      "que nous provinssions",
+      "que vous provinssiez",
+      "qu'ils provinssent"
+    ],
+    "plus que parfait": [
+      "que je fusse provenu",
+      "que tu fusses provenu",
+      "qu'il fût provenu",
+      "que nous fussions provenus",
+      "que vous fussiez provenus",
+      "qu'ils fussent provenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je proviendrais",
+      "tu proviendrais",
+      "il proviendrait",
+      "nous proviendrions",
+      "vous proviendriez",
+      "ils proviendraient"
+    ],
+    "passé": [
+      "je serais provenu",
+      "tu serais provenu",
+      "il serait provenu",
+      "nous serions provenus",
+      "vous seriez provenus",
+      "ils seraient provenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "proviens",
+      "provenons",
+      "provenez"
+    ],
+    "passé": [
+      "sois provenu",
+      "soyons provenus",
+      "soyez provenus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "provenir"
+    ],
+    "passé": [
+      "être provenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "provenant"
+    ],
+    "passé": [
+      "provenu",
+      "étant provenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en provenant"
+    ],
+    "passé": [
+      "en étant provenu"
+    ]
+  }
+}

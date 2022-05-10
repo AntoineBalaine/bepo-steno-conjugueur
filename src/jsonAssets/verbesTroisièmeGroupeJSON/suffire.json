@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je suffis",
+      "tu suffis",
+      "il suffit",
+      "nous suffisons",
+      "vous suffisez",
+      "ils suffisent"
+    ],
+    "passé composé": [
+      "j'ai suffit",
+      "tu as suffit",
+      "il a suffit",
+      "nous avons suffit",
+      "vous avez suffit",
+      "ils ont suffit"
+    ],
+    "imparfait": [
+      "je suffisais",
+      "tu suffisais",
+      "il suffisait",
+      "nous suffisions",
+      "vous suffisiez",
+      "ils suffisaient"
+    ],
+    "plus que parfait": [
+      "j'avais suffit",
+      "tu avais suffit",
+      "il avait suffit",
+      "nous avions suffit",
+      "vous aviez suffit",
+      "ils avaient suffit"
+    ],
+    "passé simple": [
+      "je suffis",
+      "tu suffis",
+      "il suffit",
+      "nous suffîmes",
+      "vous suffîtes",
+      "ils suffirent"
+    ],
+    "passé antérieur": [
+      "j'eus suffit",
+      "tu eus suffit",
+      "il eut suffit",
+      "nous eûmes suffit",
+      "vous eûtes suffit",
+      "ils eurent suffit"
+    ],
+    "futur simple": [
+      "je suffirai",
+      "tu suffiras",
+      "il suffira",
+      "nous suffirons",
+      "vous suffirez",
+      "ils suffiront"
+    ],
+    "futur antérieur": [
+      "j'aurai suffit",
+      "tu auras suffit",
+      "il aura suffit",
+      "nous aurons suffit",
+      "vous aurez suffit",
+      "ils auront suffit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je suffise",
+      "que tu suffises",
+      "qu'il suffise",
+      "que nous suffisions",
+      "que vous suffisiez",
+      "qu'ils suffisent"
+    ],
+    "passé": [
+      "que j'aie suffit",
+      "que tu aies suffit",
+      "qu'il ait suffit",
+      "que nous ayons suffit",
+      "que vous ayez suffit",
+      "qu'ils aient suffit"
+    ],
+    "imparfait": [
+      "que je suffisse",
+      "que tu suffisses",
+      "qu'il suffît",
+      "que nous suffissions",
+      "que vous suffissiez",
+      "qu'ils suffissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse suffit",
+      "que tu eusses suffit",
+      "qu'il eût suffit",
+      "que nous eussions suffit",
+      "que vous eussiez suffit",
+      "qu'ils eussent suffit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je suffirais",
+      "tu suffirais",
+      "il suffirait",
+      "nous suffirions",
+      "vous suffiriez",
+      "ils suffiraient"
+    ],
+    "passé": [
+      "j'aurais suffit",
+      "tu aurais suffit",
+      "il aurait suffit",
+      "nous aurions suffit",
+      "vous auriez suffit",
+      "ils auraient suffit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "suffis",
+      "suffisons",
+      "suffisez"
+    ],
+    "passé": [
+      "aie suffit",
+      "ayons suffit",
+      "ayez suffit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "suffire"
+    ],
+    "passé": [
+      "avoir suffit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "suffisant"
+    ],
+    "passé": [
+      "suffit",
+      "ayant suffit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en suffisant"
+    ],
+    "passé": [
+      "en ayant suffit"
+    ]
+  }
+}

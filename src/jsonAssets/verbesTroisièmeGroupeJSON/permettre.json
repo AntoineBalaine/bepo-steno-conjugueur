@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je permets",
+      "tu permets",
+      "il permet",
+      "nous permettons",
+      "vous permettez",
+      "ils permettent"
+    ],
+    "passé composé": [
+      "j'ai permis",
+      "tu as permis",
+      "il a permis",
+      "nous avons permis",
+      "vous avez permis",
+      "ils ont permis"
+    ],
+    "imparfait": [
+      "je permettais",
+      "tu permettais",
+      "il permettait",
+      "nous permettions",
+      "vous permettiez",
+      "ils permettaient"
+    ],
+    "plus que parfait": [
+      "j'avais permis",
+      "tu avais permis",
+      "il avait permis",
+      "nous avions permis",
+      "vous aviez permis",
+      "ils avaient permis"
+    ],
+    "passé simple": [
+      "je permis",
+      "tu permis",
+      "il permit",
+      "nous permîmes",
+      "vous permîtes",
+      "ils permirent"
+    ],
+    "passé antérieur": [
+      "j'eus permis",
+      "tu eus permis",
+      "il eut permis",
+      "nous eûmes permis",
+      "vous eûtes permis",
+      "ils eurent permis"
+    ],
+    "futur simple": [
+      "je permettrai",
+      "tu permettras",
+      "il permettra",
+      "nous permettrons",
+      "vous permettrez",
+      "ils permettront"
+    ],
+    "futur antérieur": [
+      "j'aurai permis",
+      "tu auras permis",
+      "il aura permis",
+      "nous aurons permis",
+      "vous aurez permis",
+      "ils auront permis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je permette",
+      "que tu permettes",
+      "qu'il permette",
+      "que nous permettions",
+      "que vous permettiez",
+      "qu'ils permettent"
+    ],
+    "passé": [
+      "que j'aie permis",
+      "que tu aies permis",
+      "qu'il ait permis",
+      "que nous ayons permis",
+      "que vous ayez permis",
+      "qu'ils aient permis"
+    ],
+    "imparfait": [
+      "que je permisse",
+      "que tu permisses",
+      "qu'il permît",
+      "que nous permissions",
+      "que vous permissiez",
+      "qu'ils permissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse permis",
+      "que tu eusses permis",
+      "qu'il eût permis",
+      "que nous eussions permis",
+      "que vous eussiez permis",
+      "qu'ils eussent permis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je permettrais",
+      "tu permettrais",
+      "il permettrait",
+      "nous permettrions",
+      "vous permettriez",
+      "ils permettraient"
+    ],
+    "passé": [
+      "j'aurais permis",
+      "tu aurais permis",
+      "il aurait permis",
+      "nous aurions permis",
+      "vous auriez permis",
+      "ils auraient permis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "permets",
+      "permettons",
+      "permettez"
+    ],
+    "passé": [
+      "aie permis",
+      "ayons permis",
+      "ayez permis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "permettre"
+    ],
+    "passé": [
+      "avoir permis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "permettant"
+    ],
+    "passé": [
+      "permis",
+      "ayant permis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en permettant"
+    ],
+    "passé": [
+      "en ayant permis"
+    ]
+  }
+}

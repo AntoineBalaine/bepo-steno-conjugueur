@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réduis",
+      "tu réduis",
+      "il réduit",
+      "nous réduisons",
+      "vous réduisez",
+      "ils réduisent"
+    ],
+    "passé composé": [
+      "j'ai réduit",
+      "tu as réduit",
+      "il a réduit",
+      "nous avons réduit",
+      "vous avez réduit",
+      "ils ont réduit"
+    ],
+    "imparfait": [
+      "je réduisais",
+      "tu réduisais",
+      "il réduisait",
+      "nous réduisions",
+      "vous réduisiez",
+      "ils réduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais réduit",
+      "tu avais réduit",
+      "il avait réduit",
+      "nous avions réduit",
+      "vous aviez réduit",
+      "ils avaient réduit"
+    ],
+    "passé simple": [
+      "je réduisis",
+      "tu réduisis",
+      "il réduisit",
+      "nous réduisîmes",
+      "vous réduisîtes",
+      "ils réduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus réduit",
+      "tu eus réduit",
+      "il eut réduit",
+      "nous eûmes réduit",
+      "vous eûtes réduit",
+      "ils eurent réduit"
+    ],
+    "futur simple": [
+      "je réduirai",
+      "tu réduiras",
+      "il réduira",
+      "nous réduirons",
+      "vous réduirez",
+      "ils réduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai réduit",
+      "tu auras réduit",
+      "il aura réduit",
+      "nous aurons réduit",
+      "vous aurez réduit",
+      "ils auront réduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réduise",
+      "que tu réduises",
+      "qu'il réduise",
+      "que nous réduisions",
+      "que vous réduisiez",
+      "qu'ils réduisent"
+    ],
+    "passé": [
+      "que j'aie réduit",
+      "que tu aies réduit",
+      "qu'il ait réduit",
+      "que nous ayons réduit",
+      "que vous ayez réduit",
+      "qu'ils aient réduit"
+    ],
+    "imparfait": [
+      "que je réduisisse",
+      "que tu réduisisses",
+      "qu'il réduisît",
+      "que nous réduisissions",
+      "que vous réduisissiez",
+      "qu'ils réduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réduit",
+      "que tu eusses réduit",
+      "qu'il eût réduit",
+      "que nous eussions réduit",
+      "que vous eussiez réduit",
+      "qu'ils eussent réduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je réduirais",
+      "tu réduirais",
+      "il réduirait",
+      "nous réduirions",
+      "vous réduiriez",
+      "ils réduiraient"
+    ],
+    "passé": [
+      "j'aurais réduit",
+      "tu aurais réduit",
+      "il aurait réduit",
+      "nous aurions réduit",
+      "vous auriez réduit",
+      "ils auraient réduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réduis",
+      "réduisons",
+      "réduisez"
+    ],
+    "passé": [
+      "aie réduit",
+      "ayons réduit",
+      "ayez réduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "réduire"
+    ],
+    "passé": [
+      "avoir réduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "réduisant"
+    ],
+    "passé": [
+      "réduit",
+      "ayant réduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en réduisant"
+    ],
+    "passé": [
+      "en ayant réduit"
+    ]
+  }
+}

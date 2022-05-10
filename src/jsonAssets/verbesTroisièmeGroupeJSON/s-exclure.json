@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'exclus",
+      "tu t'exclus",
+      "il s'exclut",
+      "nous nous excluons",
+      "vous vous excluez",
+      "ils s'excluent"
+    ],
+    "passé composé": [
+      "je me suis exclu",
+      "tu t'es exclu",
+      "il s'est exclu",
+      "nous nous sommes exclus",
+      "vous vous êtes exclus",
+      "ils se sont exclus"
+    ],
+    "imparfait": [
+      "je m'excluais",
+      "tu t'excluais",
+      "il s'excluait",
+      "nous nous excluions",
+      "vous vous excluiez",
+      "ils s'excluaient"
+    ],
+    "plus que parfait": [
+      "je m'étais exclu",
+      "tu t'étais exclu",
+      "il s'était exclu",
+      "nous nous étions exclus",
+      "vous vous étiez exclus",
+      "ils s'étaient exclus"
+    ],
+    "passé simple": [
+      "je m'exclus",
+      "tu t'exclus",
+      "il s'exclut",
+      "nous nous exclûmes",
+      "vous vous exclûtes",
+      "ils s'exclurent"
+    ],
+    "passé antérieur": [
+      "je me fus exclu",
+      "tu te fus exclu",
+      "il se fut exclu",
+      "nous nous fûmes exclus",
+      "vous vous fûtes exclus",
+      "ils se furent exclus"
+    ],
+    "futur simple": [
+      "je m'exclurai",
+      "tu t'excluras",
+      "il s'exclura",
+      "nous nous exclurons",
+      "vous vous exclurez",
+      "ils s'excluront"
+    ],
+    "futur antérieur": [
+      "je me serai exclu",
+      "tu te seras exclu",
+      "il se sera exclu",
+      "nous nous serons exclus",
+      "vous vous serez exclus",
+      "ils se seront exclus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'exclue",
+      "que tu t'exclues",
+      "qu'il s'exclue",
+      "que nous nous excluions",
+      "que vous vous excluiez",
+      "qu'ils s'excluent"
+    ],
+    "passé": [
+      "que je me sois exclu",
+      "que tu te sois exclu",
+      "qu'il se soit exclu",
+      "que nous nous soyons exclus",
+      "que vous vous soyez exclus",
+      "qu'ils se soient exclus"
+    ],
+    "imparfait": [
+      "que je m'exclusse",
+      "que tu t'exclusses",
+      "qu'il s'exclût",
+      "que nous nous exclussions",
+      "que vous vous exclussiez",
+      "qu'ils s'exclussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse exclu",
+      "que tu te fusses exclu",
+      "qu'il se fût exclu",
+      "que nous nous fussions exclus",
+      "que vous vous fussiez exclus",
+      "qu'ils se fussent exclus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'exclurais",
+      "tu t'exclurais",
+      "il s'exclurait",
+      "nous nous exclurions",
+      "vous vous excluriez",
+      "ils s'excluraient"
+    ],
+    "passé": [
+      "je me serais exclu",
+      "tu te serais exclu",
+      "il se serait exclu",
+      "nous nous serions exclus",
+      "vous vous seriez exclus",
+      "ils se seraient exclus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "exclus-toi",
+      "excluons-nous",
+      "excluez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'exclure"
+    ],
+    "passé": [
+      "s'être exclu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'excluant"
+    ],
+    "passé": [
+      "-",
+      "s'étant exclu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'excluant"
+    ],
+    "passé": [
+      "en s'étant exclu"
+    ]
+  }
+}

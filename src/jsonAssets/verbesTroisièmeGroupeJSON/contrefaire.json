@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je contrefais",
+      "tu contrefais",
+      "il contrefait",
+      "nous contrefaisons",
+      "vous contrefaites",
+      "ils contrefont"
+    ],
+    "passé composé": [
+      "j'ai contrefait",
+      "tu as contrefait",
+      "il a contrefait",
+      "nous avons contrefait",
+      "vous avez contrefait",
+      "ils ont contrefait"
+    ],
+    "imparfait": [
+      "je contrefaisais",
+      "tu contrefaisais",
+      "il contrefaisait",
+      "nous contrefaisions",
+      "vous contrefaisiez",
+      "ils contrefaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais contrefait",
+      "tu avais contrefait",
+      "il avait contrefait",
+      "nous avions contrefait",
+      "vous aviez contrefait",
+      "ils avaient contrefait"
+    ],
+    "passé simple": [
+      "je contrefis",
+      "tu contrefis",
+      "il contrefit",
+      "nous contrefîmes",
+      "vous contrefîtes",
+      "ils contrefirent"
+    ],
+    "passé antérieur": [
+      "j'eus contrefait",
+      "tu eus contrefait",
+      "il eut contrefait",
+      "nous eûmes contrefait",
+      "vous eûtes contrefait",
+      "ils eurent contrefait"
+    ],
+    "futur simple": [
+      "je contreferai",
+      "tu contreferas",
+      "il contrefera",
+      "nous contreferons",
+      "vous contreferez",
+      "ils contreferont"
+    ],
+    "futur antérieur": [
+      "j'aurai contrefait",
+      "tu auras contrefait",
+      "il aura contrefait",
+      "nous aurons contrefait",
+      "vous aurez contrefait",
+      "ils auront contrefait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je contrefasse",
+      "que tu contrefasses",
+      "qu'il contrefasse",
+      "que nous contrefassions",
+      "que vous contrefassiez",
+      "qu'ils contrefassent"
+    ],
+    "passé": [
+      "que j'aie contrefait",
+      "que tu aies contrefait",
+      "qu'il ait contrefait",
+      "que nous ayons contrefait",
+      "que vous ayez contrefait",
+      "qu'ils aient contrefait"
+    ],
+    "imparfait": [
+      "que je contrefisse",
+      "que tu contrefisses",
+      "qu'il contrefît",
+      "que nous contrefissions",
+      "que vous contrefissiez",
+      "qu'ils contrefissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse contrefait",
+      "que tu eusses contrefait",
+      "qu'il eût contrefait",
+      "que nous eussions contrefait",
+      "que vous eussiez contrefait",
+      "qu'ils eussent contrefait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je contreferais",
+      "tu contreferais",
+      "il contreferait",
+      "nous contreferions",
+      "vous contreferiez",
+      "ils contreferaient"
+    ],
+    "passé": [
+      "j'aurais contrefait",
+      "tu aurais contrefait",
+      "il aurait contrefait",
+      "nous aurions contrefait",
+      "vous auriez contrefait",
+      "ils auraient contrefait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "contrefais",
+      "contrefaisons",
+      "contrefaites"
+    ],
+    "passé": [
+      "aie contrefait",
+      "ayons contrefait",
+      "ayez contrefait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "contrefaire"
+    ],
+    "passé": [
+      "avoir contrefait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "contrefaisant"
+    ],
+    "passé": [
+      "contrefait",
+      "ayant contrefait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en contrefaisant"
+    ],
+    "passé": [
+      "en ayant contrefait"
+    ]
+  }
+}

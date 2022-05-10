@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rentrais",
+      "tu rentrais",
+      "il rentrait",
+      "nous rentrayons",
+      "vous rentrayez",
+      "ils rentraient"
+    ],
+    "passé composé": [
+      "j'ai rentrait",
+      "tu as rentrait",
+      "il a rentrait",
+      "nous avons rentrait",
+      "vous avez rentrait",
+      "ils ont rentrait"
+    ],
+    "imparfait": [
+      "je rentrayais",
+      "tu rentrayais",
+      "il rentrayait",
+      "nous rentrayions",
+      "vous rentrayiez",
+      "ils rentrayaient"
+    ],
+    "plus que parfait": [
+      "j'avais rentrait",
+      "tu avais rentrait",
+      "il avait rentrait",
+      "nous avions rentrait",
+      "vous aviez rentrait",
+      "ils avaient rentrait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus rentrait",
+      "tu eus rentrait",
+      "il eut rentrait",
+      "nous eûmes rentrait",
+      "vous eûtes rentrait",
+      "ils eurent rentrait"
+    ],
+    "futur simple": [
+      "je rentrairai",
+      "tu rentrairas",
+      "il rentraira",
+      "nous rentrairons",
+      "vous rentrairez",
+      "ils rentrairont"
+    ],
+    "futur antérieur": [
+      "j'aurai rentrait",
+      "tu auras rentrait",
+      "il aura rentrait",
+      "nous aurons rentrait",
+      "vous aurez rentrait",
+      "ils auront rentrait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rentraie",
+      "que tu rentraies",
+      "qu'il rentraie",
+      "que nous rentrayions",
+      "que vous rentrayiez",
+      "qu'ils rentraient"
+    ],
+    "passé": [
+      "que j'aie rentrait",
+      "que tu aies rentrait",
+      "qu'il ait rentrait",
+      "que nous ayons rentrait",
+      "que vous ayez rentrait",
+      "qu'ils aient rentrait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse rentrait",
+      "que tu eusses rentrait",
+      "qu'il eût rentrait",
+      "que nous eussions rentrait",
+      "que vous eussiez rentrait",
+      "qu'ils eussent rentrait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rentrairais",
+      "tu rentrairais",
+      "il rentrairait",
+      "nous rentrairions",
+      "vous rentrairiez",
+      "ils rentrairaient"
+    ],
+    "passé": [
+      "j'aurais rentrait",
+      "tu aurais rentrait",
+      "il aurait rentrait",
+      "nous aurions rentrait",
+      "vous auriez rentrait",
+      "ils auraient rentrait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rentrais",
+      "rentrayons",
+      "rentrayez"
+    ],
+    "passé": [
+      "aie rentrait",
+      "ayons rentrait",
+      "ayez rentrait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rentraire"
+    ],
+    "passé": [
+      "avoir rentrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rentrayant"
+    ],
+    "passé": [
+      "rentrait",
+      "ayant rentrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rentrayant"
+    ],
+    "passé": [
+      "en ayant rentrait"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rabats",
+      "tu rabats",
+      "il rabat",
+      "nous rabattons",
+      "vous rabattez",
+      "ils rabattent"
+    ],
+    "passé composé": [
+      "j'ai rabattu",
+      "tu as rabattu",
+      "il a rabattu",
+      "nous avons rabattu",
+      "vous avez rabattu",
+      "ils ont rabattu"
+    ],
+    "imparfait": [
+      "je rabattais",
+      "tu rabattais",
+      "il rabattait",
+      "nous rabattions",
+      "vous rabattiez",
+      "ils rabattaient"
+    ],
+    "plus que parfait": [
+      "j'avais rabattu",
+      "tu avais rabattu",
+      "il avait rabattu",
+      "nous avions rabattu",
+      "vous aviez rabattu",
+      "ils avaient rabattu"
+    ],
+    "passé simple": [
+      "je rabattis",
+      "tu rabattis",
+      "il rabattit",
+      "nous rabattîmes",
+      "vous rabattîtes",
+      "ils rabattirent"
+    ],
+    "passé antérieur": [
+      "j'eus rabattu",
+      "tu eus rabattu",
+      "il eut rabattu",
+      "nous eûmes rabattu",
+      "vous eûtes rabattu",
+      "ils eurent rabattu"
+    ],
+    "futur simple": [
+      "je rabattrai",
+      "tu rabattras",
+      "il rabattra",
+      "nous rabattrons",
+      "vous rabattrez",
+      "ils rabattront"
+    ],
+    "futur antérieur": [
+      "j'aurai rabattu",
+      "tu auras rabattu",
+      "il aura rabattu",
+      "nous aurons rabattu",
+      "vous aurez rabattu",
+      "ils auront rabattu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rabatte",
+      "que tu rabattes",
+      "qu'il rabatte",
+      "que nous rabattions",
+      "que vous rabattiez",
+      "qu'ils rabattent"
+    ],
+    "passé": [
+      "que j'aie rabattu",
+      "que tu aies rabattu",
+      "qu'il ait rabattu",
+      "que nous ayons rabattu",
+      "que vous ayez rabattu",
+      "qu'ils aient rabattu"
+    ],
+    "imparfait": [
+      "que je rabattisse",
+      "que tu rabattisses",
+      "qu'il rabattît",
+      "que nous rabattissions",
+      "que vous rabattissiez",
+      "qu'ils rabattissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rabattu",
+      "que tu eusses rabattu",
+      "qu'il eût rabattu",
+      "que nous eussions rabattu",
+      "que vous eussiez rabattu",
+      "qu'ils eussent rabattu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rabattrais",
+      "tu rabattrais",
+      "il rabattrait",
+      "nous rabattrions",
+      "vous rabattriez",
+      "ils rabattraient"
+    ],
+    "passé": [
+      "j'aurais rabattu",
+      "tu aurais rabattu",
+      "il aurait rabattu",
+      "nous aurions rabattu",
+      "vous auriez rabattu",
+      "ils auraient rabattu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rabats",
+      "rabattons",
+      "rabattez"
+    ],
+    "passé": [
+      "aie rabattu",
+      "ayons rabattu",
+      "ayez rabattu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rabattre"
+    ],
+    "passé": [
+      "avoir rabattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rabattant"
+    ],
+    "passé": [
+      "rabattu",
+      "ayant rabattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rabattant"
+    ],
+    "passé": [
+      "en ayant rabattu"
+    ]
+  }
+}

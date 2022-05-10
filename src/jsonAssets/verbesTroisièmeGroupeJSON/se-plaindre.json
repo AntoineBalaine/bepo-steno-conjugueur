@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me plains",
+      "tu te plains",
+      "il se plaint",
+      "nous nous plaignons",
+      "vous vous plaignez",
+      "ils se plaignent"
+    ],
+    "passé composé": [
+      "je me suis plaint",
+      "tu t'es plaint",
+      "il s'est plaint",
+      "nous nous sommes plaints",
+      "vous vous êtes plaints",
+      "ils se sont plaints"
+    ],
+    "imparfait": [
+      "je me plaignais",
+      "tu te plaignais",
+      "il se plaignait",
+      "nous nous plaignions",
+      "vous vous plaigniez",
+      "ils se plaignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais plaint",
+      "tu t'étais plaint",
+      "il s'était plaint",
+      "nous nous étions plaints",
+      "vous vous étiez plaints",
+      "ils s'étaient plaints"
+    ],
+    "passé simple": [
+      "je me plaignis",
+      "tu te plaignis",
+      "il se plaignit",
+      "nous nous plaignîmes",
+      "vous vous plaignîtes",
+      "ils se plaignirent"
+    ],
+    "passé antérieur": [
+      "je me fus plaint",
+      "tu te fus plaint",
+      "il se fut plaint",
+      "nous nous fûmes plaints",
+      "vous vous fûtes plaints",
+      "ils se furent plaints"
+    ],
+    "futur simple": [
+      "je me plaindrai",
+      "tu te plaindras",
+      "il se plaindra",
+      "nous nous plaindrons",
+      "vous vous plaindrez",
+      "ils se plaindront"
+    ],
+    "futur antérieur": [
+      "je me serai plaint",
+      "tu te seras plaint",
+      "il se sera plaint",
+      "nous nous serons plaints",
+      "vous vous serez plaints",
+      "ils se seront plaints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me plaigne",
+      "que tu te plaignes",
+      "qu'il se plaigne",
+      "que nous nous plaignions",
+      "que vous vous plaigniez",
+      "qu'ils se plaignent"
+    ],
+    "passé": [
+      "que je me sois plaint",
+      "que tu te sois plaint",
+      "qu'il se soit plaint",
+      "que nous nous soyons plaints",
+      "que vous vous soyez plaints",
+      "qu'ils se soient plaints"
+    ],
+    "imparfait": [
+      "que je me plaignisse",
+      "que tu te plaignisses",
+      "qu'il se plaignît",
+      "que nous nous plaignissions",
+      "que vous vous plaignissiez",
+      "qu'ils se plaignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse plaint",
+      "que tu te fusses plaint",
+      "qu'il se fût plaint",
+      "que nous nous fussions plaints",
+      "que vous vous fussiez plaints",
+      "qu'ils se fussent plaints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me plaindrais",
+      "tu te plaindrais",
+      "il se plaindrait",
+      "nous nous plaindrions",
+      "vous vous plaindriez",
+      "ils se plaindraient"
+    ],
+    "passé": [
+      "je me serais plaint",
+      "tu te serais plaint",
+      "il se serait plaint",
+      "nous nous serions plaints",
+      "vous vous seriez plaints",
+      "ils se seraient plaints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "plains-toi",
+      "plaignons-nous",
+      "plaignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se plaindre"
+    ],
+    "passé": [
+      "s'être plaint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se plaignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant plaint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se plaignant"
+    ],
+    "passé": [
+      "en s'étant plaint"
+    ]
+  }
+}

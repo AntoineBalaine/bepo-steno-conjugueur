@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'en veux",
+      "tu t'en veux",
+      "il s'en veut",
+      "nous nous en voulons",
+      "vous vous en voulez",
+      "ils s'en veulent"
+    ],
+    "passé composé": [
+      "je m'en suis voulu",
+      "tu t'en es voulu",
+      "il s'en est voulu",
+      "nous nous en sommes voulu",
+      "vous vous en êtes voulu",
+      "ils s'en sont voulu"
+    ],
+    "imparfait": [
+      "je m'en voulais",
+      "tu t'en voulais",
+      "il s'en voulait",
+      "nous nous en voulions",
+      "vous vous en vouliez",
+      "ils s'en voulaient"
+    ],
+    "plus que parfait": [
+      "je m'en étais voulu",
+      "tu t'en étais voulu",
+      "il s'en était voulu",
+      "nous nous en étions voulu",
+      "vous vous en étiez voulu",
+      "ils s'en étaient voulu"
+    ],
+    "passé simple": [
+      "je m'en voulus",
+      "tu t'en voulus",
+      "il s'en voulut",
+      "nous nous en voulûmes",
+      "vous vous en voulûtes",
+      "ils s'en voulurent"
+    ],
+    "passé antérieur": [
+      "je m'en fus voulu",
+      "tu t'en fus voulu",
+      "il s'en fut voulu",
+      "nous nous en fûmes voulu",
+      "vous vous en fûtes voulu",
+      "ils s'en furent voulu"
+    ],
+    "futur simple": [
+      "je m'en voudrai",
+      "tu t'en voudras",
+      "il s'en voudra",
+      "nous nous en voudrons",
+      "vous vous en voudrez",
+      "ils s'en voudront"
+    ],
+    "futur antérieur": [
+      "je m'en serai voulu",
+      "tu t'en seras voulu",
+      "il s'en sera voulu",
+      "nous nous en serons voulu",
+      "vous vous en serez voulu",
+      "ils s'en seront voulu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'en veuille",
+      "que tu t'en veuilles",
+      "qu'il s'en veuille",
+      "que nous nous en voulions",
+      "que vous vous en vouliez",
+      "qu'ils s'en veuillent"
+    ],
+    "passé": [
+      "que je m'en sois voulu",
+      "que tu t'en sois voulu",
+      "qu'il s'en soit voulu",
+      "que nous nous en soyons voulu",
+      "que vous vous en soyez voulu",
+      "qu'ils s'en soient voulu"
+    ],
+    "imparfait": [
+      "que je m'en voulusse",
+      "que tu t'en voulusses",
+      "qu'il s'en voulût",
+      "que nous nous en voulussions",
+      "que vous vous en voulussiez",
+      "qu'ils s'en voulussent"
+    ],
+    "plus que parfait": [
+      "que je m'en fusse voulu",
+      "que tu t'en fusses voulu",
+      "qu'il s'en fût voulu",
+      "que nous nous en fussions voulu",
+      "que vous vous en fussiez voulu",
+      "qu'ils s'en fussent voulu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'en voudrais",
+      "tu t'en voudrais",
+      "il s'en voudrait",
+      "nous nous en voudrions",
+      "vous vous en voudriez",
+      "ils s'en voudraient"
+    ],
+    "passé": [
+      "je m'en serais voulu",
+      "tu t'en serais voulu",
+      "il s'en serait voulu",
+      "nous nous en serions voulu",
+      "vous vous en seriez voulu",
+      "ils s'en seraient voulu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "veux-t'en",
+      "voulons-nous-en",
+      "voulez-vous-en"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'en vouloir"
+    ],
+    "passé": [
+      "s'en être voulu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'en voulant"
+    ],
+    "passé": [
+      "-",
+      "s'en étant voulu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'en voulant"
+    ],
+    "passé": [
+      "en s'en étant voulu"
+    ]
+  }
+}

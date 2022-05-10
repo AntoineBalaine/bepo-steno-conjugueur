@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je retrais",
+      "tu retrais",
+      "il retrait",
+      "nous retrayons",
+      "vous retrayez",
+      "ils retraient"
+    ],
+    "passé composé": [
+      "j'ai retrait",
+      "tu as retrait",
+      "il a retrait",
+      "nous avons retrait",
+      "vous avez retrait",
+      "ils ont retrait"
+    ],
+    "imparfait": [
+      "je retrayais",
+      "tu retrayais",
+      "il retrayait",
+      "nous retrayions",
+      "vous retrayiez",
+      "ils retrayaient"
+    ],
+    "plus que parfait": [
+      "j'avais retrait",
+      "tu avais retrait",
+      "il avait retrait",
+      "nous avions retrait",
+      "vous aviez retrait",
+      "ils avaient retrait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus retrait",
+      "tu eus retrait",
+      "il eut retrait",
+      "nous eûmes retrait",
+      "vous eûtes retrait",
+      "ils eurent retrait"
+    ],
+    "futur simple": [
+      "je retrairai",
+      "tu retrairas",
+      "il retraira",
+      "nous retrairons",
+      "vous retrairez",
+      "ils retrairont"
+    ],
+    "futur antérieur": [
+      "j'aurai retrait",
+      "tu auras retrait",
+      "il aura retrait",
+      "nous aurons retrait",
+      "vous aurez retrait",
+      "ils auront retrait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je retraie",
+      "que tu retraies",
+      "qu'il retraie",
+      "que nous retrayions",
+      "que vous retrayiez",
+      "qu'ils retraient"
+    ],
+    "passé": [
+      "que j'aie retrait",
+      "que tu aies retrait",
+      "qu'il ait retrait",
+      "que nous ayons retrait",
+      "que vous ayez retrait",
+      "qu'ils aient retrait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse retrait",
+      "que tu eusses retrait",
+      "qu'il eût retrait",
+      "que nous eussions retrait",
+      "que vous eussiez retrait",
+      "qu'ils eussent retrait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je retrairais",
+      "tu retrairais",
+      "il retrairait",
+      "nous retrairions",
+      "vous retrairiez",
+      "ils retrairaient"
+    ],
+    "passé": [
+      "j'aurais retrait",
+      "tu aurais retrait",
+      "il aurait retrait",
+      "nous aurions retrait",
+      "vous auriez retrait",
+      "ils auraient retrait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "retrais",
+      "retrayons",
+      "retrayez"
+    ],
+    "passé": [
+      "aie retrait",
+      "ayons retrait",
+      "ayez retrait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "retraire"
+    ],
+    "passé": [
+      "avoir retrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "retrayant"
+    ],
+    "passé": [
+      "retrait",
+      "ayant retrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en retrayant"
+    ],
+    "passé": [
+      "en ayant retrait"
+    ]
+  }
+}

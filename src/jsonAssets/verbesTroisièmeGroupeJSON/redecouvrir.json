@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je redécouvre",
+      "tu redécouvres",
+      "il redécouvre",
+      "nous redécouvrons",
+      "vous redécouvrez",
+      "ils redécouvrent"
+    ],
+    "passé composé": [
+      "j'ai redécouvert",
+      "tu as redécouvert",
+      "il a redécouvert",
+      "nous avons redécouvert",
+      "vous avez redécouvert",
+      "ils ont redécouvert"
+    ],
+    "imparfait": [
+      "je redécouvrais",
+      "tu redécouvrais",
+      "il redécouvrait",
+      "nous redécouvrions",
+      "vous redécouvriez",
+      "ils redécouvraient"
+    ],
+    "plus que parfait": [
+      "j'avais redécouvert",
+      "tu avais redécouvert",
+      "il avait redécouvert",
+      "nous avions redécouvert",
+      "vous aviez redécouvert",
+      "ils avaient redécouvert"
+    ],
+    "passé simple": [
+      "je redécouvris",
+      "tu redécouvris",
+      "il redécouvrit",
+      "nous redécouvrîmes",
+      "vous redécouvrîtes",
+      "ils redécouvrirent"
+    ],
+    "passé antérieur": [
+      "j'eus redécouvert",
+      "tu eus redécouvert",
+      "il eut redécouvert",
+      "nous eûmes redécouvert",
+      "vous eûtes redécouvert",
+      "ils eurent redécouvert"
+    ],
+    "futur simple": [
+      "je redécouvrirai",
+      "tu redécouvriras",
+      "il redécouvrira",
+      "nous redécouvrirons",
+      "vous redécouvrirez",
+      "ils redécouvriront"
+    ],
+    "futur antérieur": [
+      "j'aurai redécouvert",
+      "tu auras redécouvert",
+      "il aura redécouvert",
+      "nous aurons redécouvert",
+      "vous aurez redécouvert",
+      "ils auront redécouvert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je redécouvre",
+      "que tu redécouvres",
+      "qu'il redécouvre",
+      "que nous redécouvrions",
+      "que vous redécouvriez",
+      "qu'ils redécouvrent"
+    ],
+    "passé": [
+      "que j'aie redécouvert",
+      "que tu aies redécouvert",
+      "qu'il ait redécouvert",
+      "que nous ayons redécouvert",
+      "que vous ayez redécouvert",
+      "qu'ils aient redécouvert"
+    ],
+    "imparfait": [
+      "que je redécouvrisse",
+      "que tu redécouvrisses",
+      "qu'il redécouvrît",
+      "que nous redécouvrissions",
+      "que vous redécouvrissiez",
+      "qu'ils redécouvrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse redécouvert",
+      "que tu eusses redécouvert",
+      "qu'il eût redécouvert",
+      "que nous eussions redécouvert",
+      "que vous eussiez redécouvert",
+      "qu'ils eussent redécouvert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je redécouvrirais",
+      "tu redécouvrirais",
+      "il redécouvrirait",
+      "nous redécouvririons",
+      "vous redécouvririez",
+      "ils redécouvriraient"
+    ],
+    "passé": [
+      "j'aurais redécouvert",
+      "tu aurais redécouvert",
+      "il aurait redécouvert",
+      "nous aurions redécouvert",
+      "vous auriez redécouvert",
+      "ils auraient redécouvert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "redécouvre",
+      "redécouvrons",
+      "redécouvrez"
+    ],
+    "passé": [
+      "aie redécouvert",
+      "ayons redécouvert",
+      "ayez redécouvert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "redécouvrir"
+    ],
+    "passé": [
+      "avoir redécouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "redécouvrant"
+    ],
+    "passé": [
+      "redécouvert",
+      "ayant redécouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en redécouvrant"
+    ],
+    "passé": [
+      "en ayant redécouvert"
+    ]
+  }
+}

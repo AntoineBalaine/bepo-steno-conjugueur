@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me dissous",
+      "tu te dissous",
+      "il se dissout",
+      "nous nous dissolvons",
+      "vous vous dissolvez",
+      "ils se dissolvent"
+    ],
+    "passé composé": [
+      "je me suis dissout",
+      "tu t'es dissout",
+      "il s'est dissout",
+      "nous nous sommes dissouts",
+      "vous vous êtes dissouts",
+      "ils se sont dissouts"
+    ],
+    "imparfait": [
+      "je me dissolvais",
+      "tu te dissolvais",
+      "il se dissolvait",
+      "nous nous dissolvions",
+      "vous vous dissolviez",
+      "ils se dissolvaient"
+    ],
+    "plus que parfait": [
+      "je m'étais dissout",
+      "tu t'étais dissout",
+      "il s'était dissout",
+      "nous nous étions dissouts",
+      "vous vous étiez dissouts",
+      "ils s'étaient dissouts"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "je me fus dissout",
+      "tu te fus dissout",
+      "il se fut dissout",
+      "nous nous fûmes dissouts",
+      "vous vous fûtes dissouts",
+      "ils se furent dissouts"
+    ],
+    "futur simple": [
+      "je me dissoudrai",
+      "tu te dissoudras",
+      "il se dissoudra",
+      "nous nous dissoudrons",
+      "vous vous dissoudrez",
+      "ils se dissoudront"
+    ],
+    "futur antérieur": [
+      "je me serai dissout",
+      "tu te seras dissout",
+      "il se sera dissout",
+      "nous nous serons dissouts",
+      "vous vous serez dissouts",
+      "ils se seront dissouts"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me dissolve",
+      "que tu te dissolves",
+      "qu'il se dissolve",
+      "que nous nous dissolvions",
+      "que vous vous dissolviez",
+      "qu'ils se dissolvent"
+    ],
+    "passé": [
+      "que je me sois dissout",
+      "que tu te sois dissout",
+      "qu'il se soit dissout",
+      "que nous nous soyons dissouts",
+      "que vous vous soyez dissouts",
+      "qu'ils se soient dissouts"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que je me fusse dissout",
+      "que tu te fusses dissout",
+      "qu'il se fût dissout",
+      "que nous nous fussions dissouts",
+      "que vous vous fussiez dissouts",
+      "qu'ils se fussent dissouts"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me dissoudrais",
+      "tu te dissoudrais",
+      "il se dissoudrait",
+      "nous nous dissoudrions",
+      "vous vous dissoudriez",
+      "ils se dissoudraient"
+    ],
+    "passé": [
+      "je me serais dissout",
+      "tu te serais dissout",
+      "il se serait dissout",
+      "nous nous serions dissouts",
+      "vous vous seriez dissouts",
+      "ils se seraient dissouts"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "dissous-toi",
+      "dissolvons-nous",
+      "dissolvez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se dissoudre"
+    ],
+    "passé": [
+      "s'être dissout"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se dissolvant"
+    ],
+    "passé": [
+      "-",
+      "s'étant dissout"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se dissolvant"
+    ],
+    "passé": [
+      "en s'étant dissout"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'obviens",
+      "tu obviens",
+      "il obvient",
+      "nous obvenons",
+      "vous obvenez",
+      "ils obviennent"
+    ],
+    "passé composé": [
+      "je suis obvenu",
+      "tu es obvenu",
+      "il est obvenu",
+      "nous sommes obvenus",
+      "vous êtes obvenus",
+      "ils sont obvenus"
+    ],
+    "imparfait": [
+      "j'obvenais",
+      "tu obvenais",
+      "il obvenait",
+      "nous obvenions",
+      "vous obveniez",
+      "ils obvenaient"
+    ],
+    "plus que parfait": [
+      "j'étais obvenu",
+      "tu étais obvenu",
+      "il était obvenu",
+      "nous étions obvenus",
+      "vous étiez obvenus",
+      "ils étaient obvenus"
+    ],
+    "passé simple": [
+      "j'obvins",
+      "tu obvins",
+      "il obvint",
+      "nous obvînmes",
+      "vous obvîntes",
+      "ils obvinrent"
+    ],
+    "passé antérieur": [
+      "je fus obvenu",
+      "tu fus obvenu",
+      "il fut obvenu",
+      "nous fûmes obvenus",
+      "vous fûtes obvenus",
+      "ils furent obvenus"
+    ],
+    "futur simple": [
+      "j'obviendrai",
+      "tu obviendras",
+      "il obviendra",
+      "nous obviendrons",
+      "vous obviendrez",
+      "ils obviendront"
+    ],
+    "futur antérieur": [
+      "je serai obvenu",
+      "tu seras obvenu",
+      "il sera obvenu",
+      "nous serons obvenus",
+      "vous serez obvenus",
+      "ils seront obvenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'obvienne",
+      "que tu obviennes",
+      "qu'il obvienne",
+      "que nous obvenions",
+      "que vous obveniez",
+      "qu'ils obviennent"
+    ],
+    "passé": [
+      "que je sois obvenu",
+      "que tu sois obvenu",
+      "qu'il soit obvenu",
+      "que nous soyons obvenus",
+      "que vous soyez obvenus",
+      "qu'ils soient obvenus"
+    ],
+    "imparfait": [
+      "que j'obvinsse",
+      "que tu obvinsses",
+      "qu'il obvînt",
+      "que nous obvinssions",
+      "que vous obvinssiez",
+      "qu'ils obvinssent"
+    ],
+    "plus que parfait": [
+      "que je fusse obvenu",
+      "que tu fusses obvenu",
+      "qu'il fût obvenu",
+      "que nous fussions obvenus",
+      "que vous fussiez obvenus",
+      "qu'ils fussent obvenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'obviendrais",
+      "tu obviendrais",
+      "il obviendrait",
+      "nous obviendrions",
+      "vous obviendriez",
+      "ils obviendraient"
+    ],
+    "passé": [
+      "je serais obvenu",
+      "tu serais obvenu",
+      "il serait obvenu",
+      "nous serions obvenus",
+      "vous seriez obvenus",
+      "ils seraient obvenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "obviens",
+      "obvenons",
+      "obvenez"
+    ],
+    "passé": [
+      "sois obvenu",
+      "soyons obvenus",
+      "soyez obvenus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "obvenir"
+    ],
+    "passé": [
+      "être obvenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "obvenant"
+    ],
+    "passé": [
+      "obvenu",
+      "étant obvenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en obvenant"
+    ],
+    "passé": [
+      "en étant obvenu"
+    ]
+  }
+}

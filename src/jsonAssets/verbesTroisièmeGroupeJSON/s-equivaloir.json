@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'équivaux",
+      "tu t'équivaux",
+      "il s'équivaut",
+      "nous nous équivalons",
+      "vous vous équivalez",
+      "ils s'équivalent"
+    ],
+    "passé composé": [
+      "je me suis équivalu",
+      "tu t'es équivalu",
+      "il s'est équivalu",
+      "nous nous sommes équivalus",
+      "vous vous êtes équivalus",
+      "ils se sont équivalus"
+    ],
+    "imparfait": [
+      "je m'équivalais",
+      "tu t'équivalais",
+      "il s'équivalait",
+      "nous nous équivalions",
+      "vous vous équivaliez",
+      "ils s'équivalaient"
+    ],
+    "plus que parfait": [
+      "je m'étais équivalu",
+      "tu t'étais équivalu",
+      "il s'était équivalu",
+      "nous nous étions équivalus",
+      "vous vous étiez équivalus",
+      "ils s'étaient équivalus"
+    ],
+    "passé simple": [
+      "je m'équivalus",
+      "tu t'équivalus",
+      "il s'équivalut",
+      "nous nous équivalûmes",
+      "vous vous équivalûtes",
+      "ils s'équivalurent"
+    ],
+    "passé antérieur": [
+      "je me fus équivalu",
+      "tu te fus équivalu",
+      "il se fut équivalu",
+      "nous nous fûmes équivalus",
+      "vous vous fûtes équivalus",
+      "ils se furent équivalus"
+    ],
+    "futur simple": [
+      "je m'équivaudrai",
+      "tu t'équivaudras",
+      "il s'équivaudra",
+      "nous nous équivaudrons",
+      "vous vous équivaudrez",
+      "ils s'équivaudront"
+    ],
+    "futur antérieur": [
+      "je me serai équivalu",
+      "tu te seras équivalu",
+      "il se sera équivalu",
+      "nous nous serons équivalus",
+      "vous vous serez équivalus",
+      "ils se seront équivalus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'équivaille",
+      "que tu t'équivailles",
+      "qu'il s'équivaille",
+      "que nous nous équivalions",
+      "que vous vous équivaliez",
+      "qu'ils s'équivaillent"
+    ],
+    "passé": [
+      "que je me sois équivalu",
+      "que tu te sois équivalu",
+      "qu'il se soit équivalu",
+      "que nous nous soyons équivalus",
+      "que vous vous soyez équivalus",
+      "qu'ils se soient équivalus"
+    ],
+    "imparfait": [
+      "que je m'équivalusse",
+      "que tu t'équivalusses",
+      "qu'il s'équivalût",
+      "que nous nous équivalussions",
+      "que vous vous équivalussiez",
+      "qu'ils s'équivalussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse équivalu",
+      "que tu te fusses équivalu",
+      "qu'il se fût équivalu",
+      "que nous nous fussions équivalus",
+      "que vous vous fussiez équivalus",
+      "qu'ils se fussent équivalus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'équivaudrais",
+      "tu t'équivaudrais",
+      "il s'équivaudrait",
+      "nous nous équivaudrions",
+      "vous vous équivaudriez",
+      "ils s'équivaudraient"
+    ],
+    "passé": [
+      "je me serais équivalu",
+      "tu te serais équivalu",
+      "il se serait équivalu",
+      "nous nous serions équivalus",
+      "vous vous seriez équivalus",
+      "ils se seraient équivalus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "équivaux-toi",
+      "équivalons-nous",
+      "équivalez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'équivaloir"
+    ],
+    "passé": [
+      "s'être équivalu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'équivalant"
+    ],
+    "passé": [
+      "-",
+      "s'étant équivalu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'équivalant"
+    ],
+    "passé": [
+      "en s'étant équivalu"
+    ]
+  }
+}

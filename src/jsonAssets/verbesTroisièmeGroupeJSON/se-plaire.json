@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me plais",
+      "tu te plais",
+      "il se plaît",
+      "nous nous plaisons",
+      "vous vous plaisez",
+      "ils se plaisent"
+    ],
+    "passé composé": [
+      "je me suis plu",
+      "tu t'es plu",
+      "il s'est plu",
+      "nous nous sommes plu",
+      "vous vous êtes plu",
+      "ils se sont plu"
+    ],
+    "imparfait": [
+      "je me plaisais",
+      "tu te plaisais",
+      "il se plaisait",
+      "nous nous plaisions",
+      "vous vous plaisiez",
+      "ils se plaisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais plu",
+      "tu t'étais plu",
+      "il s'était plu",
+      "nous nous étions plu",
+      "vous vous étiez plu",
+      "ils s'étaient plu"
+    ],
+    "passé simple": [
+      "je me plus",
+      "tu te plus",
+      "il se plut",
+      "nous nous plûmes",
+      "vous vous plûtes",
+      "ils se plurent"
+    ],
+    "passé antérieur": [
+      "je me fus plu",
+      "tu te fus plu",
+      "il se fut plu",
+      "nous nous fûmes plu",
+      "vous vous fûtes plu",
+      "ils se furent plu"
+    ],
+    "futur simple": [
+      "je me plairai",
+      "tu te plairas",
+      "il se plaira",
+      "nous nous plairons",
+      "vous vous plairez",
+      "ils se plairont"
+    ],
+    "futur antérieur": [
+      "je me serai plu",
+      "tu te seras plu",
+      "il se sera plu",
+      "nous nous serons plu",
+      "vous vous serez plu",
+      "ils se seront plu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me plaise",
+      "que tu te plaises",
+      "qu'il se plaise",
+      "que nous nous plaisions",
+      "que vous vous plaisiez",
+      "qu'ils se plaisent"
+    ],
+    "passé": [
+      "que je me sois plu",
+      "que tu te sois plu",
+      "qu'il se soit plu",
+      "que nous nous soyons plu",
+      "que vous vous soyez plu",
+      "qu'ils se soient plu"
+    ],
+    "imparfait": [
+      "que je me plusse",
+      "que tu te plusses",
+      "qu'il se plût",
+      "que nous nous plussions",
+      "que vous vous plussiez",
+      "qu'ils se plussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse plu",
+      "que tu te fusses plu",
+      "qu'il se fût plu",
+      "que nous nous fussions plu",
+      "que vous vous fussiez plu",
+      "qu'ils se fussent plu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me plairais",
+      "tu te plairais",
+      "il se plairait",
+      "nous nous plairions",
+      "vous vous plairiez",
+      "ils se plairaient"
+    ],
+    "passé": [
+      "je me serais plu",
+      "tu te serais plu",
+      "il se serait plu",
+      "nous nous serions plu",
+      "vous vous seriez plu",
+      "ils se seraient plu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "plais-toi",
+      "plaisons-nous",
+      "plaisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se plaire"
+    ],
+    "passé": [
+      "s'être plu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se plaisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant plu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se plaisant"
+    ],
+    "passé": [
+      "en s'étant plu"
+    ]
+  }
+}

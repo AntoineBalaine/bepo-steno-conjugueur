@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me prévois",
+      "tu te prévois",
+      "il se prévoit",
+      "nous nous prévoyons",
+      "vous vous prévoyez",
+      "ils se prévoient"
+    ],
+    "passé composé": [
+      "je me suis prévu",
+      "tu t'es prévu",
+      "il s'est prévu",
+      "nous nous sommes prévus",
+      "vous vous êtes prévus",
+      "ils se sont prévus"
+    ],
+    "imparfait": [
+      "je me prévoyais",
+      "tu te prévoyais",
+      "il se prévoyait",
+      "nous nous prévoyions",
+      "vous vous prévoyiez",
+      "ils se prévoyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais prévu",
+      "tu t'étais prévu",
+      "il s'était prévu",
+      "nous nous étions prévus",
+      "vous vous étiez prévus",
+      "ils s'étaient prévus"
+    ],
+    "passé simple": [
+      "je me prévis",
+      "tu te prévis",
+      "il se prévit",
+      "nous nous prévîmes",
+      "vous vous prévîtes",
+      "ils se prévirent"
+    ],
+    "passé antérieur": [
+      "je me fus prévu",
+      "tu te fus prévu",
+      "il se fut prévu",
+      "nous nous fûmes prévus",
+      "vous vous fûtes prévus",
+      "ils se furent prévus"
+    ],
+    "futur simple": [
+      "je me prévoirai",
+      "tu te prévoiras",
+      "il se prévoira",
+      "nous nous prévoirons",
+      "vous vous prévoirez",
+      "ils se prévoiront"
+    ],
+    "futur antérieur": [
+      "je me serai prévu",
+      "tu te seras prévu",
+      "il se sera prévu",
+      "nous nous serons prévus",
+      "vous vous serez prévus",
+      "ils se seront prévus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me prévoie",
+      "que tu te prévoies",
+      "qu'il se prévoie",
+      "que nous nous prévoyions",
+      "que vous vous prévoyiez",
+      "qu'ils se prévoient"
+    ],
+    "passé": [
+      "que je me sois prévu",
+      "que tu te sois prévu",
+      "qu'il se soit prévu",
+      "que nous nous soyons prévus",
+      "que vous vous soyez prévus",
+      "qu'ils se soient prévus"
+    ],
+    "imparfait": [
+      "que je me prévisse",
+      "que tu te prévisses",
+      "qu'il se prévît",
+      "que nous nous prévissions",
+      "que vous vous prévissiez",
+      "qu'ils se prévissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse prévu",
+      "que tu te fusses prévu",
+      "qu'il se fût prévu",
+      "que nous nous fussions prévus",
+      "que vous vous fussiez prévus",
+      "qu'ils se fussent prévus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me prévoirais",
+      "tu te prévoirais",
+      "il se prévoirait",
+      "nous nous prévoirions",
+      "vous vous prévoiriez",
+      "ils se prévoiraient"
+    ],
+    "passé": [
+      "je me serais prévu",
+      "tu te serais prévu",
+      "il se serait prévu",
+      "nous nous serions prévus",
+      "vous vous seriez prévus",
+      "ils se seraient prévus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "prévois-toi",
+      "prévoyons-nous",
+      "prévoyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se prévoir"
+    ],
+    "passé": [
+      "s'être prévu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se prévoyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant prévu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se prévoyant"
+    ],
+    "passé": [
+      "en s'étant prévu"
+    ]
+  }
+}

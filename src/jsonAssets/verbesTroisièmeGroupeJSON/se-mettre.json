@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me mets",
+      "tu te mets",
+      "il se met",
+      "nous nous mettons",
+      "vous vous mettez",
+      "ils se mettent"
+    ],
+    "passé composé": [
+      "je me suis mis",
+      "tu t'es mis",
+      "il s'est mis",
+      "nous nous sommes mis",
+      "vous vous êtes mis",
+      "ils se sont mis"
+    ],
+    "imparfait": [
+      "je me mettais",
+      "tu te mettais",
+      "il se mettait",
+      "nous nous mettions",
+      "vous vous mettiez",
+      "ils se mettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais mis",
+      "tu t'étais mis",
+      "il s'était mis",
+      "nous nous étions mis",
+      "vous vous étiez mis",
+      "ils s'étaient mis"
+    ],
+    "passé simple": [
+      "je me mis",
+      "tu te mis",
+      "il se mit",
+      "nous nous mîmes",
+      "vous vous mîtes",
+      "ils se mirent"
+    ],
+    "passé antérieur": [
+      "je me fus mis",
+      "tu te fus mis",
+      "il se fut mis",
+      "nous nous fûmes mis",
+      "vous vous fûtes mis",
+      "ils se furent mis"
+    ],
+    "futur simple": [
+      "je me mettrai",
+      "tu te mettras",
+      "il se mettra",
+      "nous nous mettrons",
+      "vous vous mettrez",
+      "ils se mettront"
+    ],
+    "futur antérieur": [
+      "je me serai mis",
+      "tu te seras mis",
+      "il se sera mis",
+      "nous nous serons mis",
+      "vous vous serez mis",
+      "ils se seront mis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me mette",
+      "que tu te mettes",
+      "qu'il se mette",
+      "que nous nous mettions",
+      "que vous vous mettiez",
+      "qu'ils se mettent"
+    ],
+    "passé": [
+      "que je me sois mis",
+      "que tu te sois mis",
+      "qu'il se soit mis",
+      "que nous nous soyons mis",
+      "que vous vous soyez mis",
+      "qu'ils se soient mis"
+    ],
+    "imparfait": [
+      "que je me misse",
+      "que tu te misses",
+      "qu'il se mît",
+      "que nous nous missions",
+      "que vous vous missiez",
+      "qu'ils se missent"
+    ],
+    "plus que parfait": [
+      "que je me fusse mis",
+      "que tu te fusses mis",
+      "qu'il se fût mis",
+      "que nous nous fussions mis",
+      "que vous vous fussiez mis",
+      "qu'ils se fussent mis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me mettrais",
+      "tu te mettrais",
+      "il se mettrait",
+      "nous nous mettrions",
+      "vous vous mettriez",
+      "ils se mettraient"
+    ],
+    "passé": [
+      "je me serais mis",
+      "tu te serais mis",
+      "il se serait mis",
+      "nous nous serions mis",
+      "vous vous seriez mis",
+      "ils se seraient mis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mets-toi",
+      "mettons-nous",
+      "mettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se mettre"
+    ],
+    "passé": [
+      "s'être mis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se mettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant mis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se mettant"
+    ],
+    "passé": [
+      "en s'étant mis"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je revends",
+      "tu revends",
+      "il revend",
+      "nous revendons",
+      "vous revendez",
+      "ils revendent"
+    ],
+    "passé composé": [
+      "j'ai revendu",
+      "tu as revendu",
+      "il a revendu",
+      "nous avons revendu",
+      "vous avez revendu",
+      "ils ont revendu"
+    ],
+    "imparfait": [
+      "je revendais",
+      "tu revendais",
+      "il revendait",
+      "nous revendions",
+      "vous revendiez",
+      "ils revendaient"
+    ],
+    "plus que parfait": [
+      "j'avais revendu",
+      "tu avais revendu",
+      "il avait revendu",
+      "nous avions revendu",
+      "vous aviez revendu",
+      "ils avaient revendu"
+    ],
+    "passé simple": [
+      "je revendis",
+      "tu revendis",
+      "il revendit",
+      "nous revendîmes",
+      "vous revendîtes",
+      "ils revendirent"
+    ],
+    "passé antérieur": [
+      "j'eus revendu",
+      "tu eus revendu",
+      "il eut revendu",
+      "nous eûmes revendu",
+      "vous eûtes revendu",
+      "ils eurent revendu"
+    ],
+    "futur simple": [
+      "je revendrai",
+      "tu revendras",
+      "il revendra",
+      "nous revendrons",
+      "vous revendrez",
+      "ils revendront"
+    ],
+    "futur antérieur": [
+      "j'aurai revendu",
+      "tu auras revendu",
+      "il aura revendu",
+      "nous aurons revendu",
+      "vous aurez revendu",
+      "ils auront revendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je revende",
+      "que tu revendes",
+      "qu'il revende",
+      "que nous revendions",
+      "que vous revendiez",
+      "qu'ils revendent"
+    ],
+    "passé": [
+      "que j'aie revendu",
+      "que tu aies revendu",
+      "qu'il ait revendu",
+      "que nous ayons revendu",
+      "que vous ayez revendu",
+      "qu'ils aient revendu"
+    ],
+    "imparfait": [
+      "que je revendisse",
+      "que tu revendisses",
+      "qu'il revendît",
+      "que nous revendissions",
+      "que vous revendissiez",
+      "qu'ils revendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse revendu",
+      "que tu eusses revendu",
+      "qu'il eût revendu",
+      "que nous eussions revendu",
+      "que vous eussiez revendu",
+      "qu'ils eussent revendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je revendrais",
+      "tu revendrais",
+      "il revendrait",
+      "nous revendrions",
+      "vous revendriez",
+      "ils revendraient"
+    ],
+    "passé": [
+      "j'aurais revendu",
+      "tu aurais revendu",
+      "il aurait revendu",
+      "nous aurions revendu",
+      "vous auriez revendu",
+      "ils auraient revendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "revends",
+      "revendons",
+      "revendez"
+    ],
+    "passé": [
+      "aie revendu",
+      "ayons revendu",
+      "ayez revendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "revendre"
+    ],
+    "passé": [
+      "avoir revendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "revendant"
+    ],
+    "passé": [
+      "revendu",
+      "ayant revendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en revendant"
+    ],
+    "passé": [
+      "en ayant revendu"
+    ]
+  }
+}

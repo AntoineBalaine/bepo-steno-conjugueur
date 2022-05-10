@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'apparais",
+      "tu apparais",
+      "il apparaît",
+      "nous apparaissons",
+      "vous apparaissez",
+      "ils apparaissent"
+    ],
+    "passé composé": [
+      "j'ai apparu",
+      "tu as apparu",
+      "il a apparu",
+      "nous avons apparu",
+      "vous avez apparu",
+      "ils ont apparu"
+    ],
+    "imparfait": [
+      "j'apparaissais",
+      "tu apparaissais",
+      "il apparaissait",
+      "nous apparaissions",
+      "vous apparaissiez",
+      "ils apparaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais apparu",
+      "tu avais apparu",
+      "il avait apparu",
+      "nous avions apparu",
+      "vous aviez apparu",
+      "ils avaient apparu"
+    ],
+    "passé simple": [
+      "j'apparus",
+      "tu apparus",
+      "il apparut",
+      "nous apparûmes",
+      "vous apparûtes",
+      "ils apparurent"
+    ],
+    "passé antérieur": [
+      "j'eus apparu",
+      "tu eus apparu",
+      "il eut apparu",
+      "nous eûmes apparu",
+      "vous eûtes apparu",
+      "ils eurent apparu"
+    ],
+    "futur simple": [
+      "j'apparaîtrai",
+      "tu apparaîtras",
+      "il apparaîtra",
+      "nous apparaîtrons",
+      "vous apparaîtrez",
+      "ils apparaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai apparu",
+      "tu auras apparu",
+      "il aura apparu",
+      "nous aurons apparu",
+      "vous aurez apparu",
+      "ils auront apparu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'apparaisse",
+      "que tu apparaisses",
+      "qu'il apparaisse",
+      "que nous apparaissions",
+      "que vous apparaissiez",
+      "qu'ils apparaissent"
+    ],
+    "passé": [
+      "que j'aie apparu",
+      "que tu aies apparu",
+      "qu'il ait apparu",
+      "que nous ayons apparu",
+      "que vous ayez apparu",
+      "qu'ils aient apparu"
+    ],
+    "imparfait": [
+      "que j'apparusse",
+      "que tu apparusses",
+      "qu'il apparût",
+      "que nous apparussions",
+      "que vous apparussiez",
+      "qu'ils apparussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse apparu",
+      "que tu eusses apparu",
+      "qu'il eût apparu",
+      "que nous eussions apparu",
+      "que vous eussiez apparu",
+      "qu'ils eussent apparu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'apparaîtrais",
+      "tu apparaîtrais",
+      "il apparaîtrait",
+      "nous apparaîtrions",
+      "vous apparaîtriez",
+      "ils apparaîtraient"
+    ],
+    "passé": [
+      "j'aurais apparu",
+      "tu aurais apparu",
+      "il aurait apparu",
+      "nous aurions apparu",
+      "vous auriez apparu",
+      "ils auraient apparu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "apparais",
+      "apparaissons",
+      "apparaissez"
+    ],
+    "passé": [
+      "aie apparu",
+      "ayons apparu",
+      "ayez apparu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "apparaître"
+    ],
+    "passé": [
+      "avoir apparu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "apparaissant"
+    ],
+    "passé": [
+      "apparu",
+      "ayant apparu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en apparaissant"
+    ],
+    "passé": [
+      "en ayant apparu"
+    ]
+  }
+}

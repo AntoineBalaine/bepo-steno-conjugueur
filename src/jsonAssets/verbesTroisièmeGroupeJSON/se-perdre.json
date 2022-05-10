@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me perds",
+      "tu te perds",
+      "il se perd",
+      "nous nous perdons",
+      "vous vous perdez",
+      "ils se perdent"
+    ],
+    "passé composé": [
+      "je me suis perdu",
+      "tu t'es perdu",
+      "il s'est perdu",
+      "nous nous sommes perdus",
+      "vous vous êtes perdus",
+      "ils se sont perdus"
+    ],
+    "imparfait": [
+      "je me perdais",
+      "tu te perdais",
+      "il se perdait",
+      "nous nous perdions",
+      "vous vous perdiez",
+      "ils se perdaient"
+    ],
+    "plus que parfait": [
+      "je m'étais perdu",
+      "tu t'étais perdu",
+      "il s'était perdu",
+      "nous nous étions perdus",
+      "vous vous étiez perdus",
+      "ils s'étaient perdus"
+    ],
+    "passé simple": [
+      "je me perdis",
+      "tu te perdis",
+      "il se perdit",
+      "nous nous perdîmes",
+      "vous vous perdîtes",
+      "ils se perdirent"
+    ],
+    "passé antérieur": [
+      "je me fus perdu",
+      "tu te fus perdu",
+      "il se fut perdu",
+      "nous nous fûmes perdus",
+      "vous vous fûtes perdus",
+      "ils se furent perdus"
+    ],
+    "futur simple": [
+      "je me perdrai",
+      "tu te perdras",
+      "il se perdra",
+      "nous nous perdrons",
+      "vous vous perdrez",
+      "ils se perdront"
+    ],
+    "futur antérieur": [
+      "je me serai perdu",
+      "tu te seras perdu",
+      "il se sera perdu",
+      "nous nous serons perdus",
+      "vous vous serez perdus",
+      "ils se seront perdus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me perde",
+      "que tu te perdes",
+      "qu'il se perde",
+      "que nous nous perdions",
+      "que vous vous perdiez",
+      "qu'ils se perdent"
+    ],
+    "passé": [
+      "que je me sois perdu",
+      "que tu te sois perdu",
+      "qu'il se soit perdu",
+      "que nous nous soyons perdus",
+      "que vous vous soyez perdus",
+      "qu'ils se soient perdus"
+    ],
+    "imparfait": [
+      "que je me perdisse",
+      "que tu te perdisses",
+      "qu'il se perdît",
+      "que nous nous perdissions",
+      "que vous vous perdissiez",
+      "qu'ils se perdissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse perdu",
+      "que tu te fusses perdu",
+      "qu'il se fût perdu",
+      "que nous nous fussions perdus",
+      "que vous vous fussiez perdus",
+      "qu'ils se fussent perdus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me perdrais",
+      "tu te perdrais",
+      "il se perdrait",
+      "nous nous perdrions",
+      "vous vous perdriez",
+      "ils se perdraient"
+    ],
+    "passé": [
+      "je me serais perdu",
+      "tu te serais perdu",
+      "il se serait perdu",
+      "nous nous serions perdus",
+      "vous vous seriez perdus",
+      "ils se seraient perdus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "perds-toi",
+      "perdons-nous",
+      "perdez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se perdre"
+    ],
+    "passé": [
+      "s'être perdu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se perdant"
+    ],
+    "passé": [
+      "-",
+      "s'étant perdu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se perdant"
+    ],
+    "passé": [
+      "en s'étant perdu"
+    ]
+  }
+}

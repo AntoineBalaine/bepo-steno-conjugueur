@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je crois",
+      "tu crois",
+      "il croit",
+      "nous croyons",
+      "vous croyez",
+      "ils croient"
+    ],
+    "passé composé": [
+      "j'ai cru",
+      "tu as cru",
+      "il a cru",
+      "nous avons cru",
+      "vous avez cru",
+      "ils ont cru"
+    ],
+    "imparfait": [
+      "je croyais",
+      "tu croyais",
+      "il croyait",
+      "nous croyions",
+      "vous croyiez",
+      "ils croyaient"
+    ],
+    "plus que parfait": [
+      "j'avais cru",
+      "tu avais cru",
+      "il avait cru",
+      "nous avions cru",
+      "vous aviez cru",
+      "ils avaient cru"
+    ],
+    "passé simple": [
+      "je crus",
+      "tu crus",
+      "il crut",
+      "nous crûmes",
+      "vous crûtes",
+      "ils crurent"
+    ],
+    "passé antérieur": [
+      "j'eus cru",
+      "tu eus cru",
+      "il eut cru",
+      "nous eûmes cru",
+      "vous eûtes cru",
+      "ils eurent cru"
+    ],
+    "futur simple": [
+      "je croirai",
+      "tu croiras",
+      "il croira",
+      "nous croirons",
+      "vous croirez",
+      "ils croiront"
+    ],
+    "futur antérieur": [
+      "j'aurai cru",
+      "tu auras cru",
+      "il aura cru",
+      "nous aurons cru",
+      "vous aurez cru",
+      "ils auront cru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je croie",
+      "que tu croies",
+      "qu'il croie",
+      "que nous croyions",
+      "que vous croyiez",
+      "qu'ils croient"
+    ],
+    "passé": [
+      "que j'aie cru",
+      "que tu aies cru",
+      "qu'il ait cru",
+      "que nous ayons cru",
+      "que vous ayez cru",
+      "qu'ils aient cru"
+    ],
+    "imparfait": [
+      "que je crusse",
+      "que tu crusses",
+      "qu'il crût",
+      "que nous crussions",
+      "que vous crussiez",
+      "qu'ils crussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse cru",
+      "que tu eusses cru",
+      "qu'il eût cru",
+      "que nous eussions cru",
+      "que vous eussiez cru",
+      "qu'ils eussent cru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je croirais",
+      "tu croirais",
+      "il croirait",
+      "nous croirions",
+      "vous croiriez",
+      "ils croiraient"
+    ],
+    "passé": [
+      "j'aurais cru",
+      "tu aurais cru",
+      "il aurait cru",
+      "nous aurions cru",
+      "vous auriez cru",
+      "ils auraient cru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "crois",
+      "croyons",
+      "croyez"
+    ],
+    "passé": [
+      "aie cru",
+      "ayons cru",
+      "ayez cru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "croire"
+    ],
+    "passé": [
+      "avoir cru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "croyant"
+    ],
+    "passé": [
+      "cru",
+      "ayant cru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en croyant"
+    ],
+    "passé": [
+      "en ayant cru"
+    ]
+  }
+}

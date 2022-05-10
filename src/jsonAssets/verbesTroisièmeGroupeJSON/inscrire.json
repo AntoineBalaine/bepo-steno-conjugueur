@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'inscris",
+      "tu inscris",
+      "il inscrit",
+      "nous inscrivons",
+      "vous inscrivez",
+      "ils inscrivent"
+    ],
+    "passé composé": [
+      "j'ai inscrit",
+      "tu as inscrit",
+      "il a inscrit",
+      "nous avons inscrit",
+      "vous avez inscrit",
+      "ils ont inscrit"
+    ],
+    "imparfait": [
+      "j'inscrivais",
+      "tu inscrivais",
+      "il inscrivait",
+      "nous inscrivions",
+      "vous inscriviez",
+      "ils inscrivaient"
+    ],
+    "plus que parfait": [
+      "j'avais inscrit",
+      "tu avais inscrit",
+      "il avait inscrit",
+      "nous avions inscrit",
+      "vous aviez inscrit",
+      "ils avaient inscrit"
+    ],
+    "passé simple": [
+      "j'inscrivis",
+      "tu inscrivis",
+      "il inscrivit",
+      "nous inscrivîmes",
+      "vous inscrivîtes",
+      "ils inscrivirent"
+    ],
+    "passé antérieur": [
+      "j'eus inscrit",
+      "tu eus inscrit",
+      "il eut inscrit",
+      "nous eûmes inscrit",
+      "vous eûtes inscrit",
+      "ils eurent inscrit"
+    ],
+    "futur simple": [
+      "j'inscrirai",
+      "tu inscriras",
+      "il inscrira",
+      "nous inscrirons",
+      "vous inscrirez",
+      "ils inscriront"
+    ],
+    "futur antérieur": [
+      "j'aurai inscrit",
+      "tu auras inscrit",
+      "il aura inscrit",
+      "nous aurons inscrit",
+      "vous aurez inscrit",
+      "ils auront inscrit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'inscrive",
+      "que tu inscrives",
+      "qu'il inscrive",
+      "que nous inscrivions",
+      "que vous inscriviez",
+      "qu'ils inscrivent"
+    ],
+    "passé": [
+      "que j'aie inscrit",
+      "que tu aies inscrit",
+      "qu'il ait inscrit",
+      "que nous ayons inscrit",
+      "que vous ayez inscrit",
+      "qu'ils aient inscrit"
+    ],
+    "imparfait": [
+      "que j'inscrivisse",
+      "que tu inscrivisses",
+      "qu'il inscrivît",
+      "que nous inscrivissions",
+      "que vous inscrivissiez",
+      "qu'ils inscrivissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse inscrit",
+      "que tu eusses inscrit",
+      "qu'il eût inscrit",
+      "que nous eussions inscrit",
+      "que vous eussiez inscrit",
+      "qu'ils eussent inscrit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'inscrirais",
+      "tu inscrirais",
+      "il inscrirait",
+      "nous inscririons",
+      "vous inscririez",
+      "ils inscriraient"
+    ],
+    "passé": [
+      "j'aurais inscrit",
+      "tu aurais inscrit",
+      "il aurait inscrit",
+      "nous aurions inscrit",
+      "vous auriez inscrit",
+      "ils auraient inscrit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "inscris",
+      "inscrivons",
+      "inscrivez"
+    ],
+    "passé": [
+      "aie inscrit",
+      "ayons inscrit",
+      "ayez inscrit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "inscrire"
+    ],
+    "passé": [
+      "avoir inscrit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "inscrivant"
+    ],
+    "passé": [
+      "inscrit",
+      "ayant inscrit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en inscrivant"
+    ],
+    "passé": [
+      "en ayant inscrit"
+    ]
+  }
+}

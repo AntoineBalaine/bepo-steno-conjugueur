@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je revis",
+      "tu revis",
+      "il revit",
+      "nous revivons",
+      "vous revivez",
+      "ils revivent"
+    ],
+    "passé composé": [
+      "j'ai revécu",
+      "tu as revécu",
+      "il a revécu",
+      "nous avons revécu",
+      "vous avez revécu",
+      "ils ont revécu"
+    ],
+    "imparfait": [
+      "je revivais",
+      "tu revivais",
+      "il revivait",
+      "nous revivions",
+      "vous reviviez",
+      "ils revivaient"
+    ],
+    "plus que parfait": [
+      "j'avais revécu",
+      "tu avais revécu",
+      "il avait revécu",
+      "nous avions revécu",
+      "vous aviez revécu",
+      "ils avaient revécu"
+    ],
+    "passé simple": [
+      "je revécus",
+      "tu revécus",
+      "il revécut",
+      "nous revécûmes",
+      "vous revécûtes",
+      "ils revécurent"
+    ],
+    "passé antérieur": [
+      "j'eus revécu",
+      "tu eus revécu",
+      "il eut revécu",
+      "nous eûmes revécu",
+      "vous eûtes revécu",
+      "ils eurent revécu"
+    ],
+    "futur simple": [
+      "je revivrai",
+      "tu revivras",
+      "il revivra",
+      "nous revivrons",
+      "vous revivrez",
+      "ils revivront"
+    ],
+    "futur antérieur": [
+      "j'aurai revécu",
+      "tu auras revécu",
+      "il aura revécu",
+      "nous aurons revécu",
+      "vous aurez revécu",
+      "ils auront revécu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je revive",
+      "que tu revives",
+      "qu'il revive",
+      "que nous revivions",
+      "que vous reviviez",
+      "qu'ils revivent"
+    ],
+    "passé": [
+      "que j'aie revécu",
+      "que tu aies revécu",
+      "qu'il ait revécu",
+      "que nous ayons revécu",
+      "que vous ayez revécu",
+      "qu'ils aient revécu"
+    ],
+    "imparfait": [
+      "que je revécusse",
+      "que tu revécusses",
+      "qu'il revécût",
+      "que nous revécussions",
+      "que vous revécussiez",
+      "qu'ils revécussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse revécu",
+      "que tu eusses revécu",
+      "qu'il eût revécu",
+      "que nous eussions revécu",
+      "que vous eussiez revécu",
+      "qu'ils eussent revécu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je revivrais",
+      "tu revivrais",
+      "il revivrait",
+      "nous revivrions",
+      "vous revivriez",
+      "ils revivraient"
+    ],
+    "passé": [
+      "j'aurais revécu",
+      "tu aurais revécu",
+      "il aurait revécu",
+      "nous aurions revécu",
+      "vous auriez revécu",
+      "ils auraient revécu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "revis",
+      "revivons",
+      "revivez"
+    ],
+    "passé": [
+      "aie revécu",
+      "ayons revécu",
+      "ayez revécu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "revivre"
+    ],
+    "passé": [
+      "avoir revécu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "revivant"
+    ],
+    "passé": [
+      "revécu",
+      "ayant revécu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en revivant"
+    ],
+    "passé": [
+      "en ayant revécu"
+    ]
+  }
+}

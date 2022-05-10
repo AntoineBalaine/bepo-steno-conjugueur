@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'éperds",
+      "tu t'éperds",
+      "il s'éperd",
+      "nous nous éperdons",
+      "vous vous éperdez",
+      "ils s'éperdent"
+    ],
+    "passé composé": [
+      "je me suis éperdu",
+      "tu t'es éperdu",
+      "il s'est éperdu",
+      "nous nous sommes éperdus",
+      "vous vous êtes éperdus",
+      "ils se sont éperdus"
+    ],
+    "imparfait": [
+      "je m'éperdais",
+      "tu t'éperdais",
+      "il s'éperdait",
+      "nous nous éperdions",
+      "vous vous éperdiez",
+      "ils s'éperdaient"
+    ],
+    "plus que parfait": [
+      "je m'étais éperdu",
+      "tu t'étais éperdu",
+      "il s'était éperdu",
+      "nous nous étions éperdus",
+      "vous vous étiez éperdus",
+      "ils s'étaient éperdus"
+    ],
+    "passé simple": [
+      "je m'éperdis",
+      "tu t'éperdis",
+      "il s'éperdit",
+      "nous nous éperdîmes",
+      "vous vous éperdîtes",
+      "ils s'éperdirent"
+    ],
+    "passé antérieur": [
+      "je me fus éperdu",
+      "tu te fus éperdu",
+      "il se fut éperdu",
+      "nous nous fûmes éperdus",
+      "vous vous fûtes éperdus",
+      "ils se furent éperdus"
+    ],
+    "futur simple": [
+      "je m'éperdrai",
+      "tu t'éperdras",
+      "il s'éperdra",
+      "nous nous éperdrons",
+      "vous vous éperdrez",
+      "ils s'éperdront"
+    ],
+    "futur antérieur": [
+      "je me serai éperdu",
+      "tu te seras éperdu",
+      "il se sera éperdu",
+      "nous nous serons éperdus",
+      "vous vous serez éperdus",
+      "ils se seront éperdus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'éperde",
+      "que tu t'éperdes",
+      "qu'il s'éperde",
+      "que nous nous éperdions",
+      "que vous vous éperdiez",
+      "qu'ils s'éperdent"
+    ],
+    "passé": [
+      "que je me sois éperdu",
+      "que tu te sois éperdu",
+      "qu'il se soit éperdu",
+      "que nous nous soyons éperdus",
+      "que vous vous soyez éperdus",
+      "qu'ils se soient éperdus"
+    ],
+    "imparfait": [
+      "que je m'éperdisse",
+      "que tu t'éperdisses",
+      "qu'il s'éperdît",
+      "que nous nous éperdissions",
+      "que vous vous éperdissiez",
+      "qu'ils s'éperdissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse éperdu",
+      "que tu te fusses éperdu",
+      "qu'il se fût éperdu",
+      "que nous nous fussions éperdus",
+      "que vous vous fussiez éperdus",
+      "qu'ils se fussent éperdus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'éperdrais",
+      "tu t'éperdrais",
+      "il s'éperdrait",
+      "nous nous éperdrions",
+      "vous vous éperdriez",
+      "ils s'éperdraient"
+    ],
+    "passé": [
+      "je me serais éperdu",
+      "tu te serais éperdu",
+      "il se serait éperdu",
+      "nous nous serions éperdus",
+      "vous vous seriez éperdus",
+      "ils se seraient éperdus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "éperds-toi",
+      "éperdons-nous",
+      "éperdez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'éperdre"
+    ],
+    "passé": [
+      "s'être éperdu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'éperdant"
+    ],
+    "passé": [
+      "-",
+      "s'étant éperdu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'éperdant"
+    ],
+    "passé": [
+      "en s'étant éperdu"
+    ]
+  }
+}

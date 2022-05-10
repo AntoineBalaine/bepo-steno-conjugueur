@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me déplais",
+      "tu te déplais",
+      "il se déplaît",
+      "nous nous déplaisons",
+      "vous vous déplaisez",
+      "ils se déplaisent"
+    ],
+    "passé composé": [
+      "je me suis déplu",
+      "tu t'es déplu",
+      "il s'est déplu",
+      "nous nous sommes déplu",
+      "vous vous êtes déplu",
+      "ils se sont déplu"
+    ],
+    "imparfait": [
+      "je me déplaisais",
+      "tu te déplaisais",
+      "il se déplaisait",
+      "nous nous déplaisions",
+      "vous vous déplaisiez",
+      "ils se déplaisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais déplu",
+      "tu t'étais déplu",
+      "il s'était déplu",
+      "nous nous étions déplu",
+      "vous vous étiez déplu",
+      "ils s'étaient déplu"
+    ],
+    "passé simple": [
+      "je me déplus",
+      "tu te déplus",
+      "il se déplut",
+      "nous nous déplûmes",
+      "vous vous déplûtes",
+      "ils se déplurent"
+    ],
+    "passé antérieur": [
+      "je me fus déplu",
+      "tu te fus déplu",
+      "il se fut déplu",
+      "nous nous fûmes déplu",
+      "vous vous fûtes déplu",
+      "ils se furent déplu"
+    ],
+    "futur simple": [
+      "je me déplairai",
+      "tu te déplairas",
+      "il se déplaira",
+      "nous nous déplairons",
+      "vous vous déplairez",
+      "ils se déplairont"
+    ],
+    "futur antérieur": [
+      "je me serai déplu",
+      "tu te seras déplu",
+      "il se sera déplu",
+      "nous nous serons déplu",
+      "vous vous serez déplu",
+      "ils se seront déplu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me déplaise",
+      "que tu te déplaises",
+      "qu'il se déplaise",
+      "que nous nous déplaisions",
+      "que vous vous déplaisiez",
+      "qu'ils se déplaisent"
+    ],
+    "passé": [
+      "que je me sois déplu",
+      "que tu te sois déplu",
+      "qu'il se soit déplu",
+      "que nous nous soyons déplu",
+      "que vous vous soyez déplu",
+      "qu'ils se soient déplu"
+    ],
+    "imparfait": [
+      "que je me déplusse",
+      "que tu te déplusses",
+      "qu'il se déplût",
+      "que nous nous déplussions",
+      "que vous vous déplussiez",
+      "qu'ils se déplussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse déplu",
+      "que tu te fusses déplu",
+      "qu'il se fût déplu",
+      "que nous nous fussions déplu",
+      "que vous vous fussiez déplu",
+      "qu'ils se fussent déplu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me déplairais",
+      "tu te déplairais",
+      "il se déplairait",
+      "nous nous déplairions",
+      "vous vous déplairiez",
+      "ils se déplairaient"
+    ],
+    "passé": [
+      "je me serais déplu",
+      "tu te serais déplu",
+      "il se serait déplu",
+      "nous nous serions déplu",
+      "vous vous seriez déplu",
+      "ils se seraient déplu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déplais-toi",
+      "déplaisons-nous",
+      "déplaisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se déplaire"
+    ],
+    "passé": [
+      "s'être déplu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se déplaisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant déplu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se déplaisant"
+    ],
+    "passé": [
+      "en s'étant déplu"
+    ]
+  }
+}

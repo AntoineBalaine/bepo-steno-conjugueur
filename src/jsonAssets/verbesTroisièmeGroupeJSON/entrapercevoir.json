@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'entraperçois",
+      "tu entraperçois",
+      "il entraperçoit",
+      "nous entrapercevons",
+      "vous entrapercevez",
+      "ils entraperçoivent"
+    ],
+    "passé composé": [
+      "j'ai entraperçu",
+      "tu as entraperçu",
+      "il a entraperçu",
+      "nous avons entraperçu",
+      "vous avez entraperçu",
+      "ils ont entraperçu"
+    ],
+    "imparfait": [
+      "j'entrapercevais",
+      "tu entrapercevais",
+      "il entrapercevait",
+      "nous entrapercevions",
+      "vous entraperceviez",
+      "ils entrapercevaient"
+    ],
+    "plus que parfait": [
+      "j'avais entraperçu",
+      "tu avais entraperçu",
+      "il avait entraperçu",
+      "nous avions entraperçu",
+      "vous aviez entraperçu",
+      "ils avaient entraperçu"
+    ],
+    "passé simple": [
+      "j'entraperçus",
+      "tu entraperçus",
+      "il entraperçut",
+      "nous entraperçûmes",
+      "vous entraperçûtes",
+      "ils entraperçurent"
+    ],
+    "passé antérieur": [
+      "j'eus entraperçu",
+      "tu eus entraperçu",
+      "il eut entraperçu",
+      "nous eûmes entraperçu",
+      "vous eûtes entraperçu",
+      "ils eurent entraperçu"
+    ],
+    "futur simple": [
+      "j'entrapercevrai",
+      "tu entrapercevras",
+      "il entrapercevra",
+      "nous entrapercevrons",
+      "vous entrapercevrez",
+      "ils entrapercevront"
+    ],
+    "futur antérieur": [
+      "j'aurai entraperçu",
+      "tu auras entraperçu",
+      "il aura entraperçu",
+      "nous aurons entraperçu",
+      "vous aurez entraperçu",
+      "ils auront entraperçu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'entraperçoive",
+      "que tu entraperçoives",
+      "qu'il entraperçoive",
+      "que nous entrapercevions",
+      "que vous entraperceviez",
+      "qu'ils entraperçoivent"
+    ],
+    "passé": [
+      "que j'aie entraperçu",
+      "que tu aies entraperçu",
+      "qu'il ait entraperçu",
+      "que nous ayons entraperçu",
+      "que vous ayez entraperçu",
+      "qu'ils aient entraperçu"
+    ],
+    "imparfait": [
+      "que j'entraperçusse",
+      "que tu entraperçusses",
+      "qu'il entraperçût",
+      "que nous entraperçussions",
+      "que vous entraperçussiez",
+      "qu'ils entraperçussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse entraperçu",
+      "que tu eusses entraperçu",
+      "qu'il eût entraperçu",
+      "que nous eussions entraperçu",
+      "que vous eussiez entraperçu",
+      "qu'ils eussent entraperçu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'entrapercevrais",
+      "tu entrapercevrais",
+      "il entrapercevrait",
+      "nous entrapercevrions",
+      "vous entrapercevriez",
+      "ils entrapercevraient"
+    ],
+    "passé": [
+      "j'aurais entraperçu",
+      "tu aurais entraperçu",
+      "il aurait entraperçu",
+      "nous aurions entraperçu",
+      "vous auriez entraperçu",
+      "ils auraient entraperçu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entraperçois",
+      "entrapercevons",
+      "entrapercevez"
+    ],
+    "passé": [
+      "aie entraperçu",
+      "ayons entraperçu",
+      "ayez entraperçu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "entrapercevoir"
+    ],
+    "passé": [
+      "avoir entraperçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "entrapercevant"
+    ],
+    "passé": [
+      "entraperçu",
+      "ayant entraperçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en entrapercevant"
+    ],
+    "passé": [
+      "en ayant entraperçu"
+    ]
+  }
+}

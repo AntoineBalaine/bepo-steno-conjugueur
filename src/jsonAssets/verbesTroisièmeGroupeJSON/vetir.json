@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je vêts",
+      "tu vêts",
+      "il vêt",
+      "nous vêtons",
+      "vous vêtez",
+      "ils vêtent"
+    ],
+    "passé composé": [
+      "j'ai vêtu",
+      "tu as vêtu",
+      "il a vêtu",
+      "nous avons vêtu",
+      "vous avez vêtu",
+      "ils ont vêtu"
+    ],
+    "imparfait": [
+      "je vêtais",
+      "tu vêtais",
+      "il vêtait",
+      "nous vêtions",
+      "vous vêtiez",
+      "ils vêtaient"
+    ],
+    "plus que parfait": [
+      "j'avais vêtu",
+      "tu avais vêtu",
+      "il avait vêtu",
+      "nous avions vêtu",
+      "vous aviez vêtu",
+      "ils avaient vêtu"
+    ],
+    "passé simple": [
+      "je vêtis",
+      "tu vêtis",
+      "il vêtit",
+      "nous vêtîmes",
+      "vous vêtîtes",
+      "ils vêtirent"
+    ],
+    "passé antérieur": [
+      "j'eus vêtu",
+      "tu eus vêtu",
+      "il eut vêtu",
+      "nous eûmes vêtu",
+      "vous eûtes vêtu",
+      "ils eurent vêtu"
+    ],
+    "futur simple": [
+      "je vêtirai",
+      "tu vêtiras",
+      "il vêtira",
+      "nous vêtirons",
+      "vous vêtirez",
+      "ils vêtiront"
+    ],
+    "futur antérieur": [
+      "j'aurai vêtu",
+      "tu auras vêtu",
+      "il aura vêtu",
+      "nous aurons vêtu",
+      "vous aurez vêtu",
+      "ils auront vêtu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je vête",
+      "que tu vêtes",
+      "qu'il vête",
+      "que nous vêtions",
+      "que vous vêtiez",
+      "qu'ils vêtent"
+    ],
+    "passé": [
+      "que j'aie vêtu",
+      "que tu aies vêtu",
+      "qu'il ait vêtu",
+      "que nous ayons vêtu",
+      "que vous ayez vêtu",
+      "qu'ils aient vêtu"
+    ],
+    "imparfait": [
+      "que je vêtisse",
+      "que tu vêtisses",
+      "qu'il vêtît",
+      "que nous vêtissions",
+      "que vous vêtissiez",
+      "qu'ils vêtissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse vêtu",
+      "que tu eusses vêtu",
+      "qu'il eût vêtu",
+      "que nous eussions vêtu",
+      "que vous eussiez vêtu",
+      "qu'ils eussent vêtu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je vêtirais",
+      "tu vêtirais",
+      "il vêtirait",
+      "nous vêtirions",
+      "vous vêtiriez",
+      "ils vêtiraient"
+    ],
+    "passé": [
+      "j'aurais vêtu",
+      "tu aurais vêtu",
+      "il aurait vêtu",
+      "nous aurions vêtu",
+      "vous auriez vêtu",
+      "ils auraient vêtu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "vêts",
+      "vêtons",
+      "vêtez"
+    ],
+    "passé": [
+      "aie vêtu",
+      "ayons vêtu",
+      "ayez vêtu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "vêtir"
+    ],
+    "passé": [
+      "avoir vêtu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "vêtant"
+    ],
+    "passé": [
+      "vêtu",
+      "ayant vêtu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en vêtant"
+    ],
+    "passé": [
+      "en ayant vêtu"
+    ]
+  }
+}

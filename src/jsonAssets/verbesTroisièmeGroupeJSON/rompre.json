@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je romps",
+      "tu romps",
+      "il rompt",
+      "nous rompons",
+      "vous rompez",
+      "ils rompent"
+    ],
+    "passé composé": [
+      "j'ai rompu",
+      "tu as rompu",
+      "il a rompu",
+      "nous avons rompu",
+      "vous avez rompu",
+      "ils ont rompu"
+    ],
+    "imparfait": [
+      "je rompais",
+      "tu rompais",
+      "il rompait",
+      "nous rompions",
+      "vous rompiez",
+      "ils rompaient"
+    ],
+    "plus que parfait": [
+      "j'avais rompu",
+      "tu avais rompu",
+      "il avait rompu",
+      "nous avions rompu",
+      "vous aviez rompu",
+      "ils avaient rompu"
+    ],
+    "passé simple": [
+      "je rompis",
+      "tu rompis",
+      "il rompit",
+      "nous rompîmes",
+      "vous rompîtes",
+      "ils rompirent"
+    ],
+    "passé antérieur": [
+      "j'eus rompu",
+      "tu eus rompu",
+      "il eut rompu",
+      "nous eûmes rompu",
+      "vous eûtes rompu",
+      "ils eurent rompu"
+    ],
+    "futur simple": [
+      "je romprai",
+      "tu rompras",
+      "il rompra",
+      "nous romprons",
+      "vous romprez",
+      "ils rompront"
+    ],
+    "futur antérieur": [
+      "j'aurai rompu",
+      "tu auras rompu",
+      "il aura rompu",
+      "nous aurons rompu",
+      "vous aurez rompu",
+      "ils auront rompu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rompe",
+      "que tu rompes",
+      "qu'il rompe",
+      "que nous rompions",
+      "que vous rompiez",
+      "qu'ils rompent"
+    ],
+    "passé": [
+      "que j'aie rompu",
+      "que tu aies rompu",
+      "qu'il ait rompu",
+      "que nous ayons rompu",
+      "que vous ayez rompu",
+      "qu'ils aient rompu"
+    ],
+    "imparfait": [
+      "que je rompisse",
+      "que tu rompisses",
+      "qu'il rompît",
+      "que nous rompissions",
+      "que vous rompissiez",
+      "qu'ils rompissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rompu",
+      "que tu eusses rompu",
+      "qu'il eût rompu",
+      "que nous eussions rompu",
+      "que vous eussiez rompu",
+      "qu'ils eussent rompu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je romprais",
+      "tu romprais",
+      "il romprait",
+      "nous romprions",
+      "vous rompriez",
+      "ils rompraient"
+    ],
+    "passé": [
+      "j'aurais rompu",
+      "tu aurais rompu",
+      "il aurait rompu",
+      "nous aurions rompu",
+      "vous auriez rompu",
+      "ils auraient rompu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "romps",
+      "rompons",
+      "rompez"
+    ],
+    "passé": [
+      "aie rompu",
+      "ayons rompu",
+      "ayez rompu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rompre"
+    ],
+    "passé": [
+      "avoir rompu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rompant"
+    ],
+    "passé": [
+      "rompu",
+      "ayant rompu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rompant"
+    ],
+    "passé": [
+      "en ayant rompu"
+    ]
+  }
+}

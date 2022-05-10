@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je déconfis",
+      "tu déconfis",
+      "il déconfit",
+      "nous déconfisons",
+      "vous déconfisez",
+      "ils déconfisent"
+    ],
+    "passé composé": [
+      "j'ai déconfit",
+      "tu as déconfit",
+      "il a déconfit",
+      "nous avons déconfit",
+      "vous avez déconfit",
+      "ils ont déconfit"
+    ],
+    "imparfait": [
+      "je déconfisais",
+      "tu déconfisais",
+      "il déconfisait",
+      "nous déconfisions",
+      "vous déconfisiez",
+      "ils déconfisaient"
+    ],
+    "plus que parfait": [
+      "j'avais déconfit",
+      "tu avais déconfit",
+      "il avait déconfit",
+      "nous avions déconfit",
+      "vous aviez déconfit",
+      "ils avaient déconfit"
+    ],
+    "passé simple": [
+      "je déconfis",
+      "tu déconfis",
+      "il déconfit",
+      "nous déconfîmes",
+      "vous déconfîtes",
+      "ils déconfirent"
+    ],
+    "passé antérieur": [
+      "j'eus déconfit",
+      "tu eus déconfit",
+      "il eut déconfit",
+      "nous eûmes déconfit",
+      "vous eûtes déconfit",
+      "ils eurent déconfit"
+    ],
+    "futur simple": [
+      "je déconfirai",
+      "tu déconfiras",
+      "il déconfira",
+      "nous déconfirons",
+      "vous déconfirez",
+      "ils déconfiront"
+    ],
+    "futur antérieur": [
+      "j'aurai déconfit",
+      "tu auras déconfit",
+      "il aura déconfit",
+      "nous aurons déconfit",
+      "vous aurez déconfit",
+      "ils auront déconfit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je déconfise",
+      "que tu déconfises",
+      "qu'il déconfise",
+      "que nous déconfisions",
+      "que vous déconfisiez",
+      "qu'ils déconfisent"
+    ],
+    "passé": [
+      "que j'aie déconfit",
+      "que tu aies déconfit",
+      "qu'il ait déconfit",
+      "que nous ayons déconfit",
+      "que vous ayez déconfit",
+      "qu'ils aient déconfit"
+    ],
+    "imparfait": [
+      "que je déconfisse",
+      "que tu déconfisses",
+      "qu'il déconfît",
+      "que nous déconfissions",
+      "que vous déconfissiez",
+      "qu'ils déconfissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse déconfit",
+      "que tu eusses déconfit",
+      "qu'il eût déconfit",
+      "que nous eussions déconfit",
+      "que vous eussiez déconfit",
+      "qu'ils eussent déconfit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je déconfirais",
+      "tu déconfirais",
+      "il déconfirait",
+      "nous déconfirions",
+      "vous déconfiriez",
+      "ils déconfiraient"
+    ],
+    "passé": [
+      "j'aurais déconfit",
+      "tu aurais déconfit",
+      "il aurait déconfit",
+      "nous aurions déconfit",
+      "vous auriez déconfit",
+      "ils auraient déconfit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "déconfis",
+      "déconfisons",
+      "déconfisez"
+    ],
+    "passé": [
+      "aie déconfit",
+      "ayons déconfit",
+      "ayez déconfit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "déconfire"
+    ],
+    "passé": [
+      "avoir déconfit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "déconfisant"
+    ],
+    "passé": [
+      "déconfit",
+      "ayant déconfit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en déconfisant"
+    ],
+    "passé": [
+      "en ayant déconfit"
+    ]
+  }
+}

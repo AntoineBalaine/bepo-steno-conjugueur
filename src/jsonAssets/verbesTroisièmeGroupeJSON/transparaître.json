@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je transparais",
+      "tu transparais",
+      "il transparaît",
+      "nous transparaissons",
+      "vous transparaissez",
+      "ils transparaissent"
+    ],
+    "passé composé": [
+      "j'ai transparu",
+      "tu as transparu",
+      "il a transparu",
+      "nous avons transparu",
+      "vous avez transparu",
+      "ils ont transparu"
+    ],
+    "imparfait": [
+      "je transparaissais",
+      "tu transparaissais",
+      "il transparaissait",
+      "nous transparaissions",
+      "vous transparaissiez",
+      "ils transparaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais transparu",
+      "tu avais transparu",
+      "il avait transparu",
+      "nous avions transparu",
+      "vous aviez transparu",
+      "ils avaient transparu"
+    ],
+    "passé simple": [
+      "je transparus",
+      "tu transparus",
+      "il transparut",
+      "nous transparûmes",
+      "vous transparûtes",
+      "ils transparurent"
+    ],
+    "passé antérieur": [
+      "j'eus transparu",
+      "tu eus transparu",
+      "il eut transparu",
+      "nous eûmes transparu",
+      "vous eûtes transparu",
+      "ils eurent transparu"
+    ],
+    "futur simple": [
+      "je transparaîtrai",
+      "tu transparaîtras",
+      "il transparaîtra",
+      "nous transparaîtrons",
+      "vous transparaîtrez",
+      "ils transparaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai transparu",
+      "tu auras transparu",
+      "il aura transparu",
+      "nous aurons transparu",
+      "vous aurez transparu",
+      "ils auront transparu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je transparaisse",
+      "que tu transparaisses",
+      "qu'il transparaisse",
+      "que nous transparaissions",
+      "que vous transparaissiez",
+      "qu'ils transparaissent"
+    ],
+    "passé": [
+      "que j'aie transparu",
+      "que tu aies transparu",
+      "qu'il ait transparu",
+      "que nous ayons transparu",
+      "que vous ayez transparu",
+      "qu'ils aient transparu"
+    ],
+    "imparfait": [
+      "que je transparusse",
+      "que tu transparusses",
+      "qu'il transparût",
+      "que nous transparussions",
+      "que vous transparussiez",
+      "qu'ils transparussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse transparu",
+      "que tu eusses transparu",
+      "qu'il eût transparu",
+      "que nous eussions transparu",
+      "que vous eussiez transparu",
+      "qu'ils eussent transparu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je transparaîtrais",
+      "tu transparaîtrais",
+      "il transparaîtrait",
+      "nous transparaîtrions",
+      "vous transparaîtriez",
+      "ils transparaîtraient"
+    ],
+    "passé": [
+      "j'aurais transparu",
+      "tu aurais transparu",
+      "il aurait transparu",
+      "nous aurions transparu",
+      "vous auriez transparu",
+      "ils auraient transparu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "transparais",
+      "transparaissons",
+      "transparaissez"
+    ],
+    "passé": [
+      "aie transparu",
+      "ayons transparu",
+      "ayez transparu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "transparaître"
+    ],
+    "passé": [
+      "avoir transparu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "transparaissant"
+    ],
+    "passé": [
+      "transparu",
+      "ayant transparu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en transparaissant"
+    ],
+    "passé": [
+      "en ayant transparu"
+    ]
+  }
+}

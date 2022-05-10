@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me sais",
+      "tu te sais",
+      "il se sait",
+      "nous nous savons",
+      "vous vous savez",
+      "ils se savent"
+    ],
+    "passé composé": [
+      "je me suis su",
+      "tu t'es su",
+      "il s'est su",
+      "nous nous sommes sus",
+      "vous vous êtes sus",
+      "ils se sont sus"
+    ],
+    "imparfait": [
+      "je me savais",
+      "tu te savais",
+      "il se savait",
+      "nous nous savions",
+      "vous vous saviez",
+      "ils se savaient"
+    ],
+    "plus que parfait": [
+      "je m'étais su",
+      "tu t'étais su",
+      "il s'était su",
+      "nous nous étions sus",
+      "vous vous étiez sus",
+      "ils s'étaient sus"
+    ],
+    "passé simple": [
+      "je me sus",
+      "tu te sus",
+      "il se sut",
+      "nous nous sûmes",
+      "vous vous sûtes",
+      "ils se surent"
+    ],
+    "passé antérieur": [
+      "je me fus su",
+      "tu te fus su",
+      "il se fut su",
+      "nous nous fûmes sus",
+      "vous vous fûtes sus",
+      "ils se furent sus"
+    ],
+    "futur simple": [
+      "je me saurai",
+      "tu te sauras",
+      "il se saura",
+      "nous nous saurons",
+      "vous vous saurez",
+      "ils se sauront"
+    ],
+    "futur antérieur": [
+      "je me serai su",
+      "tu te seras su",
+      "il se sera su",
+      "nous nous serons sus",
+      "vous vous serez sus",
+      "ils se seront sus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me sache",
+      "que tu te saches",
+      "qu'il se sache",
+      "que nous nous sachions",
+      "que vous vous sachiez",
+      "qu'ils se sachent"
+    ],
+    "passé": [
+      "que je me sois su",
+      "que tu te sois su",
+      "qu'il se soit su",
+      "que nous nous soyons sus",
+      "que vous vous soyez sus",
+      "qu'ils se soient sus"
+    ],
+    "imparfait": [
+      "que je me susse",
+      "que tu te susses",
+      "qu'il se sût",
+      "que nous nous sussions",
+      "que vous vous sussiez",
+      "qu'ils se sussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse su",
+      "que tu te fusses su",
+      "qu'il se fût su",
+      "que nous nous fussions sus",
+      "que vous vous fussiez sus",
+      "qu'ils se fussent sus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me saurais",
+      "tu te saurais",
+      "il se saurait",
+      "nous nous saurions",
+      "vous vous sauriez",
+      "ils se sauraient"
+    ],
+    "passé": [
+      "je me serais su",
+      "tu te serais su",
+      "il se serait su",
+      "nous nous serions sus",
+      "vous vous seriez sus",
+      "ils se seraient sus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sache-toi",
+      "sachons-nous",
+      "sachez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se savoir"
+    ],
+    "passé": [
+      "s'être su"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se sachant"
+    ],
+    "passé": [
+      "-",
+      "s'étant su"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se sachant"
+    ],
+    "passé": [
+      "en s'étant su"
+    ]
+  }
+}

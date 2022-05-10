@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'endors",
+      "tu endors",
+      "il endort",
+      "nous endormons",
+      "vous endormez",
+      "ils endorment"
+    ],
+    "passé composé": [
+      "j'ai endormi",
+      "tu as endormi",
+      "il a endormi",
+      "nous avons endormi",
+      "vous avez endormi",
+      "ils ont endormi"
+    ],
+    "imparfait": [
+      "j'endormais",
+      "tu endormais",
+      "il endormait",
+      "nous endormions",
+      "vous endormiez",
+      "ils endormaient"
+    ],
+    "plus que parfait": [
+      "j'avais endormi",
+      "tu avais endormi",
+      "il avait endormi",
+      "nous avions endormi",
+      "vous aviez endormi",
+      "ils avaient endormi"
+    ],
+    "passé simple": [
+      "j'endormis",
+      "tu endormis",
+      "il endormit",
+      "nous endormîmes",
+      "vous endormîtes",
+      "ils endormirent"
+    ],
+    "passé antérieur": [
+      "j'eus endormi",
+      "tu eus endormi",
+      "il eut endormi",
+      "nous eûmes endormi",
+      "vous eûtes endormi",
+      "ils eurent endormi"
+    ],
+    "futur simple": [
+      "j'endormirai",
+      "tu endormiras",
+      "il endormira",
+      "nous endormirons",
+      "vous endormirez",
+      "ils endormiront"
+    ],
+    "futur antérieur": [
+      "j'aurai endormi",
+      "tu auras endormi",
+      "il aura endormi",
+      "nous aurons endormi",
+      "vous aurez endormi",
+      "ils auront endormi"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'endorme",
+      "que tu endormes",
+      "qu'il endorme",
+      "que nous endormions",
+      "que vous endormiez",
+      "qu'ils endorment"
+    ],
+    "passé": [
+      "que j'aie endormi",
+      "que tu aies endormi",
+      "qu'il ait endormi",
+      "que nous ayons endormi",
+      "que vous ayez endormi",
+      "qu'ils aient endormi"
+    ],
+    "imparfait": [
+      "que j'endormisse",
+      "que tu endormisses",
+      "qu'il endormît",
+      "que nous endormissions",
+      "que vous endormissiez",
+      "qu'ils endormissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse endormi",
+      "que tu eusses endormi",
+      "qu'il eût endormi",
+      "que nous eussions endormi",
+      "que vous eussiez endormi",
+      "qu'ils eussent endormi"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'endormirais",
+      "tu endormirais",
+      "il endormirait",
+      "nous endormirions",
+      "vous endormiriez",
+      "ils endormiraient"
+    ],
+    "passé": [
+      "j'aurais endormi",
+      "tu aurais endormi",
+      "il aurait endormi",
+      "nous aurions endormi",
+      "vous auriez endormi",
+      "ils auraient endormi"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "endors",
+      "endormons",
+      "endormez"
+    ],
+    "passé": [
+      "aie endormi",
+      "ayons endormi",
+      "ayez endormi"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "endormir"
+    ],
+    "passé": [
+      "avoir endormi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "endormant"
+    ],
+    "passé": [
+      "endormi",
+      "ayant endormi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en endormant"
+    ],
+    "passé": [
+      "en ayant endormi"
+    ]
+  }
+}

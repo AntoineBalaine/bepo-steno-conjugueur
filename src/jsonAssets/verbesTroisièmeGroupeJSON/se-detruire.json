@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me détruis",
+      "tu te détruis",
+      "il se détruit",
+      "nous nous détruisons",
+      "vous vous détruisez",
+      "ils se détruisent"
+    ],
+    "passé composé": [
+      "je me suis détruit",
+      "tu t'es détruit",
+      "il s'est détruit",
+      "nous nous sommes détruits",
+      "vous vous êtes détruits",
+      "ils se sont détruits"
+    ],
+    "imparfait": [
+      "je me détruisais",
+      "tu te détruisais",
+      "il se détruisait",
+      "nous nous détruisions",
+      "vous vous détruisiez",
+      "ils se détruisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais détruit",
+      "tu t'étais détruit",
+      "il s'était détruit",
+      "nous nous étions détruits",
+      "vous vous étiez détruits",
+      "ils s'étaient détruits"
+    ],
+    "passé simple": [
+      "je me détruisis",
+      "tu te détruisis",
+      "il se détruisit",
+      "nous nous détruisîmes",
+      "vous vous détruisîtes",
+      "ils se détruisirent"
+    ],
+    "passé antérieur": [
+      "je me fus détruit",
+      "tu te fus détruit",
+      "il se fut détruit",
+      "nous nous fûmes détruits",
+      "vous vous fûtes détruits",
+      "ils se furent détruits"
+    ],
+    "futur simple": [
+      "je me détruirai",
+      "tu te détruiras",
+      "il se détruira",
+      "nous nous détruirons",
+      "vous vous détruirez",
+      "ils se détruiront"
+    ],
+    "futur antérieur": [
+      "je me serai détruit",
+      "tu te seras détruit",
+      "il se sera détruit",
+      "nous nous serons détruits",
+      "vous vous serez détruits",
+      "ils se seront détruits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me détruise",
+      "que tu te détruises",
+      "qu'il se détruise",
+      "que nous nous détruisions",
+      "que vous vous détruisiez",
+      "qu'ils se détruisent"
+    ],
+    "passé": [
+      "que je me sois détruit",
+      "que tu te sois détruit",
+      "qu'il se soit détruit",
+      "que nous nous soyons détruits",
+      "que vous vous soyez détruits",
+      "qu'ils se soient détruits"
+    ],
+    "imparfait": [
+      "que je me détruisisse",
+      "que tu te détruisisses",
+      "qu'il se détruisît",
+      "que nous nous détruisissions",
+      "que vous vous détruisissiez",
+      "qu'ils se détruisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse détruit",
+      "que tu te fusses détruit",
+      "qu'il se fût détruit",
+      "que nous nous fussions détruits",
+      "que vous vous fussiez détruits",
+      "qu'ils se fussent détruits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me détruirais",
+      "tu te détruirais",
+      "il se détruirait",
+      "nous nous détruirions",
+      "vous vous détruiriez",
+      "ils se détruiraient"
+    ],
+    "passé": [
+      "je me serais détruit",
+      "tu te serais détruit",
+      "il se serait détruit",
+      "nous nous serions détruits",
+      "vous vous seriez détruits",
+      "ils se seraient détruits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "détruis-toi",
+      "détruisons-nous",
+      "détruisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se détruire"
+    ],
+    "passé": [
+      "s'être détruit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se détruisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant détruit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se détruisant"
+    ],
+    "passé": [
+      "en s'étant détruit"
+    ]
+  }
+}

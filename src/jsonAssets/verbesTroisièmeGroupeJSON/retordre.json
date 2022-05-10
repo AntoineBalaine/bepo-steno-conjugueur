@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je retords",
+      "tu retords",
+      "il retord",
+      "nous retordons",
+      "vous retordez",
+      "ils retordent"
+    ],
+    "passé composé": [
+      "j'ai retordu",
+      "tu as retordu",
+      "il a retordu",
+      "nous avons retordu",
+      "vous avez retordu",
+      "ils ont retordu"
+    ],
+    "imparfait": [
+      "je retordais",
+      "tu retordais",
+      "il retordait",
+      "nous retordions",
+      "vous retordiez",
+      "ils retordaient"
+    ],
+    "plus que parfait": [
+      "j'avais retordu",
+      "tu avais retordu",
+      "il avait retordu",
+      "nous avions retordu",
+      "vous aviez retordu",
+      "ils avaient retordu"
+    ],
+    "passé simple": [
+      "je retordis",
+      "tu retordis",
+      "il retordit",
+      "nous retordîmes",
+      "vous retordîtes",
+      "ils retordirent"
+    ],
+    "passé antérieur": [
+      "j'eus retordu",
+      "tu eus retordu",
+      "il eut retordu",
+      "nous eûmes retordu",
+      "vous eûtes retordu",
+      "ils eurent retordu"
+    ],
+    "futur simple": [
+      "je retordrai",
+      "tu retordras",
+      "il retordra",
+      "nous retordrons",
+      "vous retordrez",
+      "ils retordront"
+    ],
+    "futur antérieur": [
+      "j'aurai retordu",
+      "tu auras retordu",
+      "il aura retordu",
+      "nous aurons retordu",
+      "vous aurez retordu",
+      "ils auront retordu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je retorde",
+      "que tu retordes",
+      "qu'il retorde",
+      "que nous retordions",
+      "que vous retordiez",
+      "qu'ils retordent"
+    ],
+    "passé": [
+      "que j'aie retordu",
+      "que tu aies retordu",
+      "qu'il ait retordu",
+      "que nous ayons retordu",
+      "que vous ayez retordu",
+      "qu'ils aient retordu"
+    ],
+    "imparfait": [
+      "que je retordisse",
+      "que tu retordisses",
+      "qu'il retordît",
+      "que nous retordissions",
+      "que vous retordissiez",
+      "qu'ils retordissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse retordu",
+      "que tu eusses retordu",
+      "qu'il eût retordu",
+      "que nous eussions retordu",
+      "que vous eussiez retordu",
+      "qu'ils eussent retordu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je retordrais",
+      "tu retordrais",
+      "il retordrait",
+      "nous retordrions",
+      "vous retordriez",
+      "ils retordraient"
+    ],
+    "passé": [
+      "j'aurais retordu",
+      "tu aurais retordu",
+      "il aurait retordu",
+      "nous aurions retordu",
+      "vous auriez retordu",
+      "ils auraient retordu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "retords",
+      "retordons",
+      "retordez"
+    ],
+    "passé": [
+      "aie retordu",
+      "ayons retordu",
+      "ayez retordu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "retordre"
+    ],
+    "passé": [
+      "avoir retordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "retordant"
+    ],
+    "passé": [
+      "retordu",
+      "ayant retordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en retordant"
+    ],
+    "passé": [
+      "en ayant retordu"
+    ]
+  }
+}

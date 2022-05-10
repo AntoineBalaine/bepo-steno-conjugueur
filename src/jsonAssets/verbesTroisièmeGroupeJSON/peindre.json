@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je peins",
+      "tu peins",
+      "il peint",
+      "nous peignons",
+      "vous peignez",
+      "ils peignent"
+    ],
+    "passé composé": [
+      "j'ai peint",
+      "tu as peint",
+      "il a peint",
+      "nous avons peint",
+      "vous avez peint",
+      "ils ont peint"
+    ],
+    "imparfait": [
+      "je peignais",
+      "tu peignais",
+      "il peignait",
+      "nous peignions",
+      "vous peigniez",
+      "ils peignaient"
+    ],
+    "plus que parfait": [
+      "j'avais peint",
+      "tu avais peint",
+      "il avait peint",
+      "nous avions peint",
+      "vous aviez peint",
+      "ils avaient peint"
+    ],
+    "passé simple": [
+      "je peignis",
+      "tu peignis",
+      "il peignit",
+      "nous peignîmes",
+      "vous peignîtes",
+      "ils peignirent"
+    ],
+    "passé antérieur": [
+      "j'eus peint",
+      "tu eus peint",
+      "il eut peint",
+      "nous eûmes peint",
+      "vous eûtes peint",
+      "ils eurent peint"
+    ],
+    "futur simple": [
+      "je peindrai",
+      "tu peindras",
+      "il peindra",
+      "nous peindrons",
+      "vous peindrez",
+      "ils peindront"
+    ],
+    "futur antérieur": [
+      "j'aurai peint",
+      "tu auras peint",
+      "il aura peint",
+      "nous aurons peint",
+      "vous aurez peint",
+      "ils auront peint"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je peigne",
+      "que tu peignes",
+      "qu'il peigne",
+      "que nous peignions",
+      "que vous peigniez",
+      "qu'ils peignent"
+    ],
+    "passé": [
+      "que j'aie peint",
+      "que tu aies peint",
+      "qu'il ait peint",
+      "que nous ayons peint",
+      "que vous ayez peint",
+      "qu'ils aient peint"
+    ],
+    "imparfait": [
+      "que je peignisse",
+      "que tu peignisses",
+      "qu'il peignît",
+      "que nous peignissions",
+      "que vous peignissiez",
+      "qu'ils peignissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse peint",
+      "que tu eusses peint",
+      "qu'il eût peint",
+      "que nous eussions peint",
+      "que vous eussiez peint",
+      "qu'ils eussent peint"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je peindrais",
+      "tu peindrais",
+      "il peindrait",
+      "nous peindrions",
+      "vous peindriez",
+      "ils peindraient"
+    ],
+    "passé": [
+      "j'aurais peint",
+      "tu aurais peint",
+      "il aurait peint",
+      "nous aurions peint",
+      "vous auriez peint",
+      "ils auraient peint"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "peins",
+      "peignons",
+      "peignez"
+    ],
+    "passé": [
+      "aie peint",
+      "ayons peint",
+      "ayez peint"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "peindre"
+    ],
+    "passé": [
+      "avoir peint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "peignant"
+    ],
+    "passé": [
+      "peint",
+      "ayant peint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en peignant"
+    ],
+    "passé": [
+      "en ayant peint"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me suspends",
+      "tu te suspends",
+      "il se suspend",
+      "nous nous suspendons",
+      "vous vous suspendez",
+      "ils se suspendent"
+    ],
+    "passé composé": [
+      "je me suis suspendu",
+      "tu t'es suspendu",
+      "il s'est suspendu",
+      "nous nous sommes suspendus",
+      "vous vous êtes suspendus",
+      "ils se sont suspendus"
+    ],
+    "imparfait": [
+      "je me suspendais",
+      "tu te suspendais",
+      "il se suspendait",
+      "nous nous suspendions",
+      "vous vous suspendiez",
+      "ils se suspendaient"
+    ],
+    "plus que parfait": [
+      "je m'étais suspendu",
+      "tu t'étais suspendu",
+      "il s'était suspendu",
+      "nous nous étions suspendus",
+      "vous vous étiez suspendus",
+      "ils s'étaient suspendus"
+    ],
+    "passé simple": [
+      "je me suspendis",
+      "tu te suspendis",
+      "il se suspendit",
+      "nous nous suspendîmes",
+      "vous vous suspendîtes",
+      "ils se suspendirent"
+    ],
+    "passé antérieur": [
+      "je me fus suspendu",
+      "tu te fus suspendu",
+      "il se fut suspendu",
+      "nous nous fûmes suspendus",
+      "vous vous fûtes suspendus",
+      "ils se furent suspendus"
+    ],
+    "futur simple": [
+      "je me suspendrai",
+      "tu te suspendras",
+      "il se suspendra",
+      "nous nous suspendrons",
+      "vous vous suspendrez",
+      "ils se suspendront"
+    ],
+    "futur antérieur": [
+      "je me serai suspendu",
+      "tu te seras suspendu",
+      "il se sera suspendu",
+      "nous nous serons suspendus",
+      "vous vous serez suspendus",
+      "ils se seront suspendus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me suspende",
+      "que tu te suspendes",
+      "qu'il se suspende",
+      "que nous nous suspendions",
+      "que vous vous suspendiez",
+      "qu'ils se suspendent"
+    ],
+    "passé": [
+      "que je me sois suspendu",
+      "que tu te sois suspendu",
+      "qu'il se soit suspendu",
+      "que nous nous soyons suspendus",
+      "que vous vous soyez suspendus",
+      "qu'ils se soient suspendus"
+    ],
+    "imparfait": [
+      "que je me suspendisse",
+      "que tu te suspendisses",
+      "qu'il se suspendît",
+      "que nous nous suspendissions",
+      "que vous vous suspendissiez",
+      "qu'ils se suspendissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse suspendu",
+      "que tu te fusses suspendu",
+      "qu'il se fût suspendu",
+      "que nous nous fussions suspendus",
+      "que vous vous fussiez suspendus",
+      "qu'ils se fussent suspendus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me suspendrais",
+      "tu te suspendrais",
+      "il se suspendrait",
+      "nous nous suspendrions",
+      "vous vous suspendriez",
+      "ils se suspendraient"
+    ],
+    "passé": [
+      "je me serais suspendu",
+      "tu te serais suspendu",
+      "il se serait suspendu",
+      "nous nous serions suspendus",
+      "vous vous seriez suspendus",
+      "ils se seraient suspendus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "suspends-toi",
+      "suspendons-nous",
+      "suspendez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se suspendre"
+    ],
+    "passé": [
+      "s'être suspendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se suspendant"
+    ],
+    "passé": [
+      "-",
+      "s'étant suspendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se suspendant"
+    ],
+    "passé": [
+      "en s'étant suspendu"
+    ]
+  }
+}

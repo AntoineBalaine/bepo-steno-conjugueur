@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je confonds",
+      "tu confonds",
+      "il confond",
+      "nous confondons",
+      "vous confondez",
+      "ils confondent"
+    ],
+    "passé composé": [
+      "j'ai confondu",
+      "tu as confondu",
+      "il a confondu",
+      "nous avons confondu",
+      "vous avez confondu",
+      "ils ont confondu"
+    ],
+    "imparfait": [
+      "je confondais",
+      "tu confondais",
+      "il confondait",
+      "nous confondions",
+      "vous confondiez",
+      "ils confondaient"
+    ],
+    "plus que parfait": [
+      "j'avais confondu",
+      "tu avais confondu",
+      "il avait confondu",
+      "nous avions confondu",
+      "vous aviez confondu",
+      "ils avaient confondu"
+    ],
+    "passé simple": [
+      "je confondis",
+      "tu confondis",
+      "il confondit",
+      "nous confondîmes",
+      "vous confondîtes",
+      "ils confondirent"
+    ],
+    "passé antérieur": [
+      "j'eus confondu",
+      "tu eus confondu",
+      "il eut confondu",
+      "nous eûmes confondu",
+      "vous eûtes confondu",
+      "ils eurent confondu"
+    ],
+    "futur simple": [
+      "je confondrai",
+      "tu confondras",
+      "il confondra",
+      "nous confondrons",
+      "vous confondrez",
+      "ils confondront"
+    ],
+    "futur antérieur": [
+      "j'aurai confondu",
+      "tu auras confondu",
+      "il aura confondu",
+      "nous aurons confondu",
+      "vous aurez confondu",
+      "ils auront confondu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je confonde",
+      "que tu confondes",
+      "qu'il confonde",
+      "que nous confondions",
+      "que vous confondiez",
+      "qu'ils confondent"
+    ],
+    "passé": [
+      "que j'aie confondu",
+      "que tu aies confondu",
+      "qu'il ait confondu",
+      "que nous ayons confondu",
+      "que vous ayez confondu",
+      "qu'ils aient confondu"
+    ],
+    "imparfait": [
+      "que je confondisse",
+      "que tu confondisses",
+      "qu'il confondît",
+      "que nous confondissions",
+      "que vous confondissiez",
+      "qu'ils confondissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse confondu",
+      "que tu eusses confondu",
+      "qu'il eût confondu",
+      "que nous eussions confondu",
+      "que vous eussiez confondu",
+      "qu'ils eussent confondu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je confondrais",
+      "tu confondrais",
+      "il confondrait",
+      "nous confondrions",
+      "vous confondriez",
+      "ils confondraient"
+    ],
+    "passé": [
+      "j'aurais confondu",
+      "tu aurais confondu",
+      "il aurait confondu",
+      "nous aurions confondu",
+      "vous auriez confondu",
+      "ils auraient confondu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "confonds",
+      "confondons",
+      "confondez"
+    ],
+    "passé": [
+      "aie confondu",
+      "ayons confondu",
+      "ayez confondu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "confondre"
+    ],
+    "passé": [
+      "avoir confondu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "confondant"
+    ],
+    "passé": [
+      "confondu",
+      "ayant confondu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en confondant"
+    ],
+    "passé": [
+      "en ayant confondu"
+    ]
+  }
+}

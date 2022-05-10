@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je mécrois",
+      "tu mécrois",
+      "il mécroit",
+      "nous mécroyons",
+      "vous mécroyez",
+      "ils mécroient"
+    ],
+    "passé composé": [
+      "j'ai mécru",
+      "tu as mécru",
+      "il a mécru",
+      "nous avons mécru",
+      "vous avez mécru",
+      "ils ont mécru"
+    ],
+    "imparfait": [
+      "je mécroyais",
+      "tu mécroyais",
+      "il mécroyait",
+      "nous mécroyions",
+      "vous mécroyiez",
+      "ils mécroyaient"
+    ],
+    "plus que parfait": [
+      "j'avais mécru",
+      "tu avais mécru",
+      "il avait mécru",
+      "nous avions mécru",
+      "vous aviez mécru",
+      "ils avaient mécru"
+    ],
+    "passé simple": [
+      "je mécrus",
+      "tu mécrus",
+      "il mécrut",
+      "nous mécrûmes",
+      "vous mécrûtes",
+      "ils mécrurent"
+    ],
+    "passé antérieur": [
+      "j'eus mécru",
+      "tu eus mécru",
+      "il eut mécru",
+      "nous eûmes mécru",
+      "vous eûtes mécru",
+      "ils eurent mécru"
+    ],
+    "futur simple": [
+      "je mécroirai",
+      "tu mécroiras",
+      "il mécroira",
+      "nous mécroirons",
+      "vous mécroirez",
+      "ils mécroiront"
+    ],
+    "futur antérieur": [
+      "j'aurai mécru",
+      "tu auras mécru",
+      "il aura mécru",
+      "nous aurons mécru",
+      "vous aurez mécru",
+      "ils auront mécru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je mécroie",
+      "que tu mécroies",
+      "qu'il mécroie",
+      "que nous mécroyions",
+      "que vous mécroyiez",
+      "qu'ils mécroient"
+    ],
+    "passé": [
+      "que j'aie mécru",
+      "que tu aies mécru",
+      "qu'il ait mécru",
+      "que nous ayons mécru",
+      "que vous ayez mécru",
+      "qu'ils aient mécru"
+    ],
+    "imparfait": [
+      "que je mécrusse",
+      "que tu mécrusses",
+      "qu'il mécrût",
+      "que nous mécrussions",
+      "que vous mécrussiez",
+      "qu'ils mécrussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse mécru",
+      "que tu eusses mécru",
+      "qu'il eût mécru",
+      "que nous eussions mécru",
+      "que vous eussiez mécru",
+      "qu'ils eussent mécru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je mécroirais",
+      "tu mécroirais",
+      "il mécroirait",
+      "nous mécroirions",
+      "vous mécroiriez",
+      "ils mécroiraient"
+    ],
+    "passé": [
+      "j'aurais mécru",
+      "tu aurais mécru",
+      "il aurait mécru",
+      "nous aurions mécru",
+      "vous auriez mécru",
+      "ils auraient mécru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mécrois",
+      "mécroyons",
+      "mécroyez"
+    ],
+    "passé": [
+      "aie mécru",
+      "ayons mécru",
+      "ayez mécru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "mécroire"
+    ],
+    "passé": [
+      "avoir mécru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "mécroyant"
+    ],
+    "passé": [
+      "mécru",
+      "ayant mécru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en mécroyant"
+    ],
+    "passé": [
+      "en ayant mécru"
+    ]
+  }
+}

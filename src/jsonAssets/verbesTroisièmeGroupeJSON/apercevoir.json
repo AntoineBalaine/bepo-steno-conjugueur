@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'aperçois",
+      "tu aperçois",
+      "il aperçoit",
+      "nous apercevons",
+      "vous apercevez",
+      "ils aperçoivent"
+    ],
+    "passé composé": [
+      "j'ai aperçu",
+      "tu as aperçu",
+      "il a aperçu",
+      "nous avons aperçu",
+      "vous avez aperçu",
+      "ils ont aperçu"
+    ],
+    "imparfait": [
+      "j'apercevais",
+      "tu apercevais",
+      "il apercevait",
+      "nous apercevions",
+      "vous aperceviez",
+      "ils apercevaient"
+    ],
+    "plus que parfait": [
+      "j'avais aperçu",
+      "tu avais aperçu",
+      "il avait aperçu",
+      "nous avions aperçu",
+      "vous aviez aperçu",
+      "ils avaient aperçu"
+    ],
+    "passé simple": [
+      "j'aperçus",
+      "tu aperçus",
+      "il aperçut",
+      "nous aperçûmes",
+      "vous aperçûtes",
+      "ils aperçurent"
+    ],
+    "passé antérieur": [
+      "j'eus aperçu",
+      "tu eus aperçu",
+      "il eut aperçu",
+      "nous eûmes aperçu",
+      "vous eûtes aperçu",
+      "ils eurent aperçu"
+    ],
+    "futur simple": [
+      "j'apercevrai",
+      "tu apercevras",
+      "il apercevra",
+      "nous apercevrons",
+      "vous apercevrez",
+      "ils apercevront"
+    ],
+    "futur antérieur": [
+      "j'aurai aperçu",
+      "tu auras aperçu",
+      "il aura aperçu",
+      "nous aurons aperçu",
+      "vous aurez aperçu",
+      "ils auront aperçu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'aperçoive",
+      "que tu aperçoives",
+      "qu'il aperçoive",
+      "que nous apercevions",
+      "que vous aperceviez",
+      "qu'ils aperçoivent"
+    ],
+    "passé": [
+      "que j'aie aperçu",
+      "que tu aies aperçu",
+      "qu'il ait aperçu",
+      "que nous ayons aperçu",
+      "que vous ayez aperçu",
+      "qu'ils aient aperçu"
+    ],
+    "imparfait": [
+      "que j'aperçusse",
+      "que tu aperçusses",
+      "qu'il aperçût",
+      "que nous aperçussions",
+      "que vous aperçussiez",
+      "qu'ils aperçussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse aperçu",
+      "que tu eusses aperçu",
+      "qu'il eût aperçu",
+      "que nous eussions aperçu",
+      "que vous eussiez aperçu",
+      "qu'ils eussent aperçu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'apercevrais",
+      "tu apercevrais",
+      "il apercevrait",
+      "nous apercevrions",
+      "vous apercevriez",
+      "ils apercevraient"
+    ],
+    "passé": [
+      "j'aurais aperçu",
+      "tu aurais aperçu",
+      "il aurait aperçu",
+      "nous aurions aperçu",
+      "vous auriez aperçu",
+      "ils auraient aperçu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "aperçois",
+      "apercevons",
+      "apercevez"
+    ],
+    "passé": [
+      "aie aperçu",
+      "ayons aperçu",
+      "ayez aperçu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "apercevoir"
+    ],
+    "passé": [
+      "avoir aperçu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "apercevant"
+    ],
+    "passé": [
+      "aperçu",
+      "ayant aperçu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en apercevant"
+    ],
+    "passé": [
+      "en ayant aperçu"
+    ]
+  }
+}

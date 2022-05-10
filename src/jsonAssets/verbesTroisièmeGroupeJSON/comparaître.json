@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je comparais",
+      "tu comparais",
+      "il comparaît",
+      "nous comparaissons",
+      "vous comparaissez",
+      "ils comparaissent"
+    ],
+    "passé composé": [
+      "j'ai comparu",
+      "tu as comparu",
+      "il a comparu",
+      "nous avons comparu",
+      "vous avez comparu",
+      "ils ont comparu"
+    ],
+    "imparfait": [
+      "je comparaissais",
+      "tu comparaissais",
+      "il comparaissait",
+      "nous comparaissions",
+      "vous comparaissiez",
+      "ils comparaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais comparu",
+      "tu avais comparu",
+      "il avait comparu",
+      "nous avions comparu",
+      "vous aviez comparu",
+      "ils avaient comparu"
+    ],
+    "passé simple": [
+      "je comparus",
+      "tu comparus",
+      "il comparut",
+      "nous comparûmes",
+      "vous comparûtes",
+      "ils comparurent"
+    ],
+    "passé antérieur": [
+      "j'eus comparu",
+      "tu eus comparu",
+      "il eut comparu",
+      "nous eûmes comparu",
+      "vous eûtes comparu",
+      "ils eurent comparu"
+    ],
+    "futur simple": [
+      "je comparaîtrai",
+      "tu comparaîtras",
+      "il comparaîtra",
+      "nous comparaîtrons",
+      "vous comparaîtrez",
+      "ils comparaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai comparu",
+      "tu auras comparu",
+      "il aura comparu",
+      "nous aurons comparu",
+      "vous aurez comparu",
+      "ils auront comparu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je comparaisse",
+      "que tu comparaisses",
+      "qu'il comparaisse",
+      "que nous comparaissions",
+      "que vous comparaissiez",
+      "qu'ils comparaissent"
+    ],
+    "passé": [
+      "que j'aie comparu",
+      "que tu aies comparu",
+      "qu'il ait comparu",
+      "que nous ayons comparu",
+      "que vous ayez comparu",
+      "qu'ils aient comparu"
+    ],
+    "imparfait": [
+      "que je comparusse",
+      "que tu comparusses",
+      "qu'il comparût",
+      "que nous comparussions",
+      "que vous comparussiez",
+      "qu'ils comparussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse comparu",
+      "que tu eusses comparu",
+      "qu'il eût comparu",
+      "que nous eussions comparu",
+      "que vous eussiez comparu",
+      "qu'ils eussent comparu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je comparaîtrais",
+      "tu comparaîtrais",
+      "il comparaîtrait",
+      "nous comparaîtrions",
+      "vous comparaîtriez",
+      "ils comparaîtraient"
+    ],
+    "passé": [
+      "j'aurais comparu",
+      "tu aurais comparu",
+      "il aurait comparu",
+      "nous aurions comparu",
+      "vous auriez comparu",
+      "ils auraient comparu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "comparais",
+      "comparaissons",
+      "comparaissez"
+    ],
+    "passé": [
+      "aie comparu",
+      "ayons comparu",
+      "ayez comparu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "comparaître"
+    ],
+    "passé": [
+      "avoir comparu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "comparaissant"
+    ],
+    "passé": [
+      "comparu",
+      "ayant comparu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en comparaissant"
+    ],
+    "passé": [
+      "en ayant comparu"
+    ]
+  }
+}

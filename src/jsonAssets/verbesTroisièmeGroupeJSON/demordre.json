@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je démords",
+      "tu démords",
+      "il démord",
+      "nous démordons",
+      "vous démordez",
+      "ils démordent"
+    ],
+    "passé composé": [
+      "j'ai démordu",
+      "tu as démordu",
+      "il a démordu",
+      "nous avons démordu",
+      "vous avez démordu",
+      "ils ont démordu"
+    ],
+    "imparfait": [
+      "je démordais",
+      "tu démordais",
+      "il démordait",
+      "nous démordions",
+      "vous démordiez",
+      "ils démordaient"
+    ],
+    "plus que parfait": [
+      "j'avais démordu",
+      "tu avais démordu",
+      "il avait démordu",
+      "nous avions démordu",
+      "vous aviez démordu",
+      "ils avaient démordu"
+    ],
+    "passé simple": [
+      "je démordis",
+      "tu démordis",
+      "il démordit",
+      "nous démordîmes",
+      "vous démordîtes",
+      "ils démordirent"
+    ],
+    "passé antérieur": [
+      "j'eus démordu",
+      "tu eus démordu",
+      "il eut démordu",
+      "nous eûmes démordu",
+      "vous eûtes démordu",
+      "ils eurent démordu"
+    ],
+    "futur simple": [
+      "je démordrai",
+      "tu démordras",
+      "il démordra",
+      "nous démordrons",
+      "vous démordrez",
+      "ils démordront"
+    ],
+    "futur antérieur": [
+      "j'aurai démordu",
+      "tu auras démordu",
+      "il aura démordu",
+      "nous aurons démordu",
+      "vous aurez démordu",
+      "ils auront démordu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je démorde",
+      "que tu démordes",
+      "qu'il démorde",
+      "que nous démordions",
+      "que vous démordiez",
+      "qu'ils démordent"
+    ],
+    "passé": [
+      "que j'aie démordu",
+      "que tu aies démordu",
+      "qu'il ait démordu",
+      "que nous ayons démordu",
+      "que vous ayez démordu",
+      "qu'ils aient démordu"
+    ],
+    "imparfait": [
+      "que je démordisse",
+      "que tu démordisses",
+      "qu'il démordît",
+      "que nous démordissions",
+      "que vous démordissiez",
+      "qu'ils démordissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse démordu",
+      "que tu eusses démordu",
+      "qu'il eût démordu",
+      "que nous eussions démordu",
+      "que vous eussiez démordu",
+      "qu'ils eussent démordu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je démordrais",
+      "tu démordrais",
+      "il démordrait",
+      "nous démordrions",
+      "vous démordriez",
+      "ils démordraient"
+    ],
+    "passé": [
+      "j'aurais démordu",
+      "tu aurais démordu",
+      "il aurait démordu",
+      "nous aurions démordu",
+      "vous auriez démordu",
+      "ils auraient démordu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "démords",
+      "démordons",
+      "démordez"
+    ],
+    "passé": [
+      "aie démordu",
+      "ayons démordu",
+      "ayez démordu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "démordre"
+    ],
+    "passé": [
+      "avoir démordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "démordant"
+    ],
+    "passé": [
+      "démordu",
+      "ayant démordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en démordant"
+    ],
+    "passé": [
+      "en ayant démordu"
+    ]
+  }
+}

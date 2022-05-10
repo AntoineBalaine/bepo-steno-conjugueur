@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'oins",
+      "tu t'oins",
+      "il s'oint",
+      "nous nous oignons",
+      "vous vous oignez",
+      "ils s'oignent"
+    ],
+    "passé composé": [
+      "je me suis oint",
+      "tu t'es oint",
+      "il s'est oint",
+      "nous nous sommes oints",
+      "vous vous êtes oints",
+      "ils se sont oints"
+    ],
+    "imparfait": [
+      "je m'oignais",
+      "tu t'oignais",
+      "il s'oignait",
+      "nous nous oignions",
+      "vous vous oigniez",
+      "ils s'oignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais oint",
+      "tu t'étais oint",
+      "il s'était oint",
+      "nous nous étions oints",
+      "vous vous étiez oints",
+      "ils s'étaient oints"
+    ],
+    "passé simple": [
+      "je m'oignis",
+      "tu t'oignis",
+      "il s'oignit",
+      "nous nous oignîmes",
+      "vous vous oignîtes",
+      "ils s'oignirent"
+    ],
+    "passé antérieur": [
+      "je me fus oint",
+      "tu te fus oint",
+      "il se fut oint",
+      "nous nous fûmes oints",
+      "vous vous fûtes oints",
+      "ils se furent oints"
+    ],
+    "futur simple": [
+      "je m'oindrai",
+      "tu t'oindras",
+      "il s'oindra",
+      "nous nous oindrons",
+      "vous vous oindrez",
+      "ils s'oindront"
+    ],
+    "futur antérieur": [
+      "je me serai oint",
+      "tu te seras oint",
+      "il se sera oint",
+      "nous nous serons oints",
+      "vous vous serez oints",
+      "ils se seront oints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'oigne",
+      "que tu t'oignes",
+      "qu'il s'oigne",
+      "que nous nous oignions",
+      "que vous vous oigniez",
+      "qu'ils s'oignent"
+    ],
+    "passé": [
+      "que je me sois oint",
+      "que tu te sois oint",
+      "qu'il se soit oint",
+      "que nous nous soyons oints",
+      "que vous vous soyez oints",
+      "qu'ils se soient oints"
+    ],
+    "imparfait": [
+      "que je m'oignisse",
+      "que tu t'oignisses",
+      "qu'il s'oignît",
+      "que nous nous oignissions",
+      "que vous vous oignissiez",
+      "qu'ils s'oignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse oint",
+      "que tu te fusses oint",
+      "qu'il se fût oint",
+      "que nous nous fussions oints",
+      "que vous vous fussiez oints",
+      "qu'ils se fussent oints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'oindrais",
+      "tu t'oindrais",
+      "il s'oindrait",
+      "nous nous oindrions",
+      "vous vous oindriez",
+      "ils s'oindraient"
+    ],
+    "passé": [
+      "je me serais oint",
+      "tu te serais oint",
+      "il se serait oint",
+      "nous nous serions oints",
+      "vous vous seriez oints",
+      "ils se seraient oints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "oins-toi",
+      "oignons-nous",
+      "oignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'oindre"
+    ],
+    "passé": [
+      "s'être oint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'oignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant oint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'oignant"
+    ],
+    "passé": [
+      "en s'étant oint"
+    ]
+  }
+}

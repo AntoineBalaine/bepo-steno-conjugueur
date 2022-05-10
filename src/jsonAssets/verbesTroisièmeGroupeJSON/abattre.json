@@ -1,0 +1,158 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'abats",
+      "tu abats",
+      "il abat",
+      "nous abattons",
+      "vous abattez",
+      "ils abattent"
+    ],
+    "passé composé": [
+      "j'ai abattu",
+      "tu as abattu",
+      "il a abattu",
+      "nous avons abattu",
+      "vous avez abattu",
+      "ils ont abattu"
+    ],
+    "imparfait": [
+      "j'abattais",
+      "tu abattais",
+      "il abattait",
+      "nous abattions",
+      "vous abattiez",
+      "ils abattaient"
+    ],
+    "plus que parfait": [
+      "j'avais abattu",
+      "tu avais abattu",
+      "il avait abattu",
+      "nous avions abattu",
+      "vous aviez abattu",
+      "ils avaient abattu"
+    ],
+    "passé simple": [
+      "j'abattis",
+      "tu abattis",
+      "il abattit",
+      "nous abattîmes",
+      "vous abattîtes",
+      "ils abattirent"
+    ],
+    "passé antérieur": [
+      "j'eus abattu",
+      "tu eus abattu",
+      "il eut abattu",
+      "nous eûmes abattu",
+      "vous eûtes abattu",
+      "ils eurent abattu"
+    ],
+    "futur simple": [
+      "j'abattrai",
+      "tu abattras",
+      "il abattra",
+      "nous abattrons",
+      "vous abattrez",
+      "ils abattront"
+    ],
+    "futur antérieur": [
+      "j'aurai abattu",
+      "tu auras abattu",
+      "il aura abattu",
+      "nous aurons abattu",
+      "vous aurez abattu",
+      "ils auront abattu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'abatte",
+      "que tu abattes",
+      "qu'il abatte",
+      "que nous abattions",
+      "que vous abattiez",
+      "qu'ils abattent"
+    ],
+    "passé": [
+      "que j'aie abattu",
+      "que tu aies abattu",
+      "qu'il ait abattu",
+      "que nous ayons abattu",
+      "que vous ayez abattu",
+      "qu'ils aient abattu"
+    ],
+    "imparfait": [
+      "que j'abattisse",
+      "que tu abattisses",
+      "qu'il abattît",
+      "que nous abattissions",
+      "que vous abattissiez",
+      "qu'ils abattissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse abattu",
+      "que tu eusses abattu",
+      "qu'il eût abattu",
+      "que nous eussions abattu",
+      "que vous eussiez abattu",
+      "qu'ils eussent abattu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'abattrais",
+      "tu abattrais",
+      "il abattrait",
+      "nous abattrions",
+      "vous abattriez",
+      "ils abattraient"
+    ],
+    "passé": [
+      "j'aurais abattu",
+      "tu aurais abattu",
+      "il aurait abattu",
+      "nous aurions abattu",
+      "vous auriez abattu",
+      "ils auraient abattu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "abats",
+      "abattons",
+      "abattez"
+    ],
+    "passé": [
+      "aie abattu",
+      "ayons abattu",
+      "ayez abattu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "abattre"
+    ],
+    "passé": [
+      "avoir abattu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "abattant"
+    ],
+    "passé": [
+      "abattu",
+      "ayant abattu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en abattant"
+    ],
+    "passé": [
+      "en ayant abattu"
+    ]
+  }
+}
+

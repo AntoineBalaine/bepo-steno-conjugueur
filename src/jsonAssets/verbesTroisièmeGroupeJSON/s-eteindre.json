@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'éteins",
+      "tu t'éteins",
+      "il s'éteint",
+      "nous nous éteignons",
+      "vous vous éteignez",
+      "ils s'éteignent"
+    ],
+    "passé composé": [
+      "je me suis éteint",
+      "tu t'es éteint",
+      "il s'est éteint",
+      "nous nous sommes éteints",
+      "vous vous êtes éteints",
+      "ils se sont éteints"
+    ],
+    "imparfait": [
+      "je m'éteignais",
+      "tu t'éteignais",
+      "il s'éteignait",
+      "nous nous éteignions",
+      "vous vous éteigniez",
+      "ils s'éteignaient"
+    ],
+    "plus que parfait": [
+      "je m'étais éteint",
+      "tu t'étais éteint",
+      "il s'était éteint",
+      "nous nous étions éteints",
+      "vous vous étiez éteints",
+      "ils s'étaient éteints"
+    ],
+    "passé simple": [
+      "je m'éteignis",
+      "tu t'éteignis",
+      "il s'éteignit",
+      "nous nous éteignîmes",
+      "vous vous éteignîtes",
+      "ils s'éteignirent"
+    ],
+    "passé antérieur": [
+      "je me fus éteint",
+      "tu te fus éteint",
+      "il se fut éteint",
+      "nous nous fûmes éteints",
+      "vous vous fûtes éteints",
+      "ils se furent éteints"
+    ],
+    "futur simple": [
+      "je m'éteindrai",
+      "tu t'éteindras",
+      "il s'éteindra",
+      "nous nous éteindrons",
+      "vous vous éteindrez",
+      "ils s'éteindront"
+    ],
+    "futur antérieur": [
+      "je me serai éteint",
+      "tu te seras éteint",
+      "il se sera éteint",
+      "nous nous serons éteints",
+      "vous vous serez éteints",
+      "ils se seront éteints"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'éteigne",
+      "que tu t'éteignes",
+      "qu'il s'éteigne",
+      "que nous nous éteignions",
+      "que vous vous éteigniez",
+      "qu'ils s'éteignent"
+    ],
+    "passé": [
+      "que je me sois éteint",
+      "que tu te sois éteint",
+      "qu'il se soit éteint",
+      "que nous nous soyons éteints",
+      "que vous vous soyez éteints",
+      "qu'ils se soient éteints"
+    ],
+    "imparfait": [
+      "que je m'éteignisse",
+      "que tu t'éteignisses",
+      "qu'il s'éteignît",
+      "que nous nous éteignissions",
+      "que vous vous éteignissiez",
+      "qu'ils s'éteignissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse éteint",
+      "que tu te fusses éteint",
+      "qu'il se fût éteint",
+      "que nous nous fussions éteints",
+      "que vous vous fussiez éteints",
+      "qu'ils se fussent éteints"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'éteindrais",
+      "tu t'éteindrais",
+      "il s'éteindrait",
+      "nous nous éteindrions",
+      "vous vous éteindriez",
+      "ils s'éteindraient"
+    ],
+    "passé": [
+      "je me serais éteint",
+      "tu te serais éteint",
+      "il se serait éteint",
+      "nous nous serions éteints",
+      "vous vous seriez éteints",
+      "ils se seraient éteints"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "éteins-toi",
+      "éteignons-nous",
+      "éteignez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'éteindre"
+    ],
+    "passé": [
+      "s'être éteint"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'éteignant"
+    ],
+    "passé": [
+      "-",
+      "s'étant éteint"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'éteignant"
+    ],
+    "passé": [
+      "en s'étant éteint"
+    ]
+  }
+}

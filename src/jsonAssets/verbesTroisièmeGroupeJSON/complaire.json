@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je complais",
+      "tu complais",
+      "il complaît",
+      "nous complaisons",
+      "vous complaisez",
+      "ils complaisent"
+    ],
+    "passé composé": [
+      "j'ai complu",
+      "tu as complu",
+      "il a complu",
+      "nous avons complu",
+      "vous avez complu",
+      "ils ont complu"
+    ],
+    "imparfait": [
+      "je complaisais",
+      "tu complaisais",
+      "il complaisait",
+      "nous complaisions",
+      "vous complaisiez",
+      "ils complaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais complu",
+      "tu avais complu",
+      "il avait complu",
+      "nous avions complu",
+      "vous aviez complu",
+      "ils avaient complu"
+    ],
+    "passé simple": [
+      "je complus",
+      "tu complus",
+      "il complut",
+      "nous complûmes",
+      "vous complûtes",
+      "ils complurent"
+    ],
+    "passé antérieur": [
+      "j'eus complu",
+      "tu eus complu",
+      "il eut complu",
+      "nous eûmes complu",
+      "vous eûtes complu",
+      "ils eurent complu"
+    ],
+    "futur simple": [
+      "je complairai",
+      "tu complairas",
+      "il complaira",
+      "nous complairons",
+      "vous complairez",
+      "ils complairont"
+    ],
+    "futur antérieur": [
+      "j'aurai complu",
+      "tu auras complu",
+      "il aura complu",
+      "nous aurons complu",
+      "vous aurez complu",
+      "ils auront complu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je complaise",
+      "que tu complaises",
+      "qu'il complaise",
+      "que nous complaisions",
+      "que vous complaisiez",
+      "qu'ils complaisent"
+    ],
+    "passé": [
+      "que j'aie complu",
+      "que tu aies complu",
+      "qu'il ait complu",
+      "que nous ayons complu",
+      "que vous ayez complu",
+      "qu'ils aient complu"
+    ],
+    "imparfait": [
+      "que je complusse",
+      "que tu complusses",
+      "qu'il complût",
+      "que nous complussions",
+      "que vous complussiez",
+      "qu'ils complussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse complu",
+      "que tu eusses complu",
+      "qu'il eût complu",
+      "que nous eussions complu",
+      "que vous eussiez complu",
+      "qu'ils eussent complu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je complairais",
+      "tu complairais",
+      "il complairait",
+      "nous complairions",
+      "vous complairiez",
+      "ils complairaient"
+    ],
+    "passé": [
+      "j'aurais complu",
+      "tu aurais complu",
+      "il aurait complu",
+      "nous aurions complu",
+      "vous auriez complu",
+      "ils auraient complu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "complais",
+      "complaisons",
+      "complaisez"
+    ],
+    "passé": [
+      "aie complu",
+      "ayons complu",
+      "ayez complu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "complaire"
+    ],
+    "passé": [
+      "avoir complu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "complaisant"
+    ],
+    "passé": [
+      "complu",
+      "ayant complu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en complaisant"
+    ],
+    "passé": [
+      "en ayant complu"
+    ]
+  }
+}

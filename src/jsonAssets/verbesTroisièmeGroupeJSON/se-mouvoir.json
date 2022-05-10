@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me meus",
+      "tu te meus",
+      "il se meut",
+      "nous nous mouvons",
+      "vous vous mouvez",
+      "ils se meuvent"
+    ],
+    "passé composé": [
+      "je me suis mû",
+      "tu t'es mû",
+      "il s'est mû",
+      "nous nous sommes mûs",
+      "vous vous êtes mûs",
+      "ils se sont mûs"
+    ],
+    "imparfait": [
+      "je me mouvais",
+      "tu te mouvais",
+      "il se mouvait",
+      "nous nous mouvions",
+      "vous vous mouviez",
+      "ils se mouvaient"
+    ],
+    "plus que parfait": [
+      "je m'étais mû",
+      "tu t'étais mû",
+      "il s'était mû",
+      "nous nous étions mûs",
+      "vous vous étiez mûs",
+      "ils s'étaient mûs"
+    ],
+    "passé simple": [
+      "je me mus",
+      "tu te mus",
+      "il se mut",
+      "nous nous mûmes",
+      "vous vous mûtes",
+      "ils se murent"
+    ],
+    "passé antérieur": [
+      "je me fus mû",
+      "tu te fus mû",
+      "il se fut mû",
+      "nous nous fûmes mûs",
+      "vous vous fûtes mûs",
+      "ils se furent mûs"
+    ],
+    "futur simple": [
+      "je me mouvrai",
+      "tu te mouvras",
+      "il se mouvra",
+      "nous nous mouvrons",
+      "vous vous mouvrez",
+      "ils se mouvront"
+    ],
+    "futur antérieur": [
+      "je me serai mû",
+      "tu te seras mû",
+      "il se sera mû",
+      "nous nous serons mûs",
+      "vous vous serez mûs",
+      "ils se seront mûs"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me meuve",
+      "que tu te meuves",
+      "qu'il se meuve",
+      "que nous nous mouvions",
+      "que vous vous mouviez",
+      "qu'ils se meuvent"
+    ],
+    "passé": [
+      "que je me sois mû",
+      "que tu te sois mû",
+      "qu'il se soit mû",
+      "que nous nous soyons mûs",
+      "que vous vous soyez mûs",
+      "qu'ils se soient mûs"
+    ],
+    "imparfait": [
+      "que je me musse",
+      "que tu te musses",
+      "qu'il se mût",
+      "que nous nous mussions",
+      "que vous vous mussiez",
+      "qu'ils se mussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse mû",
+      "que tu te fusses mû",
+      "qu'il se fût mû",
+      "que nous nous fussions mûs",
+      "que vous vous fussiez mûs",
+      "qu'ils se fussent mûs"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me mouvrais",
+      "tu te mouvrais",
+      "il se mouvrait",
+      "nous nous mouvrions",
+      "vous vous mouvriez",
+      "ils se mouvraient"
+    ],
+    "passé": [
+      "je me serais mû",
+      "tu te serais mû",
+      "il se serait mû",
+      "nous nous serions mûs",
+      "vous vous seriez mûs",
+      "ils se seraient mûs"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "meus-toi",
+      "mouvons-nous",
+      "mouvez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se mouvoir"
+    ],
+    "passé": [
+      "s'être mû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se mouvant"
+    ],
+    "passé": [
+      "-",
+      "s'étant mû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se mouvant"
+    ],
+    "passé": [
+      "en s'étant mû"
+    ]
+  }
+}

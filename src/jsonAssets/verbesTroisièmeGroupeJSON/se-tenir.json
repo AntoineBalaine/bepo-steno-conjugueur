@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me tiens",
+      "tu te tiens",
+      "il se tient",
+      "nous nous tenons",
+      "vous vous tenez",
+      "ils se tiennent"
+    ],
+    "passé composé": [
+      "je me suis tenu",
+      "tu t'es tenu",
+      "il s'est tenu",
+      "nous nous sommes tenus",
+      "vous vous êtes tenus",
+      "ils se sont tenus"
+    ],
+    "imparfait": [
+      "je me tenais",
+      "tu te tenais",
+      "il se tenait",
+      "nous nous tenions",
+      "vous vous teniez",
+      "ils se tenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais tenu",
+      "tu t'étais tenu",
+      "il s'était tenu",
+      "nous nous étions tenus",
+      "vous vous étiez tenus",
+      "ils s'étaient tenus"
+    ],
+    "passé simple": [
+      "je me tins",
+      "tu te tins",
+      "il se tint",
+      "nous nous tînmes",
+      "vous vous tîntes",
+      "ils se tinrent"
+    ],
+    "passé antérieur": [
+      "je me fus tenu",
+      "tu te fus tenu",
+      "il se fut tenu",
+      "nous nous fûmes tenus",
+      "vous vous fûtes tenus",
+      "ils se furent tenus"
+    ],
+    "futur simple": [
+      "je me tiendrai",
+      "tu te tiendras",
+      "il se tiendra",
+      "nous nous tiendrons",
+      "vous vous tiendrez",
+      "ils se tiendront"
+    ],
+    "futur antérieur": [
+      "je me serai tenu",
+      "tu te seras tenu",
+      "il se sera tenu",
+      "nous nous serons tenus",
+      "vous vous serez tenus",
+      "ils se seront tenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me tienne",
+      "que tu te tiennes",
+      "qu'il se tienne",
+      "que nous nous tenions",
+      "que vous vous teniez",
+      "qu'ils se tiennent"
+    ],
+    "passé": [
+      "que je me sois tenu",
+      "que tu te sois tenu",
+      "qu'il se soit tenu",
+      "que nous nous soyons tenus",
+      "que vous vous soyez tenus",
+      "qu'ils se soient tenus"
+    ],
+    "imparfait": [
+      "que je me tinsse",
+      "que tu te tinsses",
+      "qu'il se tînt",
+      "que nous nous tinssions",
+      "que vous vous tinssiez",
+      "qu'ils se tinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse tenu",
+      "que tu te fusses tenu",
+      "qu'il se fût tenu",
+      "que nous nous fussions tenus",
+      "que vous vous fussiez tenus",
+      "qu'ils se fussent tenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me tiendrais",
+      "tu te tiendrais",
+      "il se tiendrait",
+      "nous nous tiendrions",
+      "vous vous tiendriez",
+      "ils se tiendraient"
+    ],
+    "passé": [
+      "je me serais tenu",
+      "tu te serais tenu",
+      "il se serait tenu",
+      "nous nous serions tenus",
+      "vous vous seriez tenus",
+      "ils se seraient tenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "tiens-toi",
+      "tenons-nous",
+      "tenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se tenir"
+    ],
+    "passé": [
+      "s'être tenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se tenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant tenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se tenant"
+    ],
+    "passé": [
+      "en s'étant tenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me démens",
+      "tu te démens",
+      "il se dément",
+      "nous nous démentons",
+      "vous vous démentez",
+      "ils se démentent"
+    ],
+    "passé composé": [
+      "je me suis démenti",
+      "tu t'es démenti",
+      "il s'est démenti",
+      "nous nous sommes démentis",
+      "vous vous êtes démentis",
+      "ils se sont démentis"
+    ],
+    "imparfait": [
+      "je me démentais",
+      "tu te démentais",
+      "il se démentait",
+      "nous nous démentions",
+      "vous vous démentiez",
+      "ils se démentaient"
+    ],
+    "plus que parfait": [
+      "je m'étais démenti",
+      "tu t'étais démenti",
+      "il s'était démenti",
+      "nous nous étions démentis",
+      "vous vous étiez démentis",
+      "ils s'étaient démentis"
+    ],
+    "passé simple": [
+      "je me démentis",
+      "tu te démentis",
+      "il se démentit",
+      "nous nous démentîmes",
+      "vous vous démentîtes",
+      "ils se démentirent"
+    ],
+    "passé antérieur": [
+      "je me fus démenti",
+      "tu te fus démenti",
+      "il se fut démenti",
+      "nous nous fûmes démentis",
+      "vous vous fûtes démentis",
+      "ils se furent démentis"
+    ],
+    "futur simple": [
+      "je me démentirai",
+      "tu te démentiras",
+      "il se démentira",
+      "nous nous démentirons",
+      "vous vous démentirez",
+      "ils se démentiront"
+    ],
+    "futur antérieur": [
+      "je me serai démenti",
+      "tu te seras démenti",
+      "il se sera démenti",
+      "nous nous serons démentis",
+      "vous vous serez démentis",
+      "ils se seront démentis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me démente",
+      "que tu te démentes",
+      "qu'il se démente",
+      "que nous nous démentions",
+      "que vous vous démentiez",
+      "qu'ils se démentent"
+    ],
+    "passé": [
+      "que je me sois démenti",
+      "que tu te sois démenti",
+      "qu'il se soit démenti",
+      "que nous nous soyons démentis",
+      "que vous vous soyez démentis",
+      "qu'ils se soient démentis"
+    ],
+    "imparfait": [
+      "que je me démentisse",
+      "que tu te démentisses",
+      "qu'il se démentît",
+      "que nous nous démentissions",
+      "que vous vous démentissiez",
+      "qu'ils se démentissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse démenti",
+      "que tu te fusses démenti",
+      "qu'il se fût démenti",
+      "que nous nous fussions démentis",
+      "que vous vous fussiez démentis",
+      "qu'ils se fussent démentis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me démentirais",
+      "tu te démentirais",
+      "il se démentirait",
+      "nous nous démentirions",
+      "vous vous démentiriez",
+      "ils se démentiraient"
+    ],
+    "passé": [
+      "je me serais démenti",
+      "tu te serais démenti",
+      "il se serait démenti",
+      "nous nous serions démentis",
+      "vous vous seriez démentis",
+      "ils se seraient démentis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "démens-toi",
+      "démentons-nous",
+      "démentez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se démentir"
+    ],
+    "passé": [
+      "s'être démenti"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se démentant"
+    ],
+    "passé": [
+      "-",
+      "s'étant démenti"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se démentant"
+    ],
+    "passé": [
+      "en s'étant démenti"
+    ]
+  }
+}

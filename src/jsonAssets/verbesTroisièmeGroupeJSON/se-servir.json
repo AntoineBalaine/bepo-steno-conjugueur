@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me sers",
+      "tu te sers",
+      "il se sert",
+      "nous nous servons",
+      "vous vous servez",
+      "ils se servent"
+    ],
+    "passé composé": [
+      "je me suis servi",
+      "tu t'es servi",
+      "il s'est servi",
+      "nous nous sommes servis",
+      "vous vous êtes servis",
+      "ils se sont servis"
+    ],
+    "imparfait": [
+      "je me servais",
+      "tu te servais",
+      "il se servait",
+      "nous nous servions",
+      "vous vous serviez",
+      "ils se servaient"
+    ],
+    "plus que parfait": [
+      "je m'étais servi",
+      "tu t'étais servi",
+      "il s'était servi",
+      "nous nous étions servis",
+      "vous vous étiez servis",
+      "ils s'étaient servis"
+    ],
+    "passé simple": [
+      "je me servis",
+      "tu te servis",
+      "il se servit",
+      "nous nous servîmes",
+      "vous vous servîtes",
+      "ils se servirent"
+    ],
+    "passé antérieur": [
+      "je me fus servi",
+      "tu te fus servi",
+      "il se fut servi",
+      "nous nous fûmes servis",
+      "vous vous fûtes servis",
+      "ils se furent servis"
+    ],
+    "futur simple": [
+      "je me servirai",
+      "tu te serviras",
+      "il se servira",
+      "nous nous servirons",
+      "vous vous servirez",
+      "ils se serviront"
+    ],
+    "futur antérieur": [
+      "je me serai servi",
+      "tu te seras servi",
+      "il se sera servi",
+      "nous nous serons servis",
+      "vous vous serez servis",
+      "ils se seront servis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me serve",
+      "que tu te serves",
+      "qu'il se serve",
+      "que nous nous servions",
+      "que vous vous serviez",
+      "qu'ils se servent"
+    ],
+    "passé": [
+      "que je me sois servi",
+      "que tu te sois servi",
+      "qu'il se soit servi",
+      "que nous nous soyons servis",
+      "que vous vous soyez servis",
+      "qu'ils se soient servis"
+    ],
+    "imparfait": [
+      "que je me servisse",
+      "que tu te servisses",
+      "qu'il se servît",
+      "que nous nous servissions",
+      "que vous vous servissiez",
+      "qu'ils se servissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse servi",
+      "que tu te fusses servi",
+      "qu'il se fût servi",
+      "que nous nous fussions servis",
+      "que vous vous fussiez servis",
+      "qu'ils se fussent servis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me servirais",
+      "tu te servirais",
+      "il se servirait",
+      "nous nous servirions",
+      "vous vous serviriez",
+      "ils se serviraient"
+    ],
+    "passé": [
+      "je me serais servi",
+      "tu te serais servi",
+      "il se serait servi",
+      "nous nous serions servis",
+      "vous vous seriez servis",
+      "ils se seraient servis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "sers-toi",
+      "servons-nous",
+      "servez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se servir"
+    ],
+    "passé": [
+      "s'être servi"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se servant"
+    ],
+    "passé": [
+      "-",
+      "s'étant servi"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se servant"
+    ],
+    "passé": [
+      "en s'étant servi"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je débous",
+      "tu débous",
+      "il débout",
+      "nous débouillons",
+      "vous débouillez",
+      "ils débouillent"
+    ],
+    "passé composé": [
+      "j'ai débouilli",
+      "tu as débouilli",
+      "il a débouilli",
+      "nous avons débouilli",
+      "vous avez débouilli",
+      "ils ont débouilli"
+    ],
+    "imparfait": [
+      "je débouillais",
+      "tu débouillais",
+      "il débouillait",
+      "nous débouillions",
+      "vous débouilliez",
+      "ils débouillaient"
+    ],
+    "plus que parfait": [
+      "j'avais débouilli",
+      "tu avais débouilli",
+      "il avait débouilli",
+      "nous avions débouilli",
+      "vous aviez débouilli",
+      "ils avaient débouilli"
+    ],
+    "passé simple": [
+      "je débouillis",
+      "tu débouillis",
+      "il débouillit",
+      "nous débouillîmes",
+      "vous débouillîtes",
+      "ils débouillirent"
+    ],
+    "passé antérieur": [
+      "j'eus débouilli",
+      "tu eus débouilli",
+      "il eut débouilli",
+      "nous eûmes débouilli",
+      "vous eûtes débouilli",
+      "ils eurent débouilli"
+    ],
+    "futur simple": [
+      "je débouillirai",
+      "tu débouilliras",
+      "il débouillira",
+      "nous débouillirons",
+      "vous débouillirez",
+      "ils débouilliront"
+    ],
+    "futur antérieur": [
+      "j'aurai débouilli",
+      "tu auras débouilli",
+      "il aura débouilli",
+      "nous aurons débouilli",
+      "vous aurez débouilli",
+      "ils auront débouilli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je débouille",
+      "que tu débouilles",
+      "qu'il débouille",
+      "que nous débouillions",
+      "que vous débouilliez",
+      "qu'ils débouillent"
+    ],
+    "passé": [
+      "que j'aie débouilli",
+      "que tu aies débouilli",
+      "qu'il ait débouilli",
+      "que nous ayons débouilli",
+      "que vous ayez débouilli",
+      "qu'ils aient débouilli"
+    ],
+    "imparfait": [
+      "que je débouillisse",
+      "que tu débouillisses",
+      "qu'il débouillît",
+      "que nous débouillissions",
+      "que vous débouillissiez",
+      "qu'ils débouillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse débouilli",
+      "que tu eusses débouilli",
+      "qu'il eût débouilli",
+      "que nous eussions débouilli",
+      "que vous eussiez débouilli",
+      "qu'ils eussent débouilli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je débouillirais",
+      "tu débouillirais",
+      "il débouillirait",
+      "nous débouillirions",
+      "vous débouilliriez",
+      "ils débouilliraient"
+    ],
+    "passé": [
+      "j'aurais débouilli",
+      "tu aurais débouilli",
+      "il aurait débouilli",
+      "nous aurions débouilli",
+      "vous auriez débouilli",
+      "ils auraient débouilli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "débous",
+      "débouillons",
+      "débouillez"
+    ],
+    "passé": [
+      "aie débouilli",
+      "ayons débouilli",
+      "ayez débouilli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "débouillir"
+    ],
+    "passé": [
+      "avoir débouilli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "débouillant"
+    ],
+    "passé": [
+      "débouilli",
+      "ayant débouilli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en débouillant"
+    ],
+    "passé": [
+      "en ayant débouilli"
+    ]
+  }
+}

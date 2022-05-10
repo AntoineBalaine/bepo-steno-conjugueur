@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rapprends",
+      "tu rapprends",
+      "il rapprend",
+      "nous rapprenons",
+      "vous rapprenez",
+      "ils rapprennent"
+    ],
+    "passé composé": [
+      "j'ai rappris",
+      "tu as rappris",
+      "il a rappris",
+      "nous avons rappris",
+      "vous avez rappris",
+      "ils ont rappris"
+    ],
+    "imparfait": [
+      "je rapprenais",
+      "tu rapprenais",
+      "il rapprenait",
+      "nous rapprenions",
+      "vous rappreniez",
+      "ils rapprenaient"
+    ],
+    "plus que parfait": [
+      "j'avais rappris",
+      "tu avais rappris",
+      "il avait rappris",
+      "nous avions rappris",
+      "vous aviez rappris",
+      "ils avaient rappris"
+    ],
+    "passé simple": [
+      "je rappris",
+      "tu rappris",
+      "il rapprit",
+      "nous rapprîmes",
+      "vous rapprîtes",
+      "ils rapprirent"
+    ],
+    "passé antérieur": [
+      "j'eus rappris",
+      "tu eus rappris",
+      "il eut rappris",
+      "nous eûmes rappris",
+      "vous eûtes rappris",
+      "ils eurent rappris"
+    ],
+    "futur simple": [
+      "je rapprendrai",
+      "tu rapprendras",
+      "il rapprendra",
+      "nous rapprendrons",
+      "vous rapprendrez",
+      "ils rapprendront"
+    ],
+    "futur antérieur": [
+      "j'aurai rappris",
+      "tu auras rappris",
+      "il aura rappris",
+      "nous aurons rappris",
+      "vous aurez rappris",
+      "ils auront rappris"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rapprenne",
+      "que tu rapprennes",
+      "qu'il rapprenne",
+      "que nous rapprenions",
+      "que vous rappreniez",
+      "qu'ils rapprennent"
+    ],
+    "passé": [
+      "que j'aie rappris",
+      "que tu aies rappris",
+      "qu'il ait rappris",
+      "que nous ayons rappris",
+      "que vous ayez rappris",
+      "qu'ils aient rappris"
+    ],
+    "imparfait": [
+      "que je rapprisse",
+      "que tu rapprisses",
+      "qu'il rapprît",
+      "que nous rapprissions",
+      "que vous rapprissiez",
+      "qu'ils rapprissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rappris",
+      "que tu eusses rappris",
+      "qu'il eût rappris",
+      "que nous eussions rappris",
+      "que vous eussiez rappris",
+      "qu'ils eussent rappris"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rapprendrais",
+      "tu rapprendrais",
+      "il rapprendrait",
+      "nous rapprendrions",
+      "vous rapprendriez",
+      "ils rapprendraient"
+    ],
+    "passé": [
+      "j'aurais rappris",
+      "tu aurais rappris",
+      "il aurait rappris",
+      "nous aurions rappris",
+      "vous auriez rappris",
+      "ils auraient rappris"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rapprends",
+      "rapprenons",
+      "rapprenez"
+    ],
+    "passé": [
+      "aie rappris",
+      "ayons rappris",
+      "ayez rappris"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rapprendre"
+    ],
+    "passé": [
+      "avoir rappris"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rapprenant"
+    ],
+    "passé": [
+      "rappris",
+      "ayant rappris"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rapprenant"
+    ],
+    "passé": [
+      "en ayant rappris"
+    ]
+  }
+}

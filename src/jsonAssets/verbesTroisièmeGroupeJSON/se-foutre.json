@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me fous",
+      "tu te fous",
+      "il se fout",
+      "nous nous foutons",
+      "vous vous foutez",
+      "ils se foutent"
+    ],
+    "passé composé": [
+      "je me suis foutu",
+      "tu t'es foutu",
+      "il s'est foutu",
+      "nous nous sommes foutus",
+      "vous vous êtes foutus",
+      "ils se sont foutus"
+    ],
+    "imparfait": [
+      "je me foutais",
+      "tu te foutais",
+      "il se foutait",
+      "nous nous foutions",
+      "vous vous foutiez",
+      "ils se foutaient"
+    ],
+    "plus que parfait": [
+      "je m'étais foutu",
+      "tu t'étais foutu",
+      "il s'était foutu",
+      "nous nous étions foutus",
+      "vous vous étiez foutus",
+      "ils s'étaient foutus"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "futur simple": [
+      "je me foutrai",
+      "tu te foutras",
+      "il se foutra",
+      "nous nous foutrons",
+      "vous vous foutrez",
+      "ils se foutront"
+    ],
+    "futur antérieur": [
+      "je me serai foutu",
+      "tu te seras foutu",
+      "il se sera foutu",
+      "nous nous serons foutus",
+      "vous vous serez foutus",
+      "ils se seront foutus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me foute",
+      "que tu te foutes",
+      "qu'il se foute",
+      "que nous nous foutions",
+      "que vous vous foutiez",
+      "qu'ils se foutent"
+    ],
+    "passé": [
+      "que je me sois foutu",
+      "que tu te sois foutu",
+      "qu'il se soit foutu",
+      "que nous nous soyons foutus",
+      "que vous vous soyez foutus",
+      "qu'ils se soient foutus"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me foutrais",
+      "tu te foutrais",
+      "il se foutrait",
+      "nous nous foutrions",
+      "vous vous foutriez",
+      "ils se foutraient"
+    ],
+    "passé": [
+      "je me serais foutu",
+      "tu te serais foutu",
+      "il se serait foutu",
+      "nous nous serions foutus",
+      "vous vous seriez foutus",
+      "ils se seraient foutus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fous-toi",
+      "foutons-nous",
+      "foutez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se foutre"
+    ],
+    "passé": [
+      "s'être foutu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se foutant"
+    ],
+    "passé": [
+      "-",
+      "s'étant foutu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se foutant"
+    ],
+    "passé": [
+      "en s'étant foutu"
+    ]
+  }
+}

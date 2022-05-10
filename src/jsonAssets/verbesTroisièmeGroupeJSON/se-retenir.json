@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me retiens",
+      "tu te retiens",
+      "il se retient",
+      "nous nous retenons",
+      "vous vous retenez",
+      "ils se retiennent"
+    ],
+    "passé composé": [
+      "je me suis retenu",
+      "tu t'es retenu",
+      "il s'est retenu",
+      "nous nous sommes retenus",
+      "vous vous êtes retenus",
+      "ils se sont retenus"
+    ],
+    "imparfait": [
+      "je me retenais",
+      "tu te retenais",
+      "il se retenait",
+      "nous nous retenions",
+      "vous vous reteniez",
+      "ils se retenaient"
+    ],
+    "plus que parfait": [
+      "je m'étais retenu",
+      "tu t'étais retenu",
+      "il s'était retenu",
+      "nous nous étions retenus",
+      "vous vous étiez retenus",
+      "ils s'étaient retenus"
+    ],
+    "passé simple": [
+      "je me retins",
+      "tu te retins",
+      "il se retint",
+      "nous nous retînmes",
+      "vous vous retîntes",
+      "ils se retinrent"
+    ],
+    "passé antérieur": [
+      "je me fus retenu",
+      "tu te fus retenu",
+      "il se fut retenu",
+      "nous nous fûmes retenus",
+      "vous vous fûtes retenus",
+      "ils se furent retenus"
+    ],
+    "futur simple": [
+      "je me retiendrai",
+      "tu te retiendras",
+      "il se retiendra",
+      "nous nous retiendrons",
+      "vous vous retiendrez",
+      "ils se retiendront"
+    ],
+    "futur antérieur": [
+      "je me serai retenu",
+      "tu te seras retenu",
+      "il se sera retenu",
+      "nous nous serons retenus",
+      "vous vous serez retenus",
+      "ils se seront retenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me retienne",
+      "que tu te retiennes",
+      "qu'il se retienne",
+      "que nous nous retenions",
+      "que vous vous reteniez",
+      "qu'ils se retiennent"
+    ],
+    "passé": [
+      "que je me sois retenu",
+      "que tu te sois retenu",
+      "qu'il se soit retenu",
+      "que nous nous soyons retenus",
+      "que vous vous soyez retenus",
+      "qu'ils se soient retenus"
+    ],
+    "imparfait": [
+      "que je me retinsse",
+      "que tu te retinsses",
+      "qu'il se retînt",
+      "que nous nous retinssions",
+      "que vous vous retinssiez",
+      "qu'ils se retinssent"
+    ],
+    "plus que parfait": [
+      "que je me fusse retenu",
+      "que tu te fusses retenu",
+      "qu'il se fût retenu",
+      "que nous nous fussions retenus",
+      "que vous vous fussiez retenus",
+      "qu'ils se fussent retenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me retiendrais",
+      "tu te retiendrais",
+      "il se retiendrait",
+      "nous nous retiendrions",
+      "vous vous retiendriez",
+      "ils se retiendraient"
+    ],
+    "passé": [
+      "je me serais retenu",
+      "tu te serais retenu",
+      "il se serait retenu",
+      "nous nous serions retenus",
+      "vous vous seriez retenus",
+      "ils se seraient retenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "retiens-toi",
+      "retenons-nous",
+      "retenez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se retenir"
+    ],
+    "passé": [
+      "s'être retenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se retenant"
+    ],
+    "passé": [
+      "-",
+      "s'étant retenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se retenant"
+    ],
+    "passé": [
+      "en s'étant retenu"
+    ]
+  }
+}

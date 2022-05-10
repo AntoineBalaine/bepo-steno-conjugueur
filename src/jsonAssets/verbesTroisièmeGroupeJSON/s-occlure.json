@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'occlus",
+      "tu t'occlus",
+      "il s'occlut",
+      "nous nous occluons",
+      "vous vous occluez",
+      "ils s'occluent"
+    ],
+    "passé composé": [
+      "je me suis occlus",
+      "tu t'es occlus",
+      "il s'est occlus",
+      "nous nous sommes occlus",
+      "vous vous êtes occlus",
+      "ils se sont occlus"
+    ],
+    "imparfait": [
+      "je m'occluais",
+      "tu t'occluais",
+      "il s'occluait",
+      "nous nous occluions",
+      "vous vous occluiez",
+      "ils s'occluaient"
+    ],
+    "plus que parfait": [
+      "je m'étais occlus",
+      "tu t'étais occlus",
+      "il s'était occlus",
+      "nous nous étions occlus",
+      "vous vous étiez occlus",
+      "ils s'étaient occlus"
+    ],
+    "passé simple": [
+      "je m'occlus",
+      "tu t'occlus",
+      "il s'occlut",
+      "nous nous occlûmes",
+      "vous vous occlûtes",
+      "ils s'occlurent"
+    ],
+    "passé antérieur": [
+      "je me fus occlus",
+      "tu te fus occlus",
+      "il se fut occlus",
+      "nous nous fûmes occlus",
+      "vous vous fûtes occlus",
+      "ils se furent occlus"
+    ],
+    "futur simple": [
+      "je m'occlurai",
+      "tu t'occluras",
+      "il s'occlura",
+      "nous nous occlurons",
+      "vous vous occlurez",
+      "ils s'occluront"
+    ],
+    "futur antérieur": [
+      "je me serai occlus",
+      "tu te seras occlus",
+      "il se sera occlus",
+      "nous nous serons occlus",
+      "vous vous serez occlus",
+      "ils se seront occlus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'occlue",
+      "que tu t'occlues",
+      "qu'il s'occlue",
+      "que nous nous occluions",
+      "que vous vous occluiez",
+      "qu'ils s'occluent"
+    ],
+    "passé": [
+      "que je me sois occlus",
+      "que tu te sois occlus",
+      "qu'il se soit occlus",
+      "que nous nous soyons occlus",
+      "que vous vous soyez occlus",
+      "qu'ils se soient occlus"
+    ],
+    "imparfait": [
+      "que je m'occlusse",
+      "que tu t'occlusses",
+      "qu'il s'occlût",
+      "que nous nous occlussions",
+      "que vous vous occlussiez",
+      "qu'ils s'occlussent"
+    ],
+    "plus que parfait": [
+      "que je me fusse occlus",
+      "que tu te fusses occlus",
+      "qu'il se fût occlus",
+      "que nous nous fussions occlus",
+      "que vous vous fussiez occlus",
+      "qu'ils se fussent occlus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'occlurais",
+      "tu t'occlurais",
+      "il s'occlurait",
+      "nous nous occlurions",
+      "vous vous occluriez",
+      "ils s'occluraient"
+    ],
+    "passé": [
+      "je me serais occlus",
+      "tu te serais occlus",
+      "il se serait occlus",
+      "nous nous serions occlus",
+      "vous vous seriez occlus",
+      "ils se seraient occlus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "occlus-toi",
+      "occluons-nous",
+      "occluez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'occlure"
+    ],
+    "passé": [
+      "s'être occlus"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'occluant"
+    ],
+    "passé": [
+      "-",
+      "s'étant occlus"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'occluant"
+    ],
+    "passé": [
+      "en s'étant occlus"
+    ]
+  }
+}

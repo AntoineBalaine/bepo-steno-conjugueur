@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je réadmets",
+      "tu réadmets",
+      "il réadmet",
+      "nous réadmettons",
+      "vous réadmettez",
+      "ils réadmettent"
+    ],
+    "passé composé": [
+      "j'ai réadmis",
+      "tu as réadmis",
+      "il a réadmis",
+      "nous avons réadmis",
+      "vous avez réadmis",
+      "ils ont réadmis"
+    ],
+    "imparfait": [
+      "je réadmettais",
+      "tu réadmettais",
+      "il réadmettait",
+      "nous réadmettions",
+      "vous réadmettiez",
+      "ils réadmettaient"
+    ],
+    "plus que parfait": [
+      "j'avais réadmis",
+      "tu avais réadmis",
+      "il avait réadmis",
+      "nous avions réadmis",
+      "vous aviez réadmis",
+      "ils avaient réadmis"
+    ],
+    "passé simple": [
+      "je réadmis",
+      "tu réadmis",
+      "il réadmit",
+      "nous réadmîmes",
+      "vous réadmîtes",
+      "ils réadmirent"
+    ],
+    "passé antérieur": [
+      "j'eus réadmis",
+      "tu eus réadmis",
+      "il eut réadmis",
+      "nous eûmes réadmis",
+      "vous eûtes réadmis",
+      "ils eurent réadmis"
+    ],
+    "futur simple": [
+      "je réadmettrai",
+      "tu réadmettras",
+      "il réadmettra",
+      "nous réadmettrons",
+      "vous réadmettrez",
+      "ils réadmettront"
+    ],
+    "futur antérieur": [
+      "j'aurai réadmis",
+      "tu auras réadmis",
+      "il aura réadmis",
+      "nous aurons réadmis",
+      "vous aurez réadmis",
+      "ils auront réadmis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je réadmette",
+      "que tu réadmettes",
+      "qu'il réadmette",
+      "que nous réadmettions",
+      "que vous réadmettiez",
+      "qu'ils réadmettent"
+    ],
+    "passé": [
+      "que j'aie réadmis",
+      "que tu aies réadmis",
+      "qu'il ait réadmis",
+      "que nous ayons réadmis",
+      "que vous ayez réadmis",
+      "qu'ils aient réadmis"
+    ],
+    "imparfait": [
+      "que je réadmisse",
+      "que tu réadmisses",
+      "qu'il réadmît",
+      "que nous réadmissions",
+      "que vous réadmissiez",
+      "qu'ils réadmissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse réadmis",
+      "que tu eusses réadmis",
+      "qu'il eût réadmis",
+      "que nous eussions réadmis",
+      "que vous eussiez réadmis",
+      "qu'ils eussent réadmis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je réadmettrais",
+      "tu réadmettrais",
+      "il réadmettrait",
+      "nous réadmettrions",
+      "vous réadmettriez",
+      "ils réadmettraient"
+    ],
+    "passé": [
+      "j'aurais réadmis",
+      "tu aurais réadmis",
+      "il aurait réadmis",
+      "nous aurions réadmis",
+      "vous auriez réadmis",
+      "ils auraient réadmis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "réadmets",
+      "réadmettons",
+      "réadmettez"
+    ],
+    "passé": [
+      "aie réadmis",
+      "ayons réadmis",
+      "ayez réadmis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "réadmettre"
+    ],
+    "passé": [
+      "avoir réadmis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "réadmettant"
+    ],
+    "passé": [
+      "réadmis",
+      "ayant réadmis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en réadmettant"
+    ],
+    "passé": [
+      "en ayant réadmis"
+    ]
+  }
+}

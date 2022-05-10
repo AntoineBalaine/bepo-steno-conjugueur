@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rais",
+      "tu rais",
+      "il rait",
+      "nous rayons",
+      "vous rayez",
+      "ils raient"
+    ],
+    "passé composé": [
+      "j'ai rait",
+      "tu as rait",
+      "il a rait",
+      "nous avons rait",
+      "vous avez rait",
+      "ils ont rait"
+    ],
+    "imparfait": [
+      "je rayais",
+      "tu rayais",
+      "il rayait",
+      "nous rayions",
+      "vous rayiez",
+      "ils rayaient"
+    ],
+    "plus que parfait": [
+      "j'avais rait",
+      "tu avais rait",
+      "il avait rait",
+      "nous avions rait",
+      "vous aviez rait",
+      "ils avaient rait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus rait",
+      "tu eus rait",
+      "il eut rait",
+      "nous eûmes rait",
+      "vous eûtes rait",
+      "ils eurent rait"
+    ],
+    "futur simple": [
+      "je rairai",
+      "tu rairas",
+      "il raira",
+      "nous rairons",
+      "vous rairez",
+      "ils rairont"
+    ],
+    "futur antérieur": [
+      "j'aurai rait",
+      "tu auras rait",
+      "il aura rait",
+      "nous aurons rait",
+      "vous aurez rait",
+      "ils auront rait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je raie",
+      "que tu raies",
+      "qu'il raie",
+      "que nous rayions",
+      "que vous rayiez",
+      "qu'ils raient"
+    ],
+    "passé": [
+      "que j'aie rait",
+      "que tu aies rait",
+      "qu'il ait rait",
+      "que nous ayons rait",
+      "que vous ayez rait",
+      "qu'ils aient rait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse rait",
+      "que tu eusses rait",
+      "qu'il eût rait",
+      "que nous eussions rait",
+      "que vous eussiez rait",
+      "qu'ils eussent rait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rairais",
+      "tu rairais",
+      "il rairait",
+      "nous rairions",
+      "vous rairiez",
+      "ils rairaient"
+    ],
+    "passé": [
+      "j'aurais rait",
+      "tu aurais rait",
+      "il aurait rait",
+      "nous aurions rait",
+      "vous auriez rait",
+      "ils auraient rait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rais",
+      "rayons",
+      "rayez"
+    ],
+    "passé": [
+      "aie rait",
+      "ayons rait",
+      "ayez rait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "raire"
+    ],
+    "passé": [
+      "avoir rait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rayant"
+    ],
+    "passé": [
+      "rait",
+      "ayant rait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rayant"
+    ],
+    "passé": [
+      "en ayant rait"
+    ]
+  }
+}

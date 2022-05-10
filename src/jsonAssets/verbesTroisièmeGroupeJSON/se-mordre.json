@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me mords",
+      "tu te mords",
+      "il se mord",
+      "nous nous mordons",
+      "vous vous mordez",
+      "ils se mordent"
+    ],
+    "passé composé": [
+      "je me suis mordu",
+      "tu t'es mordu",
+      "il s'est mordu",
+      "nous nous sommes mordus",
+      "vous vous êtes mordus",
+      "ils se sont mordus"
+    ],
+    "imparfait": [
+      "je me mordais",
+      "tu te mordais",
+      "il se mordait",
+      "nous nous mordions",
+      "vous vous mordiez",
+      "ils se mordaient"
+    ],
+    "plus que parfait": [
+      "je m'étais mordu",
+      "tu t'étais mordu",
+      "il s'était mordu",
+      "nous nous étions mordus",
+      "vous vous étiez mordus",
+      "ils s'étaient mordus"
+    ],
+    "passé simple": [
+      "je me mordis",
+      "tu te mordis",
+      "il se mordit",
+      "nous nous mordîmes",
+      "vous vous mordîtes",
+      "ils se mordirent"
+    ],
+    "passé antérieur": [
+      "je me fus mordu",
+      "tu te fus mordu",
+      "il se fut mordu",
+      "nous nous fûmes mordus",
+      "vous vous fûtes mordus",
+      "ils se furent mordus"
+    ],
+    "futur simple": [
+      "je me mordrai",
+      "tu te mordras",
+      "il se mordra",
+      "nous nous mordrons",
+      "vous vous mordrez",
+      "ils se mordront"
+    ],
+    "futur antérieur": [
+      "je me serai mordu",
+      "tu te seras mordu",
+      "il se sera mordu",
+      "nous nous serons mordus",
+      "vous vous serez mordus",
+      "ils se seront mordus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me morde",
+      "que tu te mordes",
+      "qu'il se morde",
+      "que nous nous mordions",
+      "que vous vous mordiez",
+      "qu'ils se mordent"
+    ],
+    "passé": [
+      "que je me sois mordu",
+      "que tu te sois mordu",
+      "qu'il se soit mordu",
+      "que nous nous soyons mordus",
+      "que vous vous soyez mordus",
+      "qu'ils se soient mordus"
+    ],
+    "imparfait": [
+      "que je me mordisse",
+      "que tu te mordisses",
+      "qu'il se mordît",
+      "que nous nous mordissions",
+      "que vous vous mordissiez",
+      "qu'ils se mordissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse mordu",
+      "que tu te fusses mordu",
+      "qu'il se fût mordu",
+      "que nous nous fussions mordus",
+      "que vous vous fussiez mordus",
+      "qu'ils se fussent mordus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me mordrais",
+      "tu te mordrais",
+      "il se mordrait",
+      "nous nous mordrions",
+      "vous vous mordriez",
+      "ils se mordraient"
+    ],
+    "passé": [
+      "je me serais mordu",
+      "tu te serais mordu",
+      "il se serait mordu",
+      "nous nous serions mordus",
+      "vous vous seriez mordus",
+      "ils se seraient mordus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "mords-toi",
+      "mordons-nous",
+      "mordez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se mordre"
+    ],
+    "passé": [
+      "s'être mordu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se mordant"
+    ],
+    "passé": [
+      "-",
+      "s'étant mordu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se mordant"
+    ],
+    "passé": [
+      "en s'étant mordu"
+    ]
+  }
+}

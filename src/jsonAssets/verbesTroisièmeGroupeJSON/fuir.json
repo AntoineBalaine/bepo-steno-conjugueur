@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je fuis",
+      "tu fuis",
+      "il fuit",
+      "nous fuyons",
+      "vous fuyez",
+      "ils fuient"
+    ],
+    "passé composé": [
+      "j'ai fui",
+      "tu as fui",
+      "il a fui",
+      "nous avons fui",
+      "vous avez fui",
+      "ils ont fui"
+    ],
+    "imparfait": [
+      "je fuyais",
+      "tu fuyais",
+      "il fuyait",
+      "nous fuyions",
+      "vous fuyiez",
+      "ils fuyaient"
+    ],
+    "plus que parfait": [
+      "j'avais fui",
+      "tu avais fui",
+      "il avait fui",
+      "nous avions fui",
+      "vous aviez fui",
+      "ils avaient fui"
+    ],
+    "passé simple": [
+      "je fuis",
+      "tu fuis",
+      "il fuit",
+      "nous fuîmes",
+      "vous fuîtes",
+      "ils fuirent"
+    ],
+    "passé antérieur": [
+      "j'eus fui",
+      "tu eus fui",
+      "il eut fui",
+      "nous eûmes fui",
+      "vous eûtes fui",
+      "ils eurent fui"
+    ],
+    "futur simple": [
+      "je fuirai",
+      "tu fuiras",
+      "il fuira",
+      "nous fuirons",
+      "vous fuirez",
+      "ils fuiront"
+    ],
+    "futur antérieur": [
+      "j'aurai fui",
+      "tu auras fui",
+      "il aura fui",
+      "nous aurons fui",
+      "vous aurez fui",
+      "ils auront fui"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je fuie",
+      "que tu fuies",
+      "qu'il fuie",
+      "que nous fuyions",
+      "que vous fuyiez",
+      "qu'ils fuient"
+    ],
+    "passé": [
+      "que j'aie fui",
+      "que tu aies fui",
+      "qu'il ait fui",
+      "que nous ayons fui",
+      "que vous ayez fui",
+      "qu'ils aient fui"
+    ],
+    "imparfait": [
+      "que je fuisse",
+      "que tu fuisses",
+      "qu'il fuît",
+      "que nous fuissions",
+      "que vous fuissiez",
+      "qu'ils fuissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse fui",
+      "que tu eusses fui",
+      "qu'il eût fui",
+      "que nous eussions fui",
+      "que vous eussiez fui",
+      "qu'ils eussent fui"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je fuirais",
+      "tu fuirais",
+      "il fuirait",
+      "nous fuirions",
+      "vous fuiriez",
+      "ils fuiraient"
+    ],
+    "passé": [
+      "j'aurais fui",
+      "tu aurais fui",
+      "il aurait fui",
+      "nous aurions fui",
+      "vous auriez fui",
+      "ils auraient fui"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "fuis",
+      "fuyons",
+      "fuyez"
+    ],
+    "passé": [
+      "aie fui",
+      "ayons fui",
+      "ayez fui"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "fuir"
+    ],
+    "passé": [
+      "avoir fui"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "fuyant"
+    ],
+    "passé": [
+      "fui",
+      "ayant fui"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en fuyant"
+    ],
+    "passé": [
+      "en ayant fui"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'admets",
+      "tu admets",
+      "il admet",
+      "nous admettons",
+      "vous admettez",
+      "ils admettent"
+    ],
+    "passé composé": [
+      "j'ai admis",
+      "tu as admis",
+      "il a admis",
+      "nous avons admis",
+      "vous avez admis",
+      "ils ont admis"
+    ],
+    "imparfait": [
+      "j'admettais",
+      "tu admettais",
+      "il admettait",
+      "nous admettions",
+      "vous admettiez",
+      "ils admettaient"
+    ],
+    "plus que parfait": [
+      "j'avais admis",
+      "tu avais admis",
+      "il avait admis",
+      "nous avions admis",
+      "vous aviez admis",
+      "ils avaient admis"
+    ],
+    "passé simple": [
+      "j'admis",
+      "tu admis",
+      "il admit",
+      "nous admîmes",
+      "vous admîtes",
+      "ils admirent"
+    ],
+    "passé antérieur": [
+      "j'eus admis",
+      "tu eus admis",
+      "il eut admis",
+      "nous eûmes admis",
+      "vous eûtes admis",
+      "ils eurent admis"
+    ],
+    "futur simple": [
+      "j'admettrai",
+      "tu admettras",
+      "il admettra",
+      "nous admettrons",
+      "vous admettrez",
+      "ils admettront"
+    ],
+    "futur antérieur": [
+      "j'aurai admis",
+      "tu auras admis",
+      "il aura admis",
+      "nous aurons admis",
+      "vous aurez admis",
+      "ils auront admis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'admette",
+      "que tu admettes",
+      "qu'il admette",
+      "que nous admettions",
+      "que vous admettiez",
+      "qu'ils admettent"
+    ],
+    "passé": [
+      "que j'aie admis",
+      "que tu aies admis",
+      "qu'il ait admis",
+      "que nous ayons admis",
+      "que vous ayez admis",
+      "qu'ils aient admis"
+    ],
+    "imparfait": [
+      "que j'admisse",
+      "que tu admisses",
+      "qu'il admît",
+      "que nous admissions",
+      "que vous admissiez",
+      "qu'ils admissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse admis",
+      "que tu eusses admis",
+      "qu'il eût admis",
+      "que nous eussions admis",
+      "que vous eussiez admis",
+      "qu'ils eussent admis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'admettrais",
+      "tu admettrais",
+      "il admettrait",
+      "nous admettrions",
+      "vous admettriez",
+      "ils admettraient"
+    ],
+    "passé": [
+      "j'aurais admis",
+      "tu aurais admis",
+      "il aurait admis",
+      "nous aurions admis",
+      "vous auriez admis",
+      "ils auraient admis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "admets",
+      "admettons",
+      "admettez"
+    ],
+    "passé": [
+      "aie admis",
+      "ayons admis",
+      "ayez admis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "admettre"
+    ],
+    "passé": [
+      "avoir admis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "admettant"
+    ],
+    "passé": [
+      "admis",
+      "ayant admis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en admettant"
+    ],
+    "passé": [
+      "en ayant admis"
+    ]
+  }
+}

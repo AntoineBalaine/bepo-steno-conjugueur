@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je corromps",
+      "tu corromps",
+      "il corrompt",
+      "nous corrompons",
+      "vous corrompez",
+      "ils corrompent"
+    ],
+    "passé composé": [
+      "j'ai corrompu",
+      "tu as corrompu",
+      "il a corrompu",
+      "nous avons corrompu",
+      "vous avez corrompu",
+      "ils ont corrompu"
+    ],
+    "imparfait": [
+      "je corrompais",
+      "tu corrompais",
+      "il corrompait",
+      "nous corrompions",
+      "vous corrompiez",
+      "ils corrompaient"
+    ],
+    "plus que parfait": [
+      "j'avais corrompu",
+      "tu avais corrompu",
+      "il avait corrompu",
+      "nous avions corrompu",
+      "vous aviez corrompu",
+      "ils avaient corrompu"
+    ],
+    "passé simple": [
+      "je corrompis",
+      "tu corrompis",
+      "il corrompit",
+      "nous corrompîmes",
+      "vous corrompîtes",
+      "ils corrompirent"
+    ],
+    "passé antérieur": [
+      "j'eus corrompu",
+      "tu eus corrompu",
+      "il eut corrompu",
+      "nous eûmes corrompu",
+      "vous eûtes corrompu",
+      "ils eurent corrompu"
+    ],
+    "futur simple": [
+      "je corromprai",
+      "tu corrompras",
+      "il corrompra",
+      "nous corromprons",
+      "vous corromprez",
+      "ils corrompront"
+    ],
+    "futur antérieur": [
+      "j'aurai corrompu",
+      "tu auras corrompu",
+      "il aura corrompu",
+      "nous aurons corrompu",
+      "vous aurez corrompu",
+      "ils auront corrompu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je corrompe",
+      "que tu corrompes",
+      "qu'il corrompe",
+      "que nous corrompions",
+      "que vous corrompiez",
+      "qu'ils corrompent"
+    ],
+    "passé": [
+      "que j'aie corrompu",
+      "que tu aies corrompu",
+      "qu'il ait corrompu",
+      "que nous ayons corrompu",
+      "que vous ayez corrompu",
+      "qu'ils aient corrompu"
+    ],
+    "imparfait": [
+      "que je corrompisse",
+      "que tu corrompisses",
+      "qu'il corrompît",
+      "que nous corrompissions",
+      "que vous corrompissiez",
+      "qu'ils corrompissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse corrompu",
+      "que tu eusses corrompu",
+      "qu'il eût corrompu",
+      "que nous eussions corrompu",
+      "que vous eussiez corrompu",
+      "qu'ils eussent corrompu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je corromprais",
+      "tu corromprais",
+      "il corromprait",
+      "nous corromprions",
+      "vous corrompriez",
+      "ils corrompraient"
+    ],
+    "passé": [
+      "j'aurais corrompu",
+      "tu aurais corrompu",
+      "il aurait corrompu",
+      "nous aurions corrompu",
+      "vous auriez corrompu",
+      "ils auraient corrompu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "corromps",
+      "corrompons",
+      "corrompez"
+    ],
+    "passé": [
+      "aie corrompu",
+      "ayons corrompu",
+      "ayez corrompu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "corrompre"
+    ],
+    "passé": [
+      "avoir corrompu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "corrompant"
+    ],
+    "passé": [
+      "corrompu",
+      "ayant corrompu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en corrompant"
+    ],
+    "passé": [
+      "en ayant corrompu"
+    ]
+  }
+}

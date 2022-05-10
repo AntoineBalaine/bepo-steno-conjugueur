@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je repais",
+      "tu repais",
+      "il repaît",
+      "nous repaissons",
+      "vous repaissez",
+      "ils repaissent"
+    ],
+    "passé composé": [
+      "j'ai repu",
+      "tu as repu",
+      "il a repu",
+      "nous avons repu",
+      "vous avez repu",
+      "ils ont repu"
+    ],
+    "imparfait": [
+      "je repaissais",
+      "tu repaissais",
+      "il repaissait",
+      "nous repaissions",
+      "vous repaissiez",
+      "ils repaissaient"
+    ],
+    "plus que parfait": [
+      "j'avais repu",
+      "tu avais repu",
+      "il avait repu",
+      "nous avions repu",
+      "vous aviez repu",
+      "ils avaient repu"
+    ],
+    "passé simple": [
+      "je repus",
+      "tu repus",
+      "il reput",
+      "nous repûmes",
+      "vous repûtes",
+      "ils repurent"
+    ],
+    "passé antérieur": [
+      "j'eus repu",
+      "tu eus repu",
+      "il eut repu",
+      "nous eûmes repu",
+      "vous eûtes repu",
+      "ils eurent repu"
+    ],
+    "futur simple": [
+      "je repaîtrai",
+      "tu repaîtras",
+      "il repaîtra",
+      "nous repaîtrons",
+      "vous repaîtrez",
+      "ils repaîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai repu",
+      "tu auras repu",
+      "il aura repu",
+      "nous aurons repu",
+      "vous aurez repu",
+      "ils auront repu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je repaisse",
+      "que tu repaisses",
+      "qu'il repaisse",
+      "que nous repaissions",
+      "que vous repaissiez",
+      "qu'ils repaissent"
+    ],
+    "passé": [
+      "que j'aie repu",
+      "que tu aies repu",
+      "qu'il ait repu",
+      "que nous ayons repu",
+      "que vous ayez repu",
+      "qu'ils aient repu"
+    ],
+    "imparfait": [
+      "que je repusse",
+      "que tu repusses",
+      "qu'il repût",
+      "que nous repussions",
+      "que vous repussiez",
+      "qu'ils repussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse repu",
+      "que tu eusses repu",
+      "qu'il eût repu",
+      "que nous eussions repu",
+      "que vous eussiez repu",
+      "qu'ils eussent repu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je repaîtrais",
+      "tu repaîtrais",
+      "il repaîtrait",
+      "nous repaîtrions",
+      "vous repaîtriez",
+      "ils repaîtraient"
+    ],
+    "passé": [
+      "j'aurais repu",
+      "tu aurais repu",
+      "il aurait repu",
+      "nous aurions repu",
+      "vous auriez repu",
+      "ils auraient repu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "repais",
+      "repaissons",
+      "repaissez"
+    ],
+    "passé": [
+      "aie repu",
+      "ayons repu",
+      "ayez repu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "repaître"
+    ],
+    "passé": [
+      "avoir repu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "repaissant"
+    ],
+    "passé": [
+      "repu",
+      "-"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en repaissant"
+    ],
+    "passé": [
+      "en ayant repu"
+    ]
+  }
+}

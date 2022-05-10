@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'assieds",
+      "tu t'assieds",
+      "il s'assied",
+      "nous nous asseyons",
+      "vous vous asseyez",
+      "ils s'asseyent"
+    ],
+    "passé composé": [
+      "je me suis assis",
+      "tu t'es assis",
+      "il s'est assis",
+      "nous nous sommes assis",
+      "vous vous êtes assis",
+      "ils se sont assis"
+    ],
+    "imparfait": [
+      "je m'asseyais",
+      "tu t'asseyais",
+      "il s'asseyait",
+      "nous nous asseyions",
+      "vous vous asseyiez",
+      "ils s'asseyaient"
+    ],
+    "plus que parfait": [
+      "je m'étais assis",
+      "tu t'étais assis",
+      "il s'était assis",
+      "nous nous étions assis",
+      "vous vous étiez assis",
+      "ils s'étaient assis"
+    ],
+    "passé simple": [
+      "je m'assis",
+      "tu t'assis",
+      "il s'assit",
+      "nous nous assîmes",
+      "vous vous assîtes",
+      "ils s'assirent"
+    ],
+    "passé antérieur": [
+      "je me fus assis",
+      "tu te fus assis",
+      "il se fut assis",
+      "nous nous fûmes assis",
+      "vous vous fûtes assis",
+      "ils se furent assis"
+    ],
+    "futur simple": [
+      "je m'assiérai",
+      "tu t'assiéras",
+      "il s'assiéra",
+      "nous nous assiérons",
+      "vous vous assiérez",
+      "ils s'assiéront"
+    ],
+    "futur antérieur": [
+      "je me serai assis",
+      "tu te seras assis",
+      "il se sera assis",
+      "nous nous serons assis",
+      "vous vous serez assis",
+      "ils se seront assis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'asseye",
+      "que tu t'asseyes",
+      "qu'il s'asseye",
+      "que nous nous asseyions",
+      "que vous vous asseyiez",
+      "qu'ils s'asseyent"
+    ],
+    "passé": [
+      "que je me sois assis",
+      "que tu te sois assis",
+      "qu'il se soit assis",
+      "que nous nous soyons assis",
+      "que vous vous soyez assis",
+      "qu'ils se soient assis"
+    ],
+    "imparfait": [
+      "que je m'assisse",
+      "que tu t'assisses",
+      "qu'il s'assît",
+      "que nous nous assissions",
+      "que vous vous assissiez",
+      "qu'ils s'assissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse assis",
+      "que tu te fusses assis",
+      "qu'il se fût assis",
+      "que nous nous fussions assis",
+      "que vous vous fussiez assis",
+      "qu'ils se fussent assis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'assiétais",
+      "tu t'assiérais",
+      "il s'assiérait",
+      "nous nous assiérions",
+      "vous vous assiériez",
+      "ils s'assiéraient"
+    ],
+    "passé": [
+      "je me serais assis",
+      "tu te serais assis",
+      "il se serait assis",
+      "nous nous serions assis",
+      "vous vous seriez assis",
+      "ils se seraient assis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "assieds-toi",
+      "asseyons-nous",
+      "asseyez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'asseoir"
+    ],
+    "passé": [
+      "s'être assis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'asseyant"
+    ],
+    "passé": [
+      "-",
+      "s'étant assis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'asseyant"
+    ],
+    "passé": [
+      "en s'étant assis"
+    ]
+  }
+}

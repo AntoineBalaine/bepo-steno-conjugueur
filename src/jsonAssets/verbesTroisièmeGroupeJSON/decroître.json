@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je décroîs",
+      "tu décroîs",
+      "il décroît",
+      "nous décroissons",
+      "vous décroissez",
+      "ils décroissent"
+    ],
+    "passé composé": [
+      "j'ai décrû",
+      "tu as décrû",
+      "il a décrû",
+      "nous avons décrû",
+      "vous avez décrû",
+      "ils ont décrû"
+    ],
+    "imparfait": [
+      "je décroissais",
+      "tu décroissais",
+      "il décroissait",
+      "nous décroissions",
+      "vous décroissiez",
+      "ils décroissaient"
+    ],
+    "plus que parfait": [
+      "j'avais décrû",
+      "tu avais décrû",
+      "il avait décrû",
+      "nous avions décrû",
+      "vous aviez décrû",
+      "ils avaient décrû"
+    ],
+    "passé simple": [
+      "je décrûs",
+      "tu décrûs",
+      "il décrût",
+      "nous décrûmes",
+      "vous décrûtes",
+      "ils décrûrent"
+    ],
+    "passé antérieur": [
+      "j'eus décrû",
+      "tu eus décrû",
+      "il eut décrû",
+      "nous eûmes décrû",
+      "vous eûtes décrû",
+      "ils eurent décrû"
+    ],
+    "futur simple": [
+      "je décroîtrai",
+      "tu décroîtras",
+      "il décroîtra",
+      "nous décroîtrons",
+      "vous décroîtrez",
+      "ils décroîtront"
+    ],
+    "futur antérieur": [
+      "j'aurai décrû",
+      "tu auras décrû",
+      "il aura décrû",
+      "nous aurons décrû",
+      "vous aurez décrû",
+      "ils auront décrû"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je décroisse",
+      "que tu décroisses",
+      "qu'il décroisse",
+      "que nous décroissions",
+      "que vous décroissiez",
+      "qu'ils décroissent"
+    ],
+    "passé": [
+      "que j'aie décrû",
+      "que tu aies décrû",
+      "qu'il ait décrû",
+      "que nous ayons décrû",
+      "que vous ayez décrû",
+      "qu'ils aient décrû"
+    ],
+    "imparfait": [
+      "que je décrûsse",
+      "que tu décrûsses",
+      "qu'il décrût",
+      "que nous décrûssions",
+      "que vous décrussiez",
+      "qu'ils décrûssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse décrû",
+      "que tu eusses décrû",
+      "qu'il eût décrû",
+      "que nous eussions décrû",
+      "que vous eussiez décrû",
+      "qu'ils eussent décrû"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je décroîtrais",
+      "tu décroîtrais",
+      "il décroîtrait",
+      "nous décroîtrions",
+      "vous décroîtriez",
+      "ils décroîtraient"
+    ],
+    "passé": [
+      "j'aurais décrû",
+      "tu aurais décrû",
+      "il aurait décrû",
+      "nous aurions décrû",
+      "vous auriez décrû",
+      "ils auraient décrû"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "décroîs",
+      "décroissons",
+      "décroissez"
+    ],
+    "passé": [
+      "aie décrû",
+      "ayons décrû",
+      "ayez décrû"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "décroître"
+    ],
+    "passé": [
+      "avoir décrû"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "décroissant"
+    ],
+    "passé": [
+      "décrû",
+      "ayant décrû"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en décroissant"
+    ],
+    "passé": [
+      "en ayant décrû"
+    ]
+  }
+}

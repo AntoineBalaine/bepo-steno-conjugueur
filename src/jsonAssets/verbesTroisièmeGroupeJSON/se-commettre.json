@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me commets",
+      "tu te commets",
+      "il se commet",
+      "nous nous commettons",
+      "vous vous commettez",
+      "ils se commettent"
+    ],
+    "passé composé": [
+      "je me suis commis",
+      "tu t'es commis",
+      "il s'est commis",
+      "nous nous sommes commis",
+      "vous vous êtes commis",
+      "ils se sont commis"
+    ],
+    "imparfait": [
+      "je me commettais",
+      "tu te commettais",
+      "il se commettait",
+      "nous nous commettions",
+      "vous vous commettiez",
+      "ils se commettaient"
+    ],
+    "plus que parfait": [
+      "je m'étais commis",
+      "tu t'étais commis",
+      "il s'était commis",
+      "nous nous étions commis",
+      "vous vous étiez commis",
+      "ils s'étaient commis"
+    ],
+    "passé simple": [
+      "je me commis",
+      "tu te commis",
+      "il se commit",
+      "nous nous commîmes",
+      "vous vous commîtes",
+      "ils se commirent"
+    ],
+    "passé antérieur": [
+      "je me fus commis",
+      "tu te fus commis",
+      "il se fut commis",
+      "nous nous fûmes commis",
+      "vous vous fûtes commis",
+      "ils se furent commis"
+    ],
+    "futur simple": [
+      "je me commettrai",
+      "tu te commettras",
+      "il se commettra",
+      "nous nous commettrons",
+      "vous vous commettrez",
+      "ils se commettront"
+    ],
+    "futur antérieur": [
+      "je me serai commis",
+      "tu te seras commis",
+      "il se sera commis",
+      "nous nous serons commis",
+      "vous vous serez commis",
+      "ils se seront commis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me commette",
+      "que tu te commettes",
+      "qu'il se commette",
+      "que nous nous commettions",
+      "que vous vous commettiez",
+      "qu'ils se commettent"
+    ],
+    "passé": [
+      "que je me sois commis",
+      "que tu te sois commis",
+      "qu'il se soit commis",
+      "que nous nous soyons commis",
+      "que vous vous soyez commis",
+      "qu'ils se soient commis"
+    ],
+    "imparfait": [
+      "que je me commisse",
+      "que tu te commisses",
+      "qu'il se commît",
+      "que nous nous commissions",
+      "que vous vous commissiez",
+      "qu'ils se commissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse commis",
+      "que tu te fusses commis",
+      "qu'il se fût commis",
+      "que nous nous fussions commis",
+      "que vous vous fussiez commis",
+      "qu'ils se fussent commis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me commettrais",
+      "tu te commettrais",
+      "il se commettrait",
+      "nous nous commettrions",
+      "vous vous commettriez",
+      "ils se commettraient"
+    ],
+    "passé": [
+      "je me serais commis",
+      "tu te serais commis",
+      "il se serait commis",
+      "nous nous serions commis",
+      "vous vous seriez commis",
+      "ils se seraient commis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "commets-toi",
+      "commettons-nous",
+      "commettez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se commettre"
+    ],
+    "passé": [
+      "s'être commis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se commettant"
+    ],
+    "passé": [
+      "-",
+      "s'étant commis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se commettant"
+    ],
+    "passé": [
+      "en s'étant commis"
+    ]
+  }
+}

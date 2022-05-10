@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je deviens",
+      "tu deviens",
+      "il devient",
+      "nous devenons",
+      "vous devenez",
+      "ils deviennent"
+    ],
+    "passé composé": [
+      "je suis devenu",
+      "tu es devenu",
+      "il est devenu",
+      "nous sommes devenus",
+      "vous êtes devenus",
+      "ils sont devenus"
+    ],
+    "imparfait": [
+      "je devenais",
+      "tu devenais",
+      "il devenait",
+      "nous devenions",
+      "vous deveniez",
+      "ils devenaient"
+    ],
+    "plus que parfait": [
+      "j'étais devenu",
+      "tu étais devenu",
+      "il était devenu",
+      "nous étions devenus",
+      "vous étiez devenus",
+      "ils étaient devenus"
+    ],
+    "passé simple": [
+      "je devins",
+      "tu devins",
+      "il devint",
+      "nous devînmes",
+      "vous devîntes",
+      "ils devinrent"
+    ],
+    "passé antérieur": [
+      "je fus devenu",
+      "tu fus devenu",
+      "il fut devenu",
+      "nous fûmes devenus",
+      "vous fûtes devenus",
+      "ils furent devenus"
+    ],
+    "futur simple": [
+      "je deviendrai",
+      "tu deviendras",
+      "il deviendra",
+      "nous deviendrons",
+      "vous deviendrez",
+      "ils deviendront"
+    ],
+    "futur antérieur": [
+      "je serai devenu",
+      "tu seras devenu",
+      "il sera devenu",
+      "nous serons devenus",
+      "vous serez devenus",
+      "ils seront devenus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je devienne",
+      "que tu deviennes",
+      "qu'il devienne",
+      "que nous devenions",
+      "que vous deveniez",
+      "qu'ils deviennent"
+    ],
+    "passé": [
+      "que je sois devenu",
+      "que tu sois devenu",
+      "qu'il soit devenu",
+      "que nous soyons devenus",
+      "que vous soyez devenus",
+      "qu'ils soient devenus"
+    ],
+    "imparfait": [
+      "que je devinsse",
+      "que tu devinsses",
+      "qu'il devînt",
+      "que nous devinssions",
+      "que vous devinssiez",
+      "qu'ils devinssent"
+    ],
+    "plus que parfait": [
+      "que je fusse devenu",
+      "que tu fusses devenu",
+      "qu'il fût devenu",
+      "que nous fussions devenus",
+      "que vous fussiez devenus",
+      "qu'ils fussent devenus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je deviendrais",
+      "tu deviendrais",
+      "il deviendrait",
+      "nous deviendrions",
+      "vous deviendriez",
+      "ils deviendraient"
+    ],
+    "passé": [
+      "je serais devenu",
+      "tu serais devenu",
+      "il serait devenu",
+      "nous serions devenus",
+      "vous seriez devenus",
+      "ils seraient devenus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "deviens",
+      "devenons",
+      "devenez"
+    ],
+    "passé": [
+      "sois devenu",
+      "soyons devenus",
+      "soyez devenus"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "devenir"
+    ],
+    "passé": [
+      "être devenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "devenant"
+    ],
+    "passé": [
+      "devenu",
+      "étant devenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en devenant"
+    ],
+    "passé": [
+      "en étant devenu"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je médis",
+      "tu médis",
+      "il médit",
+      "nous médisons",
+      "vous médites",
+      "ils médisent"
+    ],
+    "passé composé": [
+      "j'ai médit",
+      "tu as médit",
+      "il a médit",
+      "nous avons médit",
+      "vous avez médit",
+      "ils ont médit"
+    ],
+    "imparfait": [
+      "je médisais",
+      "tu médisais",
+      "il médisait",
+      "nous médisions",
+      "vous médisiez",
+      "ils médisaient"
+    ],
+    "plus que parfait": [
+      "j'avais médit",
+      "tu avais médit",
+      "il avait médit",
+      "nous avions médit",
+      "vous aviez médit",
+      "ils avaient médit"
+    ],
+    "passé simple": [
+      "je médis",
+      "tu médis",
+      "il médit",
+      "nous médîmes",
+      "vous médîtes",
+      "ils médirent"
+    ],
+    "passé antérieur": [
+      "j'eus médit",
+      "tu eus médit",
+      "il eut médit",
+      "nous eûmes médit",
+      "vous eûtes médit",
+      "ils eurent médit"
+    ],
+    "futur simple": [
+      "je médirai",
+      "tu médiras",
+      "il médira",
+      "nous médirons",
+      "vous médirez",
+      "ils médiront"
+    ],
+    "futur antérieur": [
+      "j'aurai médit",
+      "tu auras médit",
+      "il aura médit",
+      "nous aurons médit",
+      "vous aurez médit",
+      "ils auront médit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je médise",
+      "que tu médises",
+      "qu'il médise",
+      "que nous médisions",
+      "que vous médisiez",
+      "qu'ils médisent"
+    ],
+    "passé": [
+      "que j'aie médit",
+      "que tu aies médit",
+      "qu'il ait médit",
+      "que nous ayons médit",
+      "que vous ayez médit",
+      "qu'ils aient médit"
+    ],
+    "imparfait": [
+      "que je médisse",
+      "que tu médisses",
+      "qu'il médît",
+      "que nous médissions",
+      "que vous médissiez",
+      "qu'ils médissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse médit",
+      "que tu eusses médit",
+      "qu'il eût médit",
+      "que nous eussions médit",
+      "que vous eussiez médit",
+      "qu'ils eussent médit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je médirais",
+      "tu médirais",
+      "il médirait",
+      "nous médirions",
+      "vous médiriez",
+      "ils médiraient"
+    ],
+    "passé": [
+      "j'aurais médit",
+      "tu aurais médit",
+      "il aurait médit",
+      "nous aurions médit",
+      "vous auriez médit",
+      "ils auraient médit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "médis",
+      "médisons",
+      "médites"
+    ],
+    "passé": [
+      "aie médit",
+      "ayons médit",
+      "ayez médit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "médire"
+    ],
+    "passé": [
+      "avoir médit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "médisant"
+    ],
+    "passé": [
+      "médit",
+      "ayant médit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en médisant"
+    ],
+    "passé": [
+      "en ayant médit"
+    ]
+  }
+}

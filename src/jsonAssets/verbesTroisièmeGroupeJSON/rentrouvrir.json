@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je rentrouvre",
+      "tu rentrouvres",
+      "il rentrouvre",
+      "nous rentrouvrons",
+      "vous rentrouvrez",
+      "ils rentrouvrent"
+    ],
+    "passé composé": [
+      "j'ai rentrouvert",
+      "tu as rentrouvert",
+      "il a rentrouvert",
+      "nous avons rentrouvert",
+      "vous avez rentrouvert",
+      "ils ont rentrouvert"
+    ],
+    "imparfait": [
+      "je rentrouvrais",
+      "tu rentrouvrais",
+      "il rentrouvrait",
+      "nous rentrouvrions",
+      "vous rentrouvriez",
+      "ils rentrouvraient"
+    ],
+    "plus que parfait": [
+      "j'avais rentrouvert",
+      "tu avais rentrouvert",
+      "il avait rentrouvert",
+      "nous avions rentrouvert",
+      "vous aviez rentrouvert",
+      "ils avaient rentrouvert"
+    ],
+    "passé simple": [
+      "je rentrouvris",
+      "tu rentrouvris",
+      "il rentrouvrit",
+      "nous rentrouvrîmes",
+      "vous rentrouvrîtes",
+      "ils rentrouvrirent"
+    ],
+    "passé antérieur": [
+      "j'eus rentrouvert",
+      "tu eus rentrouvert",
+      "il eut rentrouvert",
+      "nous eûmes rentrouvert",
+      "vous eûtes rentrouvert",
+      "ils eurent rentrouvert"
+    ],
+    "futur simple": [
+      "je rentrouvrirai",
+      "tu rentrouvriras",
+      "il rentrouvrira",
+      "nous rentrouvrirons",
+      "vous rentrouvrirez",
+      "ils rentrouvriront"
+    ],
+    "futur antérieur": [
+      "j'aurai rentrouvert",
+      "tu auras rentrouvert",
+      "il aura rentrouvert",
+      "nous aurons rentrouvert",
+      "vous aurez rentrouvert",
+      "ils auront rentrouvert"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je rentrouvre",
+      "que tu rentrouvres",
+      "qu'il rentrouvre",
+      "que nous rentrouvrions",
+      "que vous rentrouvriez",
+      "qu'ils rentrouvrent"
+    ],
+    "passé": [
+      "que j'aie rentrouvert",
+      "que tu aies rentrouvert",
+      "qu'il ait rentrouvert",
+      "que nous ayons rentrouvert",
+      "que vous ayez rentrouvert",
+      "qu'ils aient rentrouvert"
+    ],
+    "imparfait": [
+      "que je rentrouvrisse",
+      "que tu rentrouvrisses",
+      "qu'il rentrouvrît",
+      "que nous rentrouvrissions",
+      "que vous rentrouvrissiez",
+      "qu'ils rentrouvrissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse rentrouvert",
+      "que tu eusses rentrouvert",
+      "qu'il eût rentrouvert",
+      "que nous eussions rentrouvert",
+      "que vous eussiez rentrouvert",
+      "qu'ils eussent rentrouvert"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je rentrouvrirais",
+      "tu rentrouvrirais",
+      "il rentrouvrirait",
+      "nous rentrouvririons",
+      "vous rentrouvririez",
+      "ils rentrouvriraient"
+    ],
+    "passé": [
+      "j'aurais rentrouvert",
+      "tu aurais rentrouvert",
+      "il aurait rentrouvert",
+      "nous aurions rentrouvert",
+      "vous auriez rentrouvert",
+      "ils auraient rentrouvert"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "rentrouvre",
+      "rentrouvrons",
+      "rentrouvrez"
+    ],
+    "passé": [
+      "aie rentrouvert",
+      "ayons rentrouvert",
+      "ayez rentrouvert"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "rentrouvrir"
+    ],
+    "passé": [
+      "avoir rentrouvert"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "rentrouvrant"
+    ],
+    "passé": [
+      "rentrouvert",
+      "ayant rentrouvert"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en rentrouvrant"
+    ],
+    "passé": [
+      "en ayant rentrouvert"
+    ]
+  }
+}

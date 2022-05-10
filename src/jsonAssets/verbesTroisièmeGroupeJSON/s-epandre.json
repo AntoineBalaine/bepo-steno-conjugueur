@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'épands",
+      "tu t'épands",
+      "il s'épand",
+      "nous nous épandons",
+      "vous vous épandez",
+      "ils s'épandent"
+    ],
+    "passé composé": [
+      "je me suis épandu",
+      "tu t'es épandu",
+      "il s'est épandu",
+      "nous nous sommes épandus",
+      "vous vous êtes épandus",
+      "ils se sont épandus"
+    ],
+    "imparfait": [
+      "je m'épandais",
+      "tu t'épandais",
+      "il s'épandait",
+      "nous nous épandions",
+      "vous vous épandiez",
+      "ils s'épandaient"
+    ],
+    "plus que parfait": [
+      "je m'étais épandu",
+      "tu t'étais épandu",
+      "il s'était épandu",
+      "nous nous étions épandus",
+      "vous vous étiez épandus",
+      "ils s'étaient épandus"
+    ],
+    "passé simple": [
+      "je m'épandis",
+      "tu t'épandis",
+      "il s'épandit",
+      "nous nous épandîmes",
+      "vous vous épandîtes",
+      "ils s'épandirent"
+    ],
+    "passé antérieur": [
+      "je me fus épandu",
+      "tu te fus épandu",
+      "il se fut épandu",
+      "nous nous fûmes épandus",
+      "vous vous fûtes épandus",
+      "ils se furent épandus"
+    ],
+    "futur simple": [
+      "je m'épandrai",
+      "tu t'épandras",
+      "il s'épandra",
+      "nous nous épandrons",
+      "vous vous épandrez",
+      "ils s'épandront"
+    ],
+    "futur antérieur": [
+      "je me serai épandu",
+      "tu te seras épandu",
+      "il se sera épandu",
+      "nous nous serons épandus",
+      "vous vous serez épandus",
+      "ils se seront épandus"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'épande",
+      "que tu t'épandes",
+      "qu'il s'épande",
+      "que nous nous épandions",
+      "que vous vous épandiez",
+      "qu'ils s'épandent"
+    ],
+    "passé": [
+      "que je me sois épandu",
+      "que tu te sois épandu",
+      "qu'il se soit épandu",
+      "que nous nous soyons épandus",
+      "que vous vous soyez épandus",
+      "qu'ils se soient épandus"
+    ],
+    "imparfait": [
+      "que je m'épandisse",
+      "que tu t'épandisses",
+      "qu'il s'épandît",
+      "que nous nous épandissions",
+      "que vous vous épandissiez",
+      "qu'ils s'épandissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse épandu",
+      "que tu te fusses épandu",
+      "qu'il se fût épandu",
+      "que nous nous fussions épandus",
+      "que vous vous fussiez épandus",
+      "qu'ils se fussent épandus"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'épandrais",
+      "tu t'épandrais",
+      "il s'épandrait",
+      "nous nous épandrions",
+      "vous vous épandriez",
+      "ils s'épandraient"
+    ],
+    "passé": [
+      "je me serais épandu",
+      "tu te serais épandu",
+      "il se serait épandu",
+      "nous nous serions épandus",
+      "vous vous seriez épandus",
+      "ils se seraient épandus"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "épands-toi",
+      "épandons-nous",
+      "épandez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'épandre"
+    ],
+    "passé": [
+      "s'être épandu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'épandant"
+    ],
+    "passé": [
+      "-",
+      "s'étant épandu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'épandant"
+    ],
+    "passé": [
+      "en s'étant épandu"
+    ]
+  }
+}

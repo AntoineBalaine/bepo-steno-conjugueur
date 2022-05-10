@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je distrais",
+      "tu distrais",
+      "il distrait",
+      "nous distrayons",
+      "vous distrayez",
+      "ils distraient"
+    ],
+    "passé composé": [
+      "j'ai distrait",
+      "tu as distrait",
+      "il a distrait",
+      "nous avons distrait",
+      "vous avez distrait",
+      "ils ont distrait"
+    ],
+    "imparfait": [
+      "je distrayais",
+      "tu distrayais",
+      "il distrayait",
+      "nous distrayions",
+      "vous distrayiez",
+      "ils distrayaient"
+    ],
+    "plus que parfait": [
+      "j'avais distrait",
+      "tu avais distrait",
+      "il avait distrait",
+      "nous avions distrait",
+      "vous aviez distrait",
+      "ils avaient distrait"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "j'eus distrait",
+      "tu eus distrait",
+      "il eut distrait",
+      "nous eûmes distrait",
+      "vous eûtes distrait",
+      "ils eurent distrait"
+    ],
+    "futur simple": [
+      "je distrairai",
+      "tu distrairas",
+      "il distraira",
+      "nous distrairons",
+      "vous distrairez",
+      "ils distrairont"
+    ],
+    "futur antérieur": [
+      "j'aurai distrait",
+      "tu auras distrait",
+      "il aura distrait",
+      "nous aurons distrait",
+      "vous aurez distrait",
+      "ils auront distrait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je distraie",
+      "que tu distraies",
+      "qu'il distraie",
+      "que nous distrayions",
+      "que vous distrayiez",
+      "qu'ils distraient"
+    ],
+    "passé": [
+      "que j'aie distrait",
+      "que tu aies distrait",
+      "qu'il ait distrait",
+      "que nous ayons distrait",
+      "que vous ayez distrait",
+      "qu'ils aient distrait"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que j'eusse distrait",
+      "que tu eusses distrait",
+      "qu'il eût distrait",
+      "que nous eussions distrait",
+      "que vous eussiez distrait",
+      "qu'ils eussent distrait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je distrairais",
+      "tu distrairais",
+      "il distrairait",
+      "nous distrairions",
+      "vous distrairiez",
+      "ils distrairaient"
+    ],
+    "passé": [
+      "j'aurais distrait",
+      "tu aurais distrait",
+      "il aurait distrait",
+      "nous aurions distrait",
+      "vous auriez distrait",
+      "ils auraient distrait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "distrais",
+      "distrayons",
+      "distrayez"
+    ],
+    "passé": [
+      "aie distrait",
+      "ayons distrait",
+      "ayez distrait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "distraire"
+    ],
+    "passé": [
+      "avoir distrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "distrayant"
+    ],
+    "passé": [
+      "distrait",
+      "ayant distrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en distrayant"
+    ],
+    "passé": [
+      "en ayant distrait"
+    ]
+  }
+}

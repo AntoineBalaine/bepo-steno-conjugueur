@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je retends",
+      "tu retends",
+      "il retend",
+      "nous retendons",
+      "vous retendez",
+      "ils retendent"
+    ],
+    "passé composé": [
+      "j'ai retendu",
+      "tu as retendu",
+      "il a retendu",
+      "nous avons retendu",
+      "vous avez retendu",
+      "ils ont retendu"
+    ],
+    "imparfait": [
+      "je retendais",
+      "tu retendais",
+      "il retendait",
+      "nous retendions",
+      "vous retendiez",
+      "ils retendaient"
+    ],
+    "plus que parfait": [
+      "j'avais retendu",
+      "tu avais retendu",
+      "il avait retendu",
+      "nous avions retendu",
+      "vous aviez retendu",
+      "ils avaient retendu"
+    ],
+    "passé simple": [
+      "je retendis",
+      "tu retendis",
+      "il retendit",
+      "nous retendîmes",
+      "vous retendîtes",
+      "ils retendirent"
+    ],
+    "passé antérieur": [
+      "j'eus retendu",
+      "tu eus retendu",
+      "il eut retendu",
+      "nous eûmes retendu",
+      "vous eûtes retendu",
+      "ils eurent retendu"
+    ],
+    "futur simple": [
+      "je retendrai",
+      "tu retendras",
+      "il retendra",
+      "nous retendrons",
+      "vous retendrez",
+      "ils retendront"
+    ],
+    "futur antérieur": [
+      "j'aurai retendu",
+      "tu auras retendu",
+      "il aura retendu",
+      "nous aurons retendu",
+      "vous aurez retendu",
+      "ils auront retendu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je retende",
+      "que tu retendes",
+      "qu'il retende",
+      "que nous retendions",
+      "que vous retendiez",
+      "qu'ils retendent"
+    ],
+    "passé": [
+      "que j'aie retendu",
+      "que tu aies retendu",
+      "qu'il ait retendu",
+      "que nous ayons retendu",
+      "que vous ayez retendu",
+      "qu'ils aient retendu"
+    ],
+    "imparfait": [
+      "que je retendisse",
+      "que tu retendisses",
+      "qu'il retendît",
+      "que nous retendissions",
+      "que vous retendissiez",
+      "qu'ils retendissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse retendu",
+      "que tu eusses retendu",
+      "qu'il eût retendu",
+      "que nous eussions retendu",
+      "que vous eussiez retendu",
+      "qu'ils eussent retendu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je retendrais",
+      "tu retendrais",
+      "il retendrait",
+      "nous retendrions",
+      "vous retendriez",
+      "ils retendraient"
+    ],
+    "passé": [
+      "j'aurais retendu",
+      "tu aurais retendu",
+      "il aurait retendu",
+      "nous aurions retendu",
+      "vous auriez retendu",
+      "ils auraient retendu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "retends",
+      "retendons",
+      "retendez"
+    ],
+    "passé": [
+      "aie retendu",
+      "ayons retendu",
+      "ayez retendu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "retendre"
+    ],
+    "passé": [
+      "avoir retendu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "retendant"
+    ],
+    "passé": [
+      "retendu",
+      "ayant retendu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en retendant"
+    ],
+    "passé": [
+      "en ayant retendu"
+    ]
+  }
+}

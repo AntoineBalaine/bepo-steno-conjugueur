@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'entre-nuis",
+      "tu t'entre-nuis",
+      "il s'entre-nuit",
+      "nous nous entre-nuisons",
+      "vous vous entre-nuisez",
+      "ils s'entre-nuisent"
+    ],
+    "passé composé": [
+      "je me suis entre-nuit",
+      "tu t'es entre-nuit",
+      "il s'est entre-nuit",
+      "nous nous sommes entre-nuits",
+      "vous vous êtes entre-nuits",
+      "ils se sont entre-nuits"
+    ],
+    "imparfait": [
+      "je m'entre-nuisais",
+      "tu t'entre-nuisais",
+      "il s'entre-nuisait",
+      "nous nous entre-nuisions",
+      "vous vous entre-nuisiez",
+      "ils s'entre-nuisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais entre-nuit",
+      "tu t'étais entre-nuit",
+      "il s'était entre-nuit",
+      "nous nous étions entre-nuits",
+      "vous vous étiez entre-nuits",
+      "ils s'étaient entre-nuits"
+    ],
+    "passé simple": [
+      "je m'entre-nuisis",
+      "tu t'entre-nuisis",
+      "il s'entre-nuisit",
+      "nous nous entre-nuisîmes",
+      "vous vous entre-nuisîtes",
+      "ils s'entre-nuisirent"
+    ],
+    "passé antérieur": [
+      "je me fus entre-nuit",
+      "tu te fus entre-nuit",
+      "il se fut entre-nuit",
+      "nous nous fûmes entre-nuits",
+      "vous vous fûtes entre-nuits",
+      "ils se furent entre-nuits"
+    ],
+    "futur simple": [
+      "je m'entre-nuirai",
+      "tu t'entre-nuiras",
+      "il s'entre-nuira",
+      "nous nous entre-nuirons",
+      "vous vous entre-nuirez",
+      "ils s'entre-nuiront"
+    ],
+    "futur antérieur": [
+      "je me serai entre-nuit",
+      "tu te seras entre-nuit",
+      "il se sera entre-nuit",
+      "nous nous serons entre-nuits",
+      "vous vous serez entre-nuits",
+      "ils se seront entre-nuits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'entre-nuise",
+      "que tu t'entre-nuises",
+      "qu'il s'entre-nuise",
+      "que nous nous entre-nuisions",
+      "que vous vous entre-nuisiez",
+      "qu'ils s'entre-nuisent"
+    ],
+    "passé": [
+      "que je me sois entre-nuit",
+      "que tu te sois entre-nuit",
+      "qu'il se soit entre-nuit",
+      "que nous nous soyons entre-nuits",
+      "que vous vous soyez entre-nuits",
+      "qu'ils se soient entre-nuits"
+    ],
+    "imparfait": [
+      "que je m'entre-nuisisse",
+      "que tu t'entre-nuisisses",
+      "qu'il s'entre-nuisît",
+      "que nous nous entre-nuisissions",
+      "que vous vous entre-nuisissiez",
+      "qu'ils s'entre-nuisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse entre-nuit",
+      "que tu te fusses entre-nuit",
+      "qu'il se fût entre-nuit",
+      "que nous nous fussions entre-nuits",
+      "que vous vous fussiez entre-nuits",
+      "qu'ils se fussent entre-nuits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'entre-nuirais",
+      "tu t'entre-nuirais",
+      "il s'entre-nuirait",
+      "nous nous entre-nuirions",
+      "vous vous entre-nuiriez",
+      "ils s'entre-nuiraient"
+    ],
+    "passé": [
+      "je me serais entre-nuit",
+      "tu te serais entre-nuit",
+      "il se serait entre-nuit",
+      "nous nous serions entre-nuits",
+      "vous vous seriez entre-nuits",
+      "ils se seraient entre-nuits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "entre-nuis-toi",
+      "entre-nuisons-nous",
+      "entre-nuisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'entre-nuire"
+    ],
+    "passé": [
+      "s'être entre-nuit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'entre-nuisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant entre-nuit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'entre-nuisant"
+    ],
+    "passé": [
+      "en s'étant entre-nuit"
+    ]
+  }
+}

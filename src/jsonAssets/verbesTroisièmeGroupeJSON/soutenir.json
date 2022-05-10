@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je soutiens",
+      "tu soutiens",
+      "il soutient",
+      "nous soutenons",
+      "vous soutenez",
+      "ils soutiennent"
+    ],
+    "passé composé": [
+      "j'ai soutenu",
+      "tu as soutenu",
+      "il a soutenu",
+      "nous avons soutenu",
+      "vous avez soutenu",
+      "ils ont soutenu"
+    ],
+    "imparfait": [
+      "je soutenais",
+      "tu soutenais",
+      "il soutenait",
+      "nous soutenions",
+      "vous souteniez",
+      "ils soutenaient"
+    ],
+    "plus que parfait": [
+      "j'avais soutenu",
+      "tu avais soutenu",
+      "il avait soutenu",
+      "nous avions soutenu",
+      "vous aviez soutenu",
+      "ils avaient soutenu"
+    ],
+    "passé simple": [
+      "je soutins",
+      "tu soutins",
+      "il soutint",
+      "nous soutînmes",
+      "vous soutîntes",
+      "ils soutinrent"
+    ],
+    "passé antérieur": [
+      "j'eus soutenu",
+      "tu eus soutenu",
+      "il eut soutenu",
+      "nous eûmes soutenu",
+      "vous eûtes soutenu",
+      "ils eurent soutenu"
+    ],
+    "futur simple": [
+      "je soutiendrai",
+      "tu soutiendras",
+      "il soutiendra",
+      "nous soutiendrons",
+      "vous soutiendrez",
+      "ils soutiendront"
+    ],
+    "futur antérieur": [
+      "j'aurai soutenu",
+      "tu auras soutenu",
+      "il aura soutenu",
+      "nous aurons soutenu",
+      "vous aurez soutenu",
+      "ils auront soutenu"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je soutienne",
+      "que tu soutiennes",
+      "qu'il soutienne",
+      "que nous soutenions",
+      "que vous souteniez",
+      "qu'ils soutiennent"
+    ],
+    "passé": [
+      "que j'aie soutenu",
+      "que tu aies soutenu",
+      "qu'il ait soutenu",
+      "que nous ayons soutenu",
+      "que vous ayez soutenu",
+      "qu'ils aient soutenu"
+    ],
+    "imparfait": [
+      "que je soutinsse",
+      "que tu soutinsses",
+      "qu'il soutînt",
+      "que nous soutinssions",
+      "que vous soutinssiez",
+      "qu'ils soutinssent"
+    ],
+    "plus que parfait": [
+      "que j'eusse soutenu",
+      "que tu eusses soutenu",
+      "qu'il eût soutenu",
+      "que nous eussions soutenu",
+      "que vous eussiez soutenu",
+      "qu'ils eussent soutenu"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je soutiendrais",
+      "tu soutiendrais",
+      "il soutiendrait",
+      "nous soutiendrions",
+      "vous soutiendriez",
+      "ils soutiendraient"
+    ],
+    "passé": [
+      "j'aurais soutenu",
+      "tu aurais soutenu",
+      "il aurait soutenu",
+      "nous aurions soutenu",
+      "vous auriez soutenu",
+      "ils auraient soutenu"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "soutiens",
+      "soutenons",
+      "soutenez"
+    ],
+    "passé": [
+      "aie soutenu",
+      "ayons soutenu",
+      "ayez soutenu"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "soutenir"
+    ],
+    "passé": [
+      "avoir soutenu"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "soutenant"
+    ],
+    "passé": [
+      "soutenu",
+      "ayant soutenu"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en soutenant"
+    ],
+    "passé": [
+      "en ayant soutenu"
+    ]
+  }
+}

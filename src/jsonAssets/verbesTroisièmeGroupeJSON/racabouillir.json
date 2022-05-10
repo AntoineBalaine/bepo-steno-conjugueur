@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je racabous",
+      "tu racabous",
+      "il racabout",
+      "nous racabouillons",
+      "vous racabouillez",
+      "ils racabouillent"
+    ],
+    "passé composé": [
+      "j'ai racabouilli",
+      "tu as racabouilli",
+      "il a racabouilli",
+      "nous avons racabouilli",
+      "vous avez racabouilli",
+      "ils ont racabouilli"
+    ],
+    "imparfait": [
+      "je racabouillais",
+      "tu racabouillais",
+      "il racabouillait",
+      "nous racabouillions",
+      "vous racabouilliez",
+      "ils racabouillaient"
+    ],
+    "plus que parfait": [
+      "j'avais racabouilli",
+      "tu avais racabouilli",
+      "il avait racabouilli",
+      "nous avions racabouilli",
+      "vous aviez racabouilli",
+      "ils avaient racabouilli"
+    ],
+    "passé simple": [
+      "je racabouillis",
+      "tu racabouillis",
+      "il racabouillit",
+      "nous racabouillîmes",
+      "vous racabouillîtes",
+      "ils racabouillirent"
+    ],
+    "passé antérieur": [
+      "j'eus racabouilli",
+      "tu eus racabouilli",
+      "il eut racabouilli",
+      "nous eûmes racabouilli",
+      "vous eûtes racabouilli",
+      "ils eurent racabouilli"
+    ],
+    "futur simple": [
+      "je racabouillirai",
+      "tu racabouilliras",
+      "il racabouillira",
+      "nous racabouillirons",
+      "vous racabouillirez",
+      "ils racabouilliront"
+    ],
+    "futur antérieur": [
+      "j'aurai racabouilli",
+      "tu auras racabouilli",
+      "il aura racabouilli",
+      "nous aurons racabouilli",
+      "vous aurez racabouilli",
+      "ils auront racabouilli"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je racabouille",
+      "que tu racabouilles",
+      "qu'il racabouille",
+      "que nous racabouillions",
+      "que vous racabouilliez",
+      "qu'ils racabouillent"
+    ],
+    "passé": [
+      "que j'aie racabouilli",
+      "que tu aies racabouilli",
+      "qu'il ait racabouilli",
+      "que nous ayons racabouilli",
+      "que vous ayez racabouilli",
+      "qu'ils aient racabouilli"
+    ],
+    "imparfait": [
+      "que je racabouillisse",
+      "que tu racabouillisses",
+      "qu'il racabouillît",
+      "que nous racabouillissions",
+      "que vous racabouillissiez",
+      "qu'ils racabouillissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse racabouilli",
+      "que tu eusses racabouilli",
+      "qu'il eût racabouilli",
+      "que nous eussions racabouilli",
+      "que vous eussiez racabouilli",
+      "qu'ils eussent racabouilli"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je racabouillirais",
+      "tu racabouillirais",
+      "il racabouillirait",
+      "nous racabouillirions",
+      "vous racabouilliriez",
+      "ils racabouilliraient"
+    ],
+    "passé": [
+      "j'aurais racabouilli",
+      "tu aurais racabouilli",
+      "il aurait racabouilli",
+      "nous aurions racabouilli",
+      "vous auriez racabouilli",
+      "ils auraient racabouilli"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "racabous",
+      "racabouillons",
+      "racabouillez"
+    ],
+    "passé": [
+      "aie racabouilli",
+      "ayons racabouilli",
+      "ayez racabouilli"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "racabouillir"
+    ],
+    "passé": [
+      "avoir racabouilli"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "racabouillant"
+    ],
+    "passé": [
+      "racabouilli",
+      "ayant racabouilli"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en racabouillant"
+    ],
+    "passé": [
+      "en ayant racabouilli"
+    ]
+  }
+}

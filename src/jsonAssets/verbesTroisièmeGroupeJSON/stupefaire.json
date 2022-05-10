@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je stupéfais",
+      "tu stupéfais",
+      "il stupéfait",
+      "nous stupéfaisons",
+      "vous stupéfaites",
+      "ils stupéfont"
+    ],
+    "passé composé": [
+      "j'ai stupéfait",
+      "tu as stupéfait",
+      "il a stupéfait",
+      "nous avons stupéfait",
+      "vous avez stupéfait",
+      "ils ont stupéfait"
+    ],
+    "imparfait": [
+      "je stupéfaisais",
+      "tu stupéfaisais",
+      "il stupéfaisait",
+      "nous stupéfaisions",
+      "vous stupéfaisiez",
+      "ils stupéfaisaient"
+    ],
+    "plus que parfait": [
+      "j'avais stupéfait",
+      "tu avais stupéfait",
+      "il avait stupéfait",
+      "nous avions stupéfait",
+      "vous aviez stupéfait",
+      "ils avaient stupéfait"
+    ],
+    "passé simple": [
+      "je stupéfis",
+      "tu stupéfis",
+      "il stupéfit",
+      "nous stupéfîmes",
+      "vous stupéfîtes",
+      "ils stupéfirent"
+    ],
+    "passé antérieur": [
+      "j'eus stupéfait",
+      "tu eus stupéfait",
+      "il eut stupéfait",
+      "nous eûmes stupéfait",
+      "vous eûtes stupéfait",
+      "ils eurent stupéfait"
+    ],
+    "futur simple": [
+      "je stupéferai",
+      "tu stupéferas",
+      "il stupéfera",
+      "nous stupéferons",
+      "vous stupéferez",
+      "ils stupéferont"
+    ],
+    "futur antérieur": [
+      "j'aurai stupéfait",
+      "tu auras stupéfait",
+      "il aura stupéfait",
+      "nous aurons stupéfait",
+      "vous aurez stupéfait",
+      "ils auront stupéfait"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je stupéfasse",
+      "que tu stupéfasses",
+      "qu'il stupéfasse",
+      "que nous stupéfassions",
+      "que vous stupéfassiez",
+      "qu'ils stupéfassent"
+    ],
+    "passé": [
+      "que j'aie stupéfait",
+      "que tu aies stupéfait",
+      "qu'il ait stupéfait",
+      "que nous ayons stupéfait",
+      "que vous ayez stupéfait",
+      "qu'ils aient stupéfait"
+    ],
+    "imparfait": [
+      "que je stupéfisse",
+      "que tu stupéfisses",
+      "qu'il stupéfît",
+      "que nous stupéfissions",
+      "que vous stupéfissiez",
+      "qu'ils stupéfissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse stupéfait",
+      "que tu eusses stupéfait",
+      "qu'il eût stupéfait",
+      "que nous eussions stupéfait",
+      "que vous eussiez stupéfait",
+      "qu'ils eussent stupéfait"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je stupéferais",
+      "tu stupéferais",
+      "il stupéferait",
+      "nous stupéferions",
+      "vous stupéferiez",
+      "ils stupéferaient"
+    ],
+    "passé": [
+      "j'aurais stupéfait",
+      "tu aurais stupéfait",
+      "il aurait stupéfait",
+      "nous aurions stupéfait",
+      "vous auriez stupéfait",
+      "ils auraient stupéfait"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "stupéfais",
+      "stupéfaisons",
+      "stupéfaites"
+    ],
+    "passé": [
+      "aie stupéfait",
+      "ayons stupéfait",
+      "ayez stupéfait"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "stupéfaire"
+    ],
+    "passé": [
+      "avoir stupéfait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "stupéfaisant"
+    ],
+    "passé": [
+      "stupéfait",
+      "ayant stupéfait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en stupéfaisant"
+    ],
+    "passé": [
+      "en ayant stupéfait"
+    ]
+  }
+}

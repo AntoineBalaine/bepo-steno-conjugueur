@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reconduis",
+      "tu reconduis",
+      "il reconduit",
+      "nous reconduisons",
+      "vous reconduisez",
+      "ils reconduisent"
+    ],
+    "passé composé": [
+      "j'ai reconduit",
+      "tu as reconduit",
+      "il a reconduit",
+      "nous avons reconduit",
+      "vous avez reconduit",
+      "ils ont reconduit"
+    ],
+    "imparfait": [
+      "je reconduisais",
+      "tu reconduisais",
+      "il reconduisait",
+      "nous reconduisions",
+      "vous reconduisiez",
+      "ils reconduisaient"
+    ],
+    "plus que parfait": [
+      "j'avais reconduit",
+      "tu avais reconduit",
+      "il avait reconduit",
+      "nous avions reconduit",
+      "vous aviez reconduit",
+      "ils avaient reconduit"
+    ],
+    "passé simple": [
+      "je reconduisis",
+      "tu reconduisis",
+      "il reconduisit",
+      "nous reconduisîmes",
+      "vous reconduisîtes",
+      "ils reconduisirent"
+    ],
+    "passé antérieur": [
+      "j'eus reconduit",
+      "tu eus reconduit",
+      "il eut reconduit",
+      "nous eûmes reconduit",
+      "vous eûtes reconduit",
+      "ils eurent reconduit"
+    ],
+    "futur simple": [
+      "je reconduirai",
+      "tu reconduiras",
+      "il reconduira",
+      "nous reconduirons",
+      "vous reconduirez",
+      "ils reconduiront"
+    ],
+    "futur antérieur": [
+      "j'aurai reconduit",
+      "tu auras reconduit",
+      "il aura reconduit",
+      "nous aurons reconduit",
+      "vous aurez reconduit",
+      "ils auront reconduit"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reconduise",
+      "que tu reconduises",
+      "qu'il reconduise",
+      "que nous reconduisions",
+      "que vous reconduisiez",
+      "qu'ils reconduisent"
+    ],
+    "passé": [
+      "que j'aie reconduit",
+      "que tu aies reconduit",
+      "qu'il ait reconduit",
+      "que nous ayons reconduit",
+      "que vous ayez reconduit",
+      "qu'ils aient reconduit"
+    ],
+    "imparfait": [
+      "que je reconduisisse",
+      "que tu reconduisisses",
+      "qu'il reconduisît",
+      "que nous reconduisissions",
+      "que vous reconduisissiez",
+      "qu'ils reconduisissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reconduit",
+      "que tu eusses reconduit",
+      "qu'il eût reconduit",
+      "que nous eussions reconduit",
+      "que vous eussiez reconduit",
+      "qu'ils eussent reconduit"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reconduirais",
+      "tu reconduirais",
+      "il reconduirait",
+      "nous reconduirions",
+      "vous reconduiriez",
+      "ils reconduiraient"
+    ],
+    "passé": [
+      "j'aurais reconduit",
+      "tu aurais reconduit",
+      "il aurait reconduit",
+      "nous aurions reconduit",
+      "vous auriez reconduit",
+      "ils auraient reconduit"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reconduis",
+      "reconduisons",
+      "reconduisez"
+    ],
+    "passé": [
+      "aie reconduit",
+      "ayons reconduit",
+      "ayez reconduit"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reconduire"
+    ],
+    "passé": [
+      "avoir reconduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reconduisant"
+    ],
+    "passé": [
+      "reconduit",
+      "ayant reconduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reconduisant"
+    ],
+    "passé": [
+      "en ayant reconduit"
+    ]
+  }
+}

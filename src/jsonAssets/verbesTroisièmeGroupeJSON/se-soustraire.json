@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je me soustrais",
+      "tu te soustrais",
+      "il se soustrait",
+      "nous nous soustrayons",
+      "vous vous soustrayez",
+      "ils se soustraient"
+    ],
+    "passé composé": [
+      "je me suis soustrait",
+      "tu t'es soustrait",
+      "il s'est soustrait",
+      "nous nous sommes soustraits",
+      "vous vous êtes soustraits",
+      "ils se sont soustraits"
+    ],
+    "imparfait": [
+      "je me soustrayais",
+      "tu te soustrayais",
+      "il se soustrayait",
+      "nous nous soustrayions",
+      "vous vous soustrayiez",
+      "ils se soustrayaient"
+    ],
+    "plus que parfait": [
+      "je m'étais soustrait",
+      "tu t'étais soustrait",
+      "il s'était soustrait",
+      "nous nous étions soustraits",
+      "vous vous étiez soustraits",
+      "ils s'étaient soustraits"
+    ],
+    "passé simple": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "passé antérieur": [
+      "je me fus soustrait",
+      "tu te fus soustrait",
+      "il se fut soustrait",
+      "nous nous fûmes soustraits",
+      "vous vous fûtes soustraits",
+      "ils se furent soustraits"
+    ],
+    "futur simple": [
+      "je me soustrairai",
+      "tu te soustrairas",
+      "il se soustraira",
+      "nous nous soustrairons",
+      "vous vous soustrairez",
+      "ils se soustrairont"
+    ],
+    "futur antérieur": [
+      "je me serai soustrait",
+      "tu te seras soustrait",
+      "il se sera soustrait",
+      "nous nous serons soustraits",
+      "vous vous serez soustraits",
+      "ils se seront soustraits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je me soustraie",
+      "que tu te soustraies",
+      "qu'il se soustraie",
+      "que nous nous soustrayions",
+      "que vous vous soustrayiez",
+      "qu'ils se soustraient"
+    ],
+    "passé": [
+      "que je me sois soustrait",
+      "que tu te sois soustrait",
+      "qu'il se soit soustrait",
+      "que nous nous soyons soustraits",
+      "que vous vous soyez soustraits",
+      "qu'ils se soient soustraits"
+    ],
+    "imparfait": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "plus que parfait": [
+      "que je me fusse soustrait",
+      "que tu te fusses soustrait",
+      "qu'il se fût soustrait",
+      "que nous nous fussions soustraits",
+      "que vous vous fussiez soustraits",
+      "qu'ils se fussent soustraits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je me soustrairais",
+      "tu te soustrairais",
+      "il se soustrairait",
+      "nous nous soustrairions",
+      "vous vous soustrairiez",
+      "ils se soustrairaient"
+    ],
+    "passé": [
+      "je me serais soustrait",
+      "tu te serais soustrait",
+      "il se serait soustrait",
+      "nous nous serions soustraits",
+      "vous vous seriez soustraits",
+      "ils se seraient soustraits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "soustrais-toi",
+      "soustrayons-nous",
+      "soustrayez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "se soustraire"
+    ],
+    "passé": [
+      "s'être soustrait"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "se soustrayant"
+    ],
+    "passé": [
+      "-",
+      "s'étant soustrait"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en se soustrayant"
+    ],
+    "passé": [
+      "en s'étant soustrait"
+    ]
+  }
+}

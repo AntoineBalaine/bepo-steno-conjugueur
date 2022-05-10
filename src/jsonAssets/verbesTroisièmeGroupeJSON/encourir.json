@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "j'encours",
+      "tu encours",
+      "il encourt",
+      "nous encourons",
+      "vous encourez",
+      "ils encourent"
+    ],
+    "passé composé": [
+      "j'ai encouru",
+      "tu as encouru",
+      "il a encouru",
+      "nous avons encouru",
+      "vous avez encouru",
+      "ils ont encouru"
+    ],
+    "imparfait": [
+      "j'encourais",
+      "tu encourais",
+      "il encourait",
+      "nous encourions",
+      "vous encouriez",
+      "ils encouraient"
+    ],
+    "plus que parfait": [
+      "j'avais encouru",
+      "tu avais encouru",
+      "il avait encouru",
+      "nous avions encouru",
+      "vous aviez encouru",
+      "ils avaient encouru"
+    ],
+    "passé simple": [
+      "j'encourus",
+      "tu encourus",
+      "il encourut",
+      "nous encourûmes",
+      "vous encourûtes",
+      "ils encoururent"
+    ],
+    "passé antérieur": [
+      "j'eus encouru",
+      "tu eus encouru",
+      "il eut encouru",
+      "nous eûmes encouru",
+      "vous eûtes encouru",
+      "ils eurent encouru"
+    ],
+    "futur simple": [
+      "j'encourrai",
+      "tu encourras",
+      "il encourra",
+      "nous encourrons",
+      "vous encourrez",
+      "ils encourront"
+    ],
+    "futur antérieur": [
+      "j'aurai encouru",
+      "tu auras encouru",
+      "il aura encouru",
+      "nous aurons encouru",
+      "vous aurez encouru",
+      "ils auront encouru"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que j'encoure",
+      "que tu encoures",
+      "qu'il encoure",
+      "que nous encourions",
+      "que vous encouriez",
+      "qu'ils encourent"
+    ],
+    "passé": [
+      "que j'aie encouru",
+      "que tu aies encouru",
+      "qu'il ait encouru",
+      "que nous ayons encouru",
+      "que vous ayez encouru",
+      "qu'ils aient encouru"
+    ],
+    "imparfait": [
+      "que j'encourusse",
+      "que tu encourusses",
+      "qu'il encourût",
+      "que nous encourussions",
+      "que vous encourussiez",
+      "qu'ils encourussent"
+    ],
+    "plus que parfait": [
+      "que j'eusse encouru",
+      "que tu eusses encouru",
+      "qu'il eût encouru",
+      "que nous eussions encouru",
+      "que vous eussiez encouru",
+      "qu'ils eussent encouru"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "j'encourrais",
+      "tu encourrais",
+      "il encourrait",
+      "nous encourrions",
+      "vous encourriez",
+      "ils encourraient"
+    ],
+    "passé": [
+      "j'aurais encouru",
+      "tu aurais encouru",
+      "il aurait encouru",
+      "nous aurions encouru",
+      "vous auriez encouru",
+      "ils auraient encouru"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "encours",
+      "encourons",
+      "encourez"
+    ],
+    "passé": [
+      "aie encouru",
+      "ayons encouru",
+      "ayez encouru"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "encourir"
+    ],
+    "passé": [
+      "avoir encouru"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "encourant"
+    ],
+    "passé": [
+      "encouru",
+      "ayant encouru"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en encourant"
+    ],
+    "passé": [
+      "en ayant encouru"
+    ]
+  }
+}

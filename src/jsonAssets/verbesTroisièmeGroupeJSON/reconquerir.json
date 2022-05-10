@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je reconquiers",
+      "tu reconquiers",
+      "il reconquiert",
+      "nous reconquérons",
+      "vous reconquérez",
+      "ils reconquièrent"
+    ],
+    "passé composé": [
+      "j'ai reconquis",
+      "tu as reconquis",
+      "il a reconquis",
+      "nous avons reconquis",
+      "vous avez reconquis",
+      "ils ont reconquis"
+    ],
+    "imparfait": [
+      "je reconquérais",
+      "tu reconquérais",
+      "il reconquérait",
+      "nous reconquérions",
+      "vous reconquériez",
+      "ils reconquéraient"
+    ],
+    "plus que parfait": [
+      "j'avais reconquis",
+      "tu avais reconquis",
+      "il avait reconquis",
+      "nous avions reconquis",
+      "vous aviez reconquis",
+      "ils avaient reconquis"
+    ],
+    "passé simple": [
+      "je reconquis",
+      "tu reconquis",
+      "il reconquit",
+      "nous reconquîmes",
+      "vous reconquîtes",
+      "ils reconquirent"
+    ],
+    "passé antérieur": [
+      "j'eus reconquis",
+      "tu eus reconquis",
+      "il eut reconquis",
+      "nous eûmes reconquis",
+      "vous eûtes reconquis",
+      "ils eurent reconquis"
+    ],
+    "futur simple": [
+      "je reconquerrai",
+      "tu reconquerras",
+      "il reconquerra",
+      "nous reconquerrons",
+      "vous reconquerrez",
+      "ils reconquerront"
+    ],
+    "futur antérieur": [
+      "j'aurai reconquis",
+      "tu auras reconquis",
+      "il aura reconquis",
+      "nous aurons reconquis",
+      "vous aurez reconquis",
+      "ils auront reconquis"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je reconquière",
+      "que tu reconquières",
+      "qu'il reconquière",
+      "que nous reconquérions",
+      "que vous reconquériez",
+      "qu'ils reconquièrent"
+    ],
+    "passé": [
+      "que j'aie reconquis",
+      "que tu aies reconquis",
+      "qu'il ait reconquis",
+      "que nous ayons reconquis",
+      "que vous ayez reconquis",
+      "qu'ils aient reconquis"
+    ],
+    "imparfait": [
+      "que je reconquisse",
+      "que tu reconquisses",
+      "qu'il reconquît",
+      "que nous reconquissions",
+      "que vous reconquissiez",
+      "qu'ils reconquissent"
+    ],
+    "plus que parfait": [
+      "que j'eusse reconquis",
+      "que tu eusses reconquis",
+      "qu'il eût reconquis",
+      "que nous eussions reconquis",
+      "que vous eussiez reconquis",
+      "qu'ils eussent reconquis"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je reconquerrais",
+      "tu reconquerrais",
+      "il reconquerrait",
+      "nous reconquerrions",
+      "vous reconquerriez",
+      "ils reconquerraient"
+    ],
+    "passé": [
+      "j'aurais reconquis",
+      "tu aurais reconquis",
+      "il aurait reconquis",
+      "nous aurions reconquis",
+      "vous auriez reconquis",
+      "ils auraient reconquis"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "reconquiers",
+      "reconquérons",
+      "reconquérez"
+    ],
+    "passé": [
+      "aie reconquis",
+      "ayons reconquis",
+      "ayez reconquis"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "reconquérir"
+    ],
+    "passé": [
+      "avoir reconquis"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "reconquérant"
+    ],
+    "passé": [
+      "reconquis",
+      "ayant reconquis"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en reconquérant"
+    ],
+    "passé": [
+      "en ayant reconquis"
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "indicatif": {
+    "présent": [
+      "je m'introduis",
+      "tu t'introduis",
+      "il s'introduit",
+      "nous nous introduisons",
+      "vous vous introduisez",
+      "ils s'introduisent"
+    ],
+    "passé composé": [
+      "je me suis introduit",
+      "tu t'es introduit",
+      "il s'est introduit",
+      "nous nous sommes introduits",
+      "vous vous êtes introduits",
+      "ils se sont introduits"
+    ],
+    "imparfait": [
+      "je m'introduisais",
+      "tu t'introduisais",
+      "il s'introduisait",
+      "nous nous introduisions",
+      "vous vous introduisiez",
+      "ils s'introduisaient"
+    ],
+    "plus que parfait": [
+      "je m'étais introduit",
+      "tu t'étais introduit",
+      "il s'était introduit",
+      "nous nous étions introduits",
+      "vous vous étiez introduits",
+      "ils s'étaient introduits"
+    ],
+    "passé simple": [
+      "je m'introduisis",
+      "tu t'introduisis",
+      "il s'introduisit",
+      "nous nous introduisîmes",
+      "vous vous introduisîtes",
+      "ils s'introduisirent"
+    ],
+    "passé antérieur": [
+      "je me fus introduit",
+      "tu te fus introduit",
+      "il se fut introduit",
+      "nous nous fûmes introduits",
+      "vous vous fûtes introduits",
+      "ils se furent introduits"
+    ],
+    "futur simple": [
+      "je m'introduirai",
+      "tu t'introduiras",
+      "il s'introduira",
+      "nous nous introduirons",
+      "vous vous introduirez",
+      "ils s'introduiront"
+    ],
+    "futur antérieur": [
+      "je me serai introduit",
+      "tu te seras introduit",
+      "il se sera introduit",
+      "nous nous serons introduits",
+      "vous vous serez introduits",
+      "ils se seront introduits"
+    ]
+  },
+  "subjonctif": {
+    "présent": [
+      "que je m'introduise",
+      "que tu t'introduises",
+      "qu'il s'introduise",
+      "que nous nous introduisions",
+      "que vous vous introduisiez",
+      "qu'ils s'introduisent"
+    ],
+    "passé": [
+      "que je me sois introduit",
+      "que tu te sois introduit",
+      "qu'il se soit introduit",
+      "que nous nous soyons introduits",
+      "que vous vous soyez introduits",
+      "qu'ils se soient introduits"
+    ],
+    "imparfait": [
+      "que je m'introduisisse",
+      "que tu t'introduisisses",
+      "qu'il s'introduisît",
+      "que nous nous introduisissions",
+      "que vous vous introduisissiez",
+      "qu'ils s'introduisissent"
+    ],
+    "plus que parfait": [
+      "que je me fusse introduit",
+      "que tu te fusses introduit",
+      "qu'il se fût introduit",
+      "que nous nous fussions introduits",
+      "que vous vous fussiez introduits",
+      "qu'ils se fussent introduits"
+    ]
+  },
+  "conditionnel": {
+    "présent": [
+      "je m'introduirais",
+      "tu t'introduirais",
+      "il s'introduirait",
+      "nous nous introduirions",
+      "vous vous introduiriez",
+      "ils s'introduiraient"
+    ],
+    "passé": [
+      "je me serais introduit",
+      "tu te serais introduit",
+      "il se serait introduit",
+      "nous nous serions introduits",
+      "vous vous seriez introduits",
+      "ils se seraient introduits"
+    ]
+  },
+  "impératif": {
+    "présent": [
+      "introduis-toi",
+      "introduisons-nous",
+      "introduisez-vous"
+    ],
+    "passé": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  "infinitif": {
+    "présent": [
+      "s'introduire"
+    ],
+    "passé": [
+      "s'être introduit"
+    ]
+  },
+  "participe": {
+    "présent": [
+      "s'introduisant"
+    ],
+    "passé": [
+      "-",
+      "s'étant introduit"
+    ]
+  },
+  "gérondif": {
+    "présent": [
+      "en s'introduisant"
+    ],
+    "passé": [
+      "en s'étant introduit"
+    ]
+  }
+}
