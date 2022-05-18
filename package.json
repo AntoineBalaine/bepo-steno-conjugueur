@@ -16,7 +16,9 @@
     "filtreTousLesGroupes": "npm run filtrePremierGroupeInfinitif && npm run filtreDeuxièmeGroupeInfinitif && npm run filtreTroisièmeGroupeInfinitif",
     "filtreNoms": "npx ts-node src/scripts/filtreNoms.ts",
     "catégoriseIndéterminés": "npx ts-node src/scripts/filtreNomsIndéterminés.ts",
-    "sténoNomsPluriels": "npx ts-node src/scripts/pluraliseSténoNoms.ts"
+    "sténoNomsPluriels": "npx ts-node src/scripts/pluraliseSténoNoms.ts",
+    "clésDupliquées": "npx ts-node src/scripts/removeUniqueKeys.ts",
+    "testCLI": "npx ts-node src/scripts/testCommandLine.ts /home/antoine/Documents/Experiments/ploverBépo/bépo/plover_bepo/plover_bepo/dictionaries/commandes.json"
   },
   "author": "",
   "license": "ISC",
