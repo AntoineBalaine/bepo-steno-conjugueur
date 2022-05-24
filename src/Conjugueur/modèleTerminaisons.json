@@ -1,6 +1,6 @@
 {
   "premierGroupe": {
-    "infinitif": { "frappes": ["EÉl"], "terminaison": "er" },
+    "infinitif": { "frappes": ["ElÉ"], "terminaison": "er" },
     "indicatif": {
       "présent": {
         "singulierPremiere": { "frappes": [""], "terminaison": "e" },
@@ -115,12 +115,12 @@
     "infinitif": { "frappes": ["Il"], "terminaison": "ir" },
     "indicatif": {
       "présent": {
-        "singulierPremiere": { "frappes": ["ÉI"], "terminaison": "is" },
-        "singulierDeuxieme": { "frappes": ["ÉI"], "terminaison": "is" },
-        "singulierTroisieme": { "frappes": ["ÉID"], "terminaison": "it" },
+        "singulierPremiere": { "frappes": ["IÉ"], "terminaison": "is" },
+        "singulierDeuxieme": { "frappes": ["IÉ"], "terminaison": "is" },
+        "singulierTroisieme": { "frappes": ["IÉD"], "terminaison": "it" },
         "plurielPremiere": { "frappes": ["I/SOn"], "terminaison": "issons" },
         "plurielDeuxieme": { "frappes": ["I/SEÉ"], "terminaison": "issez" },
-        "plurielTroisieme": { "frappes": ["ÉIn$"], "terminaison": "issent" }
+        "plurielTroisieme": { "frappes": ["IÉn$"], "terminaison": "issent" }
       },
       "imparfait": {
         "singulierPremiere": { "frappes": ["I/SÈ$"], "terminaison": "issais" },
@@ -151,33 +151,33 @@
         }
       },
       "passéSimple": {
-        "singulierPremiere": { "frappes": ["ÉI"], "terminaison": "is" },
-        "singulierDeuxieme": { "frappes": ["ÉI"], "terminaison": "is"},
-        "singulierTroisieme": { "frappes": ["ÉID"], "terminaison": "it" },
+        "singulierPremiere": { "frappes": ["IÉ"], "terminaison": "is" },
+        "singulierDeuxieme": { "frappes": ["IÉ"], "terminaison": "is"},
+        "singulierTroisieme": { "frappes": ["IÉD"], "terminaison": "it" },
         "plurielPremiere": { "frappes": ["InC"], "terminaison": "îmes" },
         "plurielDeuxieme": { "frappes": ["ID"], "terminaison": "îtes" },
-        "plurielTroisieme": { "frappes": ["ÉIln"], "terminaison": "irent" }
+        "plurielTroisieme": { "frappes": ["IlÉn"], "terminaison": "irent" }
       }
     },
     "subjonctif": {
       "présent": {
         "singulierPremiere": { "frappes": ["I$"], "terminaison": "isse" },
-        "singulierDeuxieme": { "frappes": ["ÉI$"], "terminaison": "isses" },
+        "singulierDeuxieme": { "frappes": ["IÉ$"], "terminaison": "isses" },
         "singulierTroisieme": { "frappes": ["I$"], "terminaison": "isse" },
         "plurielPremiere": { "frappes": ["I/SYOn"], "terminaison": "issions" },
         "plurielDeuxieme": { "frappes": ["I/SYE"], "terminaison": "issiez" },
-        "plurielTroisieme": { "frappes": ["I/SÉn", "I/SÉD", "ÉIn$", "ÉI$D"], "terminaison": "issent" }
+        "plurielTroisieme": { "frappes": ["I/SÉn", "I/SÉD", "IÉn$", "ÉI$D"], "terminaison": "issent" }
       },
       "imparfait": {
         "singulierPremiere": { "frappes": ["I$"], "terminaison": "isse" },
-        "singulierDeuxieme": { "frappes": ["ÉI$"], "terminaison": "isses" },
-        "singulierTroisieme": { "frappes": ["ÉID/É"], "terminaison": "ît" },
+        "singulierDeuxieme": { "frappes": ["IÉ$"], "terminaison": "isses" },
+        "singulierTroisieme": { "frappes": ["IÉD/É"], "terminaison": "ît" },
         "plurielPremiere": {
           "frappes": ["I/SYOn"],
           "terminaison": "issions"
         },
         "plurielDeuxieme": { "frappes": ["I/SYE"], "terminaison": "issiez" },
-        "plurielTroisieme": { "frappes": ["I/SÉn", "I/SÉD", "ÉIn$", "ÉI$D"], "terminaison": "issent" }
+        "plurielTroisieme": { "frappes": ["I/SÉn", "I/SÉD", "IÉn$", "ÉI$D"], "terminaison": "issent" }
       }
     },
     "conditionnel": {
@@ -204,7 +204,7 @@
     },
     "impératif": {
       "présent": {
-        "singulierDeuxieme": { "frappes": ["ÉI"], "terminaison": "is" },
+        "singulierDeuxieme": { "frappes": ["IÉ"], "terminaison": "is" },
         "plurielPremiere": { "frappes": ["I/SOn"], "terminaison": "issons" },
         "plurielDeuxieme": { "frappes": ["I/SÉE$"], "terminaison": "issez" }
       }
@@ -213,9 +213,9 @@
       "présent": { "frappes": ["I/SAn"], "terminaison": "issant" },
       "passé": {
         "singulierMasculin": { "frappes": ["I"], "terminaison": "i" },
-        "plurielMasculin": { "frappes": ["ÉI"], "terminaison": "is" },
+        "plurielMasculin": { "frappes": ["IÉ"], "terminaison": "is" },
         "singulierFéminin": { "frappes": ["IC"], "terminaison": "ie" },
-        "plurielFéminin": { "frappes": ["ÉIC"], "terminaison": "ies" }
+        "plurielFéminin": { "frappes": ["IÉC"], "terminaison": "ies" }
       }
     },
     "gérondif": {
