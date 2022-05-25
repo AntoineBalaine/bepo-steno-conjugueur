@@ -27,6 +27,18 @@ export type personnes = {
   plurielDeuxieme: TerminaisonEtFrappes;
   plurielTroisieme: TerminaisonEtFrappes;
 };
+export type InfinitifEtFrappe = {
+  frappe: string;
+  infinitif: string;
+};
+export type RadicalEtFrappe = {
+  frappe: string;
+  radical: string;
+};
+export type TerminaisonEtFrappe = {
+  frappe: string;
+  terminaison: string;
+};
 export type TerminaisonEtFrappes = {
   frappes: string[];
   terminaison: string;
