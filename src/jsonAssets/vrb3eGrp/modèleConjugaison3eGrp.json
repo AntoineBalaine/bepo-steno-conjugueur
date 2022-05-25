@@ -4,8 +4,12 @@
       "advenir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "AD/F*/NIl",
+      "infinitif": "advenir"
+    },
+    "RADICAL": {
+      "frappe": "AD/F*",
+      "radical": "adv"
     },
     "ENDING": [
       "enir"
@@ -114,8 +118,12 @@
       "apparoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/PA/ROIl",
+      "infinitif": "apparoir"
+    },
+    "RADICAL": {
+      "frappe": "A/P",
+      "radical": "app"
     },
     "ENDING": [
       "aroir"
@@ -148,8 +156,12 @@
       "ravoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/SA/F*OIl",
+      "infinitif": "assavoir"
+    },
+    "RADICAL": {
+      "frappe": "A/SA/F*",
+      "radical": "assav"
     },
     "ENDING": [
       "oir"
@@ -174,8 +186,12 @@
       "répartir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/SEl/F*Il",
+      "infinitif": "asservir"
+    },
+    "RADICAL": {
+      "frappe": "A/SEl/F*",
+      "radical": "asserv"
     },
     "ENDING": [
       "ir"
@@ -409,8 +425,12 @@
       "avenir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/F*/NIl",
+      "infinitif": "avenir"
+    },
+    "RADICAL": {
+      "frappe": "A/F*",
+      "radical": "av"
     },
     "ENDING": [
       "enir"
@@ -439,8 +459,8 @@
       "avoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/F*OIl",
+      "infinitif": "avoir"
     },
     "ENDING": [
       "avoir"
@@ -674,8 +694,12 @@
       "bienvenir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "BYIn/F*/NIl",
+      "infinitif": "bienvenir"
+    },
+    "RADICAL": {
+      "frappe": "BYIn/F*",
+      "radical": "bienv"
     },
     "ENDING": [
       "enir"
@@ -716,8 +740,12 @@
       "bénir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "BE/NIl",
+      "infinitif": "bénir"
+    },
+    "RADICAL": {
+      "frappe": "BE/N",
+      "radical": "bén"
     },
     "ENDING": [
       "ir"
@@ -967,8 +995,12 @@
       "chaloir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SKA/LOIl",
+      "infinitif": "chaloir"
+    },
+    "RADICAL": {
+      "frappe": "SKA",
+      "radical": "cha"
     },
     "ENDING": [
       "loir"
@@ -997,8 +1029,12 @@
       "choir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SKOIl",
+      "infinitif": "choir"
+    },
+    "RADICAL": {
+      "frappe": "SK",
+      "radical": "ch"
     },
     "ENDING": [
       "oir"
@@ -1196,8 +1232,12 @@
       ".*tenir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SIl/KOn/F*/NIl",
+      "infinitif": "circonvenir"
+    },
+    "RADICAL": {
+      "frappe": "SIl/KOn/F*",
+      "radical": "circonv"
     },
     "ENDING": [
       "enir"
@@ -1431,8 +1471,12 @@
       "convenir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KOn/F*/NIl",
+      "infinitif": "convenir"
+    },
+    "RADICAL": {
+      "frappe": "KOn/F*",
+      "radical": "conv"
     },
     "ENDING": [
       "enir"
@@ -1666,8 +1710,12 @@
       "déchoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*E/SKOIl",
+      "infinitif": "déchoir"
+    },
+    "RADICAL": {
+      "frappe": "T*E/SK",
+      "radical": "déch"
     },
     "ENDING": [
       "oir"
@@ -1910,8 +1958,12 @@
       "défaillir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*E/FA/YIl",
+      "infinitif": "défaillir"
+    },
+    "RADICAL": {
+      "frappe": "T*E/FA",
+      "radical": "défa"
     },
     "ENDING": [
       "illir"
@@ -2169,8 +2221,12 @@
       "départir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*E/PAl/TIl",
+      "infinitif": "départir"
+    },
+    "RADICAL": {
+      "frappe": "T*E/PAl",
+      "radical": "dépar"
     },
     "ENDING": [
       "tir"
@@ -2416,8 +2472,12 @@
       "dépourvoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*E/POUl/F*OIl",
+      "infinitif": "dépourvoir"
+    },
+    "RADICAL": {
+      "frappe": "T*E/POUl/F*",
+      "radical": "dépourv"
     },
     "ENDING": [
       "oir"
@@ -2483,8 +2543,12 @@
       "faillir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FA/YIl",
+      "infinitif": "faillir"
+    },
+    "RADICAL": {
+      "frappe": "FA",
+      "radical": "fa"
     },
     "ENDING": [
       "illir"
@@ -2746,8 +2810,12 @@
       "falloir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FA/LOIl",
+      "infinitif": "falloir"
+    },
+    "RADICAL": {
+      "frappe": "FA",
+      "radical": "fa"
     },
     "ENDING": [
       "lloir"
@@ -2823,8 +2891,12 @@
       "férir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FE/RIl",
+      "infinitif": "férir"
+    },
+    "RADICAL": {
+      "frappe": "FE/R",
+      "radical": "fér"
     },
     "ENDING": [
       "ir"
@@ -2865,8 +2937,12 @@
       "gésir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "YE/S*Il",
+      "infinitif": "gésir"
+    },
+    "RADICAL": {
+      "frappe": "Y",
+      "radical": "g"
     },
     "ENDING": [
       "ésir"
@@ -2945,8 +3021,12 @@
       "huir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "UIl",
+      "infinitif": "huir"
+    },
+    "RADICAL": {
+      "frappe": "U",
+      "radical": "hu"
     },
     "ENDING": [
       "ir"
@@ -3012,8 +3092,12 @@
       "impartir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "In/PAl/TIl",
+      "infinitif": "impartir"
+    },
+    "RADICAL": {
+      "frappe": "In/PAl/T",
+      "radical": "impart"
     },
     "ENDING": [
       "ir"
@@ -3079,8 +3163,12 @@
       "issir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "I/SIl",
+      "infinitif": "issir"
+    },
+    "RADICAL": {
+      "frappe": "I/S",
+      "radical": "iss"
     },
     "ENDING": [
       "ir"
@@ -3121,8 +3209,12 @@
       "mentir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "MAn/TIl",
+      "infinitif": "mentir"
+    },
+    "RADICAL": {
+      "frappe": "MAn",
+      "radical": "men"
     },
     "ENDING": [
       "tir"
@@ -3356,8 +3448,12 @@
       "messeoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "ME/SOIl",
+      "infinitif": "messeoir"
+    },
+    "RADICAL": {
+      "frappe": "ME/S",
+      "radical": "mess"
     },
     "ENDING": [
       "eoir"
@@ -3431,8 +3527,12 @@
       "mourir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "MOU/RIl",
+      "infinitif": "mourir"
+    },
+    "RADICAL": {
+      "frappe": "M",
+      "radical": "m"
     },
     "ENDING": [
       "ourir"
@@ -3666,8 +3766,12 @@
       "mouvoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "MOU/F*OIl",
+      "infinitif": "mouvoir"
+    },
+    "RADICAL": {
+      "frappe": "M",
+      "radical": "m"
     },
     "ENDING": [
       "ouvoir"
@@ -3909,8 +4013,12 @@
       "ouïr"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "OUIl",
+      "infinitif": "ouïr"
+    },
+    "RADICAL": {
+      "frappe": "O",
+      "radical": "o"
     },
     "ENDING": [
       "uïr"
@@ -4200,8 +4308,12 @@
       "partir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PAl/TIl",
+      "infinitif": "partir"
+    },
+    "RADICAL": {
+      "frappe": "PAl",
+      "radical": "par"
     },
     "ENDING": [
       "tir"
@@ -4435,8 +4547,12 @@
       "pouvoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "POU/F*OIl",
+      "infinitif": "pouvoir"
+    },
+    "RADICAL": {
+      "frappe": "P",
+      "radical": "p"
     },
     "ENDING": [
       "ouvoir"
@@ -4657,8 +4773,12 @@
       "prévaloir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PRE/F*A/LOIl",
+      "infinitif": "prévaloir"
+    },
+    "RADICAL": {
+      "frappe": "PRE/F*A",
+      "radical": "préva"
     },
     "ENDING": [
       "loir"
@@ -4892,8 +5012,12 @@
       "prévoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PRE/F*OIl",
+      "infinitif": "prévoir"
+    },
+    "RADICAL": {
+      "frappe": "PRE/F*",
+      "radical": "prév"
     },
     "ENDING": [
       "oir"
@@ -5127,8 +5251,12 @@
       "rassir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "RA/SIl",
+      "infinitif": "rassir"
+    },
+    "RADICAL": {
+      "frappe": "RA/S",
+      "radical": "rass"
     },
     "ENDING": [
       "ir"
@@ -5169,8 +5297,12 @@
       "repentir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "R/PAn/TIl",
+      "infinitif": "repentir"
+    },
+    "RADICAL": {
+      "frappe": "R/PAn",
+      "radical": "repen"
     },
     "ENDING": [
       "tir"
@@ -5407,8 +5539,12 @@
       ".*partir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "R/SOl/TIl",
+      "infinitif": "ressortir"
+    },
+    "RADICAL": {
+      "frappe": "R/SOl",
+      "radical": "ressor"
     },
     "ENDING": [
       "tir"
@@ -5642,8 +5778,12 @@
       "revaloir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "R/F*A/LOIl",
+      "infinitif": "revaloir"
+    },
+    "RADICAL": {
+      "frappe": "R/F*A",
+      "radical": "reva"
     },
     "ENDING": [
       "loir"
@@ -5717,8 +5857,12 @@
       "saillir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SA/YIl",
+      "infinitif": "saillir"
+    },
+    "RADICAL": {
+      "frappe": "SA/Y",
+      "radical": "saill"
     },
     "ENDING": [
       "ir"
@@ -5835,8 +5979,12 @@
       "sortir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SOl/TIl",
+      "infinitif": "sortir"
+    },
+    "RADICAL": {
+      "frappe": "SOl",
+      "radical": "sor"
     },
     "ENDING": [
       "tir"
@@ -6070,8 +6218,12 @@
       "surseoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SUl/SOIl",
+      "infinitif": "surseoir"
+    },
+    "RADICAL": {
+      "frappe": "SUl/S",
+      "radical": "surs"
     },
     "ENDING": [
       "eoir"
@@ -6305,8 +6457,12 @@
       "vêtir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "F*E/TIl",
+      "infinitif": "vêtir"
+    },
+    "RADICAL": {
+      "frappe": "F*E",
+      "radical": "vê"
     },
     "ENDING": [
       "tir"
@@ -6540,8 +6696,12 @@
       "échoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "E/SKOIl",
+      "infinitif": "échoir"
+    },
+    "RADICAL": {
+      "frappe": "E/SK",
+      "radical": "éch"
     },
     "ENDING": [
       "oir"
@@ -6674,8 +6834,12 @@
       ".*asseoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/SOIl",
+      "infinitif": "asseoir"
+    },
+    "RADICAL": {
+      "frappe": "A/S",
+      "radical": "ass"
     },
     "ENDING": [
       "eoir"
@@ -7045,8 +7209,12 @@
       ".*assoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/SOIl",
+      "infinitif": "assoir"
+    },
+    "RADICAL": {
+      "frappe": "A/S",
+      "radical": "ass"
     },
     "ENDING": [
       "oir"
@@ -7280,8 +7448,12 @@
       ".*bouillir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "BOU/YIl",
+      "infinitif": "bouillir"
+    },
+    "RADICAL": {
+      "frappe": "BOU",
+      "radical": "bou"
     },
     "ENDING": [
       "illir"
@@ -7515,8 +7687,12 @@
       ".*cevoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "R/S/F*OIl",
+      "infinitif": "recevoir"
+    },
+    "RADICAL": {
+      "frappe": "R",
+      "radical": "re"
     },
     "ENDING": [
       "cevoir"
@@ -7750,8 +7926,12 @@
       ".*courir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KOU/RIl",
+      "infinitif": "courir"
+    },
+    "RADICAL": {
+      "frappe": "KOU/R",
+      "radical": "cour"
     },
     "ENDING": [
       "ir"
@@ -7985,8 +8165,12 @@
       ".*cueillir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "K/YIl",
+      "infinitif": "cueillir"
+    },
+    "RADICAL": {
+      "frappe": "K/Y",
+      "radical": "cueill"
     },
     "ENDING": [
       "ir"
@@ -8220,8 +8404,12 @@
       ".*devoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*/F*OIl",
+      "infinitif": "devoir"
+    },
+    "RADICAL": {
+      "frappe": "D",
+      "radical": "d"
     },
     "ENDING": [
       "evoir"
@@ -8456,8 +8644,12 @@
       "redormir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "An/T*Ol/MIl",
+      "infinitif": "endormir"
+    },
+    "RADICAL": {
+      "frappe": "An/T*Ol",
+      "radical": "endor"
     },
     "ENDING": [
       "mir"
@@ -8691,8 +8883,12 @@
       ".*dormir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*Ol/MIl",
+      "infinitif": "dormir"
+    },
+    "RADICAL": {
+      "frappe": "T*OUl",
+      "radical": "dor"
     },
     "ENDING": [
       "mir"
@@ -8926,8 +9122,12 @@
       ".*fuir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FUIl",
+      "infinitif": "fuir"
+    },
+    "RADICAL": {
+      "frappe": "FU",
+      "radical": "fu"
     },
     "ENDING": [
       "ir"
@@ -9161,8 +9361,12 @@
       ".*haïr"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/Il",
+      "infinitif": "haïr"
+    },
+    "RADICAL": {
+      "frappe": "A",
+      "radical": "ha"
     },
     "ENDING": [
       "ïr"
@@ -9396,8 +9600,12 @@
       ".*mouvoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PRO/MOU/F*OIl",
+      "infinitif": "promouvoir"
+    },
+    "RADICAL": {
+      "frappe": "PRO/M",
+      "radical": "prom"
     },
     "ENDING": [
       "ouvoir"
@@ -9632,8 +9840,12 @@
       ".*frir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "OU/F*RIl",
+      "infinitif": "ouvrir"
+    },
+    "RADICAL": {
+      "frappe": "OU/F*",
+      "radical": "ouv"
     },
     "ENDING": [
       "rir"
@@ -9867,8 +10079,12 @@
       ".*pleuvoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PL/F*OIl",
+      "infinitif": "pleuvoir"
+    },
+    "RADICAL": {
+      "frappe": "PL",
+      "radical": "pl"
     },
     "ENDING": [
       "euvoir"
@@ -9949,8 +10165,12 @@
       ".*pourvoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "POUl/F*OIl",
+      "infinitif": "pourvoir"
+    },
+    "RADICAL": {
+      "frappe": "POUl/F*",
+      "radical": "pourv"
     },
     "ENDING": [
       "oir"
@@ -10184,8 +10404,12 @@
       ".*quérir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KE/RIl",
+      "infinitif": "quérir"
+    },
+    "RADICAL": {
+      "frappe": "K",
+      "radical": "qu"
     },
     "ENDING": [
       "érir"
@@ -10419,8 +10643,12 @@
       ".*saillir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/SA/YIl",
+      "infinitif": "assaillir"
+    },
+    "RADICAL": {
+      "frappe": "A/SA/Y",
+      "radical": "assaill"
     },
     "ENDING": [
       "ir"
@@ -10654,8 +10882,12 @@
       ".*savoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SA/F*OIl",
+      "infinitif": "savoir"
+    },
+    "RADICAL": {
+      "frappe": "S",
+      "radical": "s"
     },
     "ENDING": [
       "avoir"
@@ -10889,8 +11121,12 @@
       ".*seoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SOIl",
+      "infinitif": "seoir"
+    },
+    "RADICAL": {
+      "frappe": "S",
+      "radical": "s"
     },
     "ENDING": [
       "eoir"
@@ -10985,8 +11221,12 @@
       ".*servir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SEl/F*Il",
+      "infinitif": "servir"
+    },
+    "RADICAL": {
+      "frappe": "SEl",
+      "radical": "ser"
     },
     "ENDING": [
       "vir"
@@ -11220,8 +11460,12 @@
       ".*valoir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "F*A/LOIl",
+      "infinitif": "valoir"
+    },
+    "RADICAL": {
+      "frappe": "F*A",
+      "radical": "va"
     },
     "ENDING": [
       "loir"
@@ -11455,8 +11699,12 @@
       ".*venir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "F*/NIl",
+      "infinitif": "venir"
+    },
+    "RADICAL": {
+      "frappe": "F*",
+      "radical": "v"
     },
     "ENDING": [
       "enir"
@@ -11690,8 +11938,12 @@
       ".*vouloir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "F*OU/LOIl",
+      "infinitif": "vouloir"
+    },
+    "RADICAL": {
+      "frappe": "F*",
+      "radical": "v"
     },
     "ENDING": [
       "ouloir"
@@ -11938,8 +12190,12 @@
       ".*oir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "F*OIl",
+      "infinitif": "voir"
+    },
+    "RADICAL": {
+      "frappe": "F*",
+      "radical": "v"
     },
     "ENDING": [
       "oir"
@@ -12173,8 +12429,12 @@
       ".*vêtir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*E/F*E/TIl",
+      "infinitif": "dévêtir"
+    },
+    "RADICAL": {
+      "frappe": "T*E/F*E",
+      "radical": "dévê"
     },
     "ENDING": [
       "tir"
@@ -12408,8 +12668,12 @@
       ".*ir"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FI/NIl",
+      "infinitif": "finir"
+    },
+    "RADICAL": {
+      "frappe": "FI/N",
+      "radical": "fin"
     },
     "ENDING": [
       "ir"
@@ -12643,8 +12907,12 @@
       "acariâtre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/KA/RYA/TR",
+      "infinitif": "acariâtre"
+    },
+    "RADICAL": {
+      "frappe": "A/KA/RYA",
+      "radical": "acariâ"
     },
     "ENDING": [
       "tre"
@@ -12882,8 +13150,12 @@
       "méfaire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/KROIl",
+      "infinitif": "accroire"
+    },
+    "RADICAL": {
+      "frappe": "A/KROI",
+      "radical": "accroi"
     },
     "ENDING": [
       "re"
@@ -12907,8 +13179,12 @@
       "braire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "BRÈl",
+      "infinitif": "braire"
+    },
+    "RADICAL": {
+      "frappe": "BRA",
+      "radical": "bra"
     },
     "ENDING": [
       "ire"
@@ -12959,8 +13235,12 @@
       "bruire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "BRUIl",
+      "infinitif": "bruire"
+    },
+    "RADICAL": {
+      "frappe": "BRU",
+      "radical": "bru"
     },
     "ENDING": [
       "ire"
@@ -13033,8 +13313,12 @@
       "circoncire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SIl/KOn/SIl",
+      "infinitif": "circoncire"
+    },
+    "RADICAL": {
+      "frappe": "SIl/KOn/S",
+      "radical": "circonc"
     },
     "ENDING": [
       "ire"
@@ -13268,8 +13552,12 @@
       "croître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KROI/TR",
+      "infinitif": "croître"
+    },
+    "RADICAL": {
+      "frappe": "KR",
+      "radical": "cr"
     },
     "ENDING": [
       "oître"
@@ -13503,8 +13791,12 @@
       "déclore"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*E/KLOl",
+      "infinitif": "déclore"
+    },
+    "RADICAL": {
+      "frappe": "T*E/KL",
+      "radical": "décl"
     },
     "ENDING": [
       "ore"
@@ -13545,8 +13837,12 @@
       "embatre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "An/BA/TR",
+      "infinitif": "embatre"
+    },
+    "RADICAL": {
+      "frappe": "An/BA",
+      "radical": "emba"
     },
     "ENDING": [
       "tre"
@@ -13776,8 +14072,12 @@
       "enclore"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "An/KLOl",
+      "infinitif": "enclore"
+    },
+    "RADICAL": {
+      "frappe": "An/KL",
+      "radical": "encl"
     },
     "ENDING": [
       "ore"
@@ -13936,8 +14236,12 @@
       "ensuivre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "An/SUI/F*R",
+      "infinitif": "ensuivre"
+    },
+    "RADICAL": {
+      "frappe": "An/SUI",
+      "radical": "ensui"
     },
     "ENDING": [
       "vre"
@@ -14046,8 +14350,12 @@
       "forclore"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FOl/KLOl",
+      "infinitif": "forclore"
+    },
+    "RADICAL": {
+      "frappe": "FOl/KL",
+      "radical": "forcl"
     },
     "ENDING": [
       "ore"
@@ -14089,8 +14397,12 @@
       "surfaire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FOl/FÈl",
+      "infinitif": "forfaire"
+    },
+    "RADICAL": {
+      "frappe": "FOl/F",
+      "radical": "forf"
     },
     "ENDING": [
       "aire"
@@ -14144,8 +14456,12 @@
       "frire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FRIl",
+      "infinitif": "frire"
+    },
+    "RADICAL": {
+      "frappe": "FR",
+      "radical": "fr"
     },
     "ENDING": [
       "ire"
@@ -14255,8 +14571,12 @@
       "occlure"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "In/KLUl",
+      "infinitif": "inclure"
+    },
+    "RADICAL": {
+      "frappe": "In/KL",
+      "radical": "incl"
     },
     "ENDING": [
       "ure"
@@ -14490,8 +14810,12 @@
       "maudire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "MO/T*Il",
+      "infinitif": "maudire"
+    },
+    "RADICAL": {
+      "frappe": "MO/T*",
+      "radical": "maud"
     },
     "ENDING": [
       "ire"
@@ -14725,8 +15049,12 @@
       "occire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "OC/SIl",
+      "infinitif": "occire"
+    },
+    "RADICAL": {
+      "frappe": "OC/SI",
+      "radical": "occi"
     },
     "ENDING": [
       "re"
@@ -14767,8 +15095,12 @@
       "oindre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "OIn/T*R",
+      "infinitif": "oindre"
+    },
+    "RADICAL": {
+      "frappe": "OI",
+      "radical": "oi"
     },
     "ENDING": [
       "ndre"
@@ -14839,8 +15171,12 @@
       "parfaire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PAl/FÈl",
+      "infinitif": "parfaire"
+    },
+    "RADICAL": {
+      "frappe": "PAl/F",
+      "radical": "parf"
     },
     "ENDING": [
       "aire"
@@ -14906,8 +15242,12 @@
       "paître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PÈ/TR",
+      "infinitif": "paître"
+    },
+    "RADICAL": {
+      "frappe": "P",
+      "radical": "p"
     },
     "ENDING": [
       "aître"
@@ -15091,8 +15431,12 @@
       "poindre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "POIn/T*R",
+      "infinitif": "poindre"
+    },
+    "RADICAL": {
+      "frappe": "POI",
+      "radical": "poi"
     },
     "ENDING": [
       "ndre"
@@ -15141,8 +15485,12 @@
       "raire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "RÈl",
+      "infinitif": "raire"
+    },
+    "RADICAL": {
+      "frappe": "RA",
+      "radical": "ra"
     },
     "ENDING": [
       "ire"
@@ -15233,8 +15581,12 @@
       "reclure"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "R/KLUl",
+      "infinitif": "reclure"
+    },
+    "RADICAL": {
+      "frappe": "R/KL",
+      "radical": "recl"
     },
     "ENDING": [
       "ure"
@@ -15275,8 +15627,12 @@
       "recroître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "R/KROI/TR",
+      "infinitif": "recroître"
+    },
+    "RADICAL": {
+      "frappe": "R/KR",
+      "radical": "recr"
     },
     "ENDING": [
       "oître"
@@ -15510,8 +15866,12 @@
       "renaître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "R/NÈ/TR",
+      "infinitif": "renaître"
+    },
+    "RADICAL": {
+      "frappe": "R/N",
+      "radical": "ren"
     },
     "ENDING": [
       "aître"
@@ -15728,8 +16088,12 @@
       "repaître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "R/PÈ/TR",
+      "infinitif": "repaître"
+    },
+    "RADICAL": {
+      "frappe": "R/P",
+      "radical": "rep"
     },
     "ENDING": [
       "aître"
@@ -15963,8 +16327,12 @@
       "résoudre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "RE/S*OU/T*R",
+      "infinitif": "résoudre"
+    },
+    "RADICAL": {
+      "frappe": "RE/S*O",
+      "radical": "réso"
     },
     "ENDING": [
       "udre"
@@ -16198,8 +16566,12 @@
       "sourdre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SOUl/T*R",
+      "infinitif": "sourdre"
+    },
+    "RADICAL": {
+      "frappe": "SOUl",
+      "radical": "sour"
     },
     "ENDING": [
       "dre"
@@ -16241,8 +16613,12 @@
       "stupéfaire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "STU/PE/FÈl",
+      "infinitif": "stupéfaire"
+    },
+    "RADICAL": {
+      "frappe": "STU/PE/F",
+      "radical": "stupéf"
     },
     "ENDING": [
       "aire"
@@ -16288,8 +16664,12 @@
       "suffire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SU/FIl",
+      "infinitif": "suffire"
+    },
+    "RADICAL": {
+      "frappe": "SU/F",
+      "radical": "suff"
     },
     "ENDING": [
       "ire"
@@ -16523,8 +16903,12 @@
       "taire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "TÈl",
+      "infinitif": "taire"
+    },
+    "RADICAL": {
+      "frappe": "T",
+      "radical": "t"
     },
     "ENDING": [
       "aire"
@@ -16758,8 +17142,12 @@
       "tistre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "TI$/TR",
+      "infinitif": "tistre"
+    },
+    "RADICAL": {
+      "frappe": "TI$",
+      "radical": "tis"
     },
     "ENDING": [
       "tre"
@@ -16800,8 +17188,12 @@
       "éclore"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "E/KLOl",
+      "infinitif": "éclore"
+    },
+    "RADICAL": {
+      "frappe": "E/KL",
+      "radical": "écl"
     },
     "ENDING": [
       "ore"
@@ -16883,8 +17275,8 @@
       "être"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "E/TR",
+      "infinitif": "être"
     },
     "ENDING": [
       "être"
@@ -17118,8 +17510,12 @@
       ".*aindre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "In/T*R",
+      "infinitif": "aindre"
+    },
+    "RADICAL": {
+      "frappe": "È",
+      "radical": "ai"
     },
     "ENDING": [
       "ndre"
@@ -17353,8 +17749,12 @@
       ".*battre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "BA/TR",
+      "infinitif": "battre"
+    },
+    "RADICAL": {
+      "frappe": "BA",
+      "radical": "ba"
     },
     "ENDING": [
       "ttre"
@@ -17589,8 +17989,12 @@
       ".*eindre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "YAn/T*R",
+      "infinitif": "iendre"
+    },
+    "RADICAL": {
+      "frappe": "Y",
+      "radical": "ie"
     },
     "ENDING": [
       "ndre"
@@ -17824,8 +18228,12 @@
       ".*prendre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PRAn/T*R",
+      "infinitif": "prendre"
+    },
+    "RADICAL": {
+      "frappe": "PR",
+      "radical": "pr"
     },
     "ENDING": [
       "endre"
@@ -18064,8 +18472,12 @@
       ".*eurdre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "RE/PAn/T*R",
+      "infinitif": "répandre"
+    },
+    "RADICAL": {
+      "frappe": "RE/PAn",
+      "radical": "répan"
     },
     "ENDING": [
       "dre"
@@ -18299,8 +18711,12 @@
       ".*boire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "BOIl",
+      "infinitif": "boire"
+    },
+    "RADICAL": {
+      "frappe": "B",
+      "radical": "b"
     },
     "ENDING": [
       "oire"
@@ -18534,8 +18950,12 @@
       ".*clore"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KLOl",
+      "infinitif": "clore"
+    },
+    "RADICAL": {
+      "frappe": "KL",
+      "radical": "cl"
     },
     "ENDING": [
       "ore"
@@ -18678,8 +19098,12 @@
       ".*clure"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KLUl",
+      "infinitif": "clure"
+    },
+    "RADICAL": {
+      "frappe": "KL",
+      "radical": "cl"
     },
     "ENDING": [
       "ure"
@@ -18913,8 +19337,12 @@
       ".*confire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KOn/FIl",
+      "infinitif": "confire"
+    },
+    "RADICAL": {
+      "frappe": "KOn/F",
+      "radical": "conf"
     },
     "ENDING": [
       "ire"
@@ -19149,8 +19577,12 @@
       ".*paraître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KO/NÈ/TR",
+      "infinitif": "connaître"
+    },
+    "RADICAL": {
+      "frappe": "KO/N",
+      "radical": "conn"
     },
     "ENDING": [
       "aître"
@@ -19384,8 +19816,12 @@
       ".*coudre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KOU/T*R",
+      "infinitif": "coudre"
+    },
+    "RADICAL": {
+      "frappe": "KOU",
+      "radical": "cou"
     },
     "ENDING": [
       "dre"
@@ -19619,8 +20055,12 @@
       ".*crire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KRIl",
+      "infinitif": "crire"
+    },
+    "RADICAL": {
+      "frappe": "KRI",
+      "radical": "cri"
     },
     "ENDING": [
       "re"
@@ -19854,8 +20294,12 @@
       ".*croire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KROIl",
+      "infinitif": "croire"
+    },
+    "RADICAL": {
+      "frappe": "KR",
+      "radical": "cr"
     },
     "ENDING": [
       "oire"
@@ -20089,8 +20533,12 @@
       ".*croître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "A/KROI/TR",
+      "infinitif": "accroître"
+    },
+    "RADICAL": {
+      "frappe": "A/KR",
+      "radical": "accr"
     },
     "ENDING": [
       "oître"
@@ -20321,8 +20769,12 @@
       "redire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "T*Il",
+      "infinitif": "dire"
+    },
+    "RADICAL": {
+      "frappe": "D",
+      "radical": "d"
     },
     "ENDING": [
       "ire"
@@ -20556,8 +21008,12 @@
       ".*dire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "In/TEl/T*Il",
+      "infinitif": "interdire"
+    },
+    "RADICAL": {
+      "frappe": "Il/TEl/T*",
+      "radical": "interd"
     },
     "ENDING": [
       "ire"
@@ -20791,8 +21247,12 @@
       ".*faire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FÈl",
+      "infinitif": "faire"
+    },
+    "RADICAL": {
+      "frappe": "F",
+      "radical": "f"
     },
     "ENDING": [
       "aire"
@@ -21026,8 +21486,12 @@
       ".*foutre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "FOU/TR",
+      "infinitif": "foutre"
+    },
+    "RADICAL": {
+      "frappe": "FOU",
+      "radical": "fou"
     },
     "ENDING": [
       "tre"
@@ -21261,8 +21725,12 @@
       ".*lire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "LIl",
+      "infinitif": "lire"
+    },
+    "RADICAL": {
+      "frappe": "L",
+      "radical": "l"
     },
     "ENDING": [
       "ire"
@@ -21496,8 +21964,12 @@
       ".*luire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "LUIl",
+      "infinitif": "luire"
+    },
+    "RADICAL": {
+      "frappe": "LU",
+      "radical": "lu"
     },
     "ENDING": [
       "ire"
@@ -21755,8 +22227,12 @@
       ".*mettre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "ME/TR",
+      "infinitif": "mettre"
+    },
+    "RADICAL": {
+      "frappe": "M",
+      "radical": "m"
     },
     "ENDING": [
       "ettre"
@@ -21990,8 +22466,12 @@
       ".*moudre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "MOU/T*R",
+      "infinitif": "moudre"
+    },
+    "RADICAL": {
+      "frappe": "MOU",
+      "radical": "mou"
     },
     "ENDING": [
       "dre"
@@ -22225,8 +22705,12 @@
       ".*naître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "NÈ/TR",
+      "infinitif": "naître"
+    },
+    "RADICAL": {
+      "frappe": "N",
+      "radical": "n"
     },
     "ENDING": [
       "aître"
@@ -22460,8 +22944,12 @@
       ".*oindre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "YOIn/T*R",
+      "infinitif": "joindre"
+    },
+    "RADICAL": {
+      "frappe": "YOI",
+      "radical": "joi"
     },
     "ENDING": [
       "ndre"
@@ -22695,8 +23183,12 @@
       ".*ompre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "On/PR",
+      "infinitif": "ompre"
+    },
+    "RADICAL": {
+      "frappe": "On",
+      "radical": "om"
     },
     "ENDING": [
       "pre"
@@ -22930,8 +23422,12 @@
       ".*oître"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "KLOI/TR",
+      "infinitif": "cloître"
+    },
+    "RADICAL": {
+      "frappe": "KL",
+      "radical": "cl"
     },
     "ENDING": [
       "oître"
@@ -23165,8 +23661,12 @@
       ".*plaire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "PLÈl",
+      "infinitif": "plaire"
+    },
+    "RADICAL": {
+      "frappe": "PL",
+      "radical": "pl"
     },
     "ENDING": [
       "aire"
@@ -23404,8 +23904,12 @@
       ".*raire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "BRÈl",
+      "infinitif": "braire"
+    },
+    "RADICAL": {
+      "frappe": "BRA",
+      "radical": "bra"
     },
     "ENDING": [
       "ire"
@@ -23589,8 +24093,12 @@
       ".*rire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "RIl",
+      "infinitif": "rire"
+    },
+    "RADICAL": {
+      "frappe": "R",
+      "radical": "r"
     },
     "ENDING": [
       "ire"
@@ -23824,8 +24332,12 @@
       ".*soudre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SOU/T*R",
+      "infinitif": "soudre"
+    },
+    "RADICAL": {
+      "frappe": "SO",
+      "radical": "so"
     },
     "ENDING": [
       "udre"
@@ -24025,8 +24537,12 @@
       ".*suivre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "SUI/F*l",
+      "infinitif": "suivre"
+    },
+    "RADICAL": {
+      "frappe": "SUI",
+      "radical": "sui"
     },
     "ENDING": [
       "vre"
@@ -24260,8 +24776,12 @@
       ".*uire"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "UIl",
+      "infinitif": "uire"
+    },
+    "RADICAL": {
+      "frappe": "UI",
+      "radical": "ui"
     },
     "ENDING": [
       "re"
@@ -24495,8 +25015,12 @@
       ".*vaincre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "F*In/KR",
+      "infinitif": "vaincre"
+    },
+    "RADICAL": {
+      "frappe": "F*In",
+      "radical": "vain"
     },
     "ENDING": [
       "cre"
@@ -24730,8 +25254,12 @@
       ".*vivre"
     ],
     "INFINITIVE": {
-      "frappe": "",
-      "infinitif": ""
+      "frappe": "F*I/F*R",
+      "infinitif": "vivre"
+    },
+    "RADICAL": {
+      "frappe": "F*",
+      "radical": "v"
     },
     "ENDING": [
       "ivre"
