@@ -7,10 +7,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "enir"
     ],
@@ -43,24 +39,8 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YIÉnD",
         "terminaison": "ient"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YE/NÉn",
@@ -69,24 +49,8 @@
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "EU/NÈD",
         "terminaison": "enait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "EU/NÈn",
@@ -95,24 +59,8 @@
     ],
     "PASSE": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉnD",
         "terminaison": "int"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "In/RÉn",
@@ -121,24 +69,8 @@
     ],
     "FUTUR": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YIn/T*RA",
         "terminaison": "iendra"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YIn/T*ROnD",
@@ -147,24 +79,8 @@
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YEnC",
         "terminaison": "ienne"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YE/NÉn",
@@ -173,56 +89,19 @@
     ],
     "SIMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉnD",
         "terminaison": "înt"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SÉn",
         "terminaison": "inssent"
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "YIn/T*RÈD",
         "terminaison": "iendrait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YIn/T*RÈn",
@@ -238,96 +117,27 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "aroir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
+    "PPASSE": [],
     "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "ElÉD",
         "terminaison": "ert"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -341,76 +151,22 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "oir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PPRESENT": [],
+    "PPASSE": [],
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -420,10 +176,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ir"
@@ -613,16 +365,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SOn",
@@ -631,10 +375,6 @@
       {
         "frappe": "I/SE",
         "terminaison": "issez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -672,10 +412,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "enir"
     ],
@@ -688,60 +424,15 @@
         "terminaison": "enant"
       }
     ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PPASSE": [],
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -750,10 +441,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "avoir"
@@ -943,16 +630,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÈC",
         "terminaison": "aie"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "E/YOn",
@@ -961,10 +640,6 @@
       {
         "frappe": "E/YE",
         "terminaison": "ayez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -1002,22 +677,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "enir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "EU/NU",
@@ -1036,54 +702,14 @@
         "terminaison": "enus"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -1092,10 +718,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ir"
@@ -1301,16 +923,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SOn",
@@ -1319,10 +933,6 @@
       {
         "frappe": "I/SE",
         "terminaison": "issez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -1360,96 +970,27 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "loir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
+    "PPASSE": [],
     "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "UÉD",
         "terminaison": "ut"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -1459,22 +1000,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "oir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "U",
@@ -1519,12 +1051,7 @@
         "terminaison": "oient"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPARFAIT": [],
     "PASSE": [
       {
         "frappe": "UÉ",
@@ -1601,44 +1128,14 @@
         "terminaison": "erront"
       }
     ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SPRESENT": [],
     "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "UÉD",
         "terminaison": "ût"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
       {
         "frappe": "OI/RÈ$",
@@ -1701,10 +1198,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "enir"
@@ -1894,16 +1387,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YIÉn",
         "terminaison": "iens"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "EU/NOn",
@@ -1912,10 +1397,6 @@
       {
         "frappe": "EU/NE",
         "terminaison": "enez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -1952,10 +1433,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "enir"
@@ -2145,16 +1622,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YIÉn",
         "terminaison": "iens"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "EU/NOn",
@@ -2163,10 +1632,6 @@
       {
         "frappe": "EU/NE",
         "terminaison": "enez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -2204,22 +1669,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "oir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "U",
@@ -2268,12 +1724,7 @@
         "terminaison": "oient"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPARFAIT": [],
     "PASSE": [
       {
         "frappe": "UÉ",
@@ -2402,12 +1853,7 @@
         "terminaison": "ussent"
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
       {
         "frappe": "OI/RÈ$",
@@ -2466,10 +1912,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "illir"
@@ -2683,16 +2125,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YI",
         "terminaison": "ille"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YOn",
@@ -2701,10 +2135,6 @@
       {
         "frappe": "YE",
         "terminaison": "illez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -2741,10 +2171,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tir"
@@ -2946,16 +2372,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -2964,10 +2382,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -3005,22 +2419,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "oir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "U",
@@ -3039,18 +2444,8 @@
         "terminaison": "ues"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PRESENT": [],
+    "IMPARFAIT": [],
     "PASSE": [
       {
         "frappe": "UÉ",
@@ -3077,36 +2472,11 @@
         "terminaison": "urent"
       }
     ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -3115,10 +2485,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "illir"
@@ -3332,16 +2698,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YI",
         "terminaison": "ille"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YOn",
@@ -3350,10 +2708,6 @@
       {
         "frappe": "YE",
         "terminaison": "illez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -3395,22 +2749,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "lloir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "LU",
@@ -3431,190 +2776,45 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉD",
         "terminaison": "ut"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "LÈD",
         "terminaison": "llait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "PASSE": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "LUÉD",
         "terminaison": "llut"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "FUTUR": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "U/T*R",
         "terminaison": "udra"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YI",
         "terminaison": "ille"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "SIMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "LUÉD",
         "terminaison": "llût"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "U/T*RÈD",
         "terminaison": "udrait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ]
   },
@@ -3626,22 +2826,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "U",
@@ -3660,54 +2851,14 @@
         "terminaison": "us"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -3716,10 +2867,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ésir"
@@ -3733,12 +2880,7 @@
         "terminaison": "isant"
       }
     ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPASSE": [],
     "PRESENT": [
       {
         "frappe": "IÉ",
@@ -3791,42 +2933,12 @@
         "terminaison": "isaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -3836,22 +2948,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "I",
@@ -3896,48 +2999,13 @@
         "terminaison": "issent"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -3947,22 +3015,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "I",
@@ -4007,48 +3066,13 @@
         "terminaison": "issent"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -4058,22 +3082,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "U",
@@ -4092,54 +3107,14 @@
         "terminaison": "ues"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -4148,10 +3123,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tir"
@@ -4341,16 +3312,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -4359,10 +3322,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -4400,10 +3359,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "eoir"
     ],
@@ -4416,32 +3371,11 @@
         "terminaison": "éant"
       }
     ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPASSE": [],
     "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "YEÉD",
         "terminaison": "ied"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YEÉn",
@@ -4450,56 +3384,19 @@
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "E/YÈD",
         "terminaison": "eyait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "E/YÈn",
         "terminaison": "eyaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PASSE": [],
     "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "YE/RA",
         "terminaison": "iéra"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YE/ROÉnD",
@@ -4508,62 +3405,20 @@
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YEC",
         "terminaison": "iée"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YEÉn",
         "terminaison": "iéent"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "YE/RÈD",
         "terminaison": "iérait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YE/RÈn",
@@ -4578,10 +3433,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ourir"
@@ -4771,16 +3622,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "EUlÉ",
         "terminaison": "eurs"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OU/ROn",
@@ -4789,10 +3632,6 @@
       {
         "frappe": "OU/RE",
         "terminaison": "ourez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -4829,10 +3668,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ouvoir"
@@ -5030,16 +3865,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉ",
         "terminaison": "eus"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OU/F*On",
@@ -5048,10 +3875,6 @@
       {
         "frappe": "OU/F*E",
         "terminaison": "ouvez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -5088,10 +3911,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "uïr"
@@ -5309,16 +4128,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YOn",
@@ -5327,10 +4138,6 @@
       {
         "frappe": "YE",
         "terminaison": "yez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -5395,10 +4202,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tir"
@@ -5588,16 +4391,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -5606,10 +4401,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -5646,10 +4437,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ouvoir"
@@ -5837,12 +4624,7 @@
         "terminaison": "ussent"
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
       {
         "frappe": "OU/RÈ$",
@@ -5877,10 +4659,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "loir"
@@ -6070,16 +4848,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "U/É$C",
         "terminaison": "ux"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "LOn",
@@ -6088,10 +4858,6 @@
       {
         "frappe": "LE",
         "terminaison": "lez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -6128,10 +4894,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oir"
@@ -6321,16 +5083,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/YOn",
@@ -6339,10 +5093,6 @@
       {
         "frappe": "OI/YE",
         "terminaison": "oyez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -6380,22 +5130,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "IÉ",
@@ -6414,54 +5155,14 @@
         "terminaison": "ises"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -6470,10 +5171,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tir"
@@ -6663,16 +5360,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -6681,10 +5370,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -6725,10 +5410,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "tir"
     ],
@@ -6917,16 +5598,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -6935,10 +5608,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -6976,46 +5645,17 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "loir"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
+    "PPASSE": [],
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
     "FUTUR": [
       {
         "frappe": "U/T*RÈ",
@@ -7042,24 +5682,9 @@
         "terminaison": "udront"
       }
     ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
     "CONDITION": [
       {
         "frappe": "U/T*RÈ$",
@@ -7095,10 +5720,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ir"
     ],
@@ -7131,24 +5752,8 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "C",
         "terminaison": "e"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "Én",
@@ -7156,14 +5761,6 @@
       }
     ],
     "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "ÈD",
         "terminaison": "ait"
@@ -7173,38 +5770,14 @@
         "terminaison": "issait"
       },
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "Èn",
         "terminaison": "aient"
       }
     ],
     "PASSE": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉD",
         "terminaison": "it"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "IlÉn",
@@ -7213,24 +5786,8 @@
     ],
     "FUTUR": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "EU/RA",
         "terminaison": "era"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "EU/ROÉnD",
@@ -7238,14 +5795,6 @@
       }
     ],
     "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "C",
         "terminaison": "e"
@@ -7255,70 +5804,25 @@
         "terminaison": "isse"
       },
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "Én",
         "terminaison": "ent"
       }
     ],
     "SIMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉD",
         "terminaison": "ît"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SÉn",
         "terminaison": "issent"
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "E/RÈD",
         "terminaison": "erait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "EU/RÈn",
@@ -7333,10 +5837,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tir"
@@ -7526,16 +6026,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -7544,10 +6036,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -7584,10 +6072,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "eoir"
@@ -7777,16 +6261,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/YOn",
@@ -7795,10 +6271,6 @@
       {
         "frappe": "OI/YE",
         "terminaison": "oyez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -7835,10 +6307,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tir"
@@ -8028,16 +6496,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉD/É",
         "terminaison": "ts"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -8046,10 +6506,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -8087,10 +6543,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "oir"
     ],
@@ -8123,28 +6575,12 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉD",
         "terminaison": "oit"
       },
       {
         "frappe": "EÉD",
         "terminaison": "et"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OIn",
@@ -8157,24 +6593,8 @@
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OI/YÈD",
         "terminaison": "oyait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/YÈn",
@@ -8183,24 +6603,8 @@
     ],
     "PASSE": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉD",
         "terminaison": "ut"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "U/RÈn",
@@ -8209,28 +6613,12 @@
     ],
     "FUTUR": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OI/RA",
         "terminaison": "oira"
       },
       {
         "frappe": "E/RA",
         "terminaison": "erra"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/ROÉnD",
@@ -8243,24 +6631,8 @@
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIC",
         "terminaison": "oie"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OIn",
@@ -8269,45 +6641,16 @@
     ],
     "SIMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉD",
         "terminaison": "ût"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "U/SÉn",
         "terminaison": "ussent"
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "OI/RÈD",
         "terminaison": "oirait"
@@ -8315,14 +6658,6 @@
       {
         "frappe": "E/RÈD",
         "terminaison": "errait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/RÈn",
@@ -8341,10 +6676,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "eoir"
@@ -8634,20 +6965,12 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YEÉ$",
         "terminaison": "ieds"
       },
       {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "E/YOn",
@@ -8664,10 +6987,6 @@
       {
         "frappe": "OI/YE",
         "terminaison": "oyez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -8728,10 +7047,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oir"
@@ -8921,16 +7236,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/YOn",
@@ -8939,10 +7246,6 @@
       {
         "frappe": "OI/YE",
         "terminaison": "oyez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -8979,10 +7282,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "illir"
@@ -9172,16 +7471,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YOn",
@@ -9190,10 +7481,6 @@
       {
         "frappe": "YE",
         "terminaison": "illez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -9230,10 +7517,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "cevoir"
@@ -9423,16 +7706,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "SOIÉ$",
         "terminaison": "çois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "S/F*On",
@@ -9441,10 +7716,6 @@
       {
         "frappe": "S/F*E",
         "terminaison": "cevez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -9481,10 +7752,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ir"
@@ -9674,16 +7941,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OÉn",
@@ -9692,10 +7951,6 @@
       {
         "frappe": "E",
         "terminaison": "ez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -9732,10 +7987,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ir"
@@ -9925,16 +8176,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "C",
         "terminaison": "e"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OÉn",
@@ -9943,10 +8186,6 @@
       {
         "frappe": "E",
         "terminaison": "ez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -9983,10 +8222,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "evoir"
@@ -10176,16 +8411,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "EU/F*On",
@@ -10194,10 +8421,6 @@
       {
         "frappe": "EU/F*E",
         "terminaison": "evez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -10235,10 +8458,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "mir"
@@ -10428,16 +8647,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "MOn",
@@ -10446,10 +8657,6 @@
       {
         "frappe": "ME",
         "terminaison": "mez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -10486,10 +8693,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "mir"
@@ -10679,16 +8882,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "MOn",
@@ -10697,10 +8892,6 @@
       {
         "frappe": "ME",
         "terminaison": "mez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -10737,10 +8928,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ir"
@@ -10930,16 +9117,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YOn",
@@ -10948,10 +9127,6 @@
       {
         "frappe": "YE",
         "terminaison": "yez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -10988,10 +9163,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ïr"
@@ -11181,16 +9352,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SOn",
@@ -11199,10 +9362,6 @@
       {
         "frappe": "I/SE",
         "terminaison": "ïssez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -11239,10 +9398,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ouvoir"
@@ -11432,16 +9587,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉ",
         "terminaison": "eus"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OU/F*On",
@@ -11450,10 +9597,6 @@
       {
         "frappe": "OU/F*E",
         "terminaison": "ouvez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -11491,10 +9634,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "rir"
@@ -11684,16 +9823,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "R",
         "terminaison": "re"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "ROn",
@@ -11702,10 +9833,6 @@
       {
         "frappe": "RE",
         "terminaison": "rez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -11743,10 +9870,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "euvoir"
     ],
@@ -11779,190 +9902,45 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉD",
         "terminaison": "eut"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "EU/F*ÈD",
         "terminaison": "euvait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "PASSE": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉD",
         "terminaison": "ut"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "FUTUR": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "EU/F*RA",
         "terminaison": "euvra"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "EU/F*",
         "terminaison": "euve"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "SIMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉD",
         "terminaison": "ût"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "EU/F*RÈ",
         "terminaison": "euvrait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ]
   },
@@ -11973,10 +9951,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oir"
@@ -12166,16 +10140,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/YOn",
@@ -12184,10 +10150,6 @@
       {
         "frappe": "OI/YE",
         "terminaison": "oyez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -12224,10 +10186,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "érir"
@@ -12417,16 +10375,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YElÉ",
         "terminaison": "iers"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "E/ROn",
@@ -12435,10 +10385,6 @@
       {
         "frappe": "E/RE",
         "terminaison": "érez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -12475,10 +10421,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ir"
@@ -12668,16 +10610,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "C",
         "terminaison": "e"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OÉn",
@@ -12686,10 +10620,6 @@
       {
         "frappe": "E",
         "terminaison": "ez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -12726,10 +10656,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "avoir"
@@ -12919,16 +10845,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "A/SK",
         "terminaison": "ache"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "A/SKOn",
@@ -12937,10 +10855,6 @@
       {
         "frappe": "A/SKE",
         "terminaison": "achez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -12978,10 +10892,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "eoir"
     ],
@@ -13018,24 +10928,8 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YEÉD",
         "terminaison": "ied"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YEÉn",
@@ -13044,56 +10938,19 @@
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "E/YÈD",
         "terminaison": "eyait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "E/YÈn",
         "terminaison": "eyaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PASSE": [],
     "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "YE/RA",
         "terminaison": "iéra"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YE/ROÉnD",
@@ -13102,62 +10959,20 @@
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YEC",
         "terminaison": "iée"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YEÉn",
         "terminaison": "iéent"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "YE/RÈD",
         "terminaison": "iérait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YE/RÈn",
@@ -13172,10 +10987,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "vir"
@@ -13365,16 +11176,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*On",
@@ -13383,10 +11186,6 @@
       {
         "frappe": "F*E",
         "terminaison": "vez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -13423,10 +11222,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "loir"
@@ -13616,16 +11411,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "U/É$C",
         "terminaison": "ux"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "LOn",
@@ -13634,10 +11421,6 @@
       {
         "frappe": "LE",
         "terminaison": "lez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -13674,10 +11457,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "enir"
@@ -13867,16 +11646,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YIÉn",
         "terminaison": "iens"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "EU/NOn",
@@ -13885,10 +11656,6 @@
       {
         "frappe": "EU/NE",
         "terminaison": "enez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -13925,10 +11692,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ouloir"
@@ -14118,20 +11881,12 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "EU/É$C",
         "terminaison": "eux"
       },
       {
         "frappe": "EUI",
         "terminaison": "euille"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OU/LOn",
@@ -14148,10 +11903,6 @@
       {
         "frappe": "EU/YE",
         "terminaison": "euillez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -14189,10 +11940,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oir"
@@ -14382,16 +12129,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/YOn",
@@ -14400,10 +12139,6 @@
       {
         "frappe": "OI/YE",
         "terminaison": "oyez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -14440,10 +12175,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tir"
@@ -14633,16 +12364,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉD/É",
         "terminaison": "ts"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -14651,10 +12374,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -14691,10 +12410,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ir"
@@ -14884,16 +12599,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SOn",
@@ -14902,10 +12609,6 @@
       {
         "frappe": "I/SE",
         "terminaison": "issez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -14942,10 +12645,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tre"
@@ -15135,16 +12834,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉD/É",
         "terminaison": "ts"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -15153,10 +12844,6 @@
       {
         "frappe": "TE",
         "terminaison": "ttez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -15198,76 +12885,22 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "re"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PPRESENT": [],
+    "PPASSE": [],
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -15277,130 +12910,43 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ire"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
+    "PPASSE": [],
     "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "IÉD",
         "terminaison": "it"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YIÉnD",
         "terminaison": "ient"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPARFAIT": [],
+    "PASSE": [],
     "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "I/RA",
         "terminaison": "ira"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/ROÉnD",
         "terminaison": "iront"
       }
     ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "I/RÈD",
         "terminaison": "irait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/RÈn",
@@ -15415,10 +12961,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -15452,24 +12994,8 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉD",
         "terminaison": "it"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SÉn",
@@ -15478,86 +13004,29 @@
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "I/SÈD",
         "terminaison": "issait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SÈn",
         "terminaison": "issaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PASSE": [],
+    "FUTUR": [],
     "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "I$",
         "terminaison": "isse"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SÉn",
         "terminaison": "issent"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -15566,10 +13035,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -15759,16 +13224,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/S*On",
@@ -15777,10 +13234,6 @@
       {
         "frappe": "I/S*E",
         "terminaison": "isez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -15817,10 +13270,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oître"
@@ -16010,16 +13459,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "oîs"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/SOn",
@@ -16028,10 +13469,6 @@
       {
         "frappe": "OI/SE",
         "terminaison": "oissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -16069,22 +13506,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ore"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "OÉ",
@@ -16103,54 +13531,14 @@
         "terminaison": "oses"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -16159,10 +13547,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tre"
@@ -16202,10 +13586,6 @@
       {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -16352,16 +13732,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -16370,10 +13742,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -16410,10 +13778,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ore"
@@ -16471,18 +13835,8 @@
         "terminaison": "osent"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPARFAIT": [],
+    "PASSE": [],
     "FUTUR": [
       {
         "frappe": "O/RÈ",
@@ -16535,24 +13889,11 @@
         "terminaison": "osent"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
     "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "OÉ",
         "terminaison": "os"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "O/S*Én",
@@ -16561,10 +13902,6 @@
       {
         "frappe": "O/S*E",
         "terminaison": "osez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -16602,10 +13939,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "vre"
     ],
@@ -16638,24 +13971,8 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉD",
         "terminaison": "t"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*Én",
@@ -16664,24 +13981,8 @@
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "F*ÈD",
         "terminaison": "vait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*Èn",
@@ -16690,24 +13991,8 @@
     ],
     "PASSE": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "F*IÉD",
         "terminaison": "vit"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*IlÉn",
@@ -16716,24 +14001,8 @@
     ],
     "FUTUR": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "F*RA",
         "terminaison": "vra"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*ROÉD",
@@ -16742,24 +14011,8 @@
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "F*",
         "terminaison": "ve"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*Én",
@@ -16768,56 +14021,19 @@
     ],
     "SIMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "F*IÉD",
         "terminaison": "vît"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*I/SÉn",
         "terminaison": "vissent"
       }
     ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "F*RÈD",
         "terminaison": "vrait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*RÈn",
@@ -16833,22 +14049,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ore"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "OÉ",
@@ -16867,54 +14074,14 @@
         "terminaison": "oses"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -16925,22 +14092,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "aire"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "ÈD",
@@ -16971,62 +14129,15 @@
       {
         "frappe": "ÈD",
         "terminaison": "ait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -17036,22 +14147,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ire"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "IÉD",
@@ -17082,32 +14184,10 @@
       {
         "frappe": "IÉD",
         "terminaison": "it"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPARFAIT": [],
+    "PASSE": [],
     "FUTUR": [
       {
         "frappe": "I/RÈ",
@@ -17134,42 +14214,12 @@
         "terminaison": "iront"
       }
     ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
     "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -17207,10 +14257,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ure"
@@ -17400,16 +14446,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉ",
         "terminaison": "us"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "U/On",
@@ -17418,10 +14456,6 @@
       {
         "frappe": "U/E",
         "terminaison": "uez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -17458,10 +14492,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -17651,16 +14681,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/SOn",
@@ -17669,10 +14691,6 @@
       {
         "frappe": "I/SE",
         "terminaison": "issez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -17710,22 +14728,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "re"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "É",
@@ -17744,54 +14753,14 @@
         "terminaison": "ses"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -17800,10 +14769,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ndre"
@@ -17835,12 +14800,7 @@
         "terminaison": "ntes"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PRESENT": [],
     "IMPARFAIT": [
       {
         "frappe": "KNÈ$",
@@ -17867,42 +14827,12 @@
         "terminaison": "gnaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -17912,22 +14842,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "aire"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "ÈD",
@@ -17972,48 +14893,13 @@
         "terminaison": "ont"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -18022,10 +14908,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "aître"
@@ -18109,12 +14991,7 @@
         "terminaison": "aissaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PASSE": [],
     "FUTUR": [
       {
         "frappe": "È/TRÈ",
@@ -18167,24 +15044,11 @@
         "terminaison": "aissent"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
     "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "È$",
         "terminaison": "ais"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "È/SOn",
@@ -18193,10 +15057,6 @@
       {
         "frappe": "È/SE",
         "terminaison": "aissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -18234,10 +15094,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ndre"
     ],
@@ -18258,114 +15114,25 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉnD",
         "terminaison": "nt"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPARFAIT": [],
+    "PASSE": [],
     "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "n/T*RA",
         "terminaison": "ndra"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "n/T*RÈD",
         "terminaison": "ndrait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ]
   },
@@ -18376,10 +15143,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -18413,24 +15176,8 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉD",
         "terminaison": "it"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YIÉnD",
@@ -18439,56 +15186,19 @@
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "YÈD",
         "terminaison": "yait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YÈn",
         "terminaison": "yaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PASSE": [],
     "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "I/RA",
         "terminaison": "ira"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/ROÉnD",
@@ -18497,62 +15207,20 @@
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IC",
         "terminaison": "ie"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YIÉnD",
         "terminaison": "ient"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "I/RÈD",
         "terminaison": "irait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/RÈn",
@@ -18568,22 +15236,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ure"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "UÉ",
@@ -18602,54 +15261,14 @@
         "terminaison": "uses"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -18658,10 +15277,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oître"
@@ -18851,16 +15466,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/SOn",
@@ -18869,10 +15476,6 @@
       {
         "frappe": "OI/SE",
         "terminaison": "oissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -18910,10 +15513,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "aître"
     ],
@@ -18926,12 +15525,7 @@
         "terminaison": "aissant"
       }
     ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPASSE": [],
     "PRESENT": [
       {
         "frappe": "È$",
@@ -19090,16 +15684,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "È$",
         "terminaison": "ais"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "È/SOn",
@@ -19108,10 +15694,6 @@
       {
         "frappe": "È/SE",
         "terminaison": "aissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -19148,10 +15730,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "aître"
@@ -19341,16 +15919,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "È$",
         "terminaison": "ais"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "È/SOn",
@@ -19359,10 +15929,6 @@
       {
         "frappe": "È/SE",
         "terminaison": "aissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -19399,10 +15965,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "udre"
@@ -19592,16 +16154,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉ",
         "terminaison": "us"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "l/F*On",
@@ -19610,10 +16164,6 @@
       {
         "frappe": "l/F*E",
         "terminaison": "lvez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -19651,48 +16201,18 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "dre"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PPASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
+    "PPASSE": [],
     "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "ÉD",
         "terminaison": "d"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "T*Én",
@@ -19701,66 +16221,20 @@
     ],
     "IMPARFAIT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "T*ÈD",
         "terminaison": "dait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "T*Èn",
         "terminaison": "daient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -19770,22 +16244,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "aire"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "ÈD",
@@ -19806,72 +16271,17 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÈD",
         "terminaison": "ait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -19880,10 +16290,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -20073,16 +16479,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/S*On",
@@ -20091,10 +16489,6 @@
       {
         "frappe": "I/S*E",
         "terminaison": "isez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -20131,10 +16525,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "aire"
@@ -20324,16 +16714,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "È$",
         "terminaison": "ais"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "È/S*On",
@@ -20342,10 +16724,6 @@
       {
         "frappe": "È/S*E",
         "terminaison": "aisez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -20383,22 +16761,13 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "tre"
     ],
     "AUX": [
       "avoir"
     ],
-    "PPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PPRESENT": [],
     "PPASSE": [
       {
         "frappe": "SU",
@@ -20417,54 +16786,14 @@
         "terminaison": "sues"
       }
     ],
-    "PRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SPRESENT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ]
+    "PRESENT": [],
+    "IMPARFAIT": [],
+    "PASSE": [],
+    "FUTUR": [],
+    "SPRESENT": [],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
+    "CONDITION": []
   },
   {
     "REGEX": [
@@ -20473,10 +16802,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ore"
@@ -20510,62 +16835,20 @@
     ],
     "PRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OÉD",
         "terminaison": "ot"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "O/S*Én",
         "terminaison": "osent"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPARFAIT": [],
+    "PASSE": [],
     "FUTUR": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "O/RA",
         "terminaison": "ora"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "O/ROÉnD",
@@ -20574,62 +16857,20 @@
     ],
     "SPRESENT": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "O/S*",
         "terminaison": "ose"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "O/S*Én",
         "terminaison": "osent"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
+    "IMPERATIF": [],
     "CONDITION": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "E/RÈD",
         "terminaison": "orait"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "O/RÈn",
@@ -20644,10 +16885,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "être"
@@ -20837,16 +17074,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "SOIÉ$",
         "terminaison": "sois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "SOI/YOn",
@@ -20855,10 +17084,6 @@
       {
         "frappe": "SOI/YE",
         "terminaison": "soyez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -20895,10 +17120,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ndre"
@@ -21088,16 +17309,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "Én",
         "terminaison": "ns"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "KNOn",
@@ -21106,10 +17319,6 @@
       {
         "frappe": "KNE",
         "terminaison": "gnez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -21146,10 +17355,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ttre"
@@ -21339,16 +17544,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉD/É",
         "terminaison": "ts"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -21357,10 +17554,6 @@
       {
         "frappe": "TE",
         "terminaison": "ttez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -21398,10 +17591,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ndre"
@@ -21591,16 +17780,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "Én",
         "terminaison": "ns"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "KNOn",
@@ -21609,10 +17790,6 @@
       {
         "frappe": "KNE",
         "terminaison": "gnez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -21649,10 +17826,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "endre"
@@ -21842,16 +18015,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "AÉnD/É",
         "terminaison": "ends"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "EU/NOn",
@@ -21860,10 +18025,6 @@
       {
         "frappe": "EU/NE",
         "terminaison": "enez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -21905,10 +18066,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "dre"
@@ -22098,16 +18255,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉD/É",
         "terminaison": "ds"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "T*On",
@@ -22116,10 +18265,6 @@
       {
         "frappe": "T*E",
         "terminaison": "dez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -22156,10 +18301,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oire"
@@ -22349,16 +18490,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "U/F*On",
@@ -22367,10 +18500,6 @@
       {
         "frappe": "U/F*E",
         "terminaison": "uvez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -22407,10 +18536,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ore"
@@ -22456,30 +18581,12 @@
         "terminaison": "ôt"
       },
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "O/S*Én",
         "terminaison": "osent"
       }
     ],
-    "IMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "IMPARFAIT": [],
+    "PASSE": [],
     "FUTUR": [
       {
         "frappe": "O/RÈ",
@@ -22532,36 +18639,11 @@
         "terminaison": "osent"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
     "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "OÉ",
         "terminaison": "os"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -22598,10 +18680,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ure"
@@ -22791,16 +18869,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "UÉ",
         "terminaison": "us"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "U/On",
@@ -22809,10 +18879,6 @@
       {
         "frappe": "U/E",
         "terminaison": "uez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -22849,10 +18915,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -23042,16 +19104,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/S*On",
@@ -23060,10 +19114,6 @@
       {
         "frappe": "I/S*E",
         "terminaison": "isez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -23101,10 +19151,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "aître"
@@ -23294,16 +19340,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "È$",
         "terminaison": "ais"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "È/SOn",
@@ -23312,10 +19350,6 @@
       {
         "frappe": "È/SE",
         "terminaison": "aissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -23352,10 +19386,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "dre"
@@ -23545,16 +19575,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉD/É",
         "terminaison": "ds"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "SOÉn",
@@ -23563,10 +19585,6 @@
       {
         "frappe": "S*E",
         "terminaison": "sez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -23603,10 +19621,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "re"
@@ -23796,16 +19810,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*On",
@@ -23814,10 +19820,6 @@
       {
         "frappe": "F*E",
         "terminaison": "vez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -23854,10 +19856,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oire"
@@ -24047,16 +20045,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/YOn",
@@ -24065,10 +20055,6 @@
       {
         "frappe": "OI/YE",
         "terminaison": "oyez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -24105,10 +20091,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oître"
@@ -24148,10 +20130,6 @@
       {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/SOn",
@@ -24298,16 +20276,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/SOn",
@@ -24316,10 +20286,6 @@
       {
         "frappe": "OI/SE",
         "terminaison": "oissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -24358,10 +20324,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ire"
     ],
@@ -24550,16 +20512,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/S*On",
@@ -24568,10 +20522,6 @@
       {
         "frappe": "IÉDC",
         "terminaison": "ites"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -24609,10 +20559,6 @@
       "frappe": "",
       "infinitif": ""
     },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
-    },
     "ENDING": [
       "ire"
     ],
@@ -24801,16 +20747,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/S*On",
@@ -24819,10 +20757,6 @@
       {
         "frappe": "I/S*E",
         "terminaison": "isez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -24859,10 +20793,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "aire"
@@ -25052,16 +20982,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "È$",
         "terminaison": "ais"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "È/S*On",
@@ -25070,10 +20992,6 @@
       {
         "frappe": "ÈÉDC",
         "terminaison": "aites"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -25110,10 +21028,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "tre"
@@ -25303,16 +21217,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "TOn",
@@ -25321,10 +21227,6 @@
       {
         "frappe": "TE",
         "terminaison": "tez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -25361,10 +21263,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -25554,16 +21452,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/S*On",
@@ -25572,10 +21462,6 @@
       {
         "frappe": "I/S*E",
         "terminaison": "isez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -25612,10 +21498,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -25829,16 +21711,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/S*On",
@@ -25847,10 +21721,6 @@
       {
         "frappe": "I/S*E",
         "terminaison": "isez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -25887,10 +21757,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ettre"
@@ -26080,16 +21946,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "EÉD/É",
         "terminaison": "ets"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "E/TOn",
@@ -26098,10 +21956,6 @@
       {
         "frappe": "E/TE",
         "terminaison": "ettez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -26138,10 +21992,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "dre"
@@ -26331,16 +22181,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "ÉD/É",
         "terminaison": "ds"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "LOn",
@@ -26349,10 +22191,6 @@
       {
         "frappe": "LE",
         "terminaison": "lez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -26389,10 +22227,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "aître"
@@ -26582,16 +22416,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "È$",
         "terminaison": "ais"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "È/SOn",
@@ -26600,10 +22426,6 @@
       {
         "frappe": "È/SE",
         "terminaison": "aissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -26640,10 +22462,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ndre"
@@ -26833,16 +22651,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "Én",
         "terminaison": "ns"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "KNOn",
@@ -26851,10 +22661,6 @@
       {
         "frappe": "KNE",
         "terminaison": "gnez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -26891,10 +22697,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "pre"
@@ -27084,16 +22886,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "ps"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "POÉn",
@@ -27102,10 +22896,6 @@
       {
         "frappe": "PE",
         "terminaison": "pez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -27142,10 +22932,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "oître"
@@ -27335,16 +23121,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "OIÉ",
         "terminaison": "ois"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "OI/SOn",
@@ -27353,10 +23131,6 @@
       {
         "frappe": "OI/SE",
         "terminaison": "oissez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -27393,10 +23167,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "aire"
@@ -27590,16 +23360,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "È$",
         "terminaison": "ais"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "È/S*On",
@@ -27608,10 +23370,6 @@
       {
         "frappe": "È/S*E",
         "terminaison": "aisez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -27648,10 +23406,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -27735,12 +23489,7 @@
         "terminaison": "yaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PASSE": [],
     "FUTUR": [
       {
         "frappe": "I/RÈ",
@@ -27793,24 +23542,11 @@
         "terminaison": "ient"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
     "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YOn",
@@ -27819,10 +23555,6 @@
       {
         "frappe": "YE",
         "terminaison": "yez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -27859,10 +23591,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ire"
@@ -28052,16 +23780,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "YOn",
@@ -28070,10 +23790,6 @@
       {
         "frappe": "YE",
         "terminaison": "iez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -28110,10 +23826,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "udre"
@@ -28213,12 +23925,7 @@
         "terminaison": "lvaient"
       }
     ],
-    "PASSE": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "PASSE": [],
     "FUTUR": [
       {
         "frappe": "U/T*RÈ",
@@ -28271,24 +23978,11 @@
         "terminaison": "lvent"
       }
     ],
-    "SIMPARFAIT": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      }
-    ],
+    "SIMPARFAIT": [],
     "IMPERATIF": [
-      {
-        "frappe": "",
-        "terminaison": ""
-      },
       {
         "frappe": "UÉ",
         "terminaison": "us"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "l/F*On",
@@ -28297,10 +23991,6 @@
       {
         "frappe": "l/F*E",
         "terminaison": "lvez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -28337,10 +24027,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "vre"
@@ -28530,16 +24216,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "F*On",
@@ -28548,10 +24226,6 @@
       {
         "frappe": "F*E",
         "terminaison": "vez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -28588,10 +24262,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "re"
@@ -28781,16 +24451,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É",
         "terminaison": "s"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "SOÉn",
@@ -28799,10 +24461,6 @@
       {
         "frappe": "S*E",
         "terminaison": "sez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -28839,10 +24497,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "cre"
@@ -29032,16 +24686,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "É$C",
         "terminaison": "cs"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "KOn",
@@ -29050,10 +24696,6 @@
       {
         "frappe": "KE",
         "terminaison": "quez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [
@@ -29090,10 +24732,6 @@
     "INFINITIVE": {
       "frappe": "",
       "infinitif": ""
-    },
-    "RADICAL": {
-      "frappe": "",
-      "radical": ""
     },
     "ENDING": [
       "ivre"
@@ -29283,16 +24921,8 @@
     ],
     "IMPERATIF": [
       {
-        "frappe": "",
-        "terminaison": ""
-      },
-      {
         "frappe": "IÉ",
         "terminaison": "is"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       },
       {
         "frappe": "I/F*On",
@@ -29301,10 +24931,6 @@
       {
         "frappe": "I/F*E",
         "terminaison": "ivez"
-      },
-      {
-        "frappe": "",
-        "terminaison": ""
       }
     ],
     "CONDITION": [

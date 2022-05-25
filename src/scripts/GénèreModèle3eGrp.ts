@@ -73,34 +73,61 @@ const modèleConjugaison3eGrp = modèleConjugaison3eGrpSansFrappes.map(
       switch (key) {
         case "REGEX":
           modèleCartograhié.REGEX = value;
-          break;
-        case "INFINITIVE":
+          return;
+        case "INFINITIVE": {
+          let keyValue = Object.entries(infinitifs3eGrp).find(
+            ([infinitif, frappe]) => key === infinitif
+          ) as [string, string] || ["", ""];
           modèleCartograhié.INFINITIVE = mapKVToInfinitifEtFrappes(
-            Object.entries(infinitifs3eGrp).find(
-              ([infinitif, frappe]) => key === infinitif
-            ) as [string, string] || ["", ""]
+            keyValue
           );
-          break;
-        case "RADICAL":
-          modèleCartograhié.RADICAL = mapKVToRadicalEtFrappes(
-            Object.entries(radicaux3eGrp).find(
-              ([infinitif, frappe]: [string, string]) => key === infinitif
-            ) as [string, string] || ["", ""]
-          );
-          break;
-        case "AUX":
-        case "ENDING":
-          modèleCartograhié[key] = modèle[key];
-          break;
-        default:
-          modèleCartograhié[key] = modèle[key].map((terminaison) => {
-            return mapKVToTerminaisonEtFrappe(
-              Object.entries(
-                frappesTerminaisons3egrp
-              ).find(([term, frappe]) => terminaison === term) as [string, string] || ["", ""]
+          return;
+        }
+        case "RADICAL": {
+          let keyValue = Object.entries(radicaux3eGrp).find(
+            ([infinitif, frappe]: [string, string]) => key === infinitif
+          ) as [string, string];
+          if (keyValue) {
+            modèleCartograhié.RADICAL = mapKVToRadicalEtFrappes(
+              keyValue
             );
-          });
-          break;
+          }
+          return;
+        }
+        case "AUX":
+        case "ENDING": {
+          modèleCartograhié[key] = modèle[key];
+          return;
+        }
+        default:
+          let mapper = [];
+          for (let idx in modèle[key]) {
+            let terminaison = modèle[key][idx]
+            let keyValue = Object.entries(
+              frappesTerminaisons3egrp
+            ).find(([term, frappe]) => {
+              return terminaison === term
+            }) as [string, string];
+            if (keyValue) {
+              mapper.push(mapKVToTerminaisonEtFrappe(
+                keyValue
+              ));
+            }
+          }
+          /*
+                    const map = modèle[key].map((terminaison) => {
+                      let keyValue = Object.entries(
+                        frappesTerminaisons3egrp
+                      ).find(([term, frappe]) => terminaison === term) as [string, string] || ["", ""];
+                      if (keyValue) {
+                        return mapKVToTerminaisonEtFrappe(
+                          keyValue
+                        );
+                      } else return [];
+                    });
+          */
+          modèleCartograhié[key] = mapper;
+          return;
       }
     });
     return modèleCartograhié;
