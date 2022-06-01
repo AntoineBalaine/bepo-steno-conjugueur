@@ -10,10 +10,10 @@ mapfile -t myArray < <( echo "$infinifsSansFrappes")
 
 for item in "${myArray[@]}"; do
 if grep -Fq "$item" <(echo "$infinitifsFrappes"); then
-echo "$item" >> "$item"
+:
 else
 # trouve si ces verbes ont une correspondance 
-:
+echo "$item" >> infinitifsÀMonter.json
 fi;
 
 done
