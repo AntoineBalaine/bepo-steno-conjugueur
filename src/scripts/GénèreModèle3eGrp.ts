@@ -2,21 +2,31 @@ import modèleConjugaison3eGrpSansFrappes from "../jsonAssets/vrb3eGrp/modèleCo
 import frappesTerminaisons3egrp from "../jsonAssets/vrb3eGrp/frappesTerminaisons3eGrp.json";
 import infinitifs3eGrp from "../jsonAssets/vrb3eGrp/infinitifs3eGrp.json";
 import radicaux3eGrp from "../jsonAssets/vrb3eGrp/radicaux3eGrp.json";
-import {
-  InfinitifEtFrappe,
-  RadicalEtFrappe,
-  TerminaisonEtFrappe,
-} from "../Conjugueur/types";
-import {modèleConj3eGrp} from "./GénèreFrappesPartielles3eGrp";
+import {InfinitifEtFrappe, RadicalEtFrappe, TerminaisonEtFrappe,} from "../Conjugueur/types";
 import fs from "fs";
 
-/*
-récupère toutes les frappes correspondant à chaque propriété des verbes contenus dans modèleConjugaison3eGrp.
-Fais-en un objet contenant la correspondance entre frappes et propriété (infinitif, radical, terminaisons, etc.)
- */
-export type modèleFrappes3eGrp = {
+//modèle JSON dérivé du conjugueur de Lexique380
+export type modèleConj3eGrp = {
+  "REGEX": string[],
+  "INFINITIVE": string[],
+  "RADICAL": string[],
+  "ENDING": string[],
+  "AUX": string[],
+  "PPRESENT": string[],
+  "PPASSE": string[],
+  "PRESENT": string[],
+  "IMPARFAIT": string[],
+  "PASSE": string[],
+  "FUTUR": string[],
+  "SPRESENT": string[],
+  "SIMPARFAIT": string[],
+  "IMPERATIF": string[],
+  "CONDITION": string[]
+}
+//modèle JSON contenant frappes Sténo et orthographies des verbes
+export type ModèleFrappes3eGrp = {
   REGEX: string[];
-  INFINITIVE: InfinitifEtFrappe;
+  INFINITIVE: string[];
   RADICAL: RadicalEtFrappe;
   AUX: string[];
   ENDING: string[];
@@ -62,13 +72,17 @@ const mapKVToTerminaisonEtFrappe = ([key, value]: [
 };
 
 
-const modèleConjugaison3eGrp = modèleConjugaison3eGrpSansFrappes.map(
+/*
+Récupère toutes les frappes correspondant à chaque propriété des verbes contenus dans modèleConjugaison3eGrp.
+Fais-en un objet contenant la correspondance entre frappes et propriétés (infinitif, radical, terminaisons, etc.)
+ */
+export const modèleConjugaison3eGrp: ModèleFrappes3eGrp[] = modèleConjugaison3eGrpSansFrappes.map(
   (modèle: modèleConj3eGrp) => {
     /*
   copie l'objet modèleConjugaison3eGrp,
   cartographie toutes les propriétés au type Terminaison et frappe
    */
-    const modèleCartographié: modèleFrappes3eGrp = {} as modèleFrappes3eGrp;
+    const modèleCartographié: ModèleFrappes3eGrp = {} as ModèleFrappes3eGrp;
 
 
     Object.entries(modèle).forEach(([key, value]) => {
@@ -77,14 +91,7 @@ const modèleConjugaison3eGrp = modèleConjugaison3eGrpSansFrappes.map(
           modèleCartographié.REGEX = value;
           return;
         case "INFINITIVE": {
-          let keyValue = Object.entries(infinitifs3eGrp).find(
-            ([infinitif, frappe]) => value[0] === infinitif
-          ) as [string, string];
-          if (keyValue) {
-            modèleCartographié.INFINITIVE = mapKVToInfinitifEtFrappes(
-              keyValue
-            );
-          }
+          modèleCartographié.INFINITIVE = value;
           return;
         }
         case "RADICAL": {

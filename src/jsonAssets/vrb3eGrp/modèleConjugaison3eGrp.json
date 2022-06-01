@@ -3,10 +3,9 @@
     "REGEX": [
       "advenir"
     ],
-    "INFINITIVE": {
-      "frappe": "AD/F*/NIl",
-      "infinitif": "advenir"
-    },
+    "INFINITIVE": [
+      "advenir"
+    ],
     "RADICAL": {
       "frappe": "AD/F*",
       "radical": "adv"
@@ -117,10 +116,9 @@
     "REGEX": [
       "apparoir"
     ],
-    "INFINITIVE": {
-      "frappe": "A/PA/ROIl",
-      "infinitif": "apparoir"
-    },
+    "INFINITIVE": [
+      "apparoir"
+    ],
     "RADICAL": {
       "frappe": "A/P",
       "radical": "app"
@@ -155,10 +153,9 @@
       "quérir",
       "ravoir"
     ],
-    "INFINITIVE": {
-      "frappe": "A/SA/F*OIl",
-      "infinitif": "assavoir"
-    },
+    "INFINITIVE": [
+      "assavoir"
+    ],
     "RADICAL": {
       "frappe": "A/SA/F*",
       "radical": "assav"
@@ -185,10 +182,9 @@
       "asservir",
       "répartir"
     ],
-    "INFINITIVE": {
-      "frappe": "A/SEl/F*Il",
-      "infinitif": "asservir"
-    },
+    "INFINITIVE": [
+      "asservir"
+    ],
     "RADICAL": {
       "frappe": "A/SEl/F*",
       "radical": "asserv"
@@ -424,10 +420,9 @@
     "REGEX": [
       "avenir"
     ],
-    "INFINITIVE": {
-      "frappe": "A/F*/NIl",
-      "infinitif": "avenir"
-    },
+    "INFINITIVE": [
+      "avenir"
+    ],
     "RADICAL": {
       "frappe": "A/F*",
       "radical": "av"
@@ -458,10 +453,9 @@
     "REGEX": [
       "avoir"
     ],
-    "INFINITIVE": {
-      "frappe": "A/F*OIl",
-      "infinitif": "avoir"
-    },
+    "INFINITIVE": [
+      "avoir"
+    ],
     "ENDING": [
       "avoir"
     ],
@@ -693,10 +687,9 @@
     "REGEX": [
       "bienvenir"
     ],
-    "INFINITIVE": {
-      "frappe": "BYIn/F*/NIl",
-      "infinitif": "bienvenir"
-    },
+    "INFINITIVE": [
+      "bienvenir"
+    ],
     "RADICAL": {
       "frappe": "BYIn/F*",
       "radical": "bienv"
@@ -739,10 +732,9 @@
     "REGEX": [
       "bénir"
     ],
-    "INFINITIVE": {
-      "frappe": "BE/NIl",
-      "infinitif": "bénir"
-    },
+    "INFINITIVE": [
+      "bénir"
+    ],
     "RADICAL": {
       "frappe": "BE/N",
       "radical": "bén"
@@ -994,10 +986,9 @@
     "REGEX": [
       "chaloir"
     ],
-    "INFINITIVE": {
-      "frappe": "SKA/LOIl",
-      "infinitif": "chaloir"
-    },
+    "INFINITIVE": [
+      "chaloir"
+    ],
     "RADICAL": {
       "frappe": "SKA",
       "radical": "cha"
@@ -1028,10 +1019,9 @@
     "REGEX": [
       "choir"
     ],
-    "INFINITIVE": {
-      "frappe": "SKOIl",
-      "infinitif": "choir"
-    },
+    "INFINITIVE": [
+      "choir"
+    ],
     "RADICAL": {
       "frappe": "SK",
       "radical": "ch"
@@ -1231,10 +1221,9 @@
       "subvenir",
       ".*tenir"
     ],
-    "INFINITIVE": {
-      "frappe": "SIl/KOn/F*/NIl",
-      "infinitif": "circonvenir"
-    },
+    "INFINITIVE": [
+      "circonvenir"
+    ],
     "RADICAL": {
       "frappe": "SIl/KOn/F*",
       "radical": "circonv"
@@ -1470,10 +1459,9 @@
     "REGEX": [
       "convenir"
     ],
-    "INFINITIVE": {
-      "frappe": "KOn/F*/NIl",
-      "infinitif": "convenir"
-    },
+    "INFINITIVE": [
+      "convenir"
+    ],
     "RADICAL": {
       "frappe": "KOn/F*",
       "radical": "conv"
@@ -1709,10 +1697,9 @@
     "REGEX": [
       "déchoir"
     ],
-    "INFINITIVE": {
-      "frappe": "T*E/SKOIl",
-      "infinitif": "déchoir"
-    },
+    "INFINITIVE": [
+      "déchoir"
+    ],
     "RADICAL": {
       "frappe": "T*E/SK",
       "radical": "déch"
@@ -1957,10 +1944,9 @@
     "REGEX": [
       "défaillir"
     ],
-    "INFINITIVE": {
-      "frappe": "T*E/FA/YIl",
-      "infinitif": "défaillir"
-    },
+    "INFINITIVE": [
+      "défaillir"
+    ],
     "RADICAL": {
       "frappe": "T*E/FA",
       "radical": "défa"
@@ -2220,10 +2206,9 @@
     "REGEX": [
       "départir"
     ],
-    "INFINITIVE": {
-      "frappe": "T*E/PAl/TIl",
-      "infinitif": "départir"
-    },
+    "INFINITIVE": [
+      "départir"
+    ],
     "RADICAL": {
       "frappe": "T*E/PAl",
       "radical": "dépar"
@@ -2471,10 +2456,9 @@
     "REGEX": [
       "dépourvoir"
     ],
-    "INFINITIVE": {
-      "frappe": "T*E/POUl/F*OIl",
-      "infinitif": "dépourvoir"
-    },
+    "INFINITIVE": [
+      "dépourvoir"
+    ],
     "RADICAL": {
       "frappe": "T*E/POUl/F*",
       "radical": "dépourv"
@@ -2542,10 +2526,9 @@
     "REGEX": [
       "faillir"
     ],
-    "INFINITIVE": {
-      "frappe": "FA/YIl",
-      "infinitif": "faillir"
-    },
+    "INFINITIVE": [
+      "faillir"
+    ],
     "RADICAL": {
       "frappe": "FA",
       "radical": "fa"
@@ -2809,10 +2792,9 @@
     "REGEX": [
       "falloir"
     ],
-    "INFINITIVE": {
-      "frappe": "FA/LOIl",
-      "infinitif": "falloir"
-    },
+    "INFINITIVE": [
+      "falloir"
+    ],
     "RADICAL": {
       "frappe": "FA",
       "radical": "fa"
@@ -2890,10 +2872,9 @@
     "REGEX": [
       "férir"
     ],
-    "INFINITIVE": {
-      "frappe": "FE/RIl",
-      "infinitif": "férir"
-    },
+    "INFINITIVE": [
+      "férir"
+    ],
     "RADICAL": {
       "frappe": "FE/R",
       "radical": "fér"
@@ -2936,10 +2917,9 @@
     "REGEX": [
       "gésir"
     ],
-    "INFINITIVE": {
-      "frappe": "YE/S*Il",
-      "infinitif": "gésir"
-    },
+    "INFINITIVE": [
+      "gésir"
+    ],
     "RADICAL": {
       "frappe": "Y",
       "radical": "g"
@@ -3020,10 +3000,9 @@
     "REGEX": [
       "huir"
     ],
-    "INFINITIVE": {
-      "frappe": "UIl",
-      "infinitif": "huir"
-    },
+    "INFINITIVE": [
+      "huir"
+    ],
     "RADICAL": {
       "frappe": "U",
       "radical": "hu"
@@ -3091,10 +3070,9 @@
     "REGEX": [
       "impartir"
     ],
-    "INFINITIVE": {
-      "frappe": "In/PAl/TIl",
-      "infinitif": "impartir"
-    },
+    "INFINITIVE": [
+      "impartir"
+    ],
     "RADICAL": {
       "frappe": "In/PAl/T",
       "radical": "impart"
@@ -3162,10 +3140,9 @@
     "REGEX": [
       "issir"
     ],
-    "INFINITIVE": {
-      "frappe": "I/SIl",
-      "infinitif": "issir"
-    },
+    "INFINITIVE": [
+      "issir"
+    ],
     "RADICAL": {
       "frappe": "I/S",
       "radical": "iss"
@@ -3208,10 +3185,9 @@
     "REGEX": [
       "mentir"
     ],
-    "INFINITIVE": {
-      "frappe": "MAn/TIl",
-      "infinitif": "mentir"
-    },
+    "INFINITIVE": [
+      "mentir"
+    ],
     "RADICAL": {
       "frappe": "MAn",
       "radical": "men"
@@ -3447,10 +3423,9 @@
     "REGEX": [
       "messeoir"
     ],
-    "INFINITIVE": {
-      "frappe": "ME/SOIl",
-      "infinitif": "messeoir"
-    },
+    "INFINITIVE": [
+      "messeoir"
+    ],
     "RADICAL": {
       "frappe": "ME/S",
       "radical": "mess"
@@ -3526,10 +3501,9 @@
     "REGEX": [
       "mourir"
     ],
-    "INFINITIVE": {
-      "frappe": "MOU/RIl",
-      "infinitif": "mourir"
-    },
+    "INFINITIVE": [
+      "mourir"
+    ],
     "RADICAL": {
       "frappe": "M",
       "radical": "m"
@@ -3765,10 +3739,9 @@
     "REGEX": [
       "mouvoir"
     ],
-    "INFINITIVE": {
-      "frappe": "MOU/F*OIl",
-      "infinitif": "mouvoir"
-    },
+    "INFINITIVE": [
+      "mouvoir"
+    ],
     "RADICAL": {
       "frappe": "M",
       "radical": "m"
@@ -4012,10 +3985,9 @@
     "REGEX": [
       "ouïr"
     ],
-    "INFINITIVE": {
-      "frappe": "OUIl",
-      "infinitif": "ouïr"
-    },
+    "INFINITIVE": [
+      "ouïr"
+    ],
     "RADICAL": {
       "frappe": "O",
       "radical": "o"
@@ -4307,10 +4279,9 @@
     "REGEX": [
       "partir"
     ],
-    "INFINITIVE": {
-      "frappe": "PAl/TIl",
-      "infinitif": "partir"
-    },
+    "INFINITIVE": [
+      "partir"
+    ],
     "RADICAL": {
       "frappe": "PAl",
       "radical": "par"
@@ -4546,10 +4517,9 @@
     "REGEX": [
       "pouvoir"
     ],
-    "INFINITIVE": {
-      "frappe": "POU/F*OIl",
-      "infinitif": "pouvoir"
-    },
+    "INFINITIVE": [
+      "pouvoir"
+    ],
     "RADICAL": {
       "frappe": "P",
       "radical": "p"
@@ -4772,10 +4742,9 @@
     "REGEX": [
       "prévaloir"
     ],
-    "INFINITIVE": {
-      "frappe": "PRE/F*A/LOIl",
-      "infinitif": "prévaloir"
-    },
+    "INFINITIVE": [
+      "prévaloir"
+    ],
     "RADICAL": {
       "frappe": "PRE/F*A",
       "radical": "préva"
@@ -5011,10 +4980,9 @@
     "REGEX": [
       "prévoir"
     ],
-    "INFINITIVE": {
-      "frappe": "PRE/F*OIl",
-      "infinitif": "prévoir"
-    },
+    "INFINITIVE": [
+      "prévoir"
+    ],
     "RADICAL": {
       "frappe": "PRE/F*",
       "radical": "prév"
@@ -5250,10 +5218,9 @@
     "REGEX": [
       "rassir"
     ],
-    "INFINITIVE": {
-      "frappe": "RA/SIl",
-      "infinitif": "rassir"
-    },
+    "INFINITIVE": [
+      "rassir"
+    ],
     "RADICAL": {
       "frappe": "RA/S",
       "radical": "rass"
@@ -5296,10 +5263,9 @@
     "REGEX": [
       "repentir"
     ],
-    "INFINITIVE": {
-      "frappe": "R/PAn/TIl",
-      "infinitif": "repentir"
-    },
+    "INFINITIVE": [
+      "repentir"
+    ],
     "RADICAL": {
       "frappe": "R/PAn",
       "radical": "repen"
@@ -5538,10 +5504,9 @@
       ".*sentir",
       ".*partir"
     ],
-    "INFINITIVE": {
-      "frappe": "R/SOl/TIl",
-      "infinitif": "ressortir"
-    },
+    "INFINITIVE": [
+      "ressortir"
+    ],
     "RADICAL": {
       "frappe": "R/SOl",
       "radical": "ressor"
@@ -5777,10 +5742,9 @@
     "REGEX": [
       "revaloir"
     ],
-    "INFINITIVE": {
-      "frappe": "R/F*A/LOIl",
-      "infinitif": "revaloir"
-    },
+    "INFINITIVE": [
+      "revaloir"
+    ],
     "RADICAL": {
       "frappe": "R/F*A",
       "radical": "reva"
@@ -5856,10 +5820,9 @@
     "REGEX": [
       "saillir"
     ],
-    "INFINITIVE": {
-      "frappe": "SA/YIl",
-      "infinitif": "saillir"
-    },
+    "INFINITIVE": [
+      "saillir"
+    ],
     "RADICAL": {
       "frappe": "SA/Y",
       "radical": "saill"
@@ -5978,10 +5941,9 @@
     "REGEX": [
       "sortir"
     ],
-    "INFINITIVE": {
-      "frappe": "SOl/TIl",
-      "infinitif": "sortir"
-    },
+    "INFINITIVE": [
+      "sortir"
+    ],
     "RADICAL": {
       "frappe": "SOl",
       "radical": "sor"
@@ -6217,10 +6179,9 @@
     "REGEX": [
       "surseoir"
     ],
-    "INFINITIVE": {
-      "frappe": "SUl/SOIl",
-      "infinitif": "surseoir"
-    },
+    "INFINITIVE": [
+      "surseoir"
+    ],
     "RADICAL": {
       "frappe": "SUl/S",
       "radical": "surs"
@@ -6456,10 +6417,9 @@
     "REGEX": [
       "vêtir"
     ],
-    "INFINITIVE": {
-      "frappe": "F*E/TIl",
-      "infinitif": "vêtir"
-    },
+    "INFINITIVE": [
+      "vêtir"
+    ],
     "RADICAL": {
       "frappe": "F*E",
       "radical": "vê"
@@ -6695,10 +6655,9 @@
     "REGEX": [
       "échoir"
     ],
-    "INFINITIVE": {
-      "frappe": "E/SKOIl",
-      "infinitif": "échoir"
-    },
+    "INFINITIVE": [
+      "échoir"
+    ],
     "RADICAL": {
       "frappe": "E/SK",
       "radical": "éch"
@@ -6833,10 +6792,9 @@
     "REGEX": [
       ".*asseoir"
     ],
-    "INFINITIVE": {
-      "frappe": "A/SOIl",
-      "infinitif": "asseoir"
-    },
+    "INFINITIVE": [
+      "asseoir"
+    ],
     "RADICAL": {
       "frappe": "A/S",
       "radical": "ass"
@@ -7208,10 +7166,9 @@
     "REGEX": [
       ".*assoir"
     ],
-    "INFINITIVE": {
-      "frappe": "A/SOIl",
-      "infinitif": "assoir"
-    },
+    "INFINITIVE": [
+      "assoir"
+    ],
     "RADICAL": {
       "frappe": "A/S",
       "radical": "ass"
@@ -7447,10 +7404,9 @@
     "REGEX": [
       ".*bouillir"
     ],
-    "INFINITIVE": {
-      "frappe": "BOU/YIl",
-      "infinitif": "bouillir"
-    },
+    "INFINITIVE": [
+      "bouillir"
+    ],
     "RADICAL": {
       "frappe": "BOU",
       "radical": "bou"
@@ -7686,10 +7642,9 @@
     "REGEX": [
       ".*cevoir"
     ],
-    "INFINITIVE": {
-      "frappe": "R/S/F*OIl",
-      "infinitif": "recevoir"
-    },
+    "INFINITIVE": [
+      "recevoir"
+    ],
     "RADICAL": {
       "frappe": "R",
       "radical": "re"
@@ -7925,10 +7880,9 @@
     "REGEX": [
       ".*courir"
     ],
-    "INFINITIVE": {
-      "frappe": "KOU/RIl",
-      "infinitif": "courir"
-    },
+    "INFINITIVE": [
+      "courir"
+    ],
     "RADICAL": {
       "frappe": "KOU/R",
       "radical": "cour"
@@ -8164,10 +8118,9 @@
     "REGEX": [
       ".*cueillir"
     ],
-    "INFINITIVE": {
-      "frappe": "K/YIl",
-      "infinitif": "cueillir"
-    },
+    "INFINITIVE": [
+      "cueillir"
+    ],
     "RADICAL": {
       "frappe": "K/Y",
       "radical": "cueill"
@@ -8403,10 +8356,9 @@
     "REGEX": [
       ".*devoir"
     ],
-    "INFINITIVE": {
-      "frappe": "T*/F*OIl",
-      "infinitif": "devoir"
-    },
+    "INFINITIVE": [
+      "devoir"
+    ],
     "RADICAL": {
       "frappe": "D",
       "radical": "d"
@@ -8643,10 +8595,9 @@
       ".*endormir",
       "redormir"
     ],
-    "INFINITIVE": {
-      "frappe": "An/T*Ol/MIl",
-      "infinitif": "endormir"
-    },
+    "INFINITIVE": [
+      "endormir"
+    ],
     "RADICAL": {
       "frappe": "An/T*Ol",
       "radical": "endor"
@@ -8882,10 +8833,9 @@
     "REGEX": [
       ".*dormir"
     ],
-    "INFINITIVE": {
-      "frappe": "T*Ol/MIl",
-      "infinitif": "dormir"
-    },
+    "INFINITIVE": [
+      "dormir"
+    ],
     "RADICAL": {
       "frappe": "T*OUl",
       "radical": "dor"
@@ -9121,10 +9071,9 @@
     "REGEX": [
       ".*fuir"
     ],
-    "INFINITIVE": {
-      "frappe": "FUIl",
-      "infinitif": "fuir"
-    },
+    "INFINITIVE": [
+      "fuir"
+    ],
     "RADICAL": {
       "frappe": "FU",
       "radical": "fu"
@@ -9360,10 +9309,9 @@
     "REGEX": [
       ".*haïr"
     ],
-    "INFINITIVE": {
-      "frappe": "A/Il",
-      "infinitif": "haïr"
-    },
+    "INFINITIVE": [
+      "haïr"
+    ],
     "RADICAL": {
       "frappe": "A",
       "radical": "ha"
@@ -9599,10 +9547,9 @@
     "REGEX": [
       ".*mouvoir"
     ],
-    "INFINITIVE": {
-      "frappe": "PRO/MOU/F*OIl",
-      "infinitif": "promouvoir"
-    },
+    "INFINITIVE": [
+      "promouvoir"
+    ],
     "RADICAL": {
       "frappe": "PRO/M",
       "radical": "prom"
@@ -9839,10 +9786,9 @@
       ".*ouvrir",
       ".*frir"
     ],
-    "INFINITIVE": {
-      "frappe": "OU/F*RIl",
-      "infinitif": "ouvrir"
-    },
+    "INFINITIVE": [
+      "ouvrir"
+    ],
     "RADICAL": {
       "frappe": "OU/F*",
       "radical": "ouv"
@@ -10078,10 +10024,9 @@
     "REGEX": [
       ".*pleuvoir"
     ],
-    "INFINITIVE": {
-      "frappe": "PL/F*OIl",
-      "infinitif": "pleuvoir"
-    },
+    "INFINITIVE": [
+      "pleuvoir"
+    ],
     "RADICAL": {
       "frappe": "PL",
       "radical": "pl"
@@ -10164,10 +10109,9 @@
     "REGEX": [
       ".*pourvoir"
     ],
-    "INFINITIVE": {
-      "frappe": "POUl/F*OIl",
-      "infinitif": "pourvoir"
-    },
+    "INFINITIVE": [
+      "pourvoir"
+    ],
     "RADICAL": {
       "frappe": "POUl/F*",
       "radical": "pourv"
@@ -10403,10 +10347,9 @@
     "REGEX": [
       ".*quérir"
     ],
-    "INFINITIVE": {
-      "frappe": "KE/RIl",
-      "infinitif": "quérir"
-    },
+    "INFINITIVE": [
+      "quérir"
+    ],
     "RADICAL": {
       "frappe": "K",
       "radical": "qu"
@@ -10642,10 +10585,9 @@
     "REGEX": [
       ".*saillir"
     ],
-    "INFINITIVE": {
-      "frappe": "A/SA/YIl",
-      "infinitif": "assaillir"
-    },
+    "INFINITIVE": [
+      "assaillir"
+    ],
     "RADICAL": {
       "frappe": "A/SA/Y",
       "radical": "assaill"
@@ -10881,10 +10823,9 @@
     "REGEX": [
       ".*savoir"
     ],
-    "INFINITIVE": {
-      "frappe": "SA/F*OIl",
-      "infinitif": "savoir"
-    },
+    "INFINITIVE": [
+      "savoir"
+    ],
     "RADICAL": {
       "frappe": "S",
       "radical": "s"
@@ -11120,10 +11061,9 @@
     "REGEX": [
       ".*seoir"
     ],
-    "INFINITIVE": {
-      "frappe": "SOIl",
-      "infinitif": "seoir"
-    },
+    "INFINITIVE": [
+      "seoir"
+    ],
     "RADICAL": {
       "frappe": "S",
       "radical": "s"
@@ -11220,10 +11160,9 @@
     "REGEX": [
       ".*servir"
     ],
-    "INFINITIVE": {
-      "frappe": "SEl/F*Il",
-      "infinitif": "servir"
-    },
+    "INFINITIVE": [
+      "servir"
+    ],
     "RADICAL": {
       "frappe": "SEl",
       "radical": "ser"
@@ -11459,10 +11398,9 @@
     "REGEX": [
       ".*valoir"
     ],
-    "INFINITIVE": {
-      "frappe": "F*A/LOIl",
-      "infinitif": "valoir"
-    },
+    "INFINITIVE": [
+      "valoir"
+    ],
     "RADICAL": {
       "frappe": "F*A",
       "radical": "va"
@@ -11698,10 +11636,9 @@
     "REGEX": [
       ".*venir"
     ],
-    "INFINITIVE": {
-      "frappe": "F*/NIl",
-      "infinitif": "venir"
-    },
+    "INFINITIVE": [
+      "venir"
+    ],
     "RADICAL": {
       "frappe": "F*",
       "radical": "v"
@@ -11937,10 +11874,9 @@
     "REGEX": [
       ".*vouloir"
     ],
-    "INFINITIVE": {
-      "frappe": "F*OU/LOIl",
-      "infinitif": "vouloir"
-    },
+    "INFINITIVE": [
+      "vouloir"
+    ],
     "RADICAL": {
       "frappe": "F*",
       "radical": "v"
@@ -12189,10 +12125,9 @@
       ".*voir",
       ".*oir"
     ],
-    "INFINITIVE": {
-      "frappe": "F*OIl",
-      "infinitif": "voir"
-    },
+    "INFINITIVE": [
+      "voir"
+    ],
     "RADICAL": {
       "frappe": "F*",
       "radical": "v"
@@ -12428,10 +12363,9 @@
     "REGEX": [
       ".*vêtir"
     ],
-    "INFINITIVE": {
-      "frappe": "T*E/F*E/TIl",
-      "infinitif": "dévêtir"
-    },
+    "INFINITIVE": [
+      "dévêtir"
+    ],
     "RADICAL": {
       "frappe": "T*E/F*E",
       "radical": "dévê"
@@ -12667,10 +12601,9 @@
     "REGEX": [
       ".*ir"
     ],
-    "INFINITIVE": {
-      "frappe": "FI/NIl",
-      "infinitif": "finir"
-    },
+    "INFINITIVE": [
+      "finir"
+    ],
     "RADICAL": {
       "frappe": "FI/N",
       "radical": "fin"
@@ -12906,10 +12839,9 @@
     "REGEX": [
       "acariâtre"
     ],
-    "INFINITIVE": {
-      "frappe": "A/KA/RYA/TR",
-      "infinitif": "acariâtre"
-    },
+    "INFINITIVE": [
+      "acariâtre"
+    ],
     "RADICAL": {
       "frappe": "A/KA/RYA",
       "radical": "acariâ"
@@ -13149,10 +13081,9 @@
       "mécroire",
       "méfaire"
     ],
-    "INFINITIVE": {
-      "frappe": "A/KROIl",
-      "infinitif": "accroire"
-    },
+    "INFINITIVE": [
+      "accroire"
+    ],
     "RADICAL": {
       "frappe": "A/KROI",
       "radical": "accroi"
@@ -13178,10 +13109,9 @@
     "REGEX": [
       "braire"
     ],
-    "INFINITIVE": {
-      "frappe": "BRÈl",
-      "infinitif": "braire"
-    },
+    "INFINITIVE": [
+      "braire"
+    ],
     "RADICAL": {
       "frappe": "BRA",
       "radical": "bra"
@@ -13234,10 +13164,9 @@
     "REGEX": [
       "bruire"
     ],
-    "INFINITIVE": {
-      "frappe": "BRUIl",
-      "infinitif": "bruire"
-    },
+    "INFINITIVE": [
+      "bruire"
+    ],
     "RADICAL": {
       "frappe": "BRU",
       "radical": "bru"
@@ -13312,10 +13241,9 @@
     "REGEX": [
       "circoncire"
     ],
-    "INFINITIVE": {
-      "frappe": "SIl/KOn/SIl",
-      "infinitif": "circoncire"
-    },
+    "INFINITIVE": [
+      "circoncire"
+    ],
     "RADICAL": {
       "frappe": "SIl/KOn/S",
       "radical": "circonc"
@@ -13551,10 +13479,9 @@
     "REGEX": [
       "croître"
     ],
-    "INFINITIVE": {
-      "frappe": "KROI/TR",
-      "infinitif": "croître"
-    },
+    "INFINITIVE": [
+      "croître"
+    ],
     "RADICAL": {
       "frappe": "KR",
       "radical": "cr"
@@ -13790,10 +13717,9 @@
     "REGEX": [
       "déclore"
     ],
-    "INFINITIVE": {
-      "frappe": "T*E/KLOl",
-      "infinitif": "déclore"
-    },
+    "INFINITIVE": [
+      "déclore"
+    ],
     "RADICAL": {
       "frappe": "T*E/KL",
       "radical": "décl"
@@ -13836,10 +13762,9 @@
     "REGEX": [
       "embatre"
     ],
-    "INFINITIVE": {
-      "frappe": "An/BA/TR",
-      "infinitif": "embatre"
-    },
+    "INFINITIVE": [
+      "embatre"
+    ],
     "RADICAL": {
       "frappe": "An/BA",
       "radical": "emba"
@@ -14071,10 +13996,9 @@
     "REGEX": [
       "enclore"
     ],
-    "INFINITIVE": {
-      "frappe": "An/KLOl",
-      "infinitif": "enclore"
-    },
+    "INFINITIVE": [
+      "enclore"
+    ],
     "RADICAL": {
       "frappe": "An/KL",
       "radical": "encl"
@@ -14235,10 +14159,9 @@
     "REGEX": [
       "ensuivre"
     ],
-    "INFINITIVE": {
-      "frappe": "An/SUI/F*R",
-      "infinitif": "ensuivre"
-    },
+    "INFINITIVE": [
+      "ensuivre"
+    ],
     "RADICAL": {
       "frappe": "An/SUI",
       "radical": "ensui"
@@ -14349,10 +14272,9 @@
     "REGEX": [
       "forclore"
     ],
-    "INFINITIVE": {
-      "frappe": "FOl/KLOl",
-      "infinitif": "forclore"
-    },
+    "INFINITIVE": [
+      "forclore"
+    ],
     "RADICAL": {
       "frappe": "FOl/KL",
       "radical": "forcl"
@@ -14396,10 +14318,9 @@
       "forfaire",
       "surfaire"
     ],
-    "INFINITIVE": {
-      "frappe": "FOl/FÈl",
-      "infinitif": "forfaire"
-    },
+    "INFINITIVE": [
+      "forfaire"
+    ],
     "RADICAL": {
       "frappe": "FOl/F",
       "radical": "forf"
@@ -14455,10 +14376,9 @@
     "REGEX": [
       "frire"
     ],
-    "INFINITIVE": {
-      "frappe": "FRIl",
-      "infinitif": "frire"
-    },
+    "INFINITIVE": [
+      "frire"
+    ],
     "RADICAL": {
       "frappe": "FR",
       "radical": "fr"
@@ -14570,10 +14490,9 @@
       "inclure",
       "occlure"
     ],
-    "INFINITIVE": {
-      "frappe": "In/KLUl",
-      "infinitif": "inclure"
-    },
+    "INFINITIVE": [
+      "inclure"
+    ],
     "RADICAL": {
       "frappe": "In/KL",
       "radical": "incl"
@@ -14809,10 +14728,9 @@
     "REGEX": [
       "maudire"
     ],
-    "INFINITIVE": {
-      "frappe": "MO/T*Il",
-      "infinitif": "maudire"
-    },
+    "INFINITIVE": [
+      "maudire"
+    ],
     "RADICAL": {
       "frappe": "MO/T*",
       "radical": "maud"
@@ -15048,10 +14966,9 @@
     "REGEX": [
       "occire"
     ],
-    "INFINITIVE": {
-      "frappe": "OC/SIl",
-      "infinitif": "occire"
-    },
+    "INFINITIVE": [
+      "occire"
+    ],
     "RADICAL": {
       "frappe": "OC/SI",
       "radical": "occi"
@@ -15094,10 +15011,9 @@
     "REGEX": [
       "oindre"
     ],
-    "INFINITIVE": {
-      "frappe": "OIn/T*R",
-      "infinitif": "oindre"
-    },
+    "INFINITIVE": [
+      "oindre"
+    ],
     "RADICAL": {
       "frappe": "OI",
       "radical": "oi"
@@ -15170,10 +15086,9 @@
     "REGEX": [
       "parfaire"
     ],
-    "INFINITIVE": {
-      "frappe": "PAl/FÈl",
-      "infinitif": "parfaire"
-    },
+    "INFINITIVE": [
+      "parfaire"
+    ],
     "RADICAL": {
       "frappe": "PAl/F",
       "radical": "parf"
@@ -15241,10 +15156,9 @@
     "REGEX": [
       "paître"
     ],
-    "INFINITIVE": {
-      "frappe": "PÈ/TR",
-      "infinitif": "paître"
-    },
+    "INFINITIVE": [
+      "paître"
+    ],
     "RADICAL": {
       "frappe": "P",
       "radical": "p"
@@ -15430,10 +15344,9 @@
     "REGEX": [
       "poindre"
     ],
-    "INFINITIVE": {
-      "frappe": "POIn/T*R",
-      "infinitif": "poindre"
-    },
+    "INFINITIVE": [
+      "poindre"
+    ],
     "RADICAL": {
       "frappe": "POI",
       "radical": "poi"
@@ -15484,10 +15397,9 @@
     "REGEX": [
       "raire"
     ],
-    "INFINITIVE": {
-      "frappe": "RÈl",
-      "infinitif": "raire"
-    },
+    "INFINITIVE": [
+      "raire"
+    ],
     "RADICAL": {
       "frappe": "RA",
       "radical": "ra"
@@ -15580,10 +15492,9 @@
     "REGEX": [
       "reclure"
     ],
-    "INFINITIVE": {
-      "frappe": "R/KLUl",
-      "infinitif": "reclure"
-    },
+    "INFINITIVE": [
+      "reclure"
+    ],
     "RADICAL": {
       "frappe": "R/KL",
       "radical": "recl"
@@ -15626,10 +15537,9 @@
     "REGEX": [
       "recroître"
     ],
-    "INFINITIVE": {
-      "frappe": "R/KROI/TR",
-      "infinitif": "recroître"
-    },
+    "INFINITIVE": [
+      "recroître"
+    ],
     "RADICAL": {
       "frappe": "R/KR",
       "radical": "recr"
@@ -15865,10 +15775,9 @@
     "REGEX": [
       "renaître"
     ],
-    "INFINITIVE": {
-      "frappe": "R/NÈ/TR",
-      "infinitif": "renaître"
-    },
+    "INFINITIVE": [
+      "renaître"
+    ],
     "RADICAL": {
       "frappe": "R/N",
       "radical": "ren"
@@ -16087,10 +15996,9 @@
     "REGEX": [
       "repaître"
     ],
-    "INFINITIVE": {
-      "frappe": "R/PÈ/TR",
-      "infinitif": "repaître"
-    },
+    "INFINITIVE": [
+      "repaître"
+    ],
     "RADICAL": {
       "frappe": "R/P",
       "radical": "rep"
@@ -16326,10 +16234,9 @@
     "REGEX": [
       "résoudre"
     ],
-    "INFINITIVE": {
-      "frappe": "RE/S*OU/T*R",
-      "infinitif": "résoudre"
-    },
+    "INFINITIVE": [
+      "résoudre"
+    ],
     "RADICAL": {
       "frappe": "RE/S*O",
       "radical": "réso"
@@ -16565,10 +16472,9 @@
     "REGEX": [
       "sourdre"
     ],
-    "INFINITIVE": {
-      "frappe": "SOUl/T*R",
-      "infinitif": "sourdre"
-    },
+    "INFINITIVE": [
+      "sourdre"
+    ],
     "RADICAL": {
       "frappe": "SOUl",
       "radical": "sour"
@@ -16612,10 +16518,9 @@
     "REGEX": [
       "stupéfaire"
     ],
-    "INFINITIVE": {
-      "frappe": "STU/PE/FÈl",
-      "infinitif": "stupéfaire"
-    },
+    "INFINITIVE": [
+      "stupéfaire"
+    ],
     "RADICAL": {
       "frappe": "STU/PE/F",
       "radical": "stupéf"
@@ -16663,10 +16568,9 @@
     "REGEX": [
       "suffire"
     ],
-    "INFINITIVE": {
-      "frappe": "SU/FIl",
-      "infinitif": "suffire"
-    },
+    "INFINITIVE": [
+      "suffire"
+    ],
     "RADICAL": {
       "frappe": "SU/F",
       "radical": "suff"
@@ -16902,10 +16806,9 @@
     "REGEX": [
       "taire"
     ],
-    "INFINITIVE": {
-      "frappe": "TÈl",
-      "infinitif": "taire"
-    },
+    "INFINITIVE": [
+      "taire"
+    ],
     "RADICAL": {
       "frappe": "T",
       "radical": "t"
@@ -17141,10 +17044,9 @@
     "REGEX": [
       "tistre"
     ],
-    "INFINITIVE": {
-      "frappe": "TI$/TR",
-      "infinitif": "tistre"
-    },
+    "INFINITIVE": [
+      "tistre"
+    ],
     "RADICAL": {
       "frappe": "TI$",
       "radical": "tis"
@@ -17187,10 +17089,9 @@
     "REGEX": [
       "éclore"
     ],
-    "INFINITIVE": {
-      "frappe": "E/KLOl",
-      "infinitif": "éclore"
-    },
+    "INFINITIVE": [
+      "éclore"
+    ],
     "RADICAL": {
       "frappe": "E/KL",
       "radical": "écl"
@@ -17274,10 +17175,9 @@
     "REGEX": [
       "être"
     ],
-    "INFINITIVE": {
-      "frappe": "E/TR",
-      "infinitif": "être"
-    },
+    "INFINITIVE": [
+      "être"
+    ],
     "ENDING": [
       "être"
     ],
@@ -17509,10 +17409,9 @@
     "REGEX": [
       ".*aindre"
     ],
-    "INFINITIVE": {
-      "frappe": "In/T*R",
-      "infinitif": "aindre"
-    },
+    "INFINITIVE": [
+      "aindre"
+    ],
     "RADICAL": {
       "frappe": "È",
       "radical": "ai"
@@ -17748,10 +17647,9 @@
     "REGEX": [
       ".*battre"
     ],
-    "INFINITIVE": {
-      "frappe": "BA/TR",
-      "infinitif": "battre"
-    },
+    "INFINITIVE": [
+      "battre"
+    ],
     "RADICAL": {
       "frappe": "BA",
       "radical": "ba"
@@ -17988,10 +17886,9 @@
       ".*iendre",
       ".*eindre"
     ],
-    "INFINITIVE": {
-      "frappe": "YAn/T*R",
-      "infinitif": "iendre"
-    },
+    "INFINITIVE": [
+      "iendre"
+    ],
     "RADICAL": {
       "frappe": "Y",
       "radical": "ie"
@@ -18227,10 +18124,9 @@
     "REGEX": [
       ".*prendre"
     ],
-    "INFINITIVE": {
-      "frappe": "PRAn/T*R",
-      "infinitif": "prendre"
-    },
+    "INFINITIVE": [
+      "prendre"
+    ],
     "RADICAL": {
       "frappe": "PR",
       "radical": "pr"
@@ -18471,10 +18367,9 @@
       ".*ordre",
       ".*eurdre"
     ],
-    "INFINITIVE": {
-      "frappe": "RE/PAn/T*R",
-      "infinitif": "répandre"
-    },
+    "INFINITIVE": [
+      "répandre"
+    ],
     "RADICAL": {
       "frappe": "RE/PAn",
       "radical": "répan"
@@ -18710,10 +18605,9 @@
     "REGEX": [
       ".*boire"
     ],
-    "INFINITIVE": {
-      "frappe": "BOIl",
-      "infinitif": "boire"
-    },
+    "INFINITIVE": [
+      "boire"
+    ],
     "RADICAL": {
       "frappe": "B",
       "radical": "b"
@@ -18949,10 +18843,9 @@
     "REGEX": [
       ".*clore"
     ],
-    "INFINITIVE": {
-      "frappe": "KLOl",
-      "infinitif": "clore"
-    },
+    "INFINITIVE": [
+      "clore"
+    ],
     "RADICAL": {
       "frappe": "KL",
       "radical": "cl"
@@ -19097,10 +18990,9 @@
     "REGEX": [
       ".*clure"
     ],
-    "INFINITIVE": {
-      "frappe": "KLUl",
-      "infinitif": "clure"
-    },
+    "INFINITIVE": [
+      "clure"
+    ],
     "RADICAL": {
       "frappe": "KL",
       "radical": "cl"
@@ -19336,10 +19228,9 @@
     "REGEX": [
       ".*confire"
     ],
-    "INFINITIVE": {
-      "frappe": "KOn/FIl",
-      "infinitif": "confire"
-    },
+    "INFINITIVE": [
+      "confire"
+    ],
     "RADICAL": {
       "frappe": "KOn/F",
       "radical": "conf"
@@ -19576,10 +19467,9 @@
       ".*connaître",
       ".*paraître"
     ],
-    "INFINITIVE": {
-      "frappe": "KO/NÈ/TR",
-      "infinitif": "connaître"
-    },
+    "INFINITIVE": [
+      "connaître"
+    ],
     "RADICAL": {
       "frappe": "KO/N",
       "radical": "conn"
@@ -19815,10 +19705,9 @@
     "REGEX": [
       ".*coudre"
     ],
-    "INFINITIVE": {
-      "frappe": "KOU/T*R",
-      "infinitif": "coudre"
-    },
+    "INFINITIVE": [
+      "coudre"
+    ],
     "RADICAL": {
       "frappe": "KOU",
       "radical": "cou"
@@ -20054,10 +19943,9 @@
     "REGEX": [
       ".*crire"
     ],
-    "INFINITIVE": {
-      "frappe": "KRIl",
-      "infinitif": "crire"
-    },
+    "INFINITIVE": [
+      "crire"
+    ],
     "RADICAL": {
       "frappe": "KRI",
       "radical": "cri"
@@ -20293,10 +20181,9 @@
     "REGEX": [
       ".*croire"
     ],
-    "INFINITIVE": {
-      "frappe": "KROIl",
-      "infinitif": "croire"
-    },
+    "INFINITIVE": [
+      "croire"
+    ],
     "RADICAL": {
       "frappe": "KR",
       "radical": "cr"
@@ -20532,10 +20419,9 @@
     "REGEX": [
       ".*croître"
     ],
-    "INFINITIVE": {
-      "frappe": "A/KROI/TR",
-      "infinitif": "accroître"
-    },
+    "INFINITIVE": [
+      "accroître"
+    ],
     "RADICAL": {
       "frappe": "A/KR",
       "radical": "accr"
@@ -20768,10 +20654,9 @@
       "dire",
       "redire"
     ],
-    "INFINITIVE": {
-      "frappe": "T*Il",
-      "infinitif": "dire"
-    },
+    "INFINITIVE": [
+      "dire"
+    ],
     "RADICAL": {
       "frappe": "D",
       "radical": "d"
@@ -21007,10 +20892,9 @@
     "REGEX": [
       ".*dire"
     ],
-    "INFINITIVE": {
-      "frappe": "In/TEl/T*Il",
-      "infinitif": "interdire"
-    },
+    "INFINITIVE": [
+      "interdire"
+    ],
     "RADICAL": {
       "frappe": "Il/TEl/T*",
       "radical": "interd"
@@ -21246,10 +21130,9 @@
     "REGEX": [
       ".*faire"
     ],
-    "INFINITIVE": {
-      "frappe": "FÈl",
-      "infinitif": "faire"
-    },
+    "INFINITIVE": [
+      "faire"
+    ],
     "RADICAL": {
       "frappe": "F",
       "radical": "f"
@@ -21485,10 +21368,9 @@
     "REGEX": [
       ".*foutre"
     ],
-    "INFINITIVE": {
-      "frappe": "FOU/TR",
-      "infinitif": "foutre"
-    },
+    "INFINITIVE": [
+      "foutre"
+    ],
     "RADICAL": {
       "frappe": "FOU",
       "radical": "fou"
@@ -21724,10 +21606,9 @@
     "REGEX": [
       ".*lire"
     ],
-    "INFINITIVE": {
-      "frappe": "LIl",
-      "infinitif": "lire"
-    },
+    "INFINITIVE": [
+      "lire"
+    ],
     "RADICAL": {
       "frappe": "L",
       "radical": "l"
@@ -21963,10 +21844,9 @@
     "REGEX": [
       ".*luire"
     ],
-    "INFINITIVE": {
-      "frappe": "LUIl",
-      "infinitif": "luire"
-    },
+    "INFINITIVE": [
+      "luire"
+    ],
     "RADICAL": {
       "frappe": "LU",
       "radical": "lu"
@@ -22226,10 +22106,9 @@
     "REGEX": [
       ".*mettre"
     ],
-    "INFINITIVE": {
-      "frappe": "ME/TR",
-      "infinitif": "mettre"
-    },
+    "INFINITIVE": [
+      "mettre"
+    ],
     "RADICAL": {
       "frappe": "M",
       "radical": "m"
@@ -22465,10 +22344,9 @@
     "REGEX": [
       ".*moudre"
     ],
-    "INFINITIVE": {
-      "frappe": "MOU/T*R",
-      "infinitif": "moudre"
-    },
+    "INFINITIVE": [
+      "moudre"
+    ],
     "RADICAL": {
       "frappe": "MOU",
       "radical": "mou"
@@ -22704,10 +22582,9 @@
     "REGEX": [
       ".*naître"
     ],
-    "INFINITIVE": {
-      "frappe": "NÈ/TR",
-      "infinitif": "naître"
-    },
+    "INFINITIVE": [
+      "naître"
+    ],
     "RADICAL": {
       "frappe": "N",
       "radical": "n"
@@ -22943,10 +22820,9 @@
     "REGEX": [
       ".*oindre"
     ],
-    "INFINITIVE": {
-      "frappe": "YOIn/T*R",
-      "infinitif": "joindre"
-    },
+    "INFINITIVE": [
+      "joindre"
+    ],
     "RADICAL": {
       "frappe": "YOI",
       "radical": "joi"
@@ -23182,10 +23058,9 @@
     "REGEX": [
       ".*ompre"
     ],
-    "INFINITIVE": {
-      "frappe": "On/PR",
-      "infinitif": "ompre"
-    },
+    "INFINITIVE": [
+      "ompre"
+    ],
     "RADICAL": {
       "frappe": "On",
       "radical": "om"
@@ -23421,10 +23296,9 @@
     "REGEX": [
       ".*oître"
     ],
-    "INFINITIVE": {
-      "frappe": "KLOI/TR",
-      "infinitif": "cloître"
-    },
+    "INFINITIVE": [
+      "cloître"
+    ],
     "RADICAL": {
       "frappe": "KL",
       "radical": "cl"
@@ -23660,10 +23534,9 @@
     "REGEX": [
       ".*plaire"
     ],
-    "INFINITIVE": {
-      "frappe": "PLÈl",
-      "infinitif": "plaire"
-    },
+    "INFINITIVE": [
+      "plaire"
+    ],
     "RADICAL": {
       "frappe": "PL",
       "radical": "pl"
@@ -23903,10 +23776,9 @@
     "REGEX": [
       ".*raire"
     ],
-    "INFINITIVE": {
-      "frappe": "BRÈl",
-      "infinitif": "braire"
-    },
+    "INFINITIVE": [
+      "braire"
+    ],
     "RADICAL": {
       "frappe": "BRA",
       "radical": "bra"
@@ -24092,10 +23964,9 @@
     "REGEX": [
       ".*rire"
     ],
-    "INFINITIVE": {
-      "frappe": "RIl",
-      "infinitif": "rire"
-    },
+    "INFINITIVE": [
+      "rire"
+    ],
     "RADICAL": {
       "frappe": "R",
       "radical": "r"
@@ -24331,10 +24202,9 @@
     "REGEX": [
       ".*soudre"
     ],
-    "INFINITIVE": {
-      "frappe": "SOU/T*R",
-      "infinitif": "soudre"
-    },
+    "INFINITIVE": [
+      "soudre"
+    ],
     "RADICAL": {
       "frappe": "SO",
       "radical": "so"
@@ -24536,10 +24406,9 @@
     "REGEX": [
       ".*suivre"
     ],
-    "INFINITIVE": {
-      "frappe": "SUI/F*l",
-      "infinitif": "suivre"
-    },
+    "INFINITIVE": [
+      "suivre"
+    ],
     "RADICAL": {
       "frappe": "SUI",
       "radical": "sui"
@@ -24775,10 +24644,9 @@
     "REGEX": [
       ".*uire"
     ],
-    "INFINITIVE": {
-      "frappe": "UIl",
-      "infinitif": "uire"
-    },
+    "INFINITIVE": [
+      "uire"
+    ],
     "RADICAL": {
       "frappe": "UI",
       "radical": "ui"
@@ -25014,10 +24882,9 @@
     "REGEX": [
       ".*vaincre"
     ],
-    "INFINITIVE": {
-      "frappe": "F*In/KR",
-      "infinitif": "vaincre"
-    },
+    "INFINITIVE": [
+      "vaincre"
+    ],
     "RADICAL": {
       "frappe": "F*In",
       "radical": "vain"
@@ -25253,10 +25120,9 @@
     "REGEX": [
       ".*vivre"
     ],
-    "INFINITIVE": {
-      "frappe": "F*I/F*R",
-      "infinitif": "vivre"
-    },
+    "INFINITIVE": [
+      "vivre"
+    ],
     "RADICAL": {
       "frappe": "F*",
       "radical": "v"
