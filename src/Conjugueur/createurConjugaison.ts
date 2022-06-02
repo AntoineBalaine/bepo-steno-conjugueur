@@ -96,9 +96,12 @@ export const collapseStrokesWhenPossible = function (stroke: string) {
     const previousLettersInOrder = STENOORDER.slice(0, firstLetterOfNextIndex);
     const consonants = "S B K P M T F * R N L l n $ D C ".split(" ");
     if (
-      previousLettersInOrder.includes(lastLetter) &&
-      consonants.includes(lastLetter) &&
-      consonants.includes(firstLetterOfNext)
+      previousLettersInOrder.includes(lastLetter)
+      /*
+            &&
+            consonants.includes(lastLetter) &&
+            consonants.includes(firstLetterOfNext)
+      */
     ) {
       //newSyllables.push(syllables.splice())
       //col
