@@ -35,6 +35,7 @@ const monte3eGrpConjugué = modèleConjugaison3eGrpSansFrappes.forEach(
         if (terminaisonEtFrappe) {
           const infinitif = regexInfinitif[0];
           const frappeInfinitif = regexInfinitif[1];
+          listeTerminaisonsEtFrappes[frappeInfinitif] = infinitif;
           const terminaisonInfinitif = terminaisonEtFrappe[0];
           const frappeTerminaison = terminaisonEtFrappe[1];
           const radical = infinitif.replace(terminaisonInfinitif, "");
@@ -63,7 +64,8 @@ const monte3eGrpConjugué = modèleConjugaison3eGrpSansFrappes.forEach(
               const terminaisonEtFrappe = Object.entries(frappesTerminaisons3egrp).find(([terminaison, frappe]) => (terminaison === terminaisonTemps))
               if (terminaisonEtFrappe) {
                 const forme = radical + terminaisonTemps;
-                listeTerminaisonsEtFrappes[forme] = fixSténoOrder(radicalFrappe + terminaisonEtFrappe[1]);
+                const frappe = fixSténoOrder(radicalFrappe + terminaisonEtFrappe[1]);
+                listeTerminaisonsEtFrappes[frappe] = forme
               }
             })
           })
