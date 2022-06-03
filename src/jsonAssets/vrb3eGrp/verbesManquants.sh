@@ -5,15 +5,17 @@
 #   rentre les dans le fichier «infinitifs manquants»
 infinitifsFrappes=$(jq '.' "$1");
 #infinifsSansFrappes=$(jq '.[]' "$2")
-infinifsSansFrappes=$(jq '.[] | .ENDING[]' $2 | sort | uniq)
-mapfile -t myArray < <( echo "$infinifsSansFrappes")
+#infinifsSansFrappes=$(jq '.[] | .ENDING[]' $2 | sort | uniq)
+# mapfile -t myArray < <( echo "$infinifsSansFrappes")
 
-for item in "${myArray[@]}"; do
-if grep -Fq "$item" <(echo "$infinitifsFrappes"); then
-  echo found
-else
-# trouve si ces verbes ont une correspondance 
-echo unfound
-fi;
+readarray -t myArray < "$2"
 
-done
+# for item in "${myArray[@]}"; do
+# if grep -Fq "$item" <(echo "$infinitifsFrappes"); then
+#   echo found
+# else
+# # trouve si ces verbes ont une correspondance 
+# echo unfound
+# fi;
+
+# done
