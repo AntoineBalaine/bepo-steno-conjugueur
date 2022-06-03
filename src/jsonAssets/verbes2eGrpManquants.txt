@@ -1,0 +1,7 @@
+"A/MU/Il": "amuïr",
+"BO/NIl": "bonir",
+"An/TR/A/Il": "entre-haïr",
+"A/Il": "haïr",
+"OUl/T*Il": "hourdir",
+"RA/POIn/TIl": "rappointir",
+"R/SUl/YIl": "resurgir",
