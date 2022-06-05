@@ -1,4 +1,4 @@
-export const STENOORDER = "S B K P M T F * R N L Y O E A U È I l É n $ D C #".split(" ");
+export const STENOORDER = "S B K P M T F * R N L Y O E È A U I l É n $ D C #".split(" ");
 
 export enum modesNames {
   infinitif = "infinitif",
