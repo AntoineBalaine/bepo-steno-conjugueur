@@ -20,7 +20,8 @@
     "clésDupliquées": "npx ts-node src/scripts/removeUniqueKeys.ts",
     "testCLI": "npx ts-node src/scripts/testCommandLine.ts /home/antoine/Documents/Experiments/ploverBépo/bépo/plover_bepo/plover_bepo/dictionaries/commandes.json",
     "modèleConj3eGrp": "npx ts-node src/scripts/GénèreModèle3eGrp.ts",
-    "conjugue3eGrp": "npx ts-node src/scripts/GénèreConjugaison3eGrp.ts"
+    "conjugue3eGrp": "npx ts-node src/scripts/GénèreConjugaison3eGrp.ts",
+    "conjugue3eGrpPartiel": "npx ts-node src/scripts/GénèreConjugaison3eGrpPartielle.ts"
   },
   "author": "",
   "license": "ISC",
