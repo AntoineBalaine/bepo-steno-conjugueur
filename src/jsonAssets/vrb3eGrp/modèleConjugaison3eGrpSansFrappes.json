@@ -17,6 +17,23 @@
     "CONDITION": ["","","iendrait","","","iendraient"]
   },
   {
+    "REGEX": ["aller"],
+    "INFINITIVE": ["aller"],
+    "RADICAL": [""],
+    "ENDING": ["aller"],
+    "AUX": ["être"],
+    "PPRESENT": ["allant"],
+    "PPASSE": ["allé"],
+    "PRESENT": ["vais","vas","va","allons","allez","vont"],
+    "IMPARFAIT": ["allais", "allait", "allions", "alliez", "allaient"],
+    "PASSE": ["allai", "allas", "alla", "allâmes", "allâtes", "allèrent"],
+    "FUTUR": ["irai", "iras", "ira", "irons", "irez", "iront"],
+    "SPRESENT": ["aille", "ailles", "allions", "alliez", "aillent"],
+    "SIMPARFAIT": ["allasse", "allasses", "allât", "allassions", "allassiez", "allassent"],
+    "IMPERATIF": ["va", "allons", "allez"],
+    "CONDITION": ["irais", "irait", "irions", "iriez", "iraient"]
+  },
+  {
     "REGEX": ["apparoir"],
     "INFINITIVE": ["apparoir"],
     "RADICAL": ["app"],

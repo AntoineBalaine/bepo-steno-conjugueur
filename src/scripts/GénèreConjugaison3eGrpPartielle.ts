@@ -4,13 +4,7 @@ import {conjugueVrb3eGrp} from "../Conjugueur/createurTroisièmeGroupe";
 
 
 const Àtester = [
-  "apercevoir",
-  /*
-  "reconstruire",
-    "plaindre",
-    "redevenir",
-    "recevoir",
-  */
+  "aller",
 ]
 const KVÀtester = Object.fromEntries(
   Object.entries(infinitifs3eGrp)

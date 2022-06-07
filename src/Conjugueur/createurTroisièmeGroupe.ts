@@ -9,8 +9,8 @@ const removeLastInstance = (terminaison, str) => {
   return str.substring(0, charpos);
 };
 
-export const terminaisonEtFrappeVrb3eGrp = (modèle: modèleConj3eGrp, infinitifVerbe: [string, string]) => {
-  const listeTerminaisonsEtFrappes = {};
+export const frappeEtTerminaisonVrb3eGrp = (modèle: modèleConj3eGrp, infinitifVerbe: [string, string]) => {
+  const listeFrappesEtTerminaisons = {};
   const terminaisonEtFrappe = Object.entries(
     frappesTerminaisons3egrp
   ).find(
@@ -19,13 +19,16 @@ export const terminaisonEtFrappeVrb3eGrp = (modèle: modèleConj3eGrp, infinitif
   );
   if (terminaisonEtFrappe) {
     const infinitif = infinitifVerbe[0];
-    const frappeInfinitif = infinitifVerbe[1];
-    listeTerminaisonsEtFrappes[frappeInfinitif] = infinitif;
+    let frappeInfinitif = infinitifVerbe[1];
     const terminaisonInfinitif = terminaisonEtFrappe[0];
     const frappeTerminaison = terminaisonEtFrappe[1];
 
     const radical = removeLastInstance(terminaisonInfinitif, infinitif);
     const radicalFrappe = removeLastInstance(frappeTerminaison, frappeInfinitif);
+    if (infinitif === "aller") {
+      frappeInfinitif = "A/LEÉl"
+    }
+    listeFrappesEtTerminaisons[frappeInfinitif] = infinitif;
 
     const listeTemps = [
       "PPRESENT",
@@ -57,17 +60,17 @@ export const terminaisonEtFrappeVrb3eGrp = (modèle: modèleConj3eGrp, infinitif
           const frappe = fixSténoOrder(
             radicalFrappe + terminaisonEtFrappe[1]
           );
-          listeTerminaisonsEtFrappes[frappe] = forme;
+          listeFrappesEtTerminaisons[frappe] = forme;
         }
       });
     });
   }
-  return listeTerminaisonsEtFrappes;
+  return listeFrappesEtTerminaisons;
 };
 /**
  * Trouve le modèle de conjuguaison correspondant au verbe
  * passé en paramètre, et monte ses terminaisons et frappes avec
- * {@link terminaisonEtFrappeVrb3eGrp}
+ * {@link frappeEtTerminaisonVrb3eGrp}
  * */
 export const conjugueVrb3eGrp = ([infinitif, frappe]: [string, string]): {} => {
   /**
@@ -91,7 +94,7 @@ export const conjugueVrb3eGrp = ([infinitif, frappe]: [string, string]): {} => {
     }
   }
   if (matchingModel) {
-    return terminaisonEtFrappeVrb3eGrp(matchingModel, [infinitif, frappe] as [string, string])
+    return frappeEtTerminaisonVrb3eGrp(matchingModel, [infinitif, frappe] as [string, string])
   } else
     return {};
 };
